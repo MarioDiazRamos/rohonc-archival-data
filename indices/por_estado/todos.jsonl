@@ -4,7 +4,7 @@
 {"clave":"completo","ids":["cov:bibl1:metadatos","cov:bibl2:metadatos","cov:hursan2025:texto"]}
 {"clave":"completo_en_segmento","ids":["cov:bibl1:atlas","cov:bibl1:v"]}
 {"clave":"copia_obtenida","ids":["src:bibl1","src:bibl2","src:hursan2025"]}
-{"clave":"enlace_publico","ids":["src:carbo-study","src:catalogo1984","src:codice-k114-catalogo","src:csanak1959","src:hursan2020","src:hursan2022","src:jerney1844"]}
+{"clave":"enlace_publico","ids":["src:carbo-study","src:catalogo1984","src:codice-k114-catalogo","src:csanak1959","src:hursan2020","src:hursan2022","src:jerney1844","src:reali2216","src:realms80"]}
 {"clave":"identidad_no_demostrada","ids":["ni:sid41-k114"]}
 {"clave":"indice_paginacion","ids":["cov:bibl1:metadatos","cov:bibl2:metadatos"]}
 {"clave":"limite_seccion_latina_1063","ids":["cov:bibl2:latin"]}

@@ -19,6 +19,10 @@
 {"clave":"af:1840:referencia","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1844:223","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:catalogo:224","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:reali2216:papel","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:realms80:1838","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:realms80:224","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:realms80:dimensiones","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:signatura:antigua","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"cat:1743:viena","ids":["datos/catalogos/todos.jsonl"]}
 {"clave":"cat:1813:kisber","ids":["datos/catalogos/todos.jsonl"]}
@@ -108,6 +112,8 @@
 {"clave":"src:hursan2025","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:jerney1844","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:kurzweil1839","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:reali2216","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:realms80","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:toldy1839-mayo12","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:toldy1839-mayo20","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:toldy1846","ids":["datos/fuentes/todos.jsonl"]}

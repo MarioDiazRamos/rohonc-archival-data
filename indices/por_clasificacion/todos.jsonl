@@ -14,6 +14,7 @@
 {"clave":"comunicacion_publicada","ids":["src:jerney1844"]}
 {"clave":"custodiado_por","ids":["rel:1","rel:15","rel:16","rel:17"]}
 {"clave":"destino","ids":["rel:10"]}
+{"clave":"dimensiones_mm_segun_registro_institucional","ids":["af:realms80:dimensiones"]}
 {"clave":"discurso_apertura_biblioteca","ids":["evt:1844:apertura"]}
 {"clave":"discurso_publicado","ids":["src:toldy1846"]}
 {"clave":"documento_contiene","ids":["af:1839:kurzweil"]}
@@ -22,9 +23,11 @@
 {"clave":"fecha_ofrecimiento","ids":["af:1838:oferta"]}
 {"clave":"fecha_visita","ids":["af:1839:visita"]}
 {"clave":"folios_descritos_por_catalogo","ids":["af:catalogo:224"]}
+{"clave":"folios_segun_registro_institucional","ids":["af:realms80:224"]}
 {"clave":"hojas_descritas_por_jerney","ids":["af:1844:223"]}
 {"clave":"incluye_coleccion","ids":["rel:11"]}
 {"clave":"informe_archivistico","ids":["src:kurzweil1839","src:toldy1839-mayo12","src:toldy1839-mayo20"]}
+{"clave":"ingreso_academia_segun_registro_institucional","ids":["af:realms80:1838"]}
 {"clave":"institucion","ids":["inst:mnl-ol","inst:mta-kik"]}
 {"clave":"inventario","ids":["evt:1813:inventario"]}
 {"clave":"lectura_comunicacion","ids":["evt:1842:jerney"]}
@@ -34,6 +37,7 @@
 {"clave":"lugar","ids":["lugar:kisber","lugar:pest","lugar:rohonc","lugar:viena"]}
 {"clave":"manuscrito","ids":["src:codex-k114"]}
 {"clave":"manuscrito_fisico","ids":["obj:k114"]}
+{"clave":"material_y_datacion_del_papel_segun_catalogo","ids":["af:reali2216:papel"]}
 {"clave":"menciona_objeto","ids":["rel:12","rel:13"]}
 {"clave":"numero_acuerdo","ids":["af:1840:carbo"]}
 {"clave":"ocurrio_en","ids":["rel:14"]}
@@ -42,6 +46,8 @@
 {"clave":"persona","ids":["per:batthyany-antal-jozsef","per:batthyany-gusztav","per:batthyany-lajos-erno","per:forgach-ferenc","per:hursan-szabolcs","per:jerney-janos","per:kezai-simon","per:kolinovits-gabor","per:kurzweil-m","per:sche-del-ferenc"]}
 {"clave":"presentacion_academica_referida","ids":["evt:1840:presentacion-k114"]}
 {"clave":"presentacion_referida","ids":["af:1840:referencia"]}
+{"clave":"registro_institucional_digital","ids":["src:realms80"]}
+{"clave":"registro_institucional_imagenes","ids":["src:reali2216"]}
 {"clave":"signatura_anterior","ids":["af:signatura:antigua"]}
 {"clave":"signatura_catalogada_en","ids":["rel:2"]}
 {"clave":"titulo_literal","ids":["af:1743:imadsag"]}
