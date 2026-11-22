@@ -1,0 +1,9 @@
+{
+  "casefold": true,
+  "conservar_solo": "letras_y_digitos",
+  "distribucion": "prefijo_hex_sha256_de_id_utf8_adaptativo",
+  "eliminar_diacriticos": true,
+  "formato_indice": "jsonl_ordenado_utf8",
+  "unicode": "NFKD",
+  "version": "1"
+}

@@ -1,0 +1,12 @@
+{"clave":"afirmaciones","ids":["af:1743:89mss","af:1743:imadsag","af:1743:sid","af:1813:1063","af:1817:1575","af:1817:1871","af:1817:aleman","af:1817:forgach","af:1817:frances","af:1817:kezai","af:1817:kolinovits","af:1817:latin","af:1838:oferta","af:1839:catalogo-no-conservado","af:1839:kurzweil","af:1839:toldy-mayo12","af:1839:visita","af:1840:carbo","af:1840:referencia","af:1844:223","af:catalogo:224","af:signatura:antigua"]}
+{"clave":"asientos","ids":["ent:1743:sid41","ent:1813:forgach","ent:1813:kezai","ent:1813:kolinovits","ent:1813:latinos-1063"]}
+{"clave":"autoridades","ids":["colec:kisber","colec:rohonc","colec:viena-1743","inst:mnl-ol","inst:mta-kik","lugar:kisber","lugar:pest","lugar:rohonc","lugar:viena","per:batthyany-antal-jozsef","per:batthyany-gusztav","per:batthyany-lajos-erno","per:forgach-ferenc","per:hursan-szabolcs","per:jerney-janos","per:kezai-simon","per:kolinovits-gabor","per:kurzweil-m","per:sche-del-ferenc"]}
+{"clave":"catalogos","ids":["cat:1743:viena","cat:1813:kisber","cat:1814:rohonc-v","cat:1817:traslados-lista1","cat:1817:traslados-lista2"]}
+{"clave":"cobertura","ids":["cov:bibl1:atlas","cov:bibl1:list1","cov:bibl1:list2","cov:bibl1:metadatos","cov:bibl1:v","cov:bibl2:latin","cov:bibl2:metadatos","cov:hursan2025:texto","cov:k1393:acceso","cov:k801:kurzweil","cov:k801:toldy","cov:ral61"]}
+{"clave":"cotejos_no_identidad","ids":["ni:carbo-k114","ni:sid41-k114"]}
+{"clave":"digitalizaciones","ids":["dig:bibl1","dig:bibl2","dig:hursan2025"]}
+{"clave":"discrepancias","ids":["dif:223-224"]}
+{"clave":"eventos","ids":["evt:1743:catalogo","evt:1813:inventario","evt:1817:traslado-kisber-rohonc","evt:1838:ofrecimiento","evt:1839:visita-rohonc","evt:1840:carbo","evt:1840:presentacion-k114","evt:1842:jerney","evt:1844:apertura"]}
+{"clave":"fuentes","ids":["src:actas-k1393","src:bibl1","src:bibl2","src:carbo-study","src:cat1743","src:catalogo1984","src:codex-k114","src:codice-k114-catalogo","src:csanak1959","src:hursan2020","src:hursan2022","src:hursan2025","src:jerney1844","src:kurzweil1839","src:toldy1839-mayo12","src:toldy1839-mayo20","src:toldy1846"]}
+{"clave":"objetos","ids":["obj:k114"]}
+{"clave":"relaciones","ids":["rel:1","rel:10","rel:11","rel:12","rel:13","rel:14","rel:15","rel:16","rel:17","rel:2","rel:3","rel:4","rel:5","rel:6","rel:7","rel:8","rel:9"]}

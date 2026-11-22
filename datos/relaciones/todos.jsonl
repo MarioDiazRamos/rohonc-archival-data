@@ -1,0 +1,17 @@
+{"fuente_id":"src:codice-k114-catalogo","id":"rel:1","objeto_id":"inst:mta-kik","predicado":"custodiado_por","sujeto_id":"obj:k114","tipo":"relaciones"}
+{"fuente_id":"src:hursan2025","id":"rel:10","objeto_id":"colec:rohonc","predicado":"destino","sujeto_id":"evt:1817:traslado-kisber-rohonc","tipo":"relaciones"}
+{"fuente_id":"src:hursan2020","id":"rel:11","objeto_id":"colec:rohonc","predicado":"incluye_coleccion","sujeto_id":"evt:1838:ofrecimiento","tipo":"relaciones"}
+{"fuente_id":"src:jerney1844","id":"rel:12","objeto_id":"obj:k114","predicado":"menciona_objeto","sujeto_id":"evt:1840:presentacion-k114","tipo":"relaciones"}
+{"fuente_id":"src:jerney1844","id":"rel:13","objeto_id":"obj:k114","predicado":"menciona_objeto","sujeto_id":"evt:1842:jerney","tipo":"relaciones"}
+{"fuente_id":"src:toldy1846","id":"rel:14","objeto_id":"lugar:rohonc","predicado":"ocurrio_en","sujeto_id":"evt:1839:visita-rohonc","tipo":"relaciones"}
+{"fuente_id":"src:catalogo1984","id":"rel:15","objeto_id":"inst:mta-kik","predicado":"custodiado_por","sujeto_id":"src:bibl1","tipo":"relaciones"}
+{"fuente_id":"src:catalogo1984","id":"rel:16","objeto_id":"inst:mta-kik","predicado":"custodiado_por","sujeto_id":"src:bibl2","tipo":"relaciones"}
+{"fuente_id":"src:catalogo1984","id":"rel:17","objeto_id":"inst:mta-kik","predicado":"custodiado_por","sujeto_id":"src:actas-k1393","tipo":"relaciones"}
+{"fuente_id":"src:codice-k114-catalogo","id":"rel:2","objeto_id":"src:codice-k114-catalogo","predicado":"signatura_catalogada_en","sujeto_id":"obj:k114","tipo":"relaciones"}
+{"fuente_id":"src:hursan2025","id":"rel:3","objeto_id":"src:cat1743","predicado":"asiento_de","sujeto_id":"ent:1743:sid41","tipo":"relaciones"}
+{"fuente_id":"src:hursan2025","id":"rel:4","objeto_id":"src:bibl2","predicado":"catalogado_en","sujeto_id":"ent:1813:kezai","tipo":"relaciones"}
+{"fuente_id":"src:hursan2025","id":"rel:5","objeto_id":"src:bibl2","predicado":"catalogado_en","sujeto_id":"ent:1813:forgach","tipo":"relaciones"}
+{"fuente_id":"src:hursan2025","id":"rel:6","objeto_id":"src:bibl2","predicado":"catalogado_en","sujeto_id":"ent:1813:kolinovits","tipo":"relaciones"}
+{"fuente_id":"src:hursan2025","id":"rel:7","objeto_id":"colec:rohonc","predicado":"trasladado_a","sujeto_id":"ent:1813:kezai","tipo":"relaciones"}
+{"fuente_id":"src:hursan2025","id":"rel:8","objeto_id":"colec:rohonc","predicado":"trasladado_a","sujeto_id":"ent:1813:forgach","tipo":"relaciones"}
+{"fuente_id":"src:hursan2025","id":"rel:9","objeto_id":"colec:kisber","predicado":"origen","sujeto_id":"evt:1817:traslado-kisber-rohonc","tipo":"relaciones"}

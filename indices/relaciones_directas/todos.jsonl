@@ -1,0 +1,13 @@
+{"clave":"ent:1743:sid41","ids":["rel:3"]}
+{"clave":"ent:1813:forgach","ids":["rel:5","rel:8"]}
+{"clave":"ent:1813:kezai","ids":["rel:4","rel:7"]}
+{"clave":"ent:1813:kolinovits","ids":["rel:6"]}
+{"clave":"evt:1817:traslado-kisber-rohonc","ids":["rel:10","rel:9"]}
+{"clave":"evt:1838:ofrecimiento","ids":["rel:11"]}
+{"clave":"evt:1839:visita-rohonc","ids":["rel:14"]}
+{"clave":"evt:1840:presentacion-k114","ids":["rel:12"]}
+{"clave":"evt:1842:jerney","ids":["rel:13"]}
+{"clave":"obj:k114","ids":["rel:1","rel:2"]}
+{"clave":"src:actas-k1393","ids":["rel:17"]}
+{"clave":"src:bibl1","ids":["rel:15"]}
+{"clave":"src:bibl2","ids":["rel:16"]}
