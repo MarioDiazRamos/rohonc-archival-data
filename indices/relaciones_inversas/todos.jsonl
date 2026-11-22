@@ -2,7 +2,8 @@
 {"clave":"colec:rohonc","ids":["rel:10","rel:11","rel:7","rel:8"]}
 {"clave":"inst:mta-kik","ids":["rel:1","rel:15","rel:16","rel:17"]}
 {"clave":"lugar:rohonc","ids":["rel:14"]}
-{"clave":"obj:k114","ids":["rel:12","rel:13"]}
+{"clave":"obj:k114","ids":["rel:12","rel:13","rel:1571:escritura-k114"]}
 {"clave":"src:bibl2","ids":["rel:4","rel:5","rel:6"]}
 {"clave":"src:cat1743","ids":["rel:3"]}
 {"clave":"src:codice-k114-catalogo","ids":["rel:2"]}
+{"clave":"src:porhocs1571","ids":["rel:1571:anexos-carta"]}

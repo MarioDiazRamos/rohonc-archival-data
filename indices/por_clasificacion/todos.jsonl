@@ -1,8 +1,11 @@
 {"clave":"actas_manuscritas","ids":["src:actas-k1393"]}
 {"clave":"acuerdo_academico","ids":["evt:1840:carbo"]}
-{"clave":"articulo_academico","ids":["src:carbo-study","src:csanak1959","src:hursan2022","src:hursan2025"]}
+{"clave":"anexos_de_carta","ids":["rel:1571:anexos-carta"]}
+{"clave":"articulo_academico","ids":["src:carbo-study","src:csanak1959","src:hursan2022","src:hursan2025","src:lang2026"]}
 {"clave":"asiento_de","ids":["rel:3"]}
 {"clave":"cantidad_manuscritos","ids":["af:1743:89mss"]}
+{"clave":"carta_con_anexos","ids":["src:porhocs1571"]}
+{"clave":"carta_fechada_con_anexos","ids":["evt:1571:carta-porhocs"]}
 {"clave":"catalogacion_publicada","ids":["src:codice-k114-catalogo"]}
 {"clave":"catalogado_en","ids":["rel:4","rel:5","rel:6"]}
 {"clave":"catalogo_alfabetico_transferencia","ids":["af:1839:catalogo-no-conservado"]}
@@ -12,12 +15,15 @@
 {"clave":"coleccion","ids":["colec:kisber","colec:rohonc","colec:viena-1743"]}
 {"clave":"compilacion_catalogo","ids":["evt:1743:catalogo"]}
 {"clave":"comunicacion_publicada","ids":["src:jerney1844"]}
+{"clave":"conjunto_fisico_de_hojas_manuscritas","ids":["obj:anexos1571"]}
 {"clave":"custodiado_por","ids":["rel:1","rel:15","rel:16","rel:17"]}
 {"clave":"destino","ids":["rel:10"]}
 {"clave":"dimensiones_mm_segun_registro_institucional","ids":["af:realms80:dimensiones"]}
 {"clave":"discurso_apertura_biblioteca","ids":["evt:1844:apertura"]}
 {"clave":"discurso_publicado","ids":["src:toldy1846"]}
 {"clave":"documento_contiene","ids":["af:1839:kurzweil"]}
+{"clave":"episodio_identificado_segun_estudio","ids":["af:1571:anexo-p3","af:1571:anexo-p4"]}
+{"clave":"escritura_del_mismo_sistema_segun_articulo","ids":["rel:1571:escritura-k114"]}
 {"clave":"estudio_academico","ids":["src:hursan2020"]}
 {"clave":"fecha","ids":["af:1839:toldy-mayo12"]}
 {"clave":"fecha_ofrecimiento","ids":["af:1838:oferta"]}
@@ -34,7 +40,7 @@
 {"clave":"limite_seccion","ids":["ent:1813:latinos-1063"]}
 {"clave":"lista_adicional","ids":["cat:1817:traslados-lista2"]}
 {"clave":"lista_de_transferencia","ids":["cat:1817:traslados-lista1"]}
-{"clave":"lugar","ids":["lugar:kisber","lugar:pest","lugar:rohonc","lugar:viena"]}
+{"clave":"lugar","ids":["lugar:kisber","lugar:pest","lugar:rohonc","lugar:torony","lugar:viena"]}
 {"clave":"manuscrito","ids":["src:codex-k114"]}
 {"clave":"manuscrito_fisico","ids":["obj:k114"]}
 {"clave":"material_y_datacion_del_papel_segun_catalogo","ids":["af:reali2216:papel"]}
@@ -43,7 +49,8 @@
 {"clave":"ocurrio_en","ids":["rel:14"]}
 {"clave":"ofrecimiento_de_biblioteca","ids":["evt:1838:ofrecimiento"]}
 {"clave":"origen","ids":["rel:9"]}
-{"clave":"persona","ids":["per:batthyany-antal-jozsef","per:batthyany-gusztav","per:batthyany-lajos-erno","per:forgach-ferenc","per:hursan-szabolcs","per:jerney-janos","per:kezai-simon","per:kolinovits-gabor","per:kurzweil-m","per:sche-del-ferenc"]}
+{"clave":"pasaje_identificado_segun_estudio","ids":["af:1571:anexo-p5","af:1571:anexo-p6"]}
+{"clave":"persona","ids":["per:batthyany-antal-jozsef","per:batthyany-boldizsar","per:batthyany-gusztav","per:batthyany-lajos-erno","per:forgach-ferenc","per:hursan-szabolcs","per:jerney-janos","per:kezai-simon","per:kolinovits-gabor","per:kurzweil-m","per:porhocs-farkas","per:sche-del-ferenc"]}
 {"clave":"presentacion_academica_referida","ids":["evt:1840:presentacion-k114"]}
 {"clave":"presentacion_referida","ids":["af:1840:referencia"]}
 {"clave":"registro_institucional_digital","ids":["src:realms80"]}

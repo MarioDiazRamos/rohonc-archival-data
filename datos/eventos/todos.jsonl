@@ -1,3 +1,4 @@
+{"fecha_inicio":"1571-06-28","fuente_id":"src:porhocs1571","id":"evt:1571:carta-porhocs","lugar_id":"lugar:torony","objeto_id":"obj:anexos1571","persona_id":"per:porhocs-farkas","precision":"dia","tipo":"eventos","tipo_evento":"carta_fechada_con_anexos"}
 {"coleccion_id":"colec:viena-1743","fecha_inicio":"1743","fuente_id":"src:hursan2025","id":"evt:1743:catalogo","localizador":{"pagina_impresa":97},"lugar_id":"lugar:viena","precision":"anio","tipo":"eventos","tipo_evento":"compilacion_catalogo"}
 {"coleccion_id":"colec:kisber","fecha_inicio":"1813","fuente_id":"src:bibl2","id":"evt:1813:inventario","localizador":{"pagina_pdf":1},"precision":"anio","tipo":"eventos","tipo_evento":"inventario"}
 {"destino_id":"colec:rohonc","fecha_inicio":"1817","fuente_id":"src:hursan2025","id":"evt:1817:traslado-kisber-rohonc","localizador":{"nota":14,"pagina_impresa":99},"origen_id":"colec:kisber","precision":"anio","tipo":"eventos","tipo_evento":"traslado_bibliografico"}

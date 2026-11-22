@@ -1,4 +1,5 @@
 {"clave":"batthyanyantaljozsef","ids":["per:batthyany-antal-jozsef"]}
+{"clave":"batthyanyboldizsar","ids":["per:batthyany-boldizsar"]}
 {"clave":"batthyanygusztav","ids":["per:batthyany-gusztav"]}
 {"clave":"batthyanylajoserno","ids":["per:batthyany-lajos-erno"]}
 {"clave":"bibl2r1pdf","ids":["dig:bibl1"]}
@@ -7,7 +8,10 @@
 {"clave":"bibliotecabatthyanyderohonc","ids":["colec:rohonc"]}
 {"clave":"bibliotecadelaacademiahungara","ids":["inst:mta-kik"]}
 {"clave":"bibliotecavienesadebatthyanylajoserno","ids":["colec:viena-1743"]}
+{"clave":"boldizsarbatthyany","ids":["per:batthyany-boldizsar"]}
 {"clave":"codicerohonc","ids":["obj:k114"]}
+{"clave":"doshojasanexasalacartadefarkasporhocsde1571","ids":["obj:anexos1571"]}
+{"clave":"farkasporhocs","ids":["per:porhocs-farkas"]}
 {"clave":"ferencschedel","ids":["per:sche-del-ferenc"]}
 {"clave":"ferenctoldy","ids":["per:sche-del-ferenc"]}
 {"clave":"forgachferenc","ids":["per:forgach-ferenc"]}
@@ -37,7 +41,12 @@
 {"clave":"mnlol","ids":["inst:mnl-ol"]}
 {"clave":"mtak","ids":["inst:mta-kik"]}
 {"clave":"mtakik","ids":["inst:mta-kik"]}
+{"clave":"perhoczfarkas","ids":["per:porhocs-farkas"]}
 {"clave":"pest","ids":["lugar:pest"]}
+{"clave":"porhochifarkas","ids":["per:porhocs-farkas"]}
+{"clave":"porhochyfarkas","ids":["per:porhocs-farkas"]}
+{"clave":"porhocsfarkas","ids":["per:porhocs-farkas"]}
+{"clave":"porhotthyfarkas","ids":["per:porhocs-farkas"]}
 {"clave":"ral611839","ids":["src:toldy1839-mayo20"]}
 {"clave":"rechnitz","ids":["lugar:rohonc"]}
 {"clave":"rohonc","ids":["lugar:rohonc"]}
@@ -51,5 +60,7 @@
 {"clave":"scriptoriumvi202597109hursanpdf","ids":["dig:hursan2025"]}
 {"clave":"sid41","ids":["ent:1743:sid41"]}
 {"clave":"toldyferenc","ids":["per:sche-del-ferenc"]}
+{"clave":"torony","ids":["lugar:torony"]}
 {"clave":"viena","ids":["lugar:viena"]}
 {"clave":"wien","ids":["lugar:viena"]}
+{"clave":"wolfgangusporhoch","ids":["per:porhocs-farkas"]}

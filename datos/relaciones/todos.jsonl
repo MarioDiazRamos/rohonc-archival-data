@@ -5,6 +5,8 @@
 {"fuente_id":"src:jerney1844","id":"rel:13","objeto_id":"obj:k114","predicado":"menciona_objeto","sujeto_id":"evt:1842:jerney","tipo":"relaciones"}
 {"fuente_id":"src:toldy1846","id":"rel:14","objeto_id":"lugar:rohonc","predicado":"ocurrio_en","sujeto_id":"evt:1839:visita-rohonc","tipo":"relaciones"}
 {"fuente_id":"src:catalogo1984","id":"rel:15","objeto_id":"inst:mta-kik","predicado":"custodiado_por","sujeto_id":"src:bibl1","tipo":"relaciones"}
+{"fuente_id":"src:lang2026","id":"rel:1571:anexos-carta","objeto_id":"src:porhocs1571","predicado":"anexos_de_carta","sujeto_id":"obj:anexos1571","tipo":"relaciones"}
+{"fuente_id":"src:lang2026","id":"rel:1571:escritura-k114","objeto_id":"obj:k114","predicado":"escritura_del_mismo_sistema_segun_articulo","sujeto_id":"obj:anexos1571","tipo":"relaciones"}
 {"fuente_id":"src:catalogo1984","id":"rel:16","objeto_id":"inst:mta-kik","predicado":"custodiado_por","sujeto_id":"src:bibl2","tipo":"relaciones"}
 {"fuente_id":"src:catalogo1984","id":"rel:17","objeto_id":"inst:mta-kik","predicado":"custodiado_por","sujeto_id":"src:actas-k1393","tipo":"relaciones"}
 {"fuente_id":"src:codice-k114-catalogo","id":"rel:2","objeto_id":"src:codice-k114-catalogo","predicado":"signatura_catalogada_en","sujeto_id":"obj:k114","tipo":"relaciones"}
