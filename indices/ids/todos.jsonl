@@ -51,6 +51,7 @@
 {"clave":"cov:k1393:acceso","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:k801:kurzweil","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:k801:toldy","ids":["datos/cobertura/todos.jsonl"]}
+{"clave":"cov:p1314-9082:20261122","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:p1314-9082:v30","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:ral61","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"dif:223-224","ids":["datos/discrepancias/todos.jsonl"]}

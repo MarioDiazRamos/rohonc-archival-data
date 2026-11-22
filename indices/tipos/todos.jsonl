@@ -2,7 +2,7 @@
 {"clave":"asientos","ids":["ent:1743:sid41","ent:1813:forgach","ent:1813:kezai","ent:1813:kolinovits","ent:1813:latinos-1063"]}
 {"clave":"autoridades","ids":["colec:kisber","colec:rohonc","colec:viena-1743","inst:mnl-ol","inst:mta-kik","lugar:kisber","lugar:pest","lugar:rohonc","lugar:torony","lugar:viena","per:batthyany-antal-jozsef","per:batthyany-boldizsar","per:batthyany-gusztav","per:batthyany-lajos-erno","per:csenthy-tamas","per:forgach-ferenc","per:hursan-szabolcs","per:jerney-janos","per:kezai-simon","per:kolinovits-gabor","per:kurzweil-m","per:porhocs-farkas","per:sche-del-ferenc"]}
 {"clave":"catalogos","ids":["cat:1743:viena","cat:1813:kisber","cat:1814:rohonc-v","cat:1817:traslados-lista1","cat:1817:traslados-lista2"]}
-{"clave":"cobertura","ids":["cov:1571:p1314-38149","cov:bibl1:atlas","cov:bibl1:list1","cov:bibl1:list2","cov:bibl1:metadatos","cov:bibl1:v","cov:bibl2:latin","cov:bibl2:metadatos","cov:hursan2025:texto","cov:k1393:acceso","cov:k801:kurzweil","cov:k801:toldy","cov:p1314-9082:v30","cov:ral61"]}
+{"clave":"cobertura","ids":["cov:1571:p1314-38149","cov:bibl1:atlas","cov:bibl1:list1","cov:bibl1:list2","cov:bibl1:metadatos","cov:bibl1:v","cov:bibl2:latin","cov:bibl2:metadatos","cov:hursan2025:texto","cov:k1393:acceso","cov:k801:kurzweil","cov:k801:toldy","cov:p1314-9082:20261122","cov:p1314-9082:v30","cov:ral61"]}
 {"clave":"cotejos_no_identidad","ids":["ni:anexos1571-k114","ni:carbo-k114","ni:sid41-k114"]}
 {"clave":"digitalizaciones","ids":["dig:bibl1","dig:bibl2","dig:hursan2025"]}
 {"clave":"discrepancias","ids":["dif:223-224"]}
