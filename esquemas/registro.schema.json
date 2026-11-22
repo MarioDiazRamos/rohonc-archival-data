@@ -1,0 +1,49 @@
+{
+  "$id": "https://github.com/MarioDiazRamos/rohonc-archival-data/blob/main/esquemas/registro.schema.json",
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "additionalProperties": true,
+  "properties": {
+    "fecha": {
+      "type": "string"
+    },
+    "fecha_inicio": {
+      "type": "string"
+    },
+    "fuente_id": {
+      "type": "string"
+    },
+    "id": {
+      "pattern": "^[a-z]+:[a-z0-9:.-]+$",
+      "type": "string"
+    },
+    "localizador": {
+      "type": "object"
+    },
+    "sha256": {
+      "pattern": "^[a-f0-9]{64}$",
+      "type": "string"
+    },
+    "tipo": {
+      "enum": [
+        "afirmaciones",
+        "asientos",
+        "autoridades",
+        "catalogos",
+        "cobertura",
+        "cotejos_no_identidad",
+        "digitalizaciones",
+        "discrepancias",
+        "eventos",
+        "fuentes",
+        "objetos",
+        "relaciones"
+      ]
+    }
+  },
+  "required": [
+    "id",
+    "tipo"
+  ],
+  "title": "Registro archivístico",
+  "type": "object"
+}

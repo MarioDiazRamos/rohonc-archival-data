@@ -1,0 +1,31 @@
+{
+  "distinciones": [
+    "objeto_fisico",
+    "fuente",
+    "asiento",
+    "digitalizacion",
+    "afirmacion",
+    "relacion",
+    "cobertura"
+  ],
+  "estados_cobertura": [
+    "completo",
+    "completo_en_segmento",
+    "parcial",
+    "sin_copia"
+  ],
+  "tipos": [
+    "afirmaciones",
+    "asientos",
+    "autoridades",
+    "catalogos",
+    "cobertura",
+    "cotejos_no_identidad",
+    "digitalizaciones",
+    "discrepancias",
+    "eventos",
+    "fuentes",
+    "objetos",
+    "relaciones"
+  ]
+}

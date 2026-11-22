@@ -1,0 +1,19 @@
+{"clase":"coleccion","id":"colec:kisber","nombre":"Biblioteca Batthyány de Kisbér","tipo":"autoridades","variantes":["Kisbéri Batthyány-könyvtár"]}
+{"clase":"coleccion","id":"colec:rohonc","nombre":"Biblioteca Batthyány de Rohonc","tipo":"autoridades","variantes":["Rohonci könyvtár","Rohonczi könyvtár"]}
+{"clase":"coleccion","id":"colec:viena-1743","nombre":"Biblioteca vienesa de Batthyány Lajos Ernő","tipo":"autoridades","variantes":[]}
+{"clase":"institucion","id":"inst:mnl-ol","nombre":"Magyar Nemzeti Levéltár Országos Levéltára","tipo":"autoridades","variantes":["MNL OL"]}
+{"clase":"institucion","id":"inst:mta-kik","nombre":"Magyar Tudományos Akadémia Könyvtár és Információs Központ","tipo":"autoridades","variantes":["MTAK","MTA KIK","Biblioteca de la Academia Húngara"]}
+{"clase":"lugar","id":"lugar:kisber","nombre":"Kisbér","tipo":"autoridades","variantes":[]}
+{"clase":"lugar","id":"lugar:pest","nombre":"Pest","tipo":"autoridades","variantes":[]}
+{"clase":"lugar","id":"lugar:rohonc","nombre":"Rohonc","tipo":"autoridades","variantes":["Rohoncz","Rechnitz"]}
+{"clase":"lugar","id":"lugar:viena","nombre":"Viena","tipo":"autoridades","variantes":["Wien"]}
+{"clase":"persona","id":"per:batthyany-antal-jozsef","nombre":"Batthyány Antal József","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:batthyany-gusztav","nombre":"Batthyány Gusztáv","tipo":"autoridades","variantes":["Gustav Batthyány"]}
+{"clase":"persona","id":"per:batthyany-lajos-erno","nombre":"Batthyány Lajos Ernő","tipo":"autoridades","variantes":["Ludwig Batthyány"]}
+{"clase":"persona","id":"per:forgach-ferenc","nombre":"Forgách Ferenc","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:hursan-szabolcs","nombre":"Hursán Szabolcs","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:jerney-janos","nombre":"Jerney János","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:kezai-simon","nombre":"Kézai Simon","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:kolinovits-gabor","nombre":"Kolinovics Gábor","tipo":"autoridades","variantes":["Kolinovits"]}
+{"clase":"persona","id":"per:kurzweil-m","nombre":"M. Kurzweil","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:sche-del-ferenc","nombre":"Schedel Ferenc","tipo":"autoridades","variantes":["Toldy Ferenc","Ferenc Toldy","Ferenc Schedel"]}

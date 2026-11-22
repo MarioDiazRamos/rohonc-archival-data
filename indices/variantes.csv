@@ -1,0 +1,58 @@
+alias_literal,alias_normalizado,entidad_id,clase
+Batthyány Antal József,batthyanyantaljozsef,per:batthyany-antal-jozsef,autoridad
+Batthyány Gusztáv,batthyanygusztav,per:batthyany-gusztav,autoridad
+Batthyány Lajos Ernő,batthyanylajoserno,per:batthyany-lajos-erno,autoridad
+bibl_2_r_1.pdf,bibl2r1pdf,dig:bibl1,digitalizacion
+bibl_2_r_2.pdf,bibl2r2pdf,dig:bibl2,digitalizacion
+Biblioteca Batthyány de Kisbér,bibliotecabatthyanydekisber,colec:kisber,autoridad
+Biblioteca Batthyány de Rohonc,bibliotecabatthyanyderohonc,colec:rohonc,autoridad
+Biblioteca de la Academia Húngara,bibliotecadelaacademiahungara,inst:mta-kik,autoridad
+Biblioteca vienesa de Batthyány Lajos Ernő,bibliotecavienesadebatthyanylajoserno,colec:viena-1743,autoridad
+Códice Rohonc,codicerohonc,obj:k114,objeto
+Ferenc Schedel,ferencschedel,per:sche-del-ferenc,autoridad
+Ferenc Toldy,ferenctoldy,per:sche-del-ferenc,autoridad
+Forgách Ferenc,forgachferenc,per:forgach-ferenc,autoridad
+Gustav Batthyány,gustavbatthyany,per:batthyany-gusztav,autoridad
+Hursán Szabolcs,hursanszabolcs,per:hursan-szabolcs,autoridad
+Jerney János,jerneyjanos,per:jerney-janos,autoridad
+K 114,k114,obj:k114,objeto
+K114,k114,obj:k114,objeto
+K 1393,k1393,src:actas-k1393,signatura
+K 801:1839/1,k80118391,src:kurzweil1839,signatura
+K 801:1839/2,k80118392,src:toldy1839-mayo12,signatura
+Kézai Simon,kezaisimon,per:kezai-simon,autoridad
+Kisbér,kisber,lugar:kisber,autoridad
+Kisbéri Batthyány-könyvtár,kisberibatthyanykonyvtar,colec:kisber,autoridad
+Kolinovics Gábor,kolinovicsgabor,per:kolinovits-gabor,autoridad
+Kolinovits,kolinovits,per:kolinovits-gabor,autoridad
+Könyvészet 2-rét 1,konyveszet2ret1,src:bibl1,signatura
+Könyvészet 2-rét 11,konyveszet2ret11,src:cat1743,signatura
+Könyvészet 2-rét 2,konyveszet2ret2,src:bibl2,signatura
+Ludwig Batthyány,ludwigbatthyany,per:batthyany-lajos-erno,autoridad
+Magjar imadságok,magjarimadsagok,ent:1743:sid41,asiento
+Magyar Codex 12° 1,magyarcodex121,obj:k114,objeto
+Magyar Codex 12º 1,magyarcodex12o1,obj:k114,objeto
+Magyar imádságok,magyarimadsagok,ent:1743:sid41,asiento
+Magyar Nemzeti Levéltár Országos Levéltára,magyarnemzetileveltarorszagosleveltara,inst:mnl-ol,autoridad
+Magyar Tudományos Akadémia Könyvtár és Információs Központ,magyartudomanyosakademiakonyvtaresinformacioskozpont,inst:mta-kik,autoridad
+M. Kurzweil,mkurzweil,per:kurzweil-m,autoridad
+MNL OL,mnlol,inst:mnl-ol,autoridad
+MTAK,mtak,inst:mta-kik,autoridad
+MTA KIK,mtakik,inst:mta-kik,autoridad
+Pest,pest,lugar:pest,autoridad
+RAL 61/1839,ral611839,src:toldy1839-mayo20,signatura
+Rechnitz,rechnitz,lugar:rohonc,autoridad
+Rohonc,rohonc,lugar:rohonc,autoridad
+Rohonc Codex,rohonccodex,obj:k114,objeto
+Rohonci kódex,rohoncikodex,obj:k114,objeto
+Rohonci könyvtár,rohoncikonyvtar,colec:rohonc,autoridad
+Rohoncz,rohoncz,lugar:rohonc,autoridad
+Rohonczi codex,rohonczicodex,obj:k114,objeto
+Rohonczi könyvtár,rohonczikonyvtar,colec:rohonc,autoridad
+Schedel Ferenc,schedelferenc,per:sche-del-ferenc,autoridad
+ScriptoriumVI_2025_97-109_Hursan.pdf,scriptoriumvi202597109hursanpdf,dig:hursan2025,digitalizacion
+S. I. D. 41.,sid41,ent:1743:sid41,asiento
+S I D 41,sid41,ent:1743:sid41,asiento
+Toldy Ferenc,toldyferenc,per:sche-del-ferenc,autoridad
+Viena,viena,lugar:viena,autoridad
+Wien,wien,lugar:viena,autoridad
