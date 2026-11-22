@@ -10,6 +10,8 @@
 {"clave":"src:hursan2025","ids":["af:1743:89mss","af:1743:imadsag","af:1743:sid","af:1817:forgach","af:1817:kezai","af:1817:kolinovits","cat:1743:viena","cov:hursan2025:texto","dig:hursan2025","ent:1743:sid41","ent:1813:forgach","ent:1813:kezai","ent:1813:kolinovits","evt:1743:catalogo","evt:1817:traslado-kisber-rohonc","rel:10","rel:3","rel:4","rel:5","rel:6","rel:7","rel:8","rel:9","src:toldy1839-mayo20"]}
 {"clave":"src:jerney1844","ids":["af:1840:referencia","af:1844:223","evt:1840:presentacion-k114","evt:1842:jerney","ni:sid41-k114","obj:k114","rel:12","rel:13"]}
 {"clave":"src:kurzweil1839","ids":["cov:k801:kurzweil"]}
+{"clave":"src:lang2026","ids":["af:1571:anexo-p3","af:1571:anexo-p4","af:1571:anexo-p5","af:1571:anexo-p6","ni:anexos1571-k114","obj:anexos1571","rel:1571:anexos-carta","rel:1571:escritura-k114"]}
+{"clave":"src:porhocs1571","ids":["cov:1571:p1314-38149","evt:1571:carta-porhocs","obj:anexos1571"]}
 {"clave":"src:reali2216","ids":["af:reali2216:papel"]}
 {"clave":"src:realms80","ids":["af:realms80:1838","af:realms80:224","af:realms80:dimensiones"]}
 {"clave":"src:toldy1839-mayo12","ids":["cov:k801:toldy"]}

@@ -1,3 +1,7 @@
+{"clave":"af:1571:anexo-p3","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:1571:anexo-p4","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:1571:anexo-p5","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:1571:anexo-p6","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1743:89mss","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1743:imadsag","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1743:sid","ids":["datos/afirmaciones/todos.jsonl"]}
@@ -32,6 +36,7 @@
 {"clave":"colec:kisber","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"colec:rohonc","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"colec:viena-1743","ids":["datos/autoridades/todos.jsonl"]}
+{"clave":"cov:1571:p1314-38149","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:bibl1:atlas","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:bibl1:list1","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:bibl1:list2","ids":["datos/cobertura/todos.jsonl"]}
@@ -53,6 +58,7 @@
 {"clave":"ent:1813:kezai","ids":["datos/asientos/todos.jsonl"]}
 {"clave":"ent:1813:kolinovits","ids":["datos/asientos/todos.jsonl"]}
 {"clave":"ent:1813:latinos-1063","ids":["datos/asientos/todos.jsonl"]}
+{"clave":"evt:1571:carta-porhocs","ids":["datos/eventos/todos.jsonl"]}
 {"clave":"evt:1743:catalogo","ids":["datos/eventos/todos.jsonl"]}
 {"clave":"evt:1813:inventario","ids":["datos/eventos/todos.jsonl"]}
 {"clave":"evt:1817:traslado-kisber-rohonc","ids":["datos/eventos/todos.jsonl"]}
@@ -67,11 +73,15 @@
 {"clave":"lugar:kisber","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"lugar:pest","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"lugar:rohonc","ids":["datos/autoridades/todos.jsonl"]}
+{"clave":"lugar:torony","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"lugar:viena","ids":["datos/autoridades/todos.jsonl"]}
+{"clave":"ni:anexos1571-k114","ids":["datos/cotejos_no_identidad/todos.jsonl"]}
 {"clave":"ni:carbo-k114","ids":["datos/cotejos_no_identidad/todos.jsonl"]}
 {"clave":"ni:sid41-k114","ids":["datos/cotejos_no_identidad/todos.jsonl"]}
+{"clave":"obj:anexos1571","ids":["datos/objetos/todos.jsonl"]}
 {"clave":"obj:k114","ids":["datos/objetos/todos.jsonl"]}
 {"clave":"per:batthyany-antal-jozsef","ids":["datos/autoridades/todos.jsonl"]}
+{"clave":"per:batthyany-boldizsar","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:batthyany-gusztav","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:batthyany-lajos-erno","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:forgach-ferenc","ids":["datos/autoridades/todos.jsonl"]}
@@ -80,6 +90,7 @@
 {"clave":"per:kezai-simon","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:kolinovits-gabor","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:kurzweil-m","ids":["datos/autoridades/todos.jsonl"]}
+{"clave":"per:porhocs-farkas","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:sche-del-ferenc","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"rel:1","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:10","ids":["datos/relaciones/todos.jsonl"]}
@@ -88,6 +99,8 @@
 {"clave":"rel:13","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:14","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:15","ids":["datos/relaciones/todos.jsonl"]}
+{"clave":"rel:1571:anexos-carta","ids":["datos/relaciones/todos.jsonl"]}
+{"clave":"rel:1571:escritura-k114","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:16","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:17","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:2","ids":["datos/relaciones/todos.jsonl"]}
@@ -112,6 +125,8 @@
 {"clave":"src:hursan2025","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:jerney1844","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:kurzweil1839","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:lang2026","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:porhocs1571","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:reali2216","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:realms80","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:toldy1839-mayo12","ids":["datos/fuentes/todos.jsonl"]}
