@@ -61,7 +61,7 @@
         ],
         "cobertura": [
           {
-            "bytes": 51156,
+            "bytes": 51232,
             "cantidad": 160,
             "prefijo": "",
             "ruta": "datos/cobertura/todos.jsonl"
@@ -167,8 +167,8 @@
         ],
         "por_estado": [
           {
-            "bytes": 22224,
-            "cantidad": 161,
+            "bytes": 22162,
+            "cantidad": 159,
             "prefijo": "",
             "ruta": "indices/por_estado/todos.jsonl"
           }
