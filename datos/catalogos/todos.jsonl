@@ -1,5 +1,5 @@
-{"id":"cat:1644:nemetujvar","tipo":"catalogos","fuente_id":"src:p1322-1644","fecha":"1644","coleccion_id":"colec:batthyany-adam-1644","testimonio":"src:koltai2002","titulaciones":{"entradas":121,"seccion_ilustrados":12}}
-{"id":"cat:1742:gussing","tipo":"catalogos","fuente_id":"src:gussing1742","fecha":"1742","coleccion_literal":"Biblioteca franciscana de Güssing","testimonio":"src:koltai2002","acceso_original":"sin_copia"}
+{"coleccion_id":"colec:batthyany-adam-1644","fecha":"1644","fuente_id":"src:p1322-1644","id":"cat:1644:nemetujvar","testimonio":"src:koltai2002","tipo":"catalogos","titulaciones":{"entradas":121,"seccion_ilustrados":12}}
+{"acceso_original":"sin_copia","coleccion_literal":"Biblioteca franciscana de Güssing","fecha":"1742","fuente_id":"src:gussing1742","id":"cat:1742:gussing","testimonio":"src:koltai2002","tipo":"catalogos"}
 {"coleccion_id":"colec:viena-1743","fecha":"1743","fuente_id":"src:cat1743","id":"cat:1743:viena","localizador":{"pagina_impresa":98},"testimonio":"src:hursan2025","tipo":"catalogos","titulaciones":{"manuscritos":89,"titulos_impresos":1143,"volumenes_impresos":2163,"volumenes_manuscritos":97}}
 {"coleccion_id":"colec:kisber","fecha":"1813","fuente_id":"src:bibl2","id":"cat:1813:kisber","localizador":{"pagina_pdf_fin":41,"pagina_pdf_inicio":1},"seccion_localizada":"XIV. Bibliothecae Majoris Libri latini","tipo":"catalogos"}
 {"coleccion_id":"colec:rohonc","entradas_cotejadas":30,"fecha_literal":"circa 1814","fuente_id":"src:bibl1","id":"cat:1814:rohonc-v","paginas_pdf":[57,62],"seccion":"V","tipo":"catalogos"}
