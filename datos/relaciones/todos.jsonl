@@ -26,5 +26,10 @@
 {"fuente_id":"src:a695","id":"rel:a695-kisber","objeto_id":"colec:kisber","predicado":"agradece_donacion","sujeto_id":"src:a695","tipo":"relaciones"}
 {"fuente_id":"src:a695","id":"rel:a695-rohonc","objeto_id":"colec:rohonc","predicado":"agradece_donacion","sujeto_id":"src:a695","tipo":"relaciones"}
 {"fuente_id":"src:athenaeum1840-2","id":"rel:athenaeum-nemes","objeto_id":"per:literati-nemes","predicado":"publica_noticia_de","sujeto_id":"src:athenaeum1840-2","tipo":"relaciones"}
+{"fuente_id":"src:monok2004-batthyany","id":"rel:gussing-mayken","objeto_id":"per:andreas-mayken","predicado":"posesion_de_ejemplar_segun_inscripcion","sujeto_id":"src:gussing4-263","tipo":"relaciones"}
+{"fuente_id":"src:ivanyi1983-hiller","id":"rel:hiller-19370","objeto_id":"per:erhardt-hiller","predicado":"carta_de","sujeto_id":"src:p1314-19370","tipo":"relaciones"}
+{"fuente_id":"src:ivanyi1983-hiller","id":"rel:hiller-19376","objeto_id":"per:erhardt-hiller","predicado":"factura_de","sujeto_id":"src:p1314-19376","tipo":"relaciones"}
+{"fuente_id":"src:toth1899","id":"rel:nemeti-abc-k114","objeto_id":"obj:k114","predicado":"estudio_historico_sobre","sujeto_id":"src:nemeti1889-abc","tipo":"relaciones"}
+{"fuente_id":"src:toth1899","id":"rel:nemeti-plan-k114","objeto_id":"obj:k114","predicado":"estudio_historico_sobre","sujeto_id":"src:nemeti-olvasasterve","tipo":"relaciones"}
 {"fuente_id":"src:hursan2019teleki","id":"rel:ral31-gusztav","objeto_id":"per:batthyany-gusztav","predicado":"carta_de_segun_estudio","sujeto_id":"src:ral31-1838","tipo":"relaciones"}
 {"fuente_id":"src:hursan2019teleki","id":"rel:tort223-nagy","objeto_id":"per:nagy-karoly","predicado":"correspondencia_de_segun_estudio","sujeto_id":"src:tort223","tipo":"relaciones"}

@@ -1,5 +1,8 @@
 {"clave":"705101athenaeumschedel18401pdf","ids":["dig:athenaeum1840-1"]}
 {"clave":"705201athenaeumschedel18402pdf","ids":["dig:athenaeum1840-2"]}
+{"clave":"andreasmaiken","ids":["per:andreas-mayken"]}
+{"clave":"andreasmayken","ids":["per:andreas-mayken"]}
+{"clave":"andreaspresbitermaiken","ids":["per:andreas-mayken"]}
 {"clave":"balasdeak","ids":["per:balazs-deak"]}
 {"clave":"balazsdeak","ids":["per:balazs-deak"]}
 {"clave":"batthyanyantaljozsef","ids":["per:batthyany-antal-jozsef"]}
@@ -22,6 +25,8 @@
 {"clave":"csenthytamas","ids":["per:csenthy-tamas"]}
 {"clave":"doshojasanexasalacartadefarkasporhocsde1571","ids":["obj:anexos1571"]}
 {"clave":"eliascorvinus","ids":["per:elias-corvinus"]}
+{"clave":"erhardhiller","ids":["per:erhardt-hiller"]}
+{"clave":"erhardthiller","ids":["per:erhardt-hiller"]}
 {"clave":"farkasporhocs","ids":["per:porhocs-farkas"]}
 {"clave":"ferencschedel","ids":["per:sche-del-ferenc"]}
 {"clave":"ferenctoldy","ids":["per:sche-del-ferenc"]}
@@ -30,6 +35,7 @@
 {"clave":"gustavbatthyany","ids":["per:batthyany-gusztav"]}
 {"clave":"hursanszabolcs","ids":["per:hursan-szabolcs"]}
 {"clave":"ivanyibela","ids":["per:ivanyi-bela"]}
+{"clave":"jeanaubry","ids":["per:jean-aubry"]}
 {"clave":"jerneyjanos","ids":["per:jerney-janos"]}
 {"clave":"julgbernat","ids":["per:julg-bernat"]}
 {"clave":"k114","ids":["obj:k114"]}
@@ -60,8 +66,12 @@
 {"clave":"mtak","ids":["inst:mta-kik"]}
 {"clave":"mtakik","ids":["inst:mta-kik"]}
 {"clave":"nagykaroly","ids":["per:nagy-karoly"]}
+{"clave":"nematikalman","ids":["per:nemeti-kalman"]}
 {"clave":"nemesliteratisamuel","ids":["per:literati-nemes"]}
 {"clave":"nemessamuel","ids":["per:literati-nemes"]}
+{"clave":"nemetikalman","ids":["per:nemeti-kalman"]}
+{"clave":"paulusmaiken","ids":["per:paulus-mayken"]}
+{"clave":"paulusmayken","ids":["per:paulus-mayken"]}
 {"clave":"perhoczfarkas","ids":["per:porhocs-farkas"]}
 {"clave":"pest","ids":["lugar:pest"]}
 {"clave":"porhochifarkas","ids":["per:porhocs-farkas"]}
@@ -84,6 +94,8 @@
 {"clave":"szalaylaszlo","ids":["per:szalay-laszlo"]}
 {"clave":"toldyferenc","ids":["per:sche-del-ferenc"]}
 {"clave":"torony","ids":["lugar:torony"]}
+{"clave":"tothbela","ids":["per:toth-bela"]}
+{"clave":"ulrichpinder","ids":["per:ulrich-pinder"]}
 {"clave":"viena","ids":["lugar:viena"]}
 {"clave":"wien","ids":["lugar:viena"]}
 {"clave":"wolfgangusporhoch","ids":["per:porhocs-farkas"]}
