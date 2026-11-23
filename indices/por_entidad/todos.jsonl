@@ -18,7 +18,7 @@
 {"clave":"evt:1840:carbo","ids":["af:1840:carbo","ni:carbo-k114"]}
 {"clave":"evt:1840:presentacion-k114","ids":["af:1840:referencia","rel:12"]}
 {"clave":"evt:1842:jerney","ids":["rel:13"]}
-{"clave":"inst:mnl-ol","ids":["obj:anexos1571","src:catalogo-p1314","src:p1314-9082","src:porhocs1571"]}
+{"clave":"inst:mnl-ol","ids":["obj:anexos1571","src:catalogo-p1314","src:mnl-p1314-informacion","src:p1314-9082","src:porhocs1571"]}
 {"clave":"inst:mta-kik","ids":["obj:k114","rel:1","rel:15","rel:16","rel:17","src:actas-k1393","src:bibl1","src:bibl2","src:cat1743","src:codex-k114","src:codice-k114-catalogo","src:kurzweil1839","src:reali2216","src:realms80","src:toldy1839-mayo12","src:toldy1839-mayo20"]}
 {"clave":"lugar:rohonc","ids":["rel:14"]}
 {"clave":"lugar:torony","ids":["evt:1571:carta-porhocs"]}
@@ -29,6 +29,7 @@
 {"clave":"per:batthyany-gusztav","ids":["evt:1838:ofrecimiento"]}
 {"clave":"per:csenthy-tamas","ids":["src:p1314-9082"]}
 {"clave":"per:hursan-szabolcs","ids":["src:hursan2020","src:hursan2022","src:hursan2025"]}
+{"clave":"per:ivanyi-bela","ids":["af:ivanyi:marcas-barath2022","af:ivanyi:p1314-organizacion","af:ivanyi:subrayados-vadas2022"]}
 {"clave":"per:jerney-janos","ids":["src:jerney1844"]}
 {"clave":"per:porhocs-farkas","ids":["evt:1571:carta-porhocs","src:porhocs1571"]}
 {"clave":"per:sche-del-ferenc","ids":["evt:1839:visita-rohonc","evt:1840:presentacion-k114","evt:1844:apertura","src:toldy1846"]}
@@ -38,6 +39,6 @@
 {"clave":"src:cat1743","ids":["rel:3"]}
 {"clave":"src:codice-k114-catalogo","ids":["rel:2"]}
 {"clave":"src:kurzweil1839","ids":["af:1839:kurzweil"]}
-{"clave":"src:p1314-9082","ids":["af:1570:9082-glosa-catalogo"]}
-{"clave":"src:porhocs1571","ids":["rel:1571:anexos-carta"]}
+{"clave":"src:p1314-9082","ids":["af:1570:9082-glosa-catalogo","af:9082:marcas-subrayado"]}
+{"clave":"src:porhocs1571","ids":["af:ivanyi:libros-porhocs1571","rel:1571:anexos-carta"]}
 {"clave":"src:toldy1839-mayo12","ids":["af:1839:toldy-mayo12","af:1992:k801-nota29"]}
