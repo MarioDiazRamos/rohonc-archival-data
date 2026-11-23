@@ -2,7 +2,7 @@
 {"clave":"src:a695","ids":["af:1839:a695-literati","af:1840:a695-clasificacion-fondo","af:1840:a695-gusztav","af:1840:a695-heidelberg","af:1840:a695-kazmer","af:1840:a695-koos","af:1840:a695-numismatica","af:1840:a695-recepcion","af:1840:a695-turoc","cov:a695:inventario","cov:a695:ocr","cov:a695:visual","evt:1840:a695-koos","evt:1840:a695-rohonc","rel:a695-kisber","rel:a695-rohonc"]}
 {"clave":"src:acs1979","ids":["af:1840:k1357-plenario","ni:k1357-k1393","src:k1357"]}
 {"clave":"src:actas-k1393","ids":["cov:k1393:acceso"]}
-{"clave":"src:actas-k1394","ids":["cov:k1394:sin-facsímil"]}
+{"clave":"src:actas-k1394","ids":["cov:k1394:sin-facsimil"]}
 {"clave":"src:adattar2010-magankonyvtarak","ids":["af:1750:devocionarios","src:p1313-1750-270"]}
 {"clave":"src:arcanum-cedkat-mtak","ids":["af:2026:cedkat-periodo","cov:cedkat:sin-ficha"]}
 {"clave":"src:athenaeum1840-1","ids":["cov:athenaeum1840-1:inventario","cov:athenaeum1840-1:visual","dig:athenaeum1840-1"]}
@@ -56,7 +56,7 @@
 {"clave":"src:jelenkor1840-1","ids":["af:1840:jelenkor:biblioteca","cov:1840:jelenkor1:inventario","cov:1840:jelenkor1:visual"]}
 {"clave":"src:jelenkor1840-2","ids":["af:1840:jelenkor-objetos-separados","af:1840:jelenkor-salterio","af:1840:jelenkor:carbo","af:1840:jelenkor:tarsalkodo","af:1840:jelenkor:turocz","cov:1840:jelenkor2:inventario","cov:1840:jelenkor2:visual"]}
 {"clave":"src:jerney1844","ids":["af:1840:jerney-litografia","af:1840:jerney-vienes","af:1840:referencia","af:1840:reunion-no-identificada","af:1840:vieneses-sin-traslado","af:1844:223","evt:1840:presentacion-k114","evt:1842:jerney","ni:sid41-k114","obj:k114","rel:12","rel:13"]}
-{"clave":"src:k1357","ids":["cov:k1357:sin-facsímil"]}
+{"clave":"src:k1357","ids":["cov:k1357:sin-facsimil"]}
 {"clave":"src:k801-1840-2","ids":["cov:k801-1840-2:sin-copia"]}
 {"clave":"src:k801-1859-2","ids":["cov:k801-1859-2:sin-copia"]}
 {"clave":"src:koltai2002","ids":["af:1644:12-ilustrados","af:1644:entradas","af:1644:secciones","af:1742:gussing-incompleto","af:1742:gussing-volumenes","af:1780:gussing-catolicos","af:1780:gussing-otros","af:1780:gussing-total","cat:1644:nemetujvar","cat:1742:gussing","rel:batthyany1644-adam","src:gussing1742","src:p1322-1644"]}

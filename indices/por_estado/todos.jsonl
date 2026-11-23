@@ -87,9 +87,9 @@
 {"clave":"informe_de_biblioteca_no_individualiza_k114","ids":["ni:ral61-k114"]}
 {"clave":"inscripciones_referidas_por_catalogo_sin_cotejo_de_original","ids":["cov:gussing3-154"]}
 {"clave":"inventario_de_1750_conocido_por_edicion_impresa_original_no_leido","ids":["cov:1750-270"]}
-{"clave":"k1357_tramo_1840_no_obtenido","ids":["cov:k1357:sin-facsímil"]}
+{"clave":"k1357_tramo_1840_no_obtenido","ids":["cov:k1357:sin-facsimil"]}
 {"clave":"k1393_sin_facsímil_ni_acta_rohonc","ids":["cov:k1393:acceso"]}
-{"clave":"k1394_limites_desconocidos","ids":["cov:k1394:sin-facsímil"]}
+{"clave":"k1394_limites_desconocidos","ids":["cov:k1394:sin-facsimil"]}
 {"clave":"lectura_procede_de_edicion_publicada","ids":["cov:4014:sin-copia","cov:4026:sin-copia"]}
 {"clave":"lectura_procede_de_ficha_archivistica","ids":["cov:4066:sin-copia"]}
 {"clave":"limite_seccion_latina_1063","ids":["cov:bibl2:latin"]}
@@ -142,7 +142,7 @@
 {"clave":"serie_sin_tomo_1840","ids":["src:n24-protocollum"]}
 {"clave":"signatura_referida_por_toth_1899_original_no_examinado","ids":["cov:nemeti-olvasasterve","cov:nemeti1889-abc"]}
 {"clave":"signatura_y_microfilme_documentados_sin_reproduccion_original_del_estudio","ids":["cov:ms884:sin-copia"]}
-{"clave":"sin_copia","ids":["cov:1750-270","cov:1752-8obras","cov:4014:sin-copia","cov:4026:sin-copia","cov:4066:sin-copia","cov:eleveltar:bloqueo","cov:gussing1742","cov:gussing1780-copia","cov:gussing1780:sin","cov:gussing2-102","cov:gussing2-170","cov:gussing3-154","cov:gussing4-263","cov:gussing5-63","cov:k1357:sin-facsímil","cov:k1393:acceso","cov:k1394:sin-facsímil","cov:k801-1840-2:sin-copia","cov:k801-1859-2:sin-copia","cov:k801:kurzweil","cov:k801:toldy","cov:mta-diszmuvek274","cov:n24:protocollum1840","cov:n24:rollo-microfilme","cov:nemeti-olvasasterve","cov:nemeti1889-abc","cov:oszk-folhung3006","cov:oszk-fond16-25","cov:oszk-fond16-31","cov:p1313-lad21-29","cov:p1313-lad21-30","cov:p1314-31226","cov:p1314-4759","cov:p1314-53580","cov:p1314-547","cov:p1322-1644","cov:pesther-tageblatt1840","cov:pozsony1795:sin","cov:ral115-1841","cov:ral171:solo-ficha","cov:ral232-1841","cov:ral31-1838:sin-copia","cov:ral50-1840","cov:ral97:solo-ficha","cov:strattmann263","cov:tort215a:sin-copia","cov:tort223:sin-copia","cov:viena1805:sin"]}
+{"clave":"sin_copia","ids":["cov:1750-270","cov:1752-8obras","cov:4014:sin-copia","cov:4026:sin-copia","cov:4066:sin-copia","cov:eleveltar:bloqueo","cov:gussing1742","cov:gussing1780-copia","cov:gussing1780:sin","cov:gussing2-102","cov:gussing2-170","cov:gussing3-154","cov:gussing4-263","cov:gussing5-63","cov:k1357:sin-facsimil","cov:k1393:acceso","cov:k1394:sin-facsimil","cov:k801-1840-2:sin-copia","cov:k801-1859-2:sin-copia","cov:k801:kurzweil","cov:k801:toldy","cov:mta-diszmuvek274","cov:n24:protocollum1840","cov:n24:rollo-microfilme","cov:nemeti-olvasasterve","cov:nemeti1889-abc","cov:oszk-folhung3006","cov:oszk-fond16-25","cov:oszk-fond16-31","cov:p1313-lad21-29","cov:p1313-lad21-30","cov:p1314-31226","cov:p1314-4759","cov:p1314-53580","cov:p1314-547","cov:p1322-1644","cov:pesther-tageblatt1840","cov:pozsony1795:sin","cov:ral115-1841","cov:ral171:solo-ficha","cov:ral232-1841","cov:ral31-1838:sin-copia","cov:ral50-1840","cov:ral97:solo-ficha","cov:strattmann263","cov:tort215a:sin-copia","cov:tort223:sin-copia","cov:viena1805:sin"]}
 {"clave":"sin_identificacion_inequivoca_k114","ids":["cov:bibl1:v"]}
 {"clave":"sin_reconciliacion_documental","ids":["dif:223-224"]}
 {"clave":"solo_referencia_catalografica","ids":["cov:k801:kurzweil","cov:k801:toldy"]}

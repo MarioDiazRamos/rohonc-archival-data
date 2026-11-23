@@ -1,7 +1,7 @@
 {"clave":"src:a1746-iii","ids":["cov:a1746:visual1839-1840"]}
 {"clave":"src:a695","ids":["cov:a695:inventario","cov:a695:ocr","cov:a695:visual"]}
 {"clave":"src:actas-k1393","ids":["cov:k1393:acceso"]}
-{"clave":"src:actas-k1394","ids":["cov:k1394:sin-facsímil"]}
+{"clave":"src:actas-k1394","ids":["cov:k1394:sin-facsimil"]}
 {"clave":"src:arcanum-cedkat-mtak","ids":["cov:cedkat:sin-ficha"]}
 {"clave":"src:athenaeum1840-1","ids":["cov:athenaeum1840-1:inventario","cov:athenaeum1840-1:visual"]}
 {"clave":"src:athenaeum1840-2","ids":["cov:athenaeum1840-2:inventario","cov:athenaeum1840-2:visual"]}
@@ -38,7 +38,7 @@
 {"clave":"src:hursan2025","ids":["cov:hursan2025:texto"]}
 {"clave":"src:jelenkor1840-1","ids":["cov:1840:jelenkor1:inventario","cov:1840:jelenkor1:visual"]}
 {"clave":"src:jelenkor1840-2","ids":["cov:1840:jelenkor2:inventario","cov:1840:jelenkor2:visual"]}
-{"clave":"src:k1357","ids":["cov:k1357:sin-facsímil"]}
+{"clave":"src:k1357","ids":["cov:k1357:sin-facsimil"]}
 {"clave":"src:k801-1840-2","ids":["cov:k801-1840-2:sin-copia"]}
 {"clave":"src:k801-1859-2","ids":["cov:k801-1859-2:sin-copia"]}
 {"clave":"src:kurzweil1839","ids":["cov:k801:kurzweil"]}
