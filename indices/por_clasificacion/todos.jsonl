@@ -1,4 +1,4 @@
-{"clave":"actas_manuscritas","ids":["src:actas-k1393","src:actas-k1398"]}
+{"clave":"actas_manuscritas","ids":["src:actas-k1393","src:actas-k1394","src:actas-k1398"]}
 {"clave":"acuerdo_academico","ids":["af:1840:a695-numismatica","evt:1840:carbo"]}
 {"clave":"agradece_donacion","ids":["rel:a695-kisber","rel:a695-rohonc"]}
 {"clave":"agradecimiento","ids":["af:1840:a695-gusztav","af:1840:a695-kazmer"]}
@@ -10,6 +10,7 @@
 {"clave":"anexo_no_incluido_en_lote","ids":["af:1571:19370-fotos"]}
 {"clave":"anexos_de_carta","ids":["rel:1571:anexos-carta"]}
 {"clave":"anotaciones_historicas","ids":["af:gussing:3-154-notas"]}
+{"clave":"anuncio_de_reanudacion_de_sesiones_ordinarias","ids":["af:1840:toldy-nov12-reanudacion"]}
 {"clave":"articulo_academico","ids":["src:carbo-study","src:csanak1959","src:hursan2019catalogo","src:hursan2022","src:hursan2024axis","src:hursan2025","src:lang2026","src:nemes2003-jankovich","src:orban2018","src:rozsondai2024","src:szabo1866","src:vadas2022","src:virag2024-catalogacion"]}
 {"clave":"articulo_propriedad_literaria","ids":["af:1840:budapesti:schedel"]}
 {"clave":"asiento_de","ids":["rel:3"]}
@@ -25,6 +26,7 @@
 {"clave":"aviso_academico","ids":["evt:1838:nagy-aviso-viena"]}
 {"clave":"aviso_de_donacion","ids":["af:1838:nagy-aviso-viena"]}
 {"clave":"cadena_republicacion","ids":["af:1840:spiegel:republicacion"]}
+{"clave":"calendario_editorial_de_reuniones_ordinarias","ids":["af:1840:czinege-receso-reuniones"]}
 {"clave":"cantidad_cajas_pendientes","ids":["af:1839:cajas-kisber"]}
 {"clave":"cantidad_manuscritos","ids":["af:1743:89mss"]}
 {"clave":"cantidad_unidades_informe_contemporaneo","ids":["af:1840:kisber-2060"]}
@@ -33,7 +35,7 @@
 {"clave":"capitulo_academico","ids":["src:hursan2019teleki"]}
 {"clave":"carta_administrativa_referida","ids":["src:p1313-lad21-30"]}
 {"clave":"carta_archivistica","ids":["src:p1314-1509","src:p1314-1510","src:p1314-1511","src:p1314-3839","src:p1314-4014","src:p1314-4022","src:p1314-4026","src:p1314-4066","src:p1314-8099","src:p1314-9082"]}
-{"clave":"carta_archivistica_referida","ids":["src:p1314-31226","src:p1314-4759","src:p1314-53580"]}
+{"clave":"carta_archivistica_referida","ids":["src:p1314-31226","src:p1314-4759","src:p1314-53580","src:toldy1840-nov12"]}
 {"clave":"carta_catalogada","ids":["src:p1314-547"]}
 {"clave":"carta_con_anexos","ids":["src:porhocs1571"]}
 {"clave":"carta_de","ids":["rel:31226-miklos","rel:53580-zrinyi","rel:hiller-19370"]}
@@ -123,6 +125,7 @@
 {"clave":"duplicacion_de_capturas","ids":["af:1570:108137-fotos"]}
 {"clave":"edicion_catalogo_historico","ids":["src:hursan2023"]}
 {"clave":"edicion_critica","ids":["src:terbe2010"]}
+{"clave":"edicion_critica_de_correspondencia","ids":["src:czinege2024"]}
 {"clave":"edicion_de_inventarios","ids":["src:adattar2010-magankonyvtarak"]}
 {"clave":"edicion_documental","ids":["src:ivanyi1983-hiller"]}
 {"clave":"ejemplar_antiguo_catalogado","ids":["src:gussing2-102","src:gussing2-170","src:gussing3-154","src:gussing4-263","src:gussing5-63"]}
@@ -296,6 +299,7 @@
 {"clave":"referencia_archivistica_citada_en_estudio","ids":["af:1992:k1393-nota15","af:1992:k801-nota29"]}
 {"clave":"referencia_bibliografica","ids":["af:1840:biblio:bucsu","af:1840:biblio:ut"]}
 {"clave":"referencia_bibliotecas_batthyany","ids":["af:1840:figyelmezo-bibliotecas"]}
+{"clave":"referencia_conjunta_a_libros_de_actas","ids":["af:2024:czinege-intervalo-k1393-k1394"]}
 {"clave":"referencia_correspondencia","ids":["af:1839:nagy-carta-febrero","af:1839:toldy-carta-marzo"]}
 {"clave":"referencia_de_acta_segun_estudio","ids":["rel:1840:carbo-actas"]}
 {"clave":"referencia_de_acta_sobre_prestamo_segun_estudio","ids":["rel:1846:k114-k1398"]}
