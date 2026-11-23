@@ -17,3 +17,6 @@
 {"fuente_id":"src:hursan2025","id":"rel:7","objeto_id":"colec:rohonc","predicado":"trasladado_a","sujeto_id":"ent:1813:kezai","tipo":"relaciones"}
 {"fuente_id":"src:hursan2025","id":"rel:8","objeto_id":"colec:rohonc","predicado":"trasladado_a","sujeto_id":"ent:1813:forgach","tipo":"relaciones"}
 {"fuente_id":"src:hursan2025","id":"rel:9","objeto_id":"colec:kisber","predicado":"origen","sujeto_id":"evt:1817:traslado-kisber-rohonc","tipo":"relaciones"}
+{"fuente_id":"src:athenaeum1840-2","id":"rel:athenaeum-nemes","objeto_id":"per:literati-nemes","predicado":"publica_noticia_de","sujeto_id":"src:athenaeum1840-2","tipo":"relaciones"}
+{"fuente_id":"src:hursan2019teleki","id":"rel:ral31-gusztav","objeto_id":"per:batthyany-gusztav","predicado":"carta_de_segun_estudio","sujeto_id":"src:ral31-1838","tipo":"relaciones"}
+{"fuente_id":"src:hursan2019teleki","id":"rel:tort223-nagy","objeto_id":"per:nagy-karoly","predicado":"correspondencia_de_segun_estudio","sujeto_id":"src:tort223","tipo":"relaciones"}

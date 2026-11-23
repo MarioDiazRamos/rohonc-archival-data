@@ -1,1 +1,2 @@
 {"afirmaciones":["af:1844:223","af:catalogo:224"],"atributo":"numero_hojas_o_folios","entidad_id":"obj:k114","estado":"sin_reconciliacion_documental","id":"dif:223-224","tipo":"discrepancias"}
+{"afirmaciones":["af:1839:kisber-2660","af:1840:kisber-2060"],"atributo":"cifras_con_diferente_unidad_o_contexto","entidad_id":"colec:kisber","estado":"no_reconciliadas","id":"dif:kisber-cifras-2060-2660","tipo":"discrepancias"}
