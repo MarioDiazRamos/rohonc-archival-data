@@ -61,7 +61,7 @@
         ],
         "cobertura": [
           {
-            "bytes": 51230,
+            "bytes": 51353,
             "cantidad": 160,
             "prefijo": "",
             "ruta": "datos/cobertura/todos.jsonl"
@@ -101,7 +101,7 @@
         ],
         "fuentes": [
           {
-            "bytes": 61409,
+            "bytes": 61905,
             "cantidad": 183,
             "prefijo": "",
             "ruta": "datos/fuentes/todos.jsonl"
