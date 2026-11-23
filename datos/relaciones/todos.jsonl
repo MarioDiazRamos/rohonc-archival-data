@@ -14,6 +14,7 @@
 {"fuente_id":"src:evkonyv1842v","id":"rel:1838:oferta-delegado-nagy","objeto_id":"per:nagy-karoly","predicado":"faculto_entrega_de_libros_en_carta_publicada","sujeto_id":"evt:1838:ofrecimiento","tipo":"relaciones"}
 {"fuente_id":"src:carbo-study","id":"rel:1840:carbo-actas","objeto_id":"src:actas-k1393","predicado":"referencia_de_acta_segun_estudio","sujeto_id":"evt:1840:carbo","tipo":"relaciones"}
 {"fuente_id":"src:catalogo1984","id":"rel:1840:ral218219-k801","objeto_id":"src:k801-1840-2","predicado":"vinculado_en_descripcion_de_copia_en_limpio","sujeto_id":"src:ral218219-1840","tipo":"relaciones"}
+{"fuente_id":"src:csanak1992","id":"rel:1846:k114-k1398","objeto_id":"src:actas-k1398","predicado":"referencia_de_acta_sobre_prestamo_segun_estudio","sujeto_id":"obj:k114","tipo":"relaciones"}
 {"fuente_id":"src:fischer1889","id":"rel:1885-julg-k114","objeto_id":"obj:k114","predicado":"cita_tarjeta_del_estuche","sujeto_id":"evt:1885:julg","tipo":"relaciones"}
 {"fuente_id":"src:fischer1889","id":"rel:1889-fischer-k114","objeto_id":"obj:k114","predicado":"describe","sujeto_id":"src:fischer1889","tipo":"relaciones"}
 {"fuente_id":"src:codice-k114-catalogo","id":"rel:2","objeto_id":"src:codice-k114-catalogo","predicado":"signatura_catalogada_en","sujeto_id":"obj:k114","tipo":"relaciones"}
