@@ -5,8 +5,9 @@
 {"clave":"ent:1813:kezai","ids":["rel:4","rel:7"]}
 {"clave":"ent:1813:kolinovits","ids":["rel:6"]}
 {"clave":"evt:1817:traslado-kisber-rohonc","ids":["rel:10","rel:9"]}
-{"clave":"evt:1838:ofrecimiento","ids":["rel:11"]}
+{"clave":"evt:1838:ofrecimiento","ids":["rel:11","rel:1838:oferta-delegado-nagy"]}
 {"clave":"evt:1839:visita-rohonc","ids":["rel:14"]}
+{"clave":"evt:1840:carbo","ids":["rel:1840:carbo-actas"]}
 {"clave":"evt:1840:presentacion-k114","ids":["rel:12"]}
 {"clave":"evt:1842:jerney","ids":["rel:13"]}
 {"clave":"evt:1885:julg","ids":["rel:1885-julg-k114"]}
@@ -39,6 +40,7 @@
 {"clave":"src:p1314-8099","ids":["rel:8099-elias"]}
 {"clave":"src:p1322-1644","ids":["rel:batthyany1644-adam"]}
 {"clave":"src:ral115-1841","ids":["rel:literati-ral115"]}
+{"clave":"src:ral218219-1840","ids":["rel:1840:ral218219-k801"]}
 {"clave":"src:ral232-1841","ids":["rel:nemesy-ral232"]}
 {"clave":"src:ral31-1838","ids":["rel:ral31-gusztav"]}
 {"clave":"src:ral50-1840","ids":["rel:koos-ral50"]}

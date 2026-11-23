@@ -14,14 +14,16 @@
 {"clave":"per:koos-karoly","ids":["rel:koos-ral50"]}
 {"clave":"per:literati-nemes","ids":["rel:athenaeum-nemes","rel:literati-ral115","rel:soproni-literati"]}
 {"clave":"per:miklos-deak-1571","ids":["rel:31226-miklos"]}
-{"clave":"per:nagy-karoly","ids":["rel:tort223-nagy"]}
+{"clave":"per:nagy-karoly","ids":["rel:1838:oferta-delegado-nagy","rel:tort223-nagy"]}
 {"clave":"per:nemesy-janos","ids":["rel:nemesy-ral232"]}
 {"clave":"per:sibrik-matyas","ids":["rel:31226-sibrik"]}
 {"clave":"per:svetkovics-katalin","ids":["rel:3839-svetkovics"]}
 {"clave":"per:zrinyi-gyorgy","ids":["rel:53580-zrinyi"]}
+{"clave":"src:actas-k1393","ids":["rel:1840:carbo-actas"]}
 {"clave":"src:bibl2","ids":["rel:4","rel:5","rel:6"]}
 {"clave":"src:cat1743","ids":["rel:3"]}
 {"clave":"src:codice-k114-catalogo","ids":["rel:2"]}
 {"clave":"src:gussing1780","ids":["rel:gussing1780-copia"]}
+{"clave":"src:k801-1840-2","ids":["rel:1840:ral218219-k801"]}
 {"clave":"src:pesther-tageblatt1840","ids":["rel:tageblatt-athenaeum"]}
 {"clave":"src:porhocs1571","ids":["rel:1571:anexos-carta"]}
