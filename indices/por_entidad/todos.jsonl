@@ -70,7 +70,7 @@
 {"clave":"evt:1842:jerney","ids":["rel:13"]}
 {"clave":"evt:1885:julg","ids":["rel:1885-julg-k114"]}
 {"clave":"inst:mnl-ol","ids":["obj:anexos1571","src:catalogo-p1314","src:gussing1780-copia","src:mnl-p1314-informacion","src:p1313-1750-270","src:p1313-lad21-29","src:p1313-lad21-30","src:p1314-1073","src:p1314-1074","src:p1314-1076","src:p1314-1077","src:p1314-1078","src:p1314-1079","src:p1314-1080","src:p1314-108137","src:p1314-108143","src:p1314-1509","src:p1314-1510","src:p1314-1511","src:p1314-19367","src:p1314-19368","src:p1314-19369","src:p1314-19370","src:p1314-19372","src:p1314-19376","src:p1314-31226","src:p1314-3777","src:p1314-3839","src:p1314-3901","src:p1314-3903","src:p1314-3933","src:p1314-3959","src:p1314-3960","src:p1314-3983-a","src:p1314-3985","src:p1314-3992","src:p1314-3993","src:p1314-4014","src:p1314-4015","src:p1314-4022","src:p1314-4026","src:p1314-4035","src:p1314-4058","src:p1314-4066","src:p1314-4067","src:p1314-4068","src:p1314-4089","src:p1314-4109","src:p1314-4759","src:p1314-53580","src:p1314-547","src:p1314-8099","src:p1314-9082","src:p1317-1752-8obras","src:p1322-1644","src:porhocs1571","src:strattmann263"]}
-{"clave":"inst:mta-kik","ids":["obj:k114","rel:1","rel:15","rel:16","rel:17","src:a695","src:actas-k1393","src:actas-k1398","src:bibl1","src:bibl2","src:cat1743","src:catpozsony1795","src:catvienna1805","src:codex-k114","src:codice-k114-catalogo","src:k801-1840-2","src:k801-1859-2","src:kurzweil1839","src:mta-diszmuvek274","src:nemeti-olvasasterve","src:nemeti1889-abc","src:ral115-1841","src:ral218219-1840","src:ral232-1841","src:ral31-1838","src:ral50-1840","src:reali2216","src:realms80","src:soproni-vegyes4r63","src:toldy1839-mayo12","src:toldy1839-mayo20","src:tort215a","src:tort223"]}
+{"clave":"inst:mta-kik","ids":["obj:k114","rel:1","rel:15","rel:16","rel:17","src:a695","src:actas-k1393","src:actas-k1394","src:actas-k1398","src:bibl1","src:bibl2","src:cat1743","src:catpozsony1795","src:catvienna1805","src:codex-k114","src:codice-k114-catalogo","src:k801-1840-2","src:k801-1859-2","src:kurzweil1839","src:mta-diszmuvek274","src:nemeti-olvasasterve","src:nemeti1889-abc","src:ral115-1841","src:ral218219-1840","src:ral232-1841","src:ral31-1838","src:ral50-1840","src:reali2216","src:realms80","src:soproni-vegyes4r63","src:toldy1839-mayo12","src:toldy1839-mayo20","src:toldy1840-nov12","src:tort215a","src:tort223"]}
 {"clave":"lugar:rohonc","ids":["rel:14"]}
 {"clave":"lugar:torony","ids":["evt:1571:carta-porhocs"]}
 {"clave":"lugar:viena","ids":["evt:1743:catalogo","evt:1838:nagy-aviso-viena"]}
@@ -100,7 +100,7 @@
 {"clave":"per:nemeti-kalman","ids":["src:nemeti-olvasasterve","src:nemeti1889-abc"]}
 {"clave":"per:porhocs-farkas","ids":["evt:1571:carta-porhocs","src:porhocs1571"]}
 {"clave":"per:rozsondai-bela","ids":["src:rozsondai2024"]}
-{"clave":"per:sche-del-ferenc","ids":["af:1840:a695-recepcion","evt:1839:toldy-nagy-marzo","evt:1839:visita-rohonc","evt:1840:presentacion-k114","evt:1844:apertura","src:toldy1846"]}
+{"clave":"per:sche-del-ferenc","ids":["af:1840:a695-recepcion","evt:1839:toldy-nagy-marzo","evt:1839:visita-rohonc","evt:1840:presentacion-k114","evt:1844:apertura","src:toldy1840-nov12","src:toldy1846"]}
 {"clave":"per:sibrik-matyas","ids":["rel:31226-sibrik"]}
 {"clave":"per:svetkovics-katalin","ids":["evt:1549:svetkovics","rel:3839-svetkovics","src:p1314-3839","src:p1314-4022"]}
 {"clave":"per:szabo-karoly","ids":["src:szabo1866"]}
@@ -109,6 +109,7 @@
 {"clave":"per:zrinyi-gyorgy","ids":["rel:53580-zrinyi"]}
 {"clave":"src:a695","ids":["af:1840:a695-clasificacion-fondo","af:1840:a695-turoc","ni:a695-ral218219-fechas","rel:a695-kisber","rel:a695-rohonc"]}
 {"clave":"src:actas-k1393","ids":["af:1840:k1393-carbo-localizador","af:1992:k1393-nota15","rel:17","rel:1840:carbo-actas"]}
+{"clave":"src:actas-k1394","ids":["af:2024:czinege-intervalo-k1393-k1394"]}
 {"clave":"src:actas-k1398","ids":["rel:1846:k114-k1398"]}
 {"clave":"src:athenaeum1840-2","ids":["rel:athenaeum-nemes","rel:tageblatt-athenaeum"]}
 {"clave":"src:bibl1","ids":["rel:15"]}
@@ -118,6 +119,7 @@
 {"clave":"src:catpozsony1795","ids":["af:1795:catalogo"]}
 {"clave":"src:catvienna1805","ids":["af:1805:catalogo"]}
 {"clave":"src:codice-k114-catalogo","ids":["rel:2"]}
+{"clave":"src:czinege2024","ids":["af:1840:czinege-receso-reuniones"]}
 {"clave":"src:evkonyv1842v","ids":["af:1840:evkonyv-adquisiciones","af:1840:evkonyv-informe","af:1840:evkonyv-reglas","af:1840:evkonyv-sesiones"]}
 {"clave":"src:fischer1889","ids":["rel:1889-fischer-k114"]}
 {"clave":"src:gussing1742","ids":["af:1742:gussing-incompleto","af:1742:gussing-volumenes"]}
@@ -205,5 +207,6 @@
 {"clave":"src:strattmann263","ids":["af:strattmann:entradas","af:strattmann:fechas","af:strattmann:volumenes"]}
 {"clave":"src:tarsalkodo1840","ids":["af:1840:tarsalkodo-informe","af:1840:tarsalkodo-otras-piezas"]}
 {"clave":"src:toldy1839-mayo12","ids":["af:1839:toldy-mayo12","af:1992:k801-nota29"]}
+{"clave":"src:toldy1840-nov12","ids":["af:1840:toldy-nov12-reanudacion"]}
 {"clave":"src:tort223","ids":["rel:tort223-nagy"]}
 {"clave":"src:tudomanytar1840-e8","ids":["dif:1840-turoc-fechas"]}
