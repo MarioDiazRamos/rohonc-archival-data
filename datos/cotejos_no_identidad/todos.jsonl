@@ -1,5 +1,8 @@
 {"derecha_id":"obj:k114","estado":"identidad_material_no_demostrada","fuente_id":"src:hursan2023","id":"ni:1743-evangelistas-k114","izquierda_id":"ent:1743:evangelistas","tipo":"cotejos_no_identidad"}
 {"derecha_id":"obj:k114","estado":"identidad_material_no_demostrada","fuente_id":"src:hursan2023","id":"ni:1743-exercitia-k114","izquierda_id":"ent:1743:pia-exercitia","tipo":"cotejos_no_identidad"}
 {"derecha_id":"obj:k114","estado":"identidad_material_no_demostrada","fuente_id":"src:lang2026","id":"ni:anexos1571-k114","izquierda_id":"obj:anexos1571","tipo":"cotejos_no_identidad"}
+{"derecha_id":"per:balazs-deak","estado":"homonimia_y_identidad_personal_no_resueltas","fuente_id":"src:terbe2010","id":"ni:balas-balazs","izquierda_id":"per:balas-deak","tipo":"cotejos_no_identidad"}
 {"derecha_id":"obj:k114","estado":"testimonio_corresponde_a_otro_codice","fuente_id":"src:carbo-study","id":"ni:carbo-k114","izquierda_id":"evt:1840:carbo","tipo":"cotejos_no_identidad"}
+{"derecha_id":"obj:k114","estado":"identidad_de_texto_modelo_o_ejemplar_no_probada","fuente_id":"src:monok2004-batthyany","id":"ni:gussing2-170-k114","izquierda_id":"src:gussing2-170","tipo":"cotejos_no_identidad"}
+{"derecha_id":"obj:k114","estado":"identidad_de_texto_modelo_o_ejemplar_no_probada","fuente_id":"src:monok2004-batthyany","id":"ni:gussing5-63-k114","izquierda_id":"src:gussing5-63","tipo":"cotejos_no_identidad"}
 {"derecha_id":"obj:k114","estado":"identidad_no_demostrada","fuente_id":"src:jerney1844","id":"ni:sid41-k114","izquierda_id":"ent:1743:sid41","localizador":{"pagina_impresa":33},"tipo":"cotejos_no_identidad"}

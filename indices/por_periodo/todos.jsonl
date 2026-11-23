@@ -1,15 +1,27 @@
+{"clave":"1475","ids":["src:gussing2-170"]}
 {"clave":"1490","ids":["src:gussing2-102"]}
 {"clave":"1507","ids":["src:gussing4-263"]}
-{"clave":"1549","ids":["evt:1549:svetkovics","src:p1314-3839"]}
+{"clave":"1549","ids":["evt:1549:svetkovics","src:gussing5-63","src:p1314-3839"]}
 {"clave":"1549-01-01","ids":["evt:1549:svetkovics","src:p1314-3839"]}
-{"clave":"1569","ids":["src:p1314-4014"]}
+{"clave":"1566","ids":["src:p1314-547"]}
+{"clave":"1566-10-06","ids":["src:p1314-547"]}
+{"clave":"1568","ids":["src:p1314-3959","src:p1314-3960","src:p1314-4015"]}
+{"clave":"1568-11-01","ids":["src:p1314-4015"]}
+{"clave":"1568-11-05","ids":["src:p1314-3959"]}
+{"clave":"1568-11-06","ids":["src:p1314-3960"]}
+{"clave":"1569","ids":["src:p1314-3985","src:p1314-3992","src:p1314-3993","src:p1314-4014"]}
+{"clave":"1569-04-02","ids":["src:p1314-3985"]}
+{"clave":"1569-05-18","ids":["src:p1314-3992"]}
+{"clave":"1569-05-19","ids":["src:p1314-3993"]}
 {"clave":"1569-10-20","ids":["src:p1314-4014"]}
-{"clave":"1570","ids":["src:p1314-19367","src:p1314-4022","src:p1314-4026","src:p1314-9082"]}
+{"clave":"1570","ids":["src:p1314-108137","src:p1314-19367","src:p1314-4022","src:p1314-4026","src:p1314-4035","src:p1314-9082"]}
 {"clave":"1570-01-16","ids":["src:p1314-4022"]}
 {"clave":"1570-02-10","ids":["src:p1314-4026"]}
+{"clave":"1570-03-18","ids":["src:p1314-4035"]}
 {"clave":"1570-04-22","ids":["src:p1314-19367"]}
 {"clave":"1570-05-25","ids":["src:p1314-9082"]}
-{"clave":"1571","ids":["evt:1571:carta-porhocs","src:p1314-1509","src:p1314-1510","src:p1314-1511","src:p1314-19368","src:p1314-19369","src:p1314-19370","src:p1314-4066","src:p1314-4759","src:porhocs1571"]}
+{"clave":"1571","ids":["evt:1571:carta-porhocs","src:p1314-1073","src:p1314-108143","src:p1314-1509","src:p1314-1510","src:p1314-1511","src:p1314-19368","src:p1314-19369","src:p1314-19370","src:p1314-31226","src:p1314-4058","src:p1314-4066","src:p1314-4759","src:p1314-53580","src:porhocs1571"]}
+{"clave":"1571-02-09","ids":["src:p1314-108143"]}
 {"clave":"1571-02-23","ids":["src:p1314-19368"]}
 {"clave":"1571-03-04","ids":["src:p1314-1509","src:p1314-4759"]}
 {"clave":"1571-03-05","ids":["src:p1314-19369"]}
@@ -17,9 +29,20 @@
 {"clave":"1571-04-04","ids":["src:p1314-1511"]}
 {"clave":"1571-04-30","ids":["src:p1314-1510"]}
 {"clave":"1571-06-28","ids":["evt:1571:carta-porhocs","src:porhocs1571"]}
+{"clave":"1571-10-25","ids":["src:p1314-31226"]}
+{"clave":"1571-10-28","ids":["src:p1314-4058","src:p1314-53580"]}
 {"clave":"1571-11-28","ids":["src:p1314-4066"]}
-{"clave":"1577","ids":["evt:1577:corvinus","src:p1314-8099"]}
+{"clave":"1571-12-14","ids":["src:p1314-1073"]}
+{"clave":"1572","ids":["src:p1314-4089"]}
+{"clave":"1572-07-21","ids":["src:p1314-4089"]}
+{"clave":"1573","ids":["src:p1314-1074"]}
+{"clave":"1573-10-31","ids":["src:p1314-1074"]}
+{"clave":"1577","ids":["evt:1577:corvinus","src:p1314-1076","src:p1314-8099"]}
 {"clave":"1577-09-12","ids":["evt:1577:corvinus","src:p1314-8099"]}
+{"clave":"1588","ids":["src:p1314-1077"]}
+{"clave":"1588-06-23","ids":["src:p1314-1077"]}
+{"clave":"1644","ids":["cat:1644:nemetujvar","evt:1644:inventario","src:p1322-1644"]}
+{"clave":"1742","ids":["cat:1742:gussing","src:gussing1742"]}
 {"clave":"1743","ids":["cat:1743:viena","evt:1743:catalogo","src:cat1743"]}
 {"clave":"1746","ids":["src:p1313-lad21-29"]}
 {"clave":"1750","ids":["src:p1313-1750-270"]}
@@ -28,7 +51,7 @@
 {"clave":"1756","ids":["evt:1756:traslado-papeles","src:p1313-lad21-30"]}
 {"clave":"1756-04-04","ids":["evt:1756:traslado-papeles","src:p1313-lad21-30"]}
 {"clave":"1779","ids":["cat:gussing1779","src:gussing1779"]}
-{"clave":"1780","ids":["cat:gussing1780","src:gussing1780"]}
+{"clave":"1780","ids":["cat:gussing1780","src:gussing1780","src:gussing1780-copia"]}
 {"clave":"1795","ids":["cat:pozsony1795","src:catpozsony1795"]}
 {"clave":"1805","ids":["cat:viena1805","src:catvienna1805"]}
 {"clave":"1813","ids":["cat:1813:kisber","evt:1813:inventario"]}
@@ -36,8 +59,9 @@
 {"clave":"1817","ids":["cat:1817:traslados-lista1","cat:1817:traslados-lista2","evt:1817:traslado-kisber-rohonc"]}
 {"clave":"1817-1818","ids":["cat:1817:traslados-lista1","cat:1817:traslados-lista2"]}
 {"clave":"1818","ids":["cat:1817:traslados-lista1","cat:1817:traslados-lista2"]}
-{"clave":"1838","ids":["evt:1838:nagy-toldy-diciembre","evt:1838:ofrecimiento","src:actas-k1393","src:ral31-1838","src:tort223"]}
+{"clave":"1838","ids":["evt:1838:nagy-aviso-viena","evt:1838:nagy-toldy-diciembre","evt:1838:ofrecimiento","src:actas-k1393","src:ral31-1838","src:tort223"]}
 {"clave":"1838-09-25","ids":["evt:1838:ofrecimiento","src:ral31-1838"]}
+{"clave":"1838-09-30","ids":["evt:1838:nagy-aviso-viena"]}
 {"clave":"1838-12-13","ids":["evt:1838:nagy-toldy-diciembre"]}
 {"clave":"1838-1839","ids":["src:tort223"]}
 {"clave":"1838-1840","ids":["src:actas-k1393"]}
@@ -71,6 +95,7 @@
 {"clave":"1983","ids":["src:ivanyi1983-hiller"]}
 {"clave":"1984","ids":["src:catalogo1984"]}
 {"clave":"1992","ids":["src:csanak1992"]}
+{"clave":"2002","ids":["src:koltai2002"]}
 {"clave":"2003","ids":["src:nemes2003-jankovich"]}
 {"clave":"2004","ids":["src:monok2004-batthyany"]}
 {"clave":"2007","ids":["src:bobory2007-tesis"]}
@@ -85,6 +110,7 @@
 {"clave":"2025","ids":["src:hursan2025"]}
 {"clave":"2026","ids":["src:lang2026"]}
 {"clave":"2026-10-14","ids":["src:lang2026"]}
+{"clave":"c. 1475","ids":["src:gussing2-170"]}
 {"clave":"c. 1746","ids":["src:p1313-lad21-29"]}
 {"clave":"c. 1841","ids":["src:oszk-fond16-25"]}
 {"clave":"circa 1814","ids":["cat:1814:rohonc-v"]}
