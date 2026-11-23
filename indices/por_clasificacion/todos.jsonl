@@ -1,4 +1,4 @@
-{"clave":"actas_manuscritas","ids":["src:actas-k1393"]}
+{"clave":"actas_manuscritas","ids":["src:actas-k1393","src:actas-k1398"]}
 {"clave":"acuerdo_academico","ids":["af:1840:a695-numismatica","evt:1840:carbo"]}
 {"clave":"agradece_donacion","ids":["rel:a695-kisber","rel:a695-rohonc"]}
 {"clave":"agradecimiento","ids":["af:1840:a695-gusztav","af:1840:a695-kazmer"]}
@@ -298,6 +298,7 @@
 {"clave":"referencia_bibliotecas_batthyany","ids":["af:1840:figyelmezo-bibliotecas"]}
 {"clave":"referencia_correspondencia","ids":["af:1839:nagy-carta-febrero","af:1839:toldy-carta-marzo"]}
 {"clave":"referencia_de_acta_segun_estudio","ids":["rel:1840:carbo-actas"]}
+{"clave":"referencia_de_acta_sobre_prestamo_segun_estudio","ids":["rel:1846:k114-k1398"]}
 {"clave":"referencia_facsímil_distinto","ids":["af:1840:biblio:jerney"]}
 {"clave":"referencia_otra_tematica","ids":["af:1840:biblio:rohonci"]}
 {"clave":"registro_de_donacion","ids":["af:1840:koos-ral50"]}
@@ -322,6 +323,7 @@
 {"clave":"signatura_anterior","ids":["af:signatura:antigua"]}
 {"clave":"signatura_catalogada_en","ids":["rel:2"]}
 {"clave":"signatura_de_manuscrito_de_estudio","ids":["af:1899:toth-nemeti-abc","af:1899:toth-nemeti-plan"]}
+{"clave":"solicitud_y_decision_prestamo_k114","ids":["af:1846:szabo-jozsef-prestamo-k114"]}
 {"clave":"subrayado_gris_visible_en_pasaje_libros","ids":["af:1571:subrayado-libros-fotografia"]}
 {"clave":"subrayado_referencia_libros_atribuido_en_estudio","ids":["af:ivanyi:libros-porhocs1571"]}
 {"clave":"subrayados_posteriores_en_fondo_segun_estudio","ids":["af:ivanyi:subrayados-vadas2022"]}
