@@ -1,3 +1,5 @@
+{"clave":"ent:1743:evangelistas","ids":["rel:1743-evangelistas"]}
+{"clave":"ent:1743:pia-exercitia","ids":["rel:1743-exercitia"]}
 {"clave":"ent:1743:sid41","ids":["rel:3"]}
 {"clave":"ent:1813:forgach","ids":["rel:5","rel:8"]}
 {"clave":"ent:1813:kezai","ids":["rel:4","rel:7"]}
@@ -7,11 +9,16 @@
 {"clave":"evt:1839:visita-rohonc","ids":["rel:14"]}
 {"clave":"evt:1840:presentacion-k114","ids":["rel:12"]}
 {"clave":"evt:1842:jerney","ids":["rel:13"]}
+{"clave":"evt:1885:julg","ids":["rel:1885-julg-k114"]}
 {"clave":"obj:anexos1571","ids":["rel:1571:anexos-carta","rel:1571:escritura-k114"]}
 {"clave":"obj:k114","ids":["rel:1","rel:2"]}
+{"clave":"src:a695","ids":["rel:a695-kisber","rel:a695-rohonc"]}
 {"clave":"src:actas-k1393","ids":["rel:17"]}
 {"clave":"src:athenaeum1840-2","ids":["rel:athenaeum-nemes"]}
 {"clave":"src:bibl1","ids":["rel:15"]}
 {"clave":"src:bibl2","ids":["rel:16"]}
+{"clave":"src:fischer1889","ids":["rel:1889-fischer-k114"]}
+{"clave":"src:p1314-3839","ids":["rel:3839-svetkovics"]}
+{"clave":"src:p1314-8099","ids":["rel:8099-elias"]}
 {"clave":"src:ral31-1838","ids":["rel:ral31-gusztav"]}
 {"clave":"src:tort223","ids":["rel:tort223-nagy"]}
