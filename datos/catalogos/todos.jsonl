@@ -6,4 +6,5 @@
 {"acceso_original":"parcial_o_sin_lectura","coleccion_literal":"Biblioteca franciscana de Güssing","fecha":"1779","fuente_id":"src:gussing1779","id":"cat:gussing1779","tipo":"catalogos"}
 {"acceso_original":"parcial_o_sin_lectura","coleccion_literal":"Biblioteca de Güssing","fecha":"1780","fuente_id":"src:gussing1780","id":"cat:gussing1780","tipo":"catalogos"}
 {"acceso_original":"sin_copia","coleccion_literal":"Biblioteca de Fülöp Batthyány","fecha":"1795","fuente_id":"src:catpozsony1795","id":"cat:pozsony1795","tipo":"catalogos"}
+{"coleccion_id":"colec:strattmann","fuente_id":"src:strattmann263","id":"cat:strattmann263","testimonio":"src:hursan2025","tipo":"catalogos","titulaciones":{"entradas":916,"volumenes":1246}}
 {"acceso_original":"sin_copia","coleccion_literal":"Biblioteca de Tivadar Batthyány","fecha":"1805","fuente_id":"src:catvienna1805","id":"cat:viena1805","tipo":"catalogos"}
