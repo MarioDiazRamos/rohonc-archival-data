@@ -1,7 +1,9 @@
+{"clave":"13_y_23_de_junio_sin_determinar_si_actos_diferentes","ids":["dif:1840-turoc-fechas"]}
 {"clave":"1_fotografias_originales_recuperadas_y_cotejadas_en_informe_de_noviembre_sin_transcripcion_paleografica_integral","ids":["cov:p1314-1074","cov:p1314-1080"]}
 {"clave":"200_paginas_pdf_inventariadas_sin_k114","ids":["cov:1840:nemzeti1:inventario"]}
 {"clave":"204_paginas_pdf_inventariadas_faltan_numeros_51_52","ids":["cov:1840:nemzeti2:inventario"]}
 {"clave":"208_paginas_pdf_examinadas_por_busqueda_textual","ids":["cov:1840:jelenkor1:inventario","cov:1840:jelenkor2:inventario"]}
+{"clave":"20_paginas_con_texto_digital_ausente_representadas_en_mosaicos_en_examen_anterior_no_revision_diplomatica_integral","ids":["cov:spiegel-1840-1:sin-texto"]}
 {"clave":"21_fotogramas_inspeccionados_selectivamente","ids":["cov:a695:visual"]}
 {"clave":"263_paginas_pdf_cribado_textual_sin_k114","ids":["cov:1840:budapesti2:inventario"]}
 {"clave":"264_de_857_fotogramas_en_ocr_preexistente_deficiente","ids":["cov:a695:ocr"]}
@@ -12,6 +14,7 @@
 {"clave":"504_paginas_pdf_inventariadas_sin_transcripcion_integral","ids":["cov:1840:spiegel1:inventario"]}
 {"clave":"572_paginas_pdf_inventariadas_sin_transcripcion_integral","ids":["cov:1840:spiegel2:inventario"]}
 {"clave":"660_paginas_inventariadas_653_con_texto","ids":["cov:evkonyv:inventario"]}
+{"clave":"83_paginas_con_texto_insuficiente_representadas_en_mosaicos_en_examen_anterior_no_revision_diplomatica_integral","ids":["cov:spiegel-1840-2:sin-texto"]}
 {"clave":"857_fotogramas_inventariados_sin_transcripcion_completa","ids":["cov:a695:inventario"]}
 {"clave":"86_paginas_pdf_inventariadas","ids":["cov:1840:biblio:inventario"]}
 {"clave":"atlas_localizador_sin_transcripcion","ids":["cov:bibl1:atlas"]}
@@ -22,7 +25,7 @@
 {"clave":"carta_y_edicion_con_discrepancia_idioma","ids":["cov:3839:visual"]}
 {"clave":"carta_y_exterior","ids":["cov:4022:visual"]}
 {"clave":"catalogado","ids":["src:codex-k114"]}
-{"clave":"catalogado_sin_copia","ids":["src:actas-k1393","src:catpozsony1795","src:catvienna1805","src:gussing1780","src:gussing2-102","src:gussing3-154","src:gussing4-263","src:k801-1840-2","src:k801-1859-2","src:kurzweil1839","src:nemeti-olvasasterve","src:nemeti1889-abc","src:p1313-1750-270","src:p1314-4014","src:p1314-4026","src:p1314-4066","src:p1314-4759","src:p1317-1752-8obras","src:ral31-1838","src:toldy1839-mayo12","src:toldy1839-mayo20","src:tort215a","src:tort223"]}
+{"clave":"catalogado_sin_copia","ids":["src:actas-k1393","src:catpozsony1795","src:catvienna1805","src:gussing1780","src:gussing2-102","src:gussing3-154","src:gussing4-263","src:k801-1840-2","src:k801-1859-2","src:kurzweil1839","src:mta-diszmuvek274","src:nemeti-olvasasterve","src:nemeti1889-abc","src:oszk-folhung3006","src:oszk-fond16-25","src:oszk-fond16-31","src:p1313-1750-270","src:p1313-lad21-29","src:p1313-lad21-30","src:p1314-4014","src:p1314-4026","src:p1314-4066","src:p1314-4759","src:p1317-1752-8obras","src:ral115-1841","src:ral232-1841","src:ral31-1838","src:ral50-1840","src:strattmann263","src:toldy1839-mayo12","src:toldy1839-mayo20","src:tort215a","src:tort223"]}
 {"clave":"completo","ids":["cov:1840:anuario4:inventario","cov:1840:biblio:inventario","cov:1840:budapesti1:inventario","cov:1840:budapesti2:inventario","cov:1840:jelenkor1:inventario","cov:1840:jelenkor2:inventario","cov:1840:nemzeti1:inventario","cov:1840:nemzeti2:inventario","cov:1840:spiegel1:inventario","cov:1840:spiegel2:inventario","cov:a695:inventario","cov:athenaeum1840-1:inventario","cov:athenaeum1840-2:inventario","cov:bibl1:metadatos","cov:bibl2:metadatos","cov:evkonyv:inventario","cov:hursan2025:texto"]}
 {"clave":"completo_en_segmento","ids":["cov:bibl1:atlas","cov:bibl1:v"]}
 {"clave":"copia_obtenida","ids":["src:a695","src:athenaeum1840-1","src:athenaeum1840-2","src:bibl1","src:bibl2","src:biblio1840","src:budapesti1840-1","src:budapesti1840-2","src:ertesito1840","src:evkonyv1840-4","src:evkonyv1842v","src:fischer1889","src:hasznos1840-1","src:hasznos1840-2","src:hirnok1840","src:hursan2025","src:jelenkor1840-1","src:jelenkor1840-2","src:nemzeti1840-1","src:nemzeti1840-2","src:nevkonyv1840","src:p1314-1074","src:p1314-1078","src:p1314-1079","src:p1314-1080","src:p1314-1509","src:p1314-1510","src:p1314-1511","src:p1314-19367","src:p1314-19368","src:p1314-19369","src:p1314-19370","src:p1314-19372","src:p1314-19376","src:p1314-3839","src:p1314-4022","src:p1314-8099","src:p1314-9082","src:porhocs1571","src:regelo1840-1","src:regelo1840-2","src:spiegel1840-1","src:spiegel1840-2","src:toth1899","src:tudgyujtemeny1840","src:tudomanytar1840-e8","src:tudomanytar1840-l4"]}
@@ -35,7 +38,7 @@
 {"clave":"dos_fotografias_sha256_coincidentes_y_dimensiones_verificadas;transcripcion_diplomatica_integral_pendiente","ids":["cov:p1314-9082:20261122"]}
 {"clave":"dos_fotos_originales_fecha_30_abril","ids":["cov:1510:visual"]}
 {"clave":"dos_fotos_originales_fecha_4_abril","ids":["cov:1511:visual"]}
-{"clave":"enlace_publico","ids":["src:adattar2010-magankonyvtarak","src:barath2022","src:carbo-study","src:catalogo-p1314","src:catalogo1984","src:codice-k114-catalogo","src:csanak1959","src:csanak1992","src:figyelmezo1840","src:hursan2019catalogo","src:hursan2019teleki","src:hursan2020","src:hursan2022","src:hursan2023","src:hursan2024axis","src:informe1841","src:ivanyi1983-hiller","src:jerney1844","src:lang2026","src:mnl-p1314-informacion","src:monok2004-batthyany","src:orban2018","src:reali2216","src:realms80","src:szazadunk1840","src:tarsalkodo1840","src:terbe2010","src:vadas2022","src:virag2024-catalogacion"]}
+{"clave":"enlace_publico","ids":["src:adattar2010-magankonyvtarak","src:barath2022","src:carbo-study","src:catalogo-p1314","src:catalogo1984","src:codice-k114-catalogo","src:csanak1959","src:csanak1992","src:figyelmezo1840","src:hursan2019catalogo","src:hursan2019teleki","src:hursan2020","src:hursan2022","src:hursan2023","src:hursan2024axis","src:informe1841","src:ivanyi1983-hiller","src:jerney1844","src:lang2026","src:mnl-p1314-informacion","src:monok2004-batthyany","src:nemes2003-jankovich","src:orban2018","src:reali2216","src:realms80","src:rozsondai2024","src:soproni-vegyes4r63","src:szazadunk1840","src:tarsalkodo1840","src:terbe2010","src:vadas2022","src:virag2024-catalogacion"]}
 {"clave":"entradas_bibliograficas_rohonc_y_jerney_cotejadas","ids":["cov:1840:biblio:visual"]}
 {"clave":"facsimil_consultado_parcialmente","ids":["src:gussing1779","src:gussing2-50","src:gussing4-229"]}
 {"clave":"ficha_cotejada_original_no_leido","ids":["cov:gussing1780:sin"]}
@@ -61,20 +64,21 @@
 {"clave":"orban_nota_60_28_febrero_frente_a_original_y_nota_51_23_febrero","ids":["dif:19368-fecha"]}
 {"clave":"original_latino_fecha_1577_confirmada","ids":["cov:8099:visual"]}
 {"clave":"original_no_inspeccionado;testimonio_indirecto_de_estudio_o_catalogo","ids":["cov:k801-1840-2:sin-copia","cov:k801-1859-2:sin-copia","cov:ral31-1838:sin-copia","cov:tort215a:sin-copia","cov:tort223:sin-copia"]}
+{"clave":"original_o_numero_del_periodico_no_cotejado_directamente;referencia_revisada_en_estudio_o_catalogo","ids":["cov:mta-diszmuvek274","cov:oszk-folhung3006","cov:oszk-fond16-25","cov:oszk-fond16-31","cov:p1313-lad21-29","cov:p1313-lad21-30","cov:pesther-tageblatt1840","cov:ral115-1841","cov:ral232-1841","cov:ral50-1840","cov:strattmann263"]}
 {"clave":"pagina_78_impresa_fischer_sobre_rohonc","ids":["cov:fischer:visual"]}
 {"clave":"paginas_1_6_de_12","ids":["cov:gussing4-229:visual"]}
 {"clave":"paginas_1_9_sin_lectura_exhaustiva","ids":["cov:gussing1779:visual"]}
 {"clave":"paginas_de_pdf_inventariadas_no_transcripcion_integral","ids":["cov:athenaeum1840-1:inventario","cov:athenaeum1840-2:inventario"]}
-{"clave":"parcial","ids":["cov:1509:visual","cov:1510:visual","cov:1511:visual","cov:1571:p1314-38149","cov:1571:p1314-38149:20261122","cov:1840:anuario4:visual","cov:1840:biblio:visual","cov:1840:ertesito:visual","cov:1840:hasznos:visual","cov:1840:jelenkor1:visual","cov:1840:jelenkor2:visual","cov:1840:nevkonyv:visual","cov:1840:spiegel1:visual","cov:1840:spiegel2:visual","cov:1840:tudertekezes:visual","cov:1840:tudgyujtemeny:visual","cov:1840:tudliteratura:visual","cov:3839:visual","cov:4022:visual","cov:8099:visual","cov:a695:ocr","cov:a695:visual","cov:athenaeum1840-1:visual","cov:athenaeum1840-2:visual","cov:bibl1:list1","cov:bibl1:list2","cov:bibl2:latin","cov:evkonyv:visual","cov:figyelmezo1840:visual","cov:fischer:visual","cov:gussing1779:visual","cov:gussing2-50:visual","cov:gussing4-229:visual","cov:p1314-1074","cov:p1314-1078","cov:p1314-1079","cov:p1314-1080","cov:p1314-19367","cov:p1314-19368","cov:p1314-19369","cov:p1314-19370","cov:p1314-19372","cov:p1314-19376","cov:p1314-9082:20261122","cov:p1314-9082:v30","cov:szazadunk1840:visual","cov:toth1899:transcripcion"]}
+{"clave":"parcial","ids":["cov:1509:visual","cov:1510:visual","cov:1511:visual","cov:1571:p1314-38149","cov:1571:p1314-38149:20261122","cov:1840:anuario4:visual","cov:1840:biblio:visual","cov:1840:ertesito:visual","cov:1840:hasznos:visual","cov:1840:jelenkor1:visual","cov:1840:jelenkor2:visual","cov:1840:nevkonyv:visual","cov:1840:spiegel1:visual","cov:1840:spiegel2:visual","cov:1840:tudertekezes:visual","cov:1840:tudgyujtemeny:visual","cov:1840:tudliteratura:visual","cov:3839:visual","cov:4022:visual","cov:8099:visual","cov:a695:ocr","cov:a695:visual","cov:athenaeum1840-1:visual","cov:athenaeum1840-2:visual","cov:bibl1:list1","cov:bibl1:list2","cov:bibl2:latin","cov:evkonyv:visual","cov:figyelmezo1840:visual","cov:fischer:visual","cov:gussing1779:visual","cov:gussing2-50:visual","cov:gussing4-229:visual","cov:p1314-1074","cov:p1314-1078","cov:p1314-1079","cov:p1314-1080","cov:p1314-19367","cov:p1314-19368","cov:p1314-19369","cov:p1314-19370","cov:p1314-19372","cov:p1314-19376","cov:p1314-9082:20261122","cov:p1314-9082:v30","cov:spiegel-1840-1:sin-texto","cov:spiegel-1840-2:sin-texto","cov:szazadunk1840:visual","cov:toth1899:transcripcion"]}
 {"clave":"pasajes_cotejados_sin_identificacion_individual_de_k114","ids":["cov:athenaeum1840-1:visual","cov:athenaeum1840-2:visual","cov:figyelmezo1840:visual","cov:szazadunk1840:visual"]}
-{"clave":"referencia_bibliografica","ids":["src:bobory2007-tesis","src:cat1743","src:toldy1846"]}
+{"clave":"referencia_bibliografica","ids":["src:bobory2007-tesis","src:cat1743","src:pesther-tageblatt1840","src:toldy1846"]}
 {"clave":"referencia_coleccion_batthyany_no_codice","ids":["cov:1840:jelenkor1:visual"]}
 {"clave":"reglamento_y_fuentes_batthyany_de_alba_iulia_no_rohonc","ids":["cov:1840:anuario4:visual"]}
 {"clave":"relacion_de_1752_citada_por_estudio_secundario_original_no_inspeccionado","ids":["cov:1752-8obras"]}
 {"clave":"segunda_lista_identificada","ids":["cov:bibl1:list2"]}
 {"clave":"seis_fotografias_sha256_confirmadas;foto_4_subrayado_gris_sobre_pasaje_libros;cotejo_con_1570_sin_atribucion_mano_o_material","ids":["cov:1571:p1314-38149:20261122"]}
 {"clave":"signatura_referida_por_toth_1899_original_no_examinado","ids":["cov:nemeti-olvasasterve","cov:nemeti1889-abc"]}
-{"clave":"sin_copia","ids":["cov:1750-270","cov:1752-8obras","cov:4014:sin-copia","cov:4026:sin-copia","cov:4066:sin-copia","cov:gussing1780:sin","cov:gussing2-102","cov:gussing3-154","cov:gussing4-263","cov:k1393:acceso","cov:k801-1840-2:sin-copia","cov:k801-1859-2:sin-copia","cov:k801:kurzweil","cov:k801:toldy","cov:nemeti-olvasasterve","cov:nemeti1889-abc","cov:p1314-4759","cov:pozsony1795:sin","cov:ral31-1838:sin-copia","cov:ral61","cov:tort215a:sin-copia","cov:tort223:sin-copia","cov:viena1805:sin"]}
+{"clave":"sin_copia","ids":["cov:1750-270","cov:1752-8obras","cov:4014:sin-copia","cov:4026:sin-copia","cov:4066:sin-copia","cov:gussing1780:sin","cov:gussing2-102","cov:gussing3-154","cov:gussing4-263","cov:k1393:acceso","cov:k801-1840-2:sin-copia","cov:k801-1859-2:sin-copia","cov:k801:kurzweil","cov:k801:toldy","cov:mta-diszmuvek274","cov:nemeti-olvasasterve","cov:nemeti1889-abc","cov:oszk-folhung3006","cov:oszk-fond16-25","cov:oszk-fond16-31","cov:p1313-lad21-29","cov:p1313-lad21-30","cov:p1314-4759","cov:pesther-tageblatt1840","cov:pozsony1795:sin","cov:ral115-1841","cov:ral232-1841","cov:ral31-1838:sin-copia","cov:ral50-1840","cov:ral61","cov:strattmann263","cov:tort215a:sin-copia","cov:tort223:sin-copia","cov:viena1805:sin"]}
 {"clave":"sin_identificacion_inequivoca_k114","ids":["cov:bibl1:v"]}
 {"clave":"sin_reconciliacion_documental","ids":["dif:223-224"]}
 {"clave":"sin_transcripcion_del_original","ids":["cov:k1393:acceso"]}
@@ -86,3 +90,4 @@
 {"clave":"titulo_publicacion_agricola_no_k114","ids":["cov:1840:tudgyujtemeny:visual"]}
 {"clave":"tres_fotos_originales","ids":["cov:1509:visual"]}
 {"clave":"turocz_documento_distinto_y_lamina_1840","ids":["cov:1840:tudertekezes:visual"]}
+{"clave":"ubicaciones_superior_e_inferior_no_reconciliadas","ids":["dif:1752-contignatio"]}
