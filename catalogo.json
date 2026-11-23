@@ -127,56 +127,56 @@
       "indices": {
         "alias": [
           {
-            "bytes": 3720,
-            "cantidad": 70,
+            "bytes": 4257,
+            "cantidad": 79,
             "prefijo": "",
             "ruta": "indices/alias/todos.jsonl"
           }
         ],
         "ids": [
           {
-            "bytes": 16684,
-            "cantidad": 237,
+            "bytes": 21235,
+            "cantidad": 298,
             "prefijo": "",
             "ruta": "indices/ids/todos.jsonl"
           }
         ],
         "por_clasificacion": [
           {
-            "bytes": 9208,
-            "cantidad": 122,
+            "bytes": 11950,
+            "cantidad": 155,
             "prefijo": "",
             "ruta": "indices/por_clasificacion/todos.jsonl"
           }
         ],
         "por_cobertura": [
           {
-            "bytes": 1918,
-            "cantidad": 25,
+            "bytes": 2558,
+            "cantidad": 34,
             "prefijo": "",
             "ruta": "indices/por_cobertura/todos.jsonl"
           }
         ],
         "por_entidad": [
           {
-            "bytes": 4201,
-            "cantidad": 45,
+            "bytes": 6064,
+            "cantidad": 61,
             "prefijo": "",
             "ruta": "indices/por_entidad/todos.jsonl"
           }
         ],
         "por_estado": [
           {
-            "bytes": 5739,
-            "cantidad": 48,
+            "bytes": 6883,
+            "cantidad": 52,
             "prefijo": "",
             "ruta": "indices/por_estado/todos.jsonl"
           }
         ],
         "por_fuente": [
           {
-            "bytes": 5470,
-            "cantidad": 43,
+            "bytes": 7168,
+            "cantidad": 53,
             "prefijo": "",
             "ruta": "indices/por_fuente/todos.jsonl"
           }
