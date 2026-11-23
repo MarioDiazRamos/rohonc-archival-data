@@ -208,6 +208,7 @@
 {"clave":"af:1841:viajes-folhung3006","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1841:viajes-fond16-31","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1844:223","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:1846:szabo-jozsef-prestamo-k114","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1859:k801-faltantes","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1866:szabo-atribucion-literati","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1866:szabo-cita-jozsef1844","ids":["datos/afirmaciones/todos.jsonl"]}
@@ -328,6 +329,7 @@
 {"clave":"cov:1840:tudgyujtemeny:visual","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:1840:tudliteratura:visual","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:1866:szabo:texto","ids":["datos/cobertura/todos.jsonl"]}
+{"clave":"cov:1992:csanak-prestamo","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:3839:visual","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:4014:sin-copia","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:4022:visual","ids":["datos/cobertura/todos.jsonl"]}
@@ -577,6 +579,7 @@
 {"clave":"rel:1838:oferta-delegado-nagy","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:1840:carbo-actas","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:1840:ral218219-k801","ids":["datos/relaciones/todos.jsonl"]}
+{"clave":"rel:1846:k114-k1398","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:1885-julg-k114","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:1889-fischer-k114","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:2","ids":["datos/relaciones/todos.jsonl"]}
@@ -621,6 +624,7 @@
 {"clave":"rel:tort223-nagy","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"src:a695","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:actas-k1393","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:actas-k1398","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:adattar2010-magankonyvtarak","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:athenaeum1840-1","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:athenaeum1840-2","ids":["datos/fuentes/todos.jsonl"]}
