@@ -209,6 +209,10 @@
 {"clave":"af:1841:viajes-fond16-31","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1844:223","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1859:k801-faltantes","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:1866:szabo-atribucion-literati","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:1866:szabo-cita-jozsef1844","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:1866:szabo-custodia-academia","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:1866:szabo-examen-personal","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1889:fischer-223","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1889:fischer-julg","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1889:fischer-literati","ids":["datos/afirmaciones/todos.jsonl"]}
@@ -323,6 +327,7 @@
 {"clave":"cov:1840:tudertekezes:visual","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:1840:tudgyujtemeny:visual","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:1840:tudliteratura:visual","ids":["datos/cobertura/todos.jsonl"]}
+{"clave":"cov:1866:szabo:texto","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:3839:visual","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:4014:sin-copia","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:4022:visual","ids":["datos/cobertura/todos.jsonl"]}
@@ -753,6 +758,7 @@
 {"clave":"src:spiegel1840-1","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:spiegel1840-2","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:strattmann263","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:szabo1866","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:szazadunk1840","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:tarsalkodo1840","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:terbe2010","ids":["datos/fuentes/todos.jsonl"]}
