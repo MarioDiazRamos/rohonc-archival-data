@@ -1,7 +1,7 @@
 {"clave":"actas_manuscritas","ids":["src:actas-k1393"]}
 {"clave":"acuerdo_academico","ids":["evt:1840:carbo"]}
 {"clave":"anexos_de_carta","ids":["rel:1571:anexos-carta"]}
-{"clave":"articulo_academico","ids":["src:carbo-study","src:csanak1959","src:hursan2022","src:hursan2025","src:lang2026","src:vadas2022"]}
+{"clave":"articulo_academico","ids":["src:carbo-study","src:csanak1959","src:hursan2022","src:hursan2025","src:lang2026","src:vadas2022","src:virag2024-catalogacion"]}
 {"clave":"asiento_de","ids":["rel:3"]}
 {"clave":"cantidad_manuscritos","ids":["af:1743:89mss"]}
 {"clave":"carta_archivistica","ids":["src:p1314-9082"]}
@@ -15,6 +15,7 @@
 {"clave":"catalogo_manuscrito","ids":["src:cat1743"]}
 {"clave":"catalogos_manuscritos","ids":["src:bibl1","src:bibl2"]}
 {"clave":"coleccion","ids":["colec:kisber","colec:rohonc","colec:viena-1743"]}
+{"clave":"columna_diez_registra_particularidades","ids":["af:catalogo:observaciones-columna10"]}
 {"clave":"compilacion_catalogo","ids":["evt:1743:catalogo"]}
 {"clave":"comunicacion_publicada","ids":["src:jerney1844"]}
 {"clave":"conjunto_fisico_de_hojas_manuscritas","ids":["obj:anexos1571"]}
@@ -61,6 +62,7 @@
 {"clave":"persona","ids":["per:batthyany-antal-jozsef","per:batthyany-boldizsar","per:batthyany-gusztav","per:batthyany-lajos-erno","per:csenthy-tamas","per:forgach-ferenc","per:hursan-szabolcs","per:ivanyi-bela","per:jerney-janos","per:kezai-simon","per:kolinovits-gabor","per:kurzweil-m","per:porhocs-farkas","per:sche-del-ferenc"]}
 {"clave":"presentacion_academica_referida","ids":["evt:1840:presentacion-k114"]}
 {"clave":"presentacion_referida","ids":["af:1840:referencia"]}
+{"clave":"procedencia_del_inventario_digital_2001","ids":["af:catalogo:ivanyi-transcripcion-2001"]}
 {"clave":"referencia_archivistica_citada_en_estudio","ids":["af:1992:k1393-nota15","af:1992:k801-nota29"]}
 {"clave":"registro_institucional_digital","ids":["src:realms80"]}
 {"clave":"registro_institucional_imagenes","ids":["src:reali2216"]}
