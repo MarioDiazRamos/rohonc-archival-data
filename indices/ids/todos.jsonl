@@ -3,6 +3,7 @@
 {"clave":"af:1571:anexo-p4","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1571:anexo-p5","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1571:anexo-p6","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:1571:subrayado-libros-fotografia","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1743:89mss","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1743:imadsag","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1743:sid","ids":["datos/afirmaciones/todos.jsonl"]}
@@ -45,6 +46,7 @@
 {"clave":"colec:rohonc","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"colec:viena-1743","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"cov:1571:p1314-38149","ids":["datos/cobertura/todos.jsonl"]}
+{"clave":"cov:1571:p1314-38149:20261122","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:bibl1:atlas","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:bibl1:list1","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:bibl1:list2","ids":["datos/cobertura/todos.jsonl"]}

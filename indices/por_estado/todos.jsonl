@@ -13,9 +13,10 @@
 {"clave":"indice_paginacion","ids":["cov:bibl1:metadatos","cov:bibl2:metadatos"]}
 {"clave":"limite_seccion_latina_1063","ids":["cov:bibl2:latin"]}
 {"clave":"lista_transferencia_identificada","ids":["cov:bibl1:list1"]}
-{"clave":"parcial","ids":["cov:1571:p1314-38149","cov:bibl1:list1","cov:bibl1:list2","cov:bibl2:latin","cov:p1314-9082:20261122","cov:p1314-9082:v30"]}
+{"clave":"parcial","ids":["cov:1571:p1314-38149","cov:1571:p1314-38149:20261122","cov:bibl1:list1","cov:bibl1:list2","cov:bibl2:latin","cov:p1314-9082:20261122","cov:p1314-9082:v30"]}
 {"clave":"referencia_bibliografica","ids":["src:cat1743","src:toldy1846"]}
 {"clave":"segunda_lista_identificada","ids":["cov:bibl1:list2"]}
+{"clave":"seis_fotografias_sha256_confirmadas;foto_4_subrayado_gris_sobre_pasaje_libros;cotejo_con_1570_sin_atribucion_mano_o_material","ids":["cov:1571:p1314-38149:20261122"]}
 {"clave":"sin_copia","ids":["cov:k1393:acceso","cov:k801:kurzweil","cov:k801:toldy","cov:ral61"]}
 {"clave":"sin_identificacion_inequivoca_k114","ids":["cov:bibl1:v"]}
 {"clave":"sin_reconciliacion_documental","ids":["dif:223-224"]}
