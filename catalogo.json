@@ -5,15 +5,15 @@
     "afirmaciones": 143,
     "asientos": 7,
     "autoridades": 35,
-    "catalogos": 5,
+    "catalogos": 9,
     "cobertura": 70,
-    "cotejos_no_identidad": 3,
+    "cotejos_no_identidad": 5,
     "digitalizaciones": 5,
-    "discrepancias": 2,
+    "discrepancias": 5,
     "eventos": 21,
     "fuentes": 83,
     "objetos": 2,
-    "relaciones": 22
+    "relaciones": 30
   },
   "formato_maestro": [
     "JSONL",
@@ -53,8 +53,8 @@
         ],
         "catalogos": [
           {
-            "bytes": 1261,
-            "cantidad": 5,
+            "bytes": 1976,
+            "cantidad": 9,
             "prefijo": "",
             "ruta": "datos/catalogos/todos.jsonl"
           }
@@ -69,8 +69,8 @@
         ],
         "cotejos_no_identidad": [
           {
-            "bytes": 581,
-            "cantidad": 3,
+            "bytes": 981,
+            "cantidad": 5,
             "prefijo": "",
             "ruta": "datos/cotejos_no_identidad/todos.jsonl"
           }
@@ -85,8 +85,8 @@
         ],
         "discrepancias": [
           {
-            "bytes": 422,
-            "cantidad": 2,
+            "bytes": 880,
+            "cantidad": 5,
             "prefijo": "",
             "ruta": "datos/discrepancias/todos.jsonl"
           }
@@ -117,8 +117,8 @@
         ],
         "relaciones": [
           {
-            "bytes": 3501,
-            "cantidad": 22,
+            "bytes": 4803,
+            "cantidad": 30,
             "prefijo": "",
             "ruta": "datos/relaciones/todos.jsonl"
           }
@@ -248,7 +248,7 @@
     "relaciones_inversas",
     "tipos"
   ],
-  "registros": 398,
+  "registros": 415,
   "repositorio_previsto": "MarioDiazRamos/rohonc-archival-data",
   "sin_programas": true,
   "sin_reproducciones_binarias": true,
