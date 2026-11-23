@@ -175,8 +175,8 @@
         ],
         "por_fuente": [
           {
-            "bytes": 9922,
-            "cantidad": 76,
+            "bytes": 12277,
+            "cantidad": 100,
             "prefijo": "",
             "ruta": "indices/por_fuente/todos.jsonl"
           }

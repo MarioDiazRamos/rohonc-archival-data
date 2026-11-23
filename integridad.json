@@ -2,9 +2,9 @@
   "algoritmo": "sha256",
   "archivos": [
     {
-      "bytes": 6032,
+      "bytes": 6034,
       "ruta": "catalogo.json",
-      "sha256": "17627918662fb2424aadd9a8ad9cc0f75e87d8fb116fa0aac794e5a9ada50d40"
+      "sha256": "ebf6926c6370aa915f2448b51113396016fa2a5228e9fc4c13ef7ed0be97974c"
     },
     {
       "bytes": 61503,
@@ -112,9 +112,9 @@
       "sha256": "42564c9dd87bfab95533c832db91d9b34339a8845cb772855c4dc2d355a5cc33"
     },
     {
-      "bytes": 9922,
+      "bytes": 12277,
       "ruta": "indices/por_fuente/todos.jsonl",
-      "sha256": "2f506736e419601534dbda4c2470320e87b194649006a6c0990352325e7a602d"
+      "sha256": "bb4945ab939173832ecf09b67682cb422aff1438480f07611736159eb0b5d35c"
     },
     {
       "bytes": 5690,
