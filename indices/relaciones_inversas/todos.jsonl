@@ -8,10 +8,13 @@
 {"clave":"per:batthyany-gusztav","ids":["rel:ral31-gusztav"]}
 {"clave":"per:elias-corvinus","ids":["rel:8099-elias"]}
 {"clave":"per:erhardt-hiller","ids":["rel:hiller-19370","rel:hiller-19376"]}
-{"clave":"per:literati-nemes","ids":["rel:athenaeum-nemes"]}
+{"clave":"per:koos-karoly","ids":["rel:koos-ral50"]}
+{"clave":"per:literati-nemes","ids":["rel:athenaeum-nemes","rel:literati-ral115","rel:soproni-literati"]}
 {"clave":"per:nagy-karoly","ids":["rel:tort223-nagy"]}
+{"clave":"per:nemesy-janos","ids":["rel:nemesy-ral232"]}
 {"clave":"per:svetkovics-katalin","ids":["rel:3839-svetkovics"]}
 {"clave":"src:bibl2","ids":["rel:4","rel:5","rel:6"]}
 {"clave":"src:cat1743","ids":["rel:3"]}
 {"clave":"src:codice-k114-catalogo","ids":["rel:2"]}
+{"clave":"src:pesther-tageblatt1840","ids":["rel:tageblatt-athenaeum"]}
 {"clave":"src:porhocs1571","ids":["rel:1571:anexos-carta"]}

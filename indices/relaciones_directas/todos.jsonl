@@ -14,7 +14,7 @@
 {"clave":"obj:k114","ids":["rel:1","rel:2"]}
 {"clave":"src:a695","ids":["rel:a695-kisber","rel:a695-rohonc"]}
 {"clave":"src:actas-k1393","ids":["rel:17"]}
-{"clave":"src:athenaeum1840-2","ids":["rel:athenaeum-nemes"]}
+{"clave":"src:athenaeum1840-2","ids":["rel:athenaeum-nemes","rel:tageblatt-athenaeum"]}
 {"clave":"src:bibl1","ids":["rel:15"]}
 {"clave":"src:bibl2","ids":["rel:16"]}
 {"clave":"src:fischer1889","ids":["rel:1889-fischer-k114"]}
@@ -25,5 +25,9 @@
 {"clave":"src:p1314-19376","ids":["rel:hiller-19376"]}
 {"clave":"src:p1314-3839","ids":["rel:3839-svetkovics"]}
 {"clave":"src:p1314-8099","ids":["rel:8099-elias"]}
+{"clave":"src:ral115-1841","ids":["rel:literati-ral115"]}
+{"clave":"src:ral232-1841","ids":["rel:nemesy-ral232"]}
 {"clave":"src:ral31-1838","ids":["rel:ral31-gusztav"]}
+{"clave":"src:ral50-1840","ids":["rel:koos-ral50"]}
+{"clave":"src:soproni-vegyes4r63","ids":["rel:soproni-literati"]}
 {"clave":"src:tort223","ids":["rel:tort223-nagy"]}
