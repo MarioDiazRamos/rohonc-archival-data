@@ -29,8 +29,8 @@
       "datos": {
         "afirmaciones": [
           {
-            "bytes": 49204,
-            "cantidad": 143,
+            "bytes": 49524,
+            "cantidad": 144,
             "prefijo": "",
             "ruta": "datos/afirmaciones/todos.jsonl"
           }
@@ -61,7 +61,7 @@
         ],
         "cobertura": [
           {
-            "bytes": 20928,
+            "bytes": 20903,
             "cantidad": 70,
             "prefijo": "",
             "ruta": "datos/cobertura/todos.jsonl"
@@ -85,7 +85,7 @@
         ],
         "discrepancias": [
           {
-            "bytes": 880,
+            "bytes": 1060,
             "cantidad": 5,
             "prefijo": "",
             "ruta": "datos/discrepancias/todos.jsonl"
@@ -101,7 +101,7 @@
         ],
         "fuentes": [
           {
-            "bytes": 28304,
+            "bytes": 28283,
             "cantidad": 83,
             "prefijo": "",
             "ruta": "datos/fuentes/todos.jsonl"
