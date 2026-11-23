@@ -1,3 +1,9 @@
+{"clave":"af:1549:3839-ficha","ids":["dif:3839-idioma"]}
+{"clave":"af:1549:3839-idioma","ids":["dif:3839-idioma"]}
+{"clave":"af:1571:1510-fecha","ids":["dif:1510-fecha"]}
+{"clave":"af:1571:1510-indice","ids":["dif:1510-fecha"]}
+{"clave":"af:1577:8099-fecha","ids":["dif:8099-fecha"]}
+{"clave":"af:1577:8099-indice","ids":["dif:8099-fecha"]}
 {"clave":"af:1839:kisber-2660","ids":["dif:kisber-cifras-2060-2660"]}
 {"clave":"af:1840:kisber-2060","ids":["dif:kisber-cifras-2060-2660"]}
 {"clave":"af:1844:223","ids":["dif:223-224"]}
@@ -81,7 +87,7 @@
 {"clave":"src:p1314-4022","ids":["af:1570:4022-chenczj"]}
 {"clave":"src:p1314-4026","ids":["af:1570:4026-cedula"]}
 {"clave":"src:p1314-4066","ids":["af:1571:4066-archivos"]}
-{"clave":"src:p1314-8099","ids":["af:1577:8099-fecha","af:1577:8099-libro","dif:8099-fecha","rel:8099-elias"]}
+{"clave":"src:p1314-8099","ids":["af:1577:8099-fecha","af:1577:8099-indice","af:1577:8099-libro","dif:8099-fecha","rel:8099-elias"]}
 {"clave":"src:p1314-9082","ids":["af:1570:9082-glosa-catalogo","af:1570:9082-glosa-en-pdf-2007","af:9082:marcas-subrayado"]}
 {"clave":"src:porhocs1571","ids":["af:1571:subrayado-libros-fotografia","af:ivanyi:libros-porhocs1571","rel:1571:anexos-carta"]}
 {"clave":"src:ral31-1838","ids":["af:1838:ral31-localizacion","rel:ral31-gusztav"]}
