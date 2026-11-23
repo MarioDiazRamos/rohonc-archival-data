@@ -8,20 +8,28 @@
 {"clase":"lugar","id":"lugar:rohonc","nombre":"Rohonc","tipo":"autoridades","variantes":["Rohoncz","Rechnitz"]}
 {"clase":"lugar","id":"lugar:torony","nombre":"Torony","tipo":"autoridades","variantes":[]}
 {"clase":"lugar","id":"lugar:viena","nombre":"Viena","tipo":"autoridades","variantes":["Wien"]}
+{"clase":"persona","id":"per:balazs-deak","nombre":"Balázs deák","tipo":"autoridades","variantes":["Balás deák"]}
 {"clase":"persona","id":"per:batthyany-antal-jozsef","nombre":"Batthyány Antal József","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:batthyany-boldizsar","nombre":"Batthyány Boldizsár","tipo":"autoridades","variantes":["Boldizsár Batthyány"]}
 {"clase":"persona","id":"per:batthyany-gusztav","nombre":"Batthyány Gusztáv","tipo":"autoridades","variantes":["Gustav Batthyány"]}
 {"clase":"persona","id":"per:batthyany-kazmer","nombre":"Batthyány Kázmér","tipo":"autoridades","variantes":["Kázmér Batthyány"]}
+{"clase":"persona","id":"per:batthyany-kristof","nombre":"Batthyány Kristóf","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:batthyany-lajos-erno","nombre":"Batthyány Lajos Ernő","tipo":"autoridades","variantes":["Ludwig Batthyány"]}
 {"clase":"persona","id":"per:csenthy-tamas","nombre":"Csenthy Tamás","tipo":"autoridades","variantes":["Chyenthy Tamás"]}
+{"clase":"persona","id":"per:elias-corvinus","nombre":"Elias Corvinus","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:fischer-karoly","nombre":"Fischer Károly Antal","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:forgach-ferenc","nombre":"Forgách Ferenc","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:hursan-szabolcs","nombre":"Hursán Szabolcs","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:ivanyi-bela","nombre":"Iványi Béla","tipo":"autoridades","variantes":["Béla Iványi"]}
 {"clase":"persona","id":"per:jerney-janos","nombre":"Jerney János","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:julg-bernat","nombre":"Jülg Bernát","tipo":"autoridades","variantes":["Bernhard Jülg"]}
 {"clase":"persona","id":"per:kezai-simon","nombre":"Kézai Simon","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:kolinovits-gabor","nombre":"Kolinovics Gábor","tipo":"autoridades","variantes":["Kolinovits"]}
+{"clase":"persona","id":"per:koos-karoly","nombre":"Koós Károly","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:kurzweil-m","nombre":"M. Kurzweil","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:literati-nemes","nombre":"Literáti Nemes Sámuel","tipo":"autoridades","variantes":["Nemes-Literati Sámuel","Nemes Sámuel"]}
 {"clase":"persona","id":"per:nagy-karoly","nombre":"Nagy Károly","tipo":"autoridades","variantes":["Károly Nagy"]}
 {"clase":"persona","id":"per:porhocs-farkas","nombre":"Farkas Porhócs","tipo":"autoridades","variantes":["Porhócs Farkas","Perhocz Farkas","Wolfgangus Porhoch","Porhochÿ Farkas","Porhochi Farkas","Porhotthÿ Farkas"]}
 {"clase":"persona","id":"per:sche-del-ferenc","nombre":"Schedel Ferenc","tipo":"autoridades","variantes":["Toldy Ferenc","Ferenc Toldy","Ferenc Schedel"]}
+{"clase":"persona","id":"per:svetkovics-katalin","nombre":"Svetkovics Katalin","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:szalay-laszlo","nombre":"Szalay László","tipo":"autoridades","variantes":[]}

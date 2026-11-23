@@ -1,2 +1,5 @@
+{"afirmaciones":["af:1571:1510-fecha","af:1571:1510-indice"],"atributo":"fecha","entidad_id":"src:p1314-1510","estado":"indice_1571-04-03_frente_a_original_1571-04-30","id":"dif:1510-fecha","tipo":"discrepancias"}
 {"afirmaciones":["af:1844:223","af:catalogo:224"],"atributo":"numero_hojas_o_folios","entidad_id":"obj:k114","estado":"sin_reconciliacion_documental","id":"dif:223-224","tipo":"discrepancias"}
+{"afirmaciones":["af:1549:3839-ficha","af:1549:3839-idioma"],"atributo":"idioma","entidad_id":"src:p1314-3839","estado":"ficha_latin_frente_a_edicion_hungaro_antiguo","id":"dif:3839-idioma","tipo":"discrepancias"}
+{"afirmaciones":["af:1577:8099-fecha","af:1577:8099-indice"],"atributo":"fecha","entidad_id":"src:p1314-8099","estado":"indice_1576_frente_a_original_y_ficha_1577","id":"dif:8099-fecha","tipo":"discrepancias"}
 {"afirmaciones":["af:1839:kisber-2660","af:1840:kisber-2060"],"atributo":"cifras_con_diferente_unidad_o_contexto","entidad_id":"colec:kisber","estado":"no_reconciliadas","id":"dif:kisber-cifras-2060-2660","tipo":"discrepancias"}
