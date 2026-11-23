@@ -30,6 +30,7 @@
 {"fuente_id":"src:hursan2025","id":"rel:8","objeto_id":"colec:rohonc","predicado":"trasladado_a","sujeto_id":"ent:1813:forgach","tipo":"relaciones"}
 {"fuente_id":"src:p1314-8099","id":"rel:8099-elias","objeto_id":"per:elias-corvinus","predicado":"remitida_por","sujeto_id":"src:p1314-8099","tipo":"relaciones"}
 {"fuente_id":"src:hursan2025","id":"rel:9","objeto_id":"colec:kisber","predicado":"origen","sujeto_id":"evt:1817:traslado-kisber-rohonc","tipo":"relaciones"}
+{"fuente_id":"src:a1746-iii","id":"rel:a1746-218219","objeto_id":"src:ral218219-1840","predicado":"asientos_de_registro_218_y_219","sujeto_id":"src:a1746-iii","tipo":"relaciones"}
 {"fuente_id":"src:a695","id":"rel:a695-kisber","objeto_id":"colec:kisber","predicado":"agradece_donacion","sujeto_id":"src:a695","tipo":"relaciones"}
 {"fuente_id":"src:a695","id":"rel:a695-rohonc","objeto_id":"colec:rohonc","predicado":"agradece_donacion","sujeto_id":"src:a695","tipo":"relaciones"}
 {"fuente_id":"src:athenaeum1840-2","id":"rel:athenaeum-nemes","objeto_id":"per:literati-nemes","predicado":"publica_noticia_de","sujeto_id":"src:athenaeum1840-2","tipo":"relaciones"}
@@ -41,6 +42,7 @@
 {"fuente_id":"src:terbe2010","id":"rel:balas-4035","objeto_id":"per:balas-deak","predicado":"menciona_nombre_en_transcripcion","sujeto_id":"src:p1314-4035","tipo":"relaciones"}
 {"fuente_id":"src:terbe2010","id":"rel:balas-4058","objeto_id":"per:balas-deak","predicado":"menciona_nombre_en_transcripcion","sujeto_id":"src:p1314-4058","tipo":"relaciones"}
 {"fuente_id":"src:koltai2002","id":"rel:batthyany1644-adam","objeto_id":"per:batthyany-adam","predicado":"inventario_de_libros_de","sujeto_id":"src:p1322-1644","tipo":"relaciones"}
+{"fuente_id":"src:fischer1889","id":"rel:fischer-toldy1852","objeto_id":"src:toldy1852-irodalom","predicado":"cita_bibliografica","sujeto_id":"src:fischer1889","tipo":"relaciones"}
 {"fuente_id":"src:monok2004-batthyany","id":"rel:gussing-mayken","objeto_id":"per:andreas-mayken","predicado":"posesion_de_ejemplar_segun_inscripcion","sujeto_id":"src:gussing4-263","tipo":"relaciones"}
 {"fuente_id":"src:ktf-xii-1644","id":"rel:gussing1780-copia","objeto_id":"src:gussing1780","predicado":"copia_de_catalogo","sujeto_id":"src:gussing1780-copia","tipo":"relaciones"}
 {"fuente_id":"src:monok2004-batthyany","id":"rel:gussing2-170-batthyany","objeto_id":"per:batthyany-boldizsar","predicado":"inscripcion_posesion_atribuida","sujeto_id":"src:gussing2-170","tipo":"relaciones"}
@@ -52,6 +54,7 @@
 {"fuente_id":"src:catalogo1984","id":"rel:literati-ral115","objeto_id":"per:literati-nemes","predicado":"lista_de_libros_ofrecidos_por","sujeto_id":"src:ral115-1841","tipo":"relaciones"}
 {"fuente_id":"src:catalogo1984","id":"rel:nemesy-ral232","objeto_id":"per:nemesy-janos","predicado":"noticia_de_envio_de","sujeto_id":"src:ral232-1841","tipo":"relaciones"}
 {"fuente_id":"src:toth1899","id":"rel:nemeti-abc-k114","objeto_id":"obj:k114","predicado":"estudio_historico_sobre","sujeto_id":"src:nemeti1889-abc","tipo":"relaciones"}
+{"fuente_id":"src:codice-k114-catalogo","id":"rel:nemeti-ms884-estudio","objeto_id":"obj:k114","predicado":"estudio_historico_sobre","sujeto_id":"src:nemeti1889-abc","tipo":"relaciones"}
 {"fuente_id":"src:toth1899","id":"rel:nemeti-plan-k114","objeto_id":"obj:k114","predicado":"estudio_historico_sobre","sujeto_id":"src:nemeti-olvasasterve","tipo":"relaciones"}
 {"fuente_id":"src:hursan2019teleki","id":"rel:ral31-gusztav","objeto_id":"per:batthyany-gusztav","predicado":"carta_de_segun_estudio","sujeto_id":"src:ral31-1838","tipo":"relaciones"}
 {"fuente_id":"src:rozsondai2024","id":"rel:soproni-literati","objeto_id":"per:literati-nemes","predicado":"inscripcion_de_posesion_atribuida","sujeto_id":"src:soproni-vegyes4r63","tipo":"relaciones"}
