@@ -2,14 +2,14 @@
   "algoritmo": "sha256",
   "archivos": [
     {
-      "bytes": 6044,
+      "bytes": 6045,
       "ruta": "catalogo.json",
-      "sha256": "31858b0c461737e4da826b9fd3c1c6ae2b71f336f1c968a9659aef6ebd695b95"
+      "sha256": "f5a2ef46676f6eb701f234f6b55c3b1aaddc725b3f297b129a2bf5f544d3d36a"
     },
     {
-      "bytes": 95934,
+      "bytes": 102028,
       "ruta": "datos/afirmaciones/todos.jsonl",
-      "sha256": "27c744446032dfe9294d04a68d871591342782e004cd05af6fd3f0da6cec064b"
+      "sha256": "bb1c0e43c79b2f6acbe402fcbe97699083228bac5f8a741040d2a7d39ca5c39d"
     },
     {
       "bytes": 1970,
@@ -27,14 +27,14 @@
       "sha256": "08e2435b8aa6dd81978f5041bce601fb92a5512f36bd54442de74f93a32adf87"
     },
     {
-      "bytes": 42805,
+      "bytes": 43175,
       "ruta": "datos/cobertura/todos.jsonl",
-      "sha256": "43f3b0caf4b467e5afc82861d2002fb5d5d226a56c5d1089841aebaac49a5aa3"
+      "sha256": "b712472166323f9138e8b2706106e76fcc1b7626efba330ae723cf5a09d4b734"
     },
     {
-      "bytes": 1610,
+      "bytes": 1897,
       "ruta": "datos/cotejos_no_identidad/todos.jsonl",
-      "sha256": "1b080b72a3c742cbcf47a3e637f104e418bd461eaeb813dd176d89707c1a86ef"
+      "sha256": "6c00f096b988ec01acedd5773f4dc46991ca0f91c521ed15539c01cd7230f350"
     },
     {
       "bytes": 1538,
@@ -47,14 +47,14 @@
       "sha256": "22e50885e9241d0bdd80daf6971f3997c0cce2209cec395fb351fe69c66a3c44"
     },
     {
-      "bytes": 6520,
+      "bytes": 6903,
       "ruta": "datos/eventos/todos.jsonl",
-      "sha256": "f0c59915d9ecb6f36d924e0ef7af6ee70d0dc11b5d8aec5b0417ddf415290104"
+      "sha256": "278b47cb012e7bc6e5c853b8ddc8d2119655346462e5b38ce40a0fbaaacf8abb"
     },
     {
-      "bytes": 50300,
+      "bytes": 51087,
       "ruta": "datos/fuentes/todos.jsonl",
-      "sha256": "376791ef968a2b74abac8c52120049a50dab78d8f0b78b683db4ec95be8928ec"
+      "sha256": "a12a0053029b689734931d77e132616135385587e7144603c132e4335841be23"
     },
     {
       "bytes": 583,
@@ -62,9 +62,9 @@
       "sha256": "f3c0bc9771194a4219b19748606f76aaa644ff30e155c7374c92d012db7b8d2e"
     },
     {
-      "bytes": 9322,
+      "bytes": 9928,
       "ruta": "datos/relaciones/todos.jsonl",
-      "sha256": "b4dfd42a0e2cb5101648f6f6b6f86696c848acfd3f0a1bcadefe7fab047fc78b"
+      "sha256": "773c93a7c942dccc00690e95cc16700101b41c32afe7d066fadd59827915b6a6"
     },
     {
       "bytes": 1189,
