@@ -7,5 +7,10 @@
 {"derecha_id":"obj:k114","estado":"testimonio_corresponde_a_otro_codice","fuente_id":"src:carbo-study","id":"ni:carbo-k114","izquierda_id":"evt:1840:carbo","tipo":"cotejos_no_identidad"}
 {"derecha_id":"obj:k114","estado":"identidad_de_texto_modelo_o_ejemplar_no_probada","fuente_id":"src:monok2004-batthyany","id":"ni:gussing2-170-k114","izquierda_id":"src:gussing2-170","tipo":"cotejos_no_identidad"}
 {"derecha_id":"obj:k114","estado":"identidad_de_texto_modelo_o_ejemplar_no_probada","fuente_id":"src:monok2004-batthyany","id":"ni:gussing5-63-k114","izquierda_id":"src:gussing5-63","tipo":"cotejos_no_identidad"}
+{"derecha_id":"src:actas-k1393","estado":"asambleas_generales_no_kisgyulesek","fuente_id":"src:acs1979","id":"ni:k1357-k1393","izquierda_id":"src:k1357","tipo":"cotejos_no_identidad"}
 {"derecha_id":"obj:k114","estado":"ms884_es_estudio_de_alfabeto_y_no_codice_k114","fuente_id":"src:codice-k114-catalogo","id":"ni:ms884-k114","izquierda_id":"src:nemeti1889-abc","tipo":"cotejos_no_identidad"}
+{"derecha_id":"obj:k114","estado":"regla_general_no_acuerdo_k114","fuente_id":"src:vorosmarty1977-t16","id":"ni:ral142-k114","izquierda_id":"src:ral142-1840","tipo":"cotejos_no_identidad"}
+{"derecha_id":"obj:k114","estado":"manuscrito_istvan_szabo_no_rohonc","fuente_id":"src:ral171-1839","id":"ni:ral171-k114","izquierda_id":"src:ral171-1839","tipo":"cotejos_no_identidad"}
+{"derecha_id":"src:actas-k1393","estado":"borrador_sin_anexos_no_equivale_a_actas","fuente_id":"src:ral307-1840","id":"ni:ral307-k1393","izquierda_id":"src:ral307-1840","tipo":"cotejos_no_identidad"}
+{"derecha_id":"obj:k114","estado":"informe_de_biblioteca_no_individualiza_k114","fuente_id":"src:toldy1839-mayo20","id":"ni:ral61-k114","izquierda_id":"src:toldy1839-mayo20","tipo":"cotejos_no_identidad"}
 {"derecha_id":"obj:k114","estado":"identidad_no_demostrada","fuente_id":"src:jerney1844","id":"ni:sid41-k114","izquierda_id":"ent:1743:sid41","localizador":{"pagina_impresa":33},"tipo":"cotejos_no_identidad"}
