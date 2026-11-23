@@ -42,7 +42,7 @@
 {"clave":"cat:1813:kisber","ids":["af:1813:1063"]}
 {"clave":"colec:batthyany-adam-1644","ids":["cat:1644:nemetujvar","evt:1644:inventario"]}
 {"clave":"colec:kisber","ids":["af:1839:cajas-kisber","af:1839:catalogo-no-conservado","af:1839:kisber-2660","af:1840:a695-kazmer","af:1840:kisber-2060","cat:1813:kisber","cat:1817:traslados-lista1","cat:1817:traslados-lista2","dif:kisber-cifras-2060-2660","evt:1813:inventario","evt:1817:traslado-kisber-rohonc","rel:9","rel:a695-kisber"]}
-{"clave":"colec:rohonc","ids":["af:1839:marcas-batthyany","af:1839:no-separacion-fondos","af:1839:papeles-colores","af:1839:proveniencia-multiple","af:1839:recepcion-sin-lista","af:1839:recepcion-trattner","af:1839:rohonc-25000-26000","af:1840:a695-gusztav","af:1840:evkonyv-donacion","af:1840:figyelmezo-bibliotecas","cat:1814:rohonc-v","cat:1817:traslados-lista1","cat:1817:traslados-lista2","evt:1817:traslado-kisber-rohonc","evt:1838:ofrecimiento","evt:1839:37-cajas-pest","evt:1839:visita-rohonc","evt:1840:a695-rohonc","rel:10","rel:11","rel:7","rel:8","rel:a695-rohonc","rel:k114-rohonc-modern"]}
+{"clave":"colec:rohonc","ids":["af:1839:anuario-atribucion-fundacion","af:1839:anuario-manuscritos-ambos-fondos","af:1839:anuario-recepcion-dos-bibliotecas","af:1839:anuario-retraso-disposicion","af:1839:marcas-batthyany","af:1839:no-separacion-fondos","af:1839:papeles-colores","af:1839:proveniencia-multiple","af:1839:recepcion-sin-lista","af:1839:recepcion-trattner","af:1839:rohonc-25000-26000","af:1840:a695-gusztav","af:1840:evkonyv-donacion","af:1840:figyelmezo-bibliotecas","cat:1814:rohonc-v","cat:1817:traslados-lista1","cat:1817:traslados-lista2","evt:1817:traslado-kisber-rohonc","evt:1838:comunicacion-oferta-noviembre","evt:1838:ofrecimiento","evt:1839:37-cajas-pest","evt:1839:visita-rohonc","evt:1840:a695-rohonc","rel:10","rel:11","rel:7","rel:8","rel:a695-rohonc","rel:k114-rohonc-modern"]}
 {"clave":"colec:strattmann","ids":["cat:strattmann263"]}
 {"clave":"colec:viena-1743","ids":["cat:1743:viena","evt:1743:catalogo","evt:1756:traslado-papeles"]}
 {"clave":"dig:athenaeum1840-1","ids":["src:athenaeum1840-1"]}
@@ -59,18 +59,18 @@
 {"clave":"evt:1817:traslado-kisber-rohonc","ids":["af:1817:1575","af:1817:1871","af:1817:aleman","af:1817:frances","af:1817:latin","rel:10","rel:9"]}
 {"clave":"evt:1838:nagy-aviso-viena","ids":["af:1838:nagy-aviso-viena"]}
 {"clave":"evt:1838:nagy-toldy-diciembre","ids":["af:1838:nagy-carta-diciembre"]}
-{"clave":"evt:1838:ofrecimiento","ids":["af:1838:oferta","rel:11"]}
+{"clave":"evt:1838:ofrecimiento","ids":["af:1838:oferta","af:1838:oferta-autorizacion-nagy","af:1838:oferta-comunicada-noviembre","af:1838:oferta-ubicacion-tamano","rel:11","rel:1838:oferta-delegado-nagy"]}
 {"clave":"evt:1839:37-cajas-pest","ids":["af:1839:cajas-rohonc"]}
 {"clave":"evt:1839:nagy-toldy-enero","ids":["af:1839:nagy-carta-enero"]}
 {"clave":"evt:1839:nagy-toldy-febrero","ids":["af:1839:nagy-carta-febrero"]}
 {"clave":"evt:1839:toldy-nagy-marzo","ids":["af:1839:toldy-carta-marzo"]}
 {"clave":"evt:1839:visita-rohonc","ids":["af:1839:visita","rel:14"]}
-{"clave":"evt:1840:carbo","ids":["af:1840:carbo","ni:carbo-k114"]}
+{"clave":"evt:1840:carbo","ids":["af:1840:carbo","ni:carbo-k114","rel:1840:carbo-actas"]}
 {"clave":"evt:1840:presentacion-k114","ids":["af:1840:jerney-litografia","af:1840:jerney-vienes","af:1840:referencia","af:1840:reunion-no-identificada","af:1840:vieneses-sin-traslado","rel:12"]}
 {"clave":"evt:1842:jerney","ids":["rel:13"]}
 {"clave":"evt:1885:julg","ids":["rel:1885-julg-k114"]}
 {"clave":"inst:mnl-ol","ids":["obj:anexos1571","src:catalogo-p1314","src:gussing1780-copia","src:mnl-p1314-informacion","src:p1313-1750-270","src:p1313-lad21-29","src:p1313-lad21-30","src:p1314-1073","src:p1314-1074","src:p1314-1076","src:p1314-1077","src:p1314-1078","src:p1314-1079","src:p1314-1080","src:p1314-108137","src:p1314-108143","src:p1314-1509","src:p1314-1510","src:p1314-1511","src:p1314-19367","src:p1314-19368","src:p1314-19369","src:p1314-19370","src:p1314-19372","src:p1314-19376","src:p1314-31226","src:p1314-3777","src:p1314-3839","src:p1314-3901","src:p1314-3903","src:p1314-3933","src:p1314-3959","src:p1314-3960","src:p1314-3983-a","src:p1314-3985","src:p1314-3992","src:p1314-3993","src:p1314-4014","src:p1314-4015","src:p1314-4022","src:p1314-4026","src:p1314-4035","src:p1314-4058","src:p1314-4066","src:p1314-4067","src:p1314-4068","src:p1314-4089","src:p1314-4109","src:p1314-4759","src:p1314-53580","src:p1314-547","src:p1314-8099","src:p1314-9082","src:p1317-1752-8obras","src:p1322-1644","src:porhocs1571","src:strattmann263"]}
-{"clave":"inst:mta-kik","ids":["obj:k114","rel:1","rel:15","rel:16","rel:17","src:a695","src:actas-k1393","src:bibl1","src:bibl2","src:cat1743","src:catpozsony1795","src:catvienna1805","src:codex-k114","src:codice-k114-catalogo","src:k801-1840-2","src:k801-1859-2","src:kurzweil1839","src:mta-diszmuvek274","src:nemeti-olvasasterve","src:nemeti1889-abc","src:ral115-1841","src:ral232-1841","src:ral31-1838","src:ral50-1840","src:reali2216","src:realms80","src:soproni-vegyes4r63","src:toldy1839-mayo12","src:toldy1839-mayo20","src:tort215a","src:tort223"]}
+{"clave":"inst:mta-kik","ids":["obj:k114","rel:1","rel:15","rel:16","rel:17","src:a695","src:actas-k1393","src:bibl1","src:bibl2","src:cat1743","src:catpozsony1795","src:catvienna1805","src:codex-k114","src:codice-k114-catalogo","src:k801-1840-2","src:k801-1859-2","src:kurzweil1839","src:mta-diszmuvek274","src:nemeti-olvasasterve","src:nemeti1889-abc","src:ral115-1841","src:ral218219-1840","src:ral232-1841","src:ral31-1838","src:ral50-1840","src:reali2216","src:realms80","src:soproni-vegyes4r63","src:toldy1839-mayo12","src:toldy1839-mayo20","src:tort215a","src:tort223"]}
 {"clave":"lugar:rohonc","ids":["rel:14"]}
 {"clave":"lugar:torony","ids":["evt:1571:carta-porhocs"]}
 {"clave":"lugar:viena","ids":["evt:1743:catalogo","evt:1838:nagy-aviso-viena"]}
@@ -94,7 +94,7 @@
 {"clave":"per:koos-karoly","ids":["af:1840:a695-koos","evt:1840:a695-koos","evt:1840:koos-ral50","rel:koos-ral50"]}
 {"clave":"per:literati-nemes","ids":["af:1839:a695-literati","af:1840:athenaeum-nemes","af:1840:athenaeum-tageblatt","af:1840:jelenkor-objetos-separados","af:1840:jelenkor-salterio","af:1840:szazadunk-nemes","af:1889:fischer-literati","evt:1841:literati-lista","rel:athenaeum-nemes","rel:literati-ral115","rel:soproni-literati"]}
 {"clave":"per:miklos-deak-1571","ids":["rel:31226-miklos"]}
-{"clave":"per:nagy-karoly","ids":["evt:1838:nagy-aviso-viena","evt:1838:nagy-toldy-diciembre","evt:1839:nagy-toldy-enero","evt:1839:nagy-toldy-febrero","rel:tort223-nagy"]}
+{"clave":"per:nagy-karoly","ids":["evt:1838:nagy-aviso-viena","evt:1838:nagy-toldy-diciembre","evt:1839:nagy-toldy-enero","evt:1839:nagy-toldy-febrero","rel:1838:oferta-delegado-nagy","rel:tort223-nagy"]}
 {"clave":"per:nemes-balazs","ids":["src:nemes2003-jankovich"]}
 {"clave":"per:nemesy-janos","ids":["rel:nemesy-ral232"]}
 {"clave":"per:nemeti-kalman","ids":["src:nemeti-olvasasterve","src:nemeti1889-abc"]}
@@ -106,8 +106,8 @@
 {"clave":"per:szalay-laszlo","ids":["af:1840:a695-heidelberg"]}
 {"clave":"per:toth-bela","ids":["src:toth1899"]}
 {"clave":"per:zrinyi-gyorgy","ids":["rel:53580-zrinyi"]}
-{"clave":"src:a695","ids":["af:1840:a695-turoc","rel:a695-kisber","rel:a695-rohonc"]}
-{"clave":"src:actas-k1393","ids":["af:1992:k1393-nota15","rel:17"]}
+{"clave":"src:a695","ids":["af:1840:a695-clasificacion-fondo","af:1840:a695-turoc","ni:a695-ral218219-fechas","rel:a695-kisber","rel:a695-rohonc"]}
+{"clave":"src:actas-k1393","ids":["af:1840:k1393-carbo-localizador","af:1992:k1393-nota15","rel:17","rel:1840:carbo-actas"]}
 {"clave":"src:athenaeum1840-2","ids":["rel:athenaeum-nemes","rel:tageblatt-athenaeum"]}
 {"clave":"src:bibl1","ids":["rel:15"]}
 {"clave":"src:bibl2","ids":["rel:16","rel:4","rel:5","rel:6"]}
@@ -130,7 +130,7 @@
 {"clave":"src:gussing4-263","ids":["af:1544:gussing-matthaeus","af:1563:gussing-mayken","rel:gussing-mayken"]}
 {"clave":"src:gussing5-63","ids":["af:gussing:5-63-libro","af:gussing:5-63-propiedad","ni:gussing5-63-k114","rel:gussing5-63-batthyany"]}
 {"clave":"src:informe1841","ids":["af:1841:informe-fecha"]}
-{"clave":"src:k801-1840-2","ids":["af:1840:k801-agradecimiento"]}
+{"clave":"src:k801-1840-2","ids":["af:1840:k801-agradecimiento","rel:1840:ral218219-k801"]}
 {"clave":"src:k801-1859-2","ids":["af:1859:k801-faltantes"]}
 {"clave":"src:kurzweil1839","ids":["af:1839:kurzweil","af:1839:kurzweil-trabajo"]}
 {"clave":"src:mnl-p1314-informacion","ids":["af:p1314:digitalizado-2016-2024"]}
@@ -195,6 +195,7 @@
 {"clave":"src:pesther-tageblatt1840","ids":["af:1840:tageblatt-fuente","rel:tageblatt-athenaeum"]}
 {"clave":"src:porhocs1571","ids":["af:1571:subrayado-libros-fotografia","af:ivanyi:libros-porhocs1571","rel:1571:anexos-carta"]}
 {"clave":"src:ral115-1841","ids":["af:1841:literati-45-impresos","af:1841:literati-ral115","rel:literati-ral115"]}
+{"clave":"src:ral218219-1840","ids":["af:1840:ral218219-catalogo","af:1840:ral218219-fecha-reportada","ni:a695-ral218219-fechas","rel:1840:ral218219-k801"]}
 {"clave":"src:ral232-1841","ids":["af:1841:nemesy-ral232","rel:nemesy-ral232"]}
 {"clave":"src:ral31-1838","ids":["af:1838:ral31-localizacion","rel:ral31-gusztav"]}
 {"clave":"src:ral50-1840","ids":["af:1840:koos-ral50","af:1840:koos-ral50-sin-equivalencia","rel:koos-ral50"]}
