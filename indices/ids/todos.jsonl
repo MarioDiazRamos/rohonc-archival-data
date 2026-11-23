@@ -29,6 +29,8 @@
 {"clave":"af:1992:k801-nota29","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:9082:marcas-subrayado","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:catalogo:224","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:catalogo:ivanyi-transcripcion-2001","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:catalogo:observaciones-columna10","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:ivanyi:libros-porhocs1571","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:ivanyi:marcas-barath2022","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:ivanyi:p1314-organizacion","ids":["datos/afirmaciones/todos.jsonl"]}
@@ -153,3 +155,4 @@
 {"clave":"src:toldy1839-mayo20","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:toldy1846","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:vadas2022","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:virag2024-catalogacion","ids":["datos/fuentes/todos.jsonl"]}
