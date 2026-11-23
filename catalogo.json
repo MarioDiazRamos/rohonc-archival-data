@@ -183,47 +183,47 @@
         ],
         "por_periodo": [
           {
-            "bytes": 2552,
-            "cantidad": 36,
+            "bytes": 3318,
+            "cantidad": 44,
             "prefijo": "",
             "ruta": "indices/por_periodo/todos.jsonl"
           }
         ],
         "por_sha256": [
           {
-            "bytes": 296,
-            "cantidad": 3,
+            "bytes": 510,
+            "cantidad": 5,
             "prefijo": "",
             "ruta": "indices/por_sha256/todos.jsonl"
           }
         ],
         "por_signatura": [
           {
-            "bytes": 736,
-            "cantidad": 14,
+            "bytes": 1004,
+            "cantidad": 19,
             "prefijo": "",
             "ruta": "indices/por_signatura/todos.jsonl"
           }
         ],
         "relaciones_directas": [
           {
-            "bytes": 721,
-            "cantidad": 14,
+            "bytes": 889,
+            "cantidad": 17,
             "prefijo": "",
             "ruta": "indices/relaciones_directas/todos.jsonl"
           }
         ],
         "relaciones_inversas": [
           {
-            "bytes": 498,
-            "cantidad": 9,
+            "bytes": 676,
+            "cantidad": 12,
             "prefijo": "",
             "ruta": "indices/relaciones_inversas/todos.jsonl"
           }
         ],
         "tipos": [
           {
-            "bytes": 5457,
+            "bytes": 7010,
             "cantidad": 12,
             "prefijo": "",
             "ruta": "indices/tipos/todos.jsonl"
