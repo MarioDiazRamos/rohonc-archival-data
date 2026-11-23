@@ -26,9 +26,7 @@
 {"clave":"src:gussing4-229","ids":["cov:gussing4-229:visual"]}
 {"clave":"src:gussing4-263","ids":["cov:gussing4-263"]}
 {"clave":"src:gussing5-63","ids":["cov:gussing5-63"]}
-{"clave":"src:hasznos1840-1","ids":["cov:hemeroteca-sin-cotejo:hasznos1840-1"]}
 {"clave":"src:hasznos1840-2","ids":["cov:1840:hasznos:visual"]}
-{"clave":"src:hirnok1840","ids":["cov:hemeroteca-sin-cotejo:hirnok1840"]}
 {"clave":"src:hursan2025","ids":["cov:hursan2025:texto"]}
 {"clave":"src:jelenkor1840-1","ids":["cov:1840:jelenkor1:inventario","cov:1840:jelenkor1:visual"]}
 {"clave":"src:jelenkor1840-2","ids":["cov:1840:jelenkor2:inventario","cov:1840:jelenkor2:visual"]}
@@ -101,8 +99,6 @@
 {"clave":"src:ral232-1841","ids":["cov:ral232-1841"]}
 {"clave":"src:ral31-1838","ids":["cov:ral31-1838:sin-copia"]}
 {"clave":"src:ral50-1840","ids":["cov:ral50-1840"]}
-{"clave":"src:regelo1840-1","ids":["cov:hemeroteca-sin-cotejo:regelo1840-1"]}
-{"clave":"src:regelo1840-2","ids":["cov:hemeroteca-sin-cotejo:regelo1840-2"]}
 {"clave":"src:spiegel1840-1","ids":["cov:1840:spiegel1:inventario","cov:1840:spiegel1:visual","cov:spiegel-1840-1:sin-texto"]}
 {"clave":"src:spiegel1840-2","ids":["cov:1840:spiegel2:inventario","cov:1840:spiegel2:visual","cov:spiegel-1840-2:sin-texto"]}
 {"clave":"src:strattmann263","ids":["cov:strattmann263"]}

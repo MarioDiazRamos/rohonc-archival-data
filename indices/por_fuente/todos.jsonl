@@ -34,9 +34,7 @@
 {"clave":"src:gussing4-229","ids":["af:gussing:4-229","cov:gussing4-229:visual"]}
 {"clave":"src:gussing4-263","ids":["cov:gussing4-263"]}
 {"clave":"src:gussing5-63","ids":["cov:gussing5-63"]}
-{"clave":"src:hasznos1840-1","ids":["cov:hemeroteca-sin-cotejo:hasznos1840-1"]}
 {"clave":"src:hasznos1840-2","ids":["af:1840:hasznos:jerney","cov:1840:hasznos:visual"]}
-{"clave":"src:hirnok1840","ids":["cov:hemeroteca-sin-cotejo:hirnok1840"]}
 {"clave":"src:hursan2019catalogo","ids":["af:1752:envio-ocho-obras","src:p1317-1752-8obras"]}
 {"clave":"src:hursan2019teleki","ids":["af:1838:nagy-aviso-viena","af:1838:nagy-carta-diciembre","af:1838:ral31-localizacion","af:1839:kisber-2660","af:1839:marcas-batthyany","af:1839:nagy-carta-enero","af:1839:nagy-carta-febrero","af:1839:no-separacion-fondos","af:1839:papeles-colores","af:1839:proveniencia-multiple","af:1839:recepcion-sin-lista","af:1839:recepcion-trattner","af:1839:rohonc-25000-26000","evt:1838:nagy-aviso-viena","evt:1838:nagy-toldy-diciembre","evt:1839:nagy-toldy-enero","evt:1839:nagy-toldy-febrero","rel:ral31-gusztav","rel:tort223-nagy","src:ral31-1838","src:tort215a","src:tort223"]}
 {"clave":"src:hursan2020","ids":["af:1838:oferta","af:1839:cajas-kisber","af:1839:cajas-rohonc","af:1839:catalogo-no-conservado","af:1839:kurzweil-trabajo","af:1839:toldy-carta-marzo","evt:1838:ofrecimiento","evt:1839:37-cajas-pest","evt:1839:toldy-nagy-marzo","rel:11"]}
@@ -127,8 +125,7 @@
 {"clave":"src:ral50-1840","ids":["cov:ral50-1840"]}
 {"clave":"src:reali2216","ids":["af:reali2216:papel"]}
 {"clave":"src:realms80","ids":["af:realms80:1838","af:realms80:224","af:realms80:dimensiones","rel:k114-rohonc-modern"]}
-{"clave":"src:regelo1840-1","ids":["cov:hemeroteca-sin-cotejo:regelo1840-1"]}
-{"clave":"src:regelo1840-2","ids":["af:1840:regelo:necrologica","cov:hemeroteca-sin-cotejo:regelo1840-2"]}
+{"clave":"src:regelo1840-2","ids":["af:1840:regelo:necrologica"]}
 {"clave":"src:rozsondai2024","ids":["af:1841:literati-45-impresos","af:1841:soproni-material","af:1841:soproni-posesion","af:1841:viajes-folhung3006","evt:1841:literati-lista","rel:soproni-literati","src:soproni-vegyes4r63"]}
 {"clave":"src:spiegel1840-1","ids":["af:1840:spiegel:erwiderung","af:1840:spiegel:handschriften","cov:1840:spiegel1:inventario","cov:1840:spiegel1:visual","cov:spiegel-1840-1:sin-texto"]}
 {"clave":"src:spiegel1840-2","ids":["af:1840:spiegel:republicacion","cov:1840:spiegel2:inventario","cov:1840:spiegel2:visual","cov:spiegel-1840-2:sin-texto"]}
