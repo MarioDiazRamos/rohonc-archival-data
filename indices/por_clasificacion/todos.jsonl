@@ -34,6 +34,7 @@
 {"clave":"fecha_visita","ids":["af:1839:visita"]}
 {"clave":"folios_descritos_por_catalogo","ids":["af:catalogo:224"]}
 {"clave":"folios_segun_registro_institucional","ids":["af:realms80:224"]}
+{"clave":"glosa_presente_en_pdf_con_fecha_tecnica_2007","ids":["af:1570:9082-glosa-en-pdf-2007"]}
 {"clave":"hojas_descritas_por_jerney","ids":["af:1844:223"]}
 {"clave":"incluye_coleccion","ids":["rel:11"]}
 {"clave":"informe_archivistico","ids":["src:kurzweil1839","src:toldy1839-mayo12","src:toldy1839-mayo20"]}
