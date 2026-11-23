@@ -49,6 +49,7 @@
 {"clave":"jerneyjanos","ids":["per:jerney-janos"]}
 {"clave":"julgbernat","ids":["per:julg-bernat"]}
 {"clave":"k114","ids":["obj:k114"]}
+{"clave":"k1357","ids":["src:k1357"]}
 {"clave":"k1393","ids":["src:actas-k1393"]}
 {"clave":"k80118391","ids":["src:kurzweil1839"]}
 {"clave":"k80118392","ids":["src:toldy1839-mayo12"]}
@@ -79,6 +80,7 @@
 {"clave":"mnlol","ids":["inst:mnl-ol"]}
 {"clave":"mtak","ids":["inst:mta-kik"]}
 {"clave":"mtakik","ids":["inst:mta-kik"]}
+{"clave":"n24","ids":["src:mnl-ol-n24"]}
 {"clave":"nagykaroly","ids":["per:nagy-karoly"]}
 {"clave":"nematikalman","ids":["per:nemeti-kalman"]}
 {"clave":"nemesliteratisamuel","ids":["per:literati-nemes"]}
@@ -94,7 +96,11 @@
 {"clave":"porhochyfarkas","ids":["per:porhocs-farkas"]}
 {"clave":"porhocsfarkas","ids":["per:porhocs-farkas"]}
 {"clave":"porhotthyfarkas","ids":["per:porhocs-farkas"]}
+{"clave":"ral1421840","ids":["src:ral142-1840"]}
+{"clave":"ral1711839","ids":["src:ral171-1839"]}
+{"clave":"ral3071840","ids":["src:ral307-1840"]}
 {"clave":"ral611839","ids":["src:toldy1839-mayo20"]}
+{"clave":"ral971839","ids":["src:ral97-1839"]}
 {"clave":"rechnitz","ids":["lugar:rohonc"]}
 {"clave":"rohonc","ids":["lugar:rohonc"]}
 {"clave":"rohonccodex","ids":["obj:k114"]}
