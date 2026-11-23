@@ -25,7 +25,12 @@
 {"clave":"af:1844:223","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1992:k1393-nota15","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1992:k801-nota29","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:9082:marcas-subrayado","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:catalogo:224","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:ivanyi:libros-porhocs1571","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:ivanyi:marcas-barath2022","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:ivanyi:p1314-organizacion","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:ivanyi:subrayados-vadas2022","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:reali2216:papel","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:realms80:1838","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:realms80:224","ids":["datos/afirmaciones/todos.jsonl"]}
@@ -92,6 +97,7 @@
 {"clave":"per:csenthy-tamas","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:forgach-ferenc","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:hursan-szabolcs","ids":["datos/autoridades/todos.jsonl"]}
+{"clave":"per:ivanyi-bela","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:jerney-janos","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:kezai-simon","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:kolinovits-gabor","ids":["datos/autoridades/todos.jsonl"]}
@@ -118,6 +124,7 @@
 {"clave":"rel:8","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:9","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"src:actas-k1393","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:barath2022","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:bibl1","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:bibl2","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:carbo-study","ids":["datos/fuentes/todos.jsonl"]}
@@ -134,6 +141,7 @@
 {"clave":"src:jerney1844","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:kurzweil1839","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:lang2026","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:mnl-p1314-informacion","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:p1314-9082","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:porhocs1571","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:reali2216","ids":["datos/fuentes/todos.jsonl"]}
@@ -141,3 +149,4 @@
 {"clave":"src:toldy1839-mayo12","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:toldy1839-mayo20","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:toldy1846","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:vadas2022","ids":["datos/fuentes/todos.jsonl"]}

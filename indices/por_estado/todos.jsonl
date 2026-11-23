@@ -7,7 +7,7 @@
 {"clave":"cuatro_caras_anexas_inspeccionadas_en_auditoria_previa","ids":["cov:1571:p1314-38149"]}
 {"clave":"dos_fotografias_auditadas_previamente_sin_transcripcion_paleografica","ids":["cov:p1314-9082:v30"]}
 {"clave":"dos_fotografias_sha256_coincidentes_y_dimensiones_verificadas;transcripcion_diplomatica_integral_pendiente","ids":["cov:p1314-9082:20261122"]}
-{"clave":"enlace_publico","ids":["src:carbo-study","src:catalogo-p1314","src:catalogo1984","src:codice-k114-catalogo","src:csanak1959","src:csanak1992","src:hursan2020","src:hursan2022","src:jerney1844","src:lang2026","src:reali2216","src:realms80"]}
+{"clave":"enlace_publico","ids":["src:barath2022","src:carbo-study","src:catalogo-p1314","src:catalogo1984","src:codice-k114-catalogo","src:csanak1959","src:csanak1992","src:hursan2020","src:hursan2022","src:jerney1844","src:lang2026","src:mnl-p1314-informacion","src:reali2216","src:realms80","src:vadas2022"]}
 {"clave":"identidad_material_no_demostrada","ids":["ni:anexos1571-k114"]}
 {"clave":"identidad_no_demostrada","ids":["ni:sid41-k114"]}
 {"clave":"indice_paginacion","ids":["cov:bibl1:metadatos","cov:bibl2:metadatos"]}

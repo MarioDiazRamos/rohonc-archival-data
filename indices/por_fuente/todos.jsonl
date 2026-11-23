@@ -1,4 +1,5 @@
 {"clave":"src:actas-k1393","ids":["cov:k1393:acceso"]}
+{"clave":"src:barath2022","ids":["af:ivanyi:marcas-barath2022"]}
 {"clave":"src:bibl1","ids":["cat:1814:rohonc-v","cat:1817:traslados-lista1","cat:1817:traslados-lista2","cov:bibl1:atlas","cov:bibl1:list1","cov:bibl1:list2","cov:bibl1:metadatos","cov:bibl1:v","dig:bibl1"]}
 {"clave":"src:bibl2","ids":["af:1813:1063","cat:1813:kisber","cov:bibl2:latin","cov:bibl2:metadatos","dig:bibl2","ent:1813:forgach","ent:1813:kezai","ent:1813:kolinovits","ent:1813:latinos-1063","evt:1813:inventario"]}
 {"clave":"src:carbo-study","ids":["af:1840:carbo","evt:1840:carbo","ni:carbo-k114"]}
@@ -12,11 +13,13 @@
 {"clave":"src:hursan2025","ids":["af:1743:89mss","af:1743:imadsag","af:1743:sid","af:1817:forgach","af:1817:kezai","af:1817:kolinovits","cat:1743:viena","cov:hursan2025:texto","dig:hursan2025","ent:1743:sid41","ent:1813:forgach","ent:1813:kezai","ent:1813:kolinovits","evt:1743:catalogo","evt:1817:traslado-kisber-rohonc","rel:10","rel:3","rel:4","rel:5","rel:6","rel:7","rel:8","rel:9","src:toldy1839-mayo20"]}
 {"clave":"src:jerney1844","ids":["af:1840:referencia","af:1844:223","evt:1840:presentacion-k114","evt:1842:jerney","ni:sid41-k114","obj:k114","rel:12","rel:13"]}
 {"clave":"src:kurzweil1839","ids":["cov:k801:kurzweil"]}
-{"clave":"src:lang2026","ids":["af:1571:anexo-p3","af:1571:anexo-p4","af:1571:anexo-p5","af:1571:anexo-p6","ni:anexos1571-k114","obj:anexos1571","rel:1571:anexos-carta","rel:1571:escritura-k114"]}
-{"clave":"src:p1314-9082","ids":["cov:p1314-9082:20261122","cov:p1314-9082:v30"]}
+{"clave":"src:lang2026","ids":["af:1571:anexo-p3","af:1571:anexo-p4","af:1571:anexo-p5","af:1571:anexo-p6","af:ivanyi:libros-porhocs1571","ni:anexos1571-k114","obj:anexos1571","rel:1571:anexos-carta","rel:1571:escritura-k114"]}
+{"clave":"src:mnl-p1314-informacion","ids":["af:ivanyi:p1314-organizacion"]}
+{"clave":"src:p1314-9082","ids":["af:9082:marcas-subrayado","cov:p1314-9082:20261122","cov:p1314-9082:v30"]}
 {"clave":"src:porhocs1571","ids":["cov:1571:p1314-38149","evt:1571:carta-porhocs","obj:anexos1571"]}
 {"clave":"src:reali2216","ids":["af:reali2216:papel"]}
 {"clave":"src:realms80","ids":["af:realms80:1838","af:realms80:224","af:realms80:dimensiones"]}
 {"clave":"src:toldy1839-mayo12","ids":["cov:k801:toldy"]}
 {"clave":"src:toldy1839-mayo20","ids":["cov:ral61"]}
 {"clave":"src:toldy1846","ids":["af:1839:visita","evt:1839:visita-rohonc","evt:1844:apertura","rel:14"]}
+{"clave":"src:vadas2022","ids":["af:ivanyi:subrayados-vadas2022"]}
