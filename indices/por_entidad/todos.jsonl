@@ -75,7 +75,7 @@
 {"clave":"lugar:torony","ids":["evt:1571:carta-porhocs"]}
 {"clave":"lugar:viena","ids":["evt:1743:catalogo","evt:1838:nagy-aviso-viena"]}
 {"clave":"obj:anexos1571","ids":["af:1571:anexo-p3","af:1571:anexo-p4","af:1571:anexo-p5","af:1571:anexo-p6","evt:1571:carta-porhocs","ni:anexos1571-k114","rel:1571:anexos-carta","rel:1571:escritura-k114"]}
-{"clave":"obj:k114","ids":["af:1844:223","af:1846:szabo-jozsef-prestamo-k114","af:1866:szabo-atribucion-literati","af:1866:szabo-cita-jozsef1844","af:1866:szabo-custodia-academia","af:1866:szabo-examen-personal","af:1889:fischer-223","af:1889:fischer-julg","af:1899:toth-filigrana","af:1899:toth-julg","af:1899:toth-szabo-fejerpataky","af:catalogo:224","af:reali2216:papel","af:realms80:1838","af:realms80:224","af:realms80:dimensiones","af:signatura:antigua","dif:223-224","evt:1840:carbo","evt:1840:presentacion-k114","evt:1842:jerney","evt:1885:julg","ni:1743-evangelistas-k114","ni:1743-exercitia-k114","ni:anexos1571-k114","ni:carbo-k114","ni:gussing2-170-k114","ni:gussing5-63-k114","ni:sid41-k114","rel:1","rel:12","rel:13","rel:1571:escritura-k114","rel:1846:k114-k1398","rel:1885-julg-k114","rel:1889-fischer-k114","rel:2","rel:k114-rohonc-modern","rel:nemeti-abc-k114","rel:nemeti-plan-k114"]}
+{"clave":"obj:k114","ids":["af:1844:223","af:1846:szabo-jozsef-prestamo-k114","af:1866:szabo-atribucion-literati","af:1866:szabo-cita-jozsef1844","af:1866:szabo-custodia-academia","af:1866:szabo-examen-personal","af:1889:fischer-223","af:1889:fischer-fotografia","af:1889:fischer-julg","af:1899:toth-filigrana","af:1899:toth-julg","af:1899:toth-szabo-fejerpataky","af:1973:csapodi-filigranas","af:1973:csapodi-mf1173","af:catalogo:224","af:reali2216:papel","af:realms80:1838","af:realms80:224","af:realms80:dimensiones","af:signatura:antigua","dif:223-224","evt:1840:carbo","evt:1840:presentacion-k114","evt:1842:jerney","evt:1885:julg","ni:1743-evangelistas-k114","ni:1743-exercitia-k114","ni:anexos1571-k114","ni:carbo-k114","ni:gussing2-170-k114","ni:gussing5-63-k114","ni:ms884-k114","ni:sid41-k114","rel:1","rel:12","rel:13","rel:1571:escritura-k114","rel:1846:k114-k1398","rel:1885-julg-k114","rel:1889-fischer-k114","rel:2","rel:k114-rohonc-modern","rel:nemeti-abc-k114","rel:nemeti-ms884-estudio","rel:nemeti-plan-k114"]}
 {"clave":"per:andras-koltai","ids":["src:koltai2002"]}
 {"clave":"per:andreas-mayken","ids":["rel:gussing-mayken"]}
 {"clave":"per:balas-deak","ids":["ni:balas-balazs","rel:balas-108137","rel:balas-108143","rel:balas-3960","rel:balas-3992","rel:balas-3993","rel:balas-4035","rel:balas-4058"]}
@@ -107,8 +107,9 @@
 {"clave":"per:szalay-laszlo","ids":["af:1840:a695-heidelberg"]}
 {"clave":"per:toth-bela","ids":["src:toth1899"]}
 {"clave":"per:zrinyi-gyorgy","ids":["rel:53580-zrinyi"]}
+{"clave":"src:a1746-iii","ids":["af:1839:a1746-rohonc137","ni:a1746-k1393","rel:a1746-218219"]}
 {"clave":"src:a695","ids":["af:1840:a695-clasificacion-fondo","af:1840:a695-turoc","ni:a695-ral218219-fechas","rel:a695-kisber","rel:a695-rohonc"]}
-{"clave":"src:actas-k1393","ids":["af:1840:k1393-carbo-localizador","af:1992:k1393-nota15","rel:17","rel:1840:carbo-actas"]}
+{"clave":"src:actas-k1393","ids":["af:1840:k1393-carbo-localizador","af:1992:k1393-nota15","ni:a1746-k1393","rel:17","rel:1840:carbo-actas"]}
 {"clave":"src:actas-k1394","ids":["af:2024:czinege-intervalo-k1393-k1394"]}
 {"clave":"src:actas-k1398","ids":["rel:1846:k114-k1398"]}
 {"clave":"src:athenaeum1840-2","ids":["rel:athenaeum-nemes","rel:tageblatt-athenaeum"]}
@@ -121,7 +122,7 @@
 {"clave":"src:codice-k114-catalogo","ids":["rel:2"]}
 {"clave":"src:czinege2024","ids":["af:1840:czinege-receso-reuniones"]}
 {"clave":"src:evkonyv1842v","ids":["af:1840:evkonyv-adquisiciones","af:1840:evkonyv-informe","af:1840:evkonyv-reglas","af:1840:evkonyv-sesiones"]}
-{"clave":"src:fischer1889","ids":["rel:1889-fischer-k114"]}
+{"clave":"src:fischer1889","ids":["rel:1889-fischer-k114","rel:fischer-toldy1852"]}
 {"clave":"src:gussing1742","ids":["af:1742:gussing-incompleto","af:1742:gussing-volumenes"]}
 {"clave":"src:gussing1779","ids":["af:1779:gussing-visual"]}
 {"clave":"src:gussing1780","ids":["af:1780:gussing-catolicos","af:1780:gussing-limite","af:1780:gussing-otros","af:1780:gussing-total","rel:gussing1780-copia"]}
@@ -139,8 +140,9 @@
 {"clave":"src:kurzweil1839","ids":["af:1839:kurzweil","af:1839:kurzweil-trabajo"]}
 {"clave":"src:mnl-p1314-informacion","ids":["af:p1314:digitalizado-2016-2024"]}
 {"clave":"src:mta-diszmuvek274","ids":["af:1813:etiqueta-kisber"]}
+{"clave":"src:muller1885-rohonc","ids":["af:2008:lang-muller1885"]}
 {"clave":"src:nemeti-olvasasterve","ids":["af:1899:toth-nemeti-plan","rel:nemeti-plan-k114"]}
-{"clave":"src:nemeti1889-abc","ids":["af:1899:toth-nemeti-abc","rel:nemeti-abc-k114"]}
+{"clave":"src:nemeti1889-abc","ids":["af:1899:toth-nemeti-abc","af:1973:csapodi-ms884","af:2008:lang-mf5913","ni:ms884-k114","rel:nemeti-abc-k114","rel:nemeti-ms884-estudio"]}
 {"clave":"src:nemzeti1840-2","ids":["af:1840:nemzeti-hueco"]}
 {"clave":"src:oszk-folhung3006","ids":["af:1841:viajes-folhung3006"]}
 {"clave":"src:oszk-fond16-25","ids":["af:1841:jankovich-fond16-25","af:1841:jankovich-psalterio","af:1841:jankovich-psalterio-litania","af:1841:jankovich-psalterio-precio"]}
@@ -198,8 +200,9 @@
 {"clave":"src:p1322-1644","ids":["af:1644:12-ilustrados","af:1644:entradas","af:1644:secciones","rel:batthyany1644-adam"]}
 {"clave":"src:pesther-tageblatt1840","ids":["af:1840:tageblatt-fuente","rel:tageblatt-athenaeum"]}
 {"clave":"src:porhocs1571","ids":["af:1571:subrayado-libros-fotografia","af:ivanyi:libros-porhocs1571","rel:1571:anexos-carta"]}
+{"clave":"src:ral-k1568","ids":["af:2008:lang-comision1898","evt:1898:comision-rohonc"]}
 {"clave":"src:ral115-1841","ids":["af:1841:literati-45-impresos","af:1841:literati-ral115","rel:literati-ral115"]}
-{"clave":"src:ral218219-1840","ids":["af:1840:ral218219-catalogo","af:1840:ral218219-fecha-reportada","ni:a695-ral218219-fechas","rel:1840:ral218219-k801"]}
+{"clave":"src:ral218219-1840","ids":["af:1840:a1746-218","af:1840:a1746-219","af:1840:ral218219-catalogo","af:1840:ral218219-fecha-reportada","evt:1840:registro-a1746-218219","ni:a695-ral218219-fechas","rel:1840:ral218219-k801","rel:a1746-218219"]}
 {"clave":"src:ral232-1841","ids":["af:1841:nemesy-ral232","rel:nemesy-ral232"]}
 {"clave":"src:ral31-1838","ids":["af:1838:ral31-localizacion","rel:ral31-gusztav"]}
 {"clave":"src:ral50-1840","ids":["af:1840:koos-ral50","af:1840:koos-ral50-sin-equivalencia","rel:koos-ral50"]}
@@ -207,6 +210,7 @@
 {"clave":"src:strattmann263","ids":["af:strattmann:entradas","af:strattmann:fechas","af:strattmann:volumenes"]}
 {"clave":"src:tarsalkodo1840","ids":["af:1840:tarsalkodo-informe","af:1840:tarsalkodo-otras-piezas"]}
 {"clave":"src:toldy1839-mayo12","ids":["af:1839:toldy-mayo12","af:1992:k801-nota29"]}
-{"clave":"src:toldy1840-nov12","ids":["af:1840:toldy-nov12-reanudacion"]}
+{"clave":"src:toldy1840-nov12","ids":["af:1840:k166-ficha","af:1840:toldy-nov12-reanudacion"]}
+{"clave":"src:toldy1852-irodalom","ids":["af:1889:fischer-cita-toldy1852","rel:fischer-toldy1852"]}
 {"clave":"src:tort223","ids":["rel:tort223-nagy"]}
 {"clave":"src:tudomanytar1840-e8","ids":["dif:1840-turoc-fechas"]}

@@ -3,7 +3,7 @@
 {"clave":"colec:rohonc","ids":["rel:10","rel:11","rel:7","rel:8","rel:a695-rohonc","rel:k114-rohonc-modern"]}
 {"clave":"inst:mta-kik","ids":["rel:1","rel:15","rel:16","rel:17"]}
 {"clave":"lugar:rohonc","ids":["rel:14"]}
-{"clave":"obj:k114","ids":["rel:12","rel:13","rel:1571:escritura-k114","rel:1885-julg-k114","rel:1889-fischer-k114","rel:nemeti-abc-k114","rel:nemeti-plan-k114"]}
+{"clave":"obj:k114","ids":["rel:12","rel:13","rel:1571:escritura-k114","rel:1885-julg-k114","rel:1889-fischer-k114","rel:nemeti-abc-k114","rel:nemeti-ms884-estudio","rel:nemeti-plan-k114"]}
 {"clave":"per:andreas-mayken","ids":["rel:gussing-mayken"]}
 {"clave":"per:balas-deak","ids":["rel:balas-108137","rel:balas-108143","rel:balas-3960","rel:balas-3992","rel:balas-3993","rel:balas-4035","rel:balas-4058"]}
 {"clave":"per:batthyany-adam","ids":["rel:batthyany1644-adam"]}
@@ -28,3 +28,5 @@
 {"clave":"src:k801-1840-2","ids":["rel:1840:ral218219-k801"]}
 {"clave":"src:pesther-tageblatt1840","ids":["rel:tageblatt-athenaeum"]}
 {"clave":"src:porhocs1571","ids":["rel:1571:anexos-carta"]}
+{"clave":"src:ral218219-1840","ids":["rel:a1746-218219"]}
+{"clave":"src:toldy1852-irodalom","ids":["rel:fischer-toldy1852"]}

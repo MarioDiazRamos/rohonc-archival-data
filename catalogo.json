@@ -127,8 +127,8 @@
       "indices": {
         "alias": [
           {
-            "bytes": 6596,
-            "cantidad": 121,
+            "bytes": 6644,
+            "cantidad": 122,
             "prefijo": "",
             "ruta": "indices/alias/todos.jsonl"
           }
@@ -159,8 +159,8 @@
         ],
         "por_entidad": [
           {
-            "bytes": 21792,
-            "cantidad": 212,
+            "bytes": 22514,
+            "cantidad": 216,
             "prefijo": "",
             "ruta": "indices/por_entidad/todos.jsonl"
           }
@@ -191,32 +191,32 @@
         ],
         "por_sha256": [
           {
-            "bytes": 510,
-            "cantidad": 5,
+            "bytes": 611,
+            "cantidad": 6,
             "prefijo": "",
             "ruta": "indices/por_sha256/todos.jsonl"
           }
         ],
         "por_signatura": [
           {
-            "bytes": 5040,
-            "cantidad": 98,
+            "bytes": 5420,
+            "cantidad": 106,
             "prefijo": "",
             "ruta": "indices/por_signatura/todos.jsonl"
           }
         ],
         "relaciones_directas": [
           {
-            "bytes": 2821,
-            "cantidad": 48,
+            "bytes": 2925,
+            "cantidad": 49,
             "prefijo": "",
             "ruta": "indices/relaciones_directas/todos.jsonl"
           }
         ],
         "relaciones_inversas": [
           {
-            "bytes": 2160,
-            "cantidad": 30,
+            "bytes": 2312,
+            "cantidad": 32,
             "prefijo": "",
             "ruta": "indices/relaciones_inversas/todos.jsonl"
           }
