@@ -2,18 +2,18 @@
   "archivo": "Datos archivísticos del Códice Rohonc",
   "codificacion": "UTF-8",
   "conjuntos": {
-    "afirmaciones": 287,
+    "afirmaciones": 332,
     "asientos": 7,
     "autoridades": 60,
     "catalogos": 12,
-    "cobertura": 140,
-    "cotejos_no_identidad": 9,
-    "digitalizaciones": 5,
-    "discrepancias": 20,
-    "eventos": 27,
-    "fuentes": 158,
+    "cobertura": 160,
+    "cotejos_no_identidad": 16,
+    "digitalizaciones": 6,
+    "discrepancias": 22,
+    "eventos": 30,
+    "fuentes": 183,
     "objetos": 2,
-    "relaciones": 59
+    "relaciones": 67
   },
   "formato_maestro": [
     "JSONL",
@@ -29,8 +29,8 @@
       "datos": {
         "afirmaciones": [
           {
-            "bytes": 106528,
-            "cantidad": 287,
+            "bytes": 122046,
+            "cantidad": 332,
             "prefijo": "",
             "ruta": "datos/afirmaciones/todos.jsonl"
           }
@@ -61,48 +61,48 @@
         ],
         "cobertura": [
           {
-            "bytes": 44277,
-            "cantidad": 140,
+            "bytes": 51353,
+            "cantidad": 160,
             "prefijo": "",
             "ruta": "datos/cobertura/todos.jsonl"
           }
         ],
         "cotejos_no_identidad": [
           {
-            "bytes": 1897,
-            "cantidad": 9,
+            "bytes": 3286,
+            "cantidad": 16,
             "prefijo": "",
             "ruta": "datos/cotejos_no_identidad/todos.jsonl"
           }
         ],
         "digitalizaciones": [
           {
-            "bytes": 1538,
-            "cantidad": 5,
+            "bytes": 1831,
+            "cantidad": 6,
             "prefijo": "",
             "ruta": "datos/digitalizaciones/todos.jsonl"
           }
         ],
         "discrepancias": [
           {
-            "bytes": 4892,
-            "cantidad": 20,
+            "bytes": 5416,
+            "cantidad": 22,
             "prefijo": "",
             "ruta": "datos/discrepancias/todos.jsonl"
           }
         ],
         "eventos": [
           {
-            "bytes": 6903,
-            "cantidad": 27,
+            "bytes": 7687,
+            "cantidad": 30,
             "prefijo": "",
             "ruta": "datos/eventos/todos.jsonl"
           }
         ],
         "fuentes": [
           {
-            "bytes": 52849,
-            "cantidad": 158,
+            "bytes": 61905,
+            "cantidad": 183,
             "prefijo": "",
             "ruta": "datos/fuentes/todos.jsonl"
           }
@@ -117,8 +117,8 @@
         ],
         "relaciones": [
           {
-            "bytes": 10121,
-            "cantidad": 59,
+            "bytes": 11581,
+            "cantidad": 67,
             "prefijo": "",
             "ruta": "datos/relaciones/todos.jsonl"
           }
@@ -127,103 +127,103 @@
       "indices": {
         "alias": [
           {
-            "bytes": 6596,
-            "cantidad": 121,
+            "bytes": 6644,
+            "cantidad": 122,
             "prefijo": "",
             "ruta": "indices/alias/todos.jsonl"
           }
         ],
         "ids": [
           {
-            "bytes": 56211,
-            "cantidad": 786,
+            "bytes": 64404,
+            "cantidad": 897,
             "prefijo": "",
             "ruta": "indices/ids/todos.jsonl"
           }
         ],
         "por_clasificacion": [
           {
-            "bytes": 29858,
-            "cantidad": 366,
+            "bytes": 34956,
+            "cantidad": 435,
             "prefijo": "",
             "ruta": "indices/por_clasificacion/todos.jsonl"
           }
         ],
         "por_cobertura": [
           {
-            "bytes": 7427,
-            "cantidad": 118,
+            "bytes": 8565,
+            "cantidad": 135,
             "prefijo": "",
             "ruta": "indices/por_cobertura/todos.jsonl"
           }
         ],
         "por_entidad": [
           {
-            "bytes": 21792,
-            "cantidad": 212,
+            "bytes": 24812,
+            "cantidad": 231,
             "prefijo": "",
             "ruta": "indices/por_entidad/todos.jsonl"
           }
         ],
         "por_estado": [
           {
-            "bytes": 17799,
-            "cantidad": 111,
+            "bytes": 21959,
+            "cantidad": 153,
             "prefijo": "",
             "ruta": "indices/por_estado/todos.jsonl"
           }
         ],
         "por_fuente": [
           {
-            "bytes": 19908,
-            "cantidad": 149,
+            "bytes": 23033,
+            "cantidad": 173,
             "prefijo": "",
             "ruta": "indices/por_fuente/todos.jsonl"
           }
         ],
         "por_periodo": [
           {
-            "bytes": 8200,
-            "cantidad": 119,
+            "bytes": 15229,
+            "cantidad": 251,
             "prefijo": "",
             "ruta": "indices/por_periodo/todos.jsonl"
           }
         ],
         "por_sha256": [
           {
-            "bytes": 510,
-            "cantidad": 5,
+            "bytes": 611,
+            "cantidad": 6,
             "prefijo": "",
             "ruta": "indices/por_sha256/todos.jsonl"
           }
         ],
         "por_signatura": [
           {
-            "bytes": 5040,
-            "cantidad": 98,
+            "bytes": 5655,
+            "cantidad": 111,
             "prefijo": "",
             "ruta": "indices/por_signatura/todos.jsonl"
           }
         ],
         "relaciones_directas": [
           {
-            "bytes": 2821,
-            "cantidad": 48,
+            "bytes": 3184,
+            "cantidad": 53,
             "prefijo": "",
             "ruta": "indices/relaciones_directas/todos.jsonl"
           }
         ],
         "relaciones_inversas": [
           {
-            "bytes": 2160,
-            "cantidad": 30,
+            "bytes": 2530,
+            "cantidad": 35,
             "prefijo": "",
             "ruta": "indices/relaciones_inversas/todos.jsonl"
           }
         ],
         "tipos": [
           {
-            "bytes": 17991,
+            "bytes": 20677,
             "cantidad": 12,
             "prefijo": "",
             "ruta": "indices/tipos/todos.jsonl"
@@ -248,7 +248,7 @@
     "relaciones_inversas",
     "tipos"
   ],
-  "registros": 786,
+  "registros": 897,
   "repositorio_previsto": "MarioDiazRamos/rohonc-archival-data",
   "sin_programas": true,
   "sin_reproducciones_binarias": true,
