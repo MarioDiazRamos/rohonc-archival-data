@@ -61,7 +61,7 @@
         ],
         "cobertura": [
           {
-            "bytes": 4867,
+            "bytes": 4833,
             "cantidad": 16,
             "prefijo": "",
             "ruta": "datos/cobertura/todos.jsonl"
