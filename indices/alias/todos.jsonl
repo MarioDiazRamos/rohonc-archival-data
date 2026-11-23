@@ -1,6 +1,9 @@
+{"clave":"705101athenaeumschedel18401pdf","ids":["dig:athenaeum1840-1"]}
+{"clave":"705201athenaeumschedel18402pdf","ids":["dig:athenaeum1840-2"]}
 {"clave":"batthyanyantaljozsef","ids":["per:batthyany-antal-jozsef"]}
 {"clave":"batthyanyboldizsar","ids":["per:batthyany-boldizsar"]}
 {"clave":"batthyanygusztav","ids":["per:batthyany-gusztav"]}
+{"clave":"batthyanykazmer","ids":["per:batthyany-kazmer"]}
 {"clave":"batthyanylajoserno","ids":["per:batthyany-lajos-erno"]}
 {"clave":"belaivanyi","ids":["per:ivanyi-bela"]}
 {"clave":"bibl2r1pdf","ids":["dig:bibl1"]}
@@ -26,6 +29,8 @@
 {"clave":"k1393","ids":["src:actas-k1393"]}
 {"clave":"k80118391","ids":["src:kurzweil1839"]}
 {"clave":"k80118392","ids":["src:toldy1839-mayo12"]}
+{"clave":"karolynagy","ids":["per:nagy-karoly"]}
+{"clave":"kazmerbatthyany","ids":["per:batthyany-kazmer"]}
 {"clave":"kezaisimon","ids":["per:kezai-simon"]}
 {"clave":"kisber","ids":["lugar:kisber"]}
 {"clave":"kisberibatthyanykonyvtar","ids":["colec:kisber"]}
@@ -34,6 +39,7 @@
 {"clave":"konyveszet2ret1","ids":["src:bibl1"]}
 {"clave":"konyveszet2ret11","ids":["src:cat1743"]}
 {"clave":"konyveszet2ret2","ids":["src:bibl2"]}
+{"clave":"literatinemessamuel","ids":["per:literati-nemes"]}
 {"clave":"ludwigbatthyany","ids":["per:batthyany-lajos-erno"]}
 {"clave":"magjarimadsagok","ids":["ent:1743:sid41"]}
 {"clave":"magyarcodex121","ids":["obj:k114"]}
@@ -45,6 +51,9 @@
 {"clave":"mnlol","ids":["inst:mnl-ol"]}
 {"clave":"mtak","ids":["inst:mta-kik"]}
 {"clave":"mtakik","ids":["inst:mta-kik"]}
+{"clave":"nagykaroly","ids":["per:nagy-karoly"]}
+{"clave":"nemesliteratisamuel","ids":["per:literati-nemes"]}
+{"clave":"nemessamuel","ids":["per:literati-nemes"]}
 {"clave":"perhoczfarkas","ids":["per:porhocs-farkas"]}
 {"clave":"pest","ids":["lugar:pest"]}
 {"clave":"porhochifarkas","ids":["per:porhocs-farkas"]}

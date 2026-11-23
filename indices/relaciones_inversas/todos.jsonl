@@ -3,6 +3,9 @@
 {"clave":"inst:mta-kik","ids":["rel:1","rel:15","rel:16","rel:17"]}
 {"clave":"lugar:rohonc","ids":["rel:14"]}
 {"clave":"obj:k114","ids":["rel:12","rel:13","rel:1571:escritura-k114"]}
+{"clave":"per:batthyany-gusztav","ids":["rel:ral31-gusztav"]}
+{"clave":"per:literati-nemes","ids":["rel:athenaeum-nemes"]}
+{"clave":"per:nagy-karoly","ids":["rel:tort223-nagy"]}
 {"clave":"src:bibl2","ids":["rel:4","rel:5","rel:6"]}
 {"clave":"src:cat1743","ids":["rel:3"]}
 {"clave":"src:codice-k114-catalogo","ids":["rel:2"]}

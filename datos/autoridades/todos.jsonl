@@ -11,6 +11,7 @@
 {"clase":"persona","id":"per:batthyany-antal-jozsef","nombre":"Batthyány Antal József","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:batthyany-boldizsar","nombre":"Batthyány Boldizsár","tipo":"autoridades","variantes":["Boldizsár Batthyány"]}
 {"clase":"persona","id":"per:batthyany-gusztav","nombre":"Batthyány Gusztáv","tipo":"autoridades","variantes":["Gustav Batthyány"]}
+{"clase":"persona","id":"per:batthyany-kazmer","nombre":"Batthyány Kázmér","tipo":"autoridades","variantes":["Kázmér Batthyány"]}
 {"clase":"persona","id":"per:batthyany-lajos-erno","nombre":"Batthyány Lajos Ernő","tipo":"autoridades","variantes":["Ludwig Batthyány"]}
 {"clase":"persona","id":"per:csenthy-tamas","nombre":"Csenthy Tamás","tipo":"autoridades","variantes":["Chyenthy Tamás"]}
 {"clase":"persona","id":"per:forgach-ferenc","nombre":"Forgách Ferenc","tipo":"autoridades","variantes":[]}
@@ -20,5 +21,7 @@
 {"clase":"persona","id":"per:kezai-simon","nombre":"Kézai Simon","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:kolinovits-gabor","nombre":"Kolinovics Gábor","tipo":"autoridades","variantes":["Kolinovits"]}
 {"clase":"persona","id":"per:kurzweil-m","nombre":"M. Kurzweil","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:literati-nemes","nombre":"Literáti Nemes Sámuel","tipo":"autoridades","variantes":["Nemes-Literati Sámuel","Nemes Sámuel"]}
+{"clase":"persona","id":"per:nagy-karoly","nombre":"Nagy Károly","tipo":"autoridades","variantes":["Károly Nagy"]}
 {"clase":"persona","id":"per:porhocs-farkas","nombre":"Farkas Porhócs","tipo":"autoridades","variantes":["Porhócs Farkas","Perhocz Farkas","Wolfgangus Porhoch","Porhochÿ Farkas","Porhochi Farkas","Porhotthÿ Farkas"]}
 {"clase":"persona","id":"per:sche-del-ferenc","nombre":"Schedel Ferenc","tipo":"autoridades","variantes":["Toldy Ferenc","Ferenc Toldy","Ferenc Schedel"]}
