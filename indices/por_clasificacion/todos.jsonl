@@ -1,3 +1,4 @@
+{"clave":"actas_comision_referidas","ids":["src:ral-k1568"]}
 {"clave":"actas_manuscritas","ids":["src:actas-k1393","src:actas-k1394","src:actas-k1398"]}
 {"clave":"acuerdo_academico","ids":["af:1840:a695-numismatica","evt:1840:carbo"]}
 {"clave":"agradece_donacion","ids":["rel:a695-kisber","rel:a695-rohonc"]}
@@ -9,13 +10,18 @@
 {"clave":"alcance_visual","ids":["af:1779:gussing-visual"]}
 {"clave":"anexo_no_incluido_en_lote","ids":["af:1571:19370-fotos"]}
 {"clave":"anexos_de_carta","ids":["rel:1571:anexos-carta"]}
+{"clave":"anexos_fotografias_filigranas","ids":["af:1973:csapodi-filigranas"]}
 {"clave":"anotaciones_historicas","ids":["af:gussing:3-154-notas"]}
 {"clave":"anuncio_de_reanudacion_de_sesiones_ordinarias","ids":["af:1840:toldy-nov12-reanudacion"]}
-{"clave":"articulo_academico","ids":["src:carbo-study","src:csanak1959","src:hursan2019catalogo","src:hursan2022","src:hursan2024axis","src:hursan2025","src:lang2026","src:nemes2003-jankovich","src:orban2018","src:rozsondai2024","src:szabo1866","src:vadas2022","src:virag2024-catalogacion"]}
+{"clave":"articulo_academico","ids":["src:carbo-study","src:csanak1959","src:hursan2019catalogo","src:hursan2022","src:hursan2024axis","src:hursan2025","src:lang2008-rohonc","src:lang2026","src:nemes2003-jankovich","src:orban2018","src:rozsondai2024","src:szabo1866","src:vadas2022","src:virag2024-catalogacion"]}
 {"clave":"articulo_propriedad_literaria","ids":["af:1840:budapesti:schedel"]}
 {"clave":"asiento_de","ids":["rel:3"]}
 {"clave":"asiento_de_inventario","ids":["af:1750:devocionarios"]}
 {"clave":"asiento_literal","ids":["af:1743:evangelistas","af:1743:pia-exercitia"]}
+{"clave":"asiento_registro_secretarial","ids":["af:1840:a1746-218","af:1840:a1746-219"]}
+{"clave":"asiento_rohonc_asunto_distinto","ids":["af:1839:a1746-rohonc137"]}
+{"clave":"asientos_de_registro_218_y_219","ids":["rel:a1746-218219"]}
+{"clave":"asientos_de_registro_secretarial","ids":["evt:1840:registro-a1746-218219"]}
 {"clave":"atestacion_de_custodia","ids":["af:1866:szabo-custodia-academia"]}
 {"clave":"atribucion_catalografica","ids":["af:1586:1079-catalogo-aubry"]}
 {"clave":"atribucion_de_autoria","ids":["af:1588:1077-agente"]}
@@ -35,7 +41,8 @@
 {"clave":"capitulo_academico","ids":["src:hursan2019teleki"]}
 {"clave":"carta_administrativa_referida","ids":["src:p1313-lad21-30"]}
 {"clave":"carta_archivistica","ids":["src:p1314-1509","src:p1314-1510","src:p1314-1511","src:p1314-3839","src:p1314-4014","src:p1314-4022","src:p1314-4026","src:p1314-4066","src:p1314-8099","src:p1314-9082"]}
-{"clave":"carta_archivistica_referida","ids":["src:p1314-31226","src:p1314-4759","src:p1314-53580","src:toldy1840-nov12"]}
+{"clave":"carta_archivistica_digitalizada","ids":["src:ral270-1840"]}
+{"clave":"carta_archivistica_referida","ids":["src:muller1885-rohonc","src:p1314-31226","src:p1314-4759","src:p1314-53580","src:toldy1840-nov12"]}
 {"clave":"carta_catalogada","ids":["src:p1314-547"]}
 {"clave":"carta_con_anexos","ids":["src:porhocs1571"]}
 {"clave":"carta_de","ids":["rel:31226-miklos","rel:53580-zrinyi","rel:hiller-19370"]}
@@ -58,10 +65,13 @@
 {"clave":"catalogo_historico_publicado","ids":["src:monok2004-batthyany"]}
 {"clave":"catalogo_historico_referido","ids":["src:gussing1742","src:strattmann263"]}
 {"clave":"catalogo_institucional","ids":["src:catalogo1984"]}
+{"clave":"catalogo_institucional_digitalizado","ids":["src:arcanum-cedkat-mtak"]}
 {"clave":"catalogo_manuscrito","ids":["src:cat1743"]}
 {"clave":"catalogo_manuscrito_referido","ids":["src:oszk-fond16-25"]}
 {"clave":"catalogos_manuscritos","ids":["src:bibl1","src:bibl2"]}
 {"clave":"cedula_anexa","ids":["af:1570:4026-cedula"]}
+{"clave":"cita_bibliografica","ids":["rel:fischer-toldy1852"]}
+{"clave":"cita_bibliografica_historica","ids":["af:1889:fischer-cita-toldy1852"]}
 {"clave":"cita_como_fuente","ids":["rel:tageblatt-athenaeum"]}
 {"clave":"cita_de_juicio_historico","ids":["af:1866:szabo-cita-jozsef1844"]}
 {"clave":"cita_tarjeta_del_estuche","ids":["rel:1885-julg-k114"]}
@@ -69,6 +79,7 @@
 {"clave":"clasificacion_material_por_colores","ids":["af:1839:papeles-colores"]}
 {"clave":"clasificados_catholicum","ids":["af:1780:gussing-catolicos"]}
 {"clave":"clasificados_haereticum_o_acatholicum","ids":["af:1780:gussing-otros"]}
+{"clave":"cobertura_cronologica_catalogo","ids":["af:2026:cedkat-periodo"]}
 {"clave":"codices_citados","ids":["af:1840:a695-heidelberg"]}
 {"clave":"coincidencia_de_dos_ubicaciones","ids":["af:1752:moreri-concordancia"]}
 {"clave":"coleccion","ids":["colec:batthyany-adam-1644","colec:kisber","colec:rohonc","colec:strattmann","colec:viena-1743"]}
@@ -76,6 +87,7 @@
 {"clave":"columna_diez_registra_particularidades","ids":["af:catalogo:observaciones-columna10"]}
 {"clave":"compilacion_catalogo","ids":["evt:1743:catalogo"]}
 {"clave":"comunicacion_publicada","ids":["src:jerney1844"]}
+{"clave":"concordancia_signatura_antigua_moderna","ids":["af:1973:csapodi-ms884"]}
 {"clave":"conjunto_fisico_de_hojas_manuscritas","ids":["obj:anexos1571"]}
 {"clave":"contenido_factura","ids":["af:hiller:19376-partidas"]}
 {"clave":"contenido_salterio_descrito","ids":["af:1841:jankovich-psalterio-litania"]}
@@ -110,6 +122,7 @@
 {"clave":"destino","ids":["rel:10"]}
 {"clave":"diario_de_viaje","ids":["af:1841:viajes-folhung3006"]}
 {"clave":"difusion_prensa","ids":["af:1840:tudliteratura:informe"]}
+{"clave":"digitalizacion_restringida","ids":["af:1840:k166-ficha"]}
 {"clave":"dimensiones_mm_segun_registro_institucional","ids":["af:realms80:dimensiones"]}
 {"clave":"dirigida_a","ids":["rel:31226-sibrik"]}
 {"clave":"discurso_apertura_biblioteca","ids":["evt:1844:apertura"]}
@@ -117,6 +130,7 @@
 {"clave":"distribucion_de_lotes_archivisticos","ids":["af:1746:cajas"]}
 {"clave":"documentacion_academica_original","ids":["src:ral218219-1840"]}
 {"clave":"documentacion_ejemplar","ids":["src:gussing2-50","src:gussing4-229"]}
+{"clave":"documento_academico_digitalizado","ids":["src:ral36-1841"]}
 {"clave":"documento_archivistico","ids":["src:k801-1840-2","src:k801-1859-2","src:p1314-1073","src:p1314-1074","src:p1314-1076","src:p1314-1077","src:p1314-1078","src:p1314-1079","src:p1314-1080","src:p1314-108137","src:p1314-108143","src:p1314-19367","src:p1314-19368","src:p1314-19369","src:p1314-19370","src:p1314-19372","src:p1314-19376","src:p1314-3960","src:p1314-3992","src:p1314-3993","src:p1314-4035","src:p1314-4058","src:ral31-1838","src:tort215a","src:tort223"]}
 {"clave":"documento_archivistico_referido","ids":["src:oszk-folhung3006","src:oszk-fond16-31","src:ral115-1841","src:ral232-1841","src:ral50-1840"]}
 {"clave":"documento_contiene","ids":["af:1839:kurzweil"]}
@@ -143,7 +157,7 @@
 {"clave":"estimacion_historica_volumenes","ids":["af:1839:rohonc-25000-26000"]}
 {"clave":"estudio_academico","ids":["src:hursan2020"]}
 {"clave":"estudio_historia_archivistica","ids":["src:csanak1992"]}
-{"clave":"estudio_historico_sobre","ids":["rel:nemeti-abc-k114","rel:nemeti-plan-k114"]}
+{"clave":"estudio_historico_sobre","ids":["rel:nemeti-abc-k114","rel:nemeti-ms884-estudio","rel:nemeti-plan-k114"]}
 {"clave":"expediente_donacion_de","ids":["rel:koos-ral50"]}
 {"clave":"extracto_contable_citado","ids":["af:1571:19368-extracto"]}
 {"clave":"factura_de","ids":["rel:hiller-19376"]}
@@ -199,6 +213,7 @@
 {"clave":"lectura_informe_publico","ids":["evt:1840:informe-leido"]}
 {"clave":"libro_antiguo_ilustrado","ids":["af:1577:8099-libro"]}
 {"clave":"libro_historico","ids":["src:fischer1889","src:toth1899"]}
+{"clave":"libro_historico_citado","ids":["src:toldy1852-irodalom"]}
 {"clave":"libros_no_buscados","ids":["af:1569:4014-libros"]}
 {"clave":"limite_de_identificacion","ids":["af:1840:koos-ral50-sin-equivalencia"]}
 {"clave":"limite_del_testimonio","ids":["af:1840:vieneses-sin-traslado"]}
@@ -231,6 +246,8 @@
 {"clave":"mencion_toponimo","ids":["af:1840:tudgyujtemeny:agricola"]}
 {"clave":"menciona_nombre_en_transcripcion","ids":["rel:balas-108137","rel:balas-108143","rel:balas-3960","rel:balas-3992","rel:balas-3993","rel:balas-4035","rel:balas-4058"]}
 {"clave":"menciona_objeto","ids":["rel:12","rel:13"]}
+{"clave":"microfilme_catalogado","ids":["af:1973:csapodi-mf1173"]}
+{"clave":"microfilme_citado","ids":["af:2008:lang-mf5913"]}
 {"clave":"microfilme_institucional","ids":["src:a695"]}
 {"clave":"monografia_bibliotecaria","ids":["src:koltai2002"]}
 {"clave":"necrologica_no_relacionada","ids":["af:1840:regelo:necrologica"]}
@@ -281,6 +298,7 @@
 {"clave":"procedimiento_academico","ids":["af:1840:evkonyv-reglas"]}
 {"clave":"procedimiento_grabado","ids":["af:1840:jerney-litografia"]}
 {"clave":"profesion_publicada","ids":["af:1840:nevkonyv:toth"]}
+{"clave":"propuesta_editorial_archivistica","ids":["af:1841:ral36-ficha"]}
 {"clave":"pruebas_de_pluma","ids":["af:1570:4035-ensayos"]}
 {"clave":"publica_noticia_de","ids":["rel:athenaeum-nemes"]}
 {"clave":"publicacion_academica","ids":["src:evkonyv1842v"]}
@@ -301,10 +319,13 @@
 {"clave":"referencia_bibliotecas_batthyany","ids":["af:1840:figyelmezo-bibliotecas"]}
 {"clave":"referencia_conjunta_a_libros_de_actas","ids":["af:2024:czinege-intervalo-k1393-k1394"]}
 {"clave":"referencia_correspondencia","ids":["af:1839:nagy-carta-febrero","af:1839:toldy-carta-marzo"]}
+{"clave":"referencia_de_acta_comision","ids":["af:2008:lang-comision1898"]}
 {"clave":"referencia_de_acta_segun_estudio","ids":["rel:1840:carbo-actas"]}
 {"clave":"referencia_de_acta_sobre_prestamo_segun_estudio","ids":["rel:1846:k114-k1398"]}
+{"clave":"referencia_de_carta_archivistica","ids":["af:2008:lang-muller1885"]}
 {"clave":"referencia_facsímil_distinto","ids":["af:1840:biblio:jerney"]}
 {"clave":"referencia_otra_tematica","ids":["af:1840:biblio:rohonci"]}
+{"clave":"registro_archivistico_original","ids":["src:a1746-iii"]}
 {"clave":"registro_de_donacion","ids":["af:1840:koos-ral50"]}
 {"clave":"registro_de_lista","ids":["af:1841:literati-ral115"]}
 {"clave":"registro_institucional_digital","ids":["src:realms80"]}
@@ -315,14 +336,18 @@
 {"clave":"relato_institucional_de_recepcion","ids":["af:1839:anuario-recepcion-dos-bibliotecas"]}
 {"clave":"remision_periodistica","ids":["af:1840:jelenkor:tarsalkodo"]}
 {"clave":"remitida_por","ids":["rel:3839-svetkovics","rel:8099-elias"]}
+{"clave":"reordenacion_de_signaturas","ids":["af:1973:csapodi-reclasificacion"]}
 {"clave":"repertorio_bibliografico","ids":["src:ktf-xii-1644"]}
 {"clave":"repeticion_documental","ids":["af:1574:1080-duplicados"]}
+{"clave":"representacion_archivistica_digital","ids":["af:1840:ral270-ficha"]}
+{"clave":"reproduccion_fotografica_publicada","ids":["af:1889:fischer-fotografia"]}
 {"clave":"reseña_cartas","ids":["af:1840:tudliteratura:szalay"]}
 {"clave":"respuesta_sobre_organizacion_biblioteca","ids":["evt:1839:toldy-nagy-marzo"]}
 {"clave":"restauracion_editorial","ids":["af:1571:108143-restauracion"]}
 {"clave":"resumen_reuniones","ids":["af:1840:evkonyv-sesiones"]}
 {"clave":"seccion_ilustrada","ids":["af:1644:12-ilustrados"]}
 {"clave":"separacion_archivos","ids":["af:1571:4066-archivos"]}
+{"clave":"sesion_de_comision_referida","ids":["evt:1898:comision-rohonc"]}
 {"clave":"signatura","ids":["af:1795:catalogo","af:1805:catalogo"]}
 {"clave":"signatura_anterior","ids":["af:signatura:antigua"]}
 {"clave":"signatura_catalogada_en","ids":["rel:2"]}
