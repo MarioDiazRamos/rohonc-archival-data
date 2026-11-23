@@ -135,56 +135,56 @@
         ],
         "ids": [
           {
-            "bytes": 53397,
-            "cantidad": 751,
+            "bytes": 54909,
+            "cantidad": 769,
             "prefijo": "",
             "ruta": "indices/ids/todos.jsonl"
           }
         ],
         "por_clasificacion": [
           {
-            "bytes": 27445,
-            "cantidad": 340,
+            "bytes": 28903,
+            "cantidad": 356,
             "prefijo": "",
             "ruta": "indices/por_clasificacion/todos.jsonl"
           }
         ],
         "por_cobertura": [
           {
-            "bytes": 7176,
-            "cantidad": 114,
+            "bytes": 7245,
+            "cantidad": 115,
             "prefijo": "",
             "ruta": "indices/por_cobertura/todos.jsonl"
           }
         ],
         "por_entidad": [
           {
-            "bytes": 20465,
-            "cantidad": 206,
+            "bytes": 21187,
+            "cantidad": 207,
             "prefijo": "",
             "ruta": "indices/por_entidad/todos.jsonl"
           }
         ],
         "por_estado": [
           {
-            "bytes": 16793,
-            "cantidad": 105,
+            "bytes": 17191,
+            "cantidad": 107,
             "prefijo": "",
             "ruta": "indices/por_estado/todos.jsonl"
           }
         ],
         "por_fuente": [
           {
-            "bytes": 18778,
-            "cantidad": 146,
+            "bytes": 19401,
+            "cantidad": 147,
             "prefijo": "",
             "ruta": "indices/por_fuente/todos.jsonl"
           }
         ],
         "por_periodo": [
           {
-            "bytes": 7914,
-            "cantidad": 116,
+            "bytes": 8048,
+            "cantidad": 117,
             "prefijo": "",
             "ruta": "indices/por_periodo/todos.jsonl"
           }
@@ -199,31 +199,31 @@
         ],
         "por_signatura": [
           {
-            "bytes": 4847,
-            "cantidad": 94,
+            "bytes": 4902,
+            "cantidad": 95,
             "prefijo": "",
             "ruta": "indices/por_signatura/todos.jsonl"
           }
         ],
         "relaciones_directas": [
           {
-            "bytes": 2644,
-            "cantidad": 46,
+            "bytes": 2799,
+            "cantidad": 48,
             "prefijo": "",
             "ruta": "indices/relaciones_directas/todos.jsonl"
           }
         ],
         "relaciones_inversas": [
           {
-            "bytes": 1949,
-            "cantidad": 27,
+            "bytes": 2102,
+            "cantidad": 29,
             "prefijo": "",
             "ruta": "indices/relaciones_inversas/todos.jsonl"
           }
         ],
         "tipos": [
           {
-            "bytes": 16915,
+            "bytes": 17520,
             "cantidad": 12,
             "prefijo": "",
             "ruta": "indices/tipos/todos.jsonl"
