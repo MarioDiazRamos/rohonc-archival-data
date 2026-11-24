@@ -434,6 +434,7 @@
 {"clave":"cov:fecha-v29:4068","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:fecha-v29:4109","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:figyelmezo1840:visual","ids":["datos/cobertura/todos.jsonl"]}
+{"clave":"cov:fischer1889:texto-20261123","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:fischer:visual","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:gussing1742","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:gussing1779:visual","ids":["datos/cobertura/todos.jsonl"]}
@@ -519,6 +520,7 @@
 {"clave":"cov:terbe2010:257","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:tort215a:sin-copia","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:tort223:sin-copia","ids":["datos/cobertura/todos.jsonl"]}
+{"clave":"cov:toth1899:texto-20261123","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:toth1899:transcripcion","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:v31:1073","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:v31:1074","ids":["datos/cobertura/todos.jsonl"]}
@@ -561,7 +563,9 @@
 {"clave":"dig:athenaeum1840-2","ids":["datos/digitalizaciones/todos.jsonl"]}
 {"clave":"dig:bibl1","ids":["datos/digitalizaciones/todos.jsonl"]}
 {"clave":"dig:bibl2","ids":["datos/digitalizaciones/todos.jsonl"]}
+{"clave":"dig:fischer1889","ids":["datos/digitalizaciones/todos.jsonl"]}
 {"clave":"dig:hursan2025","ids":["datos/digitalizaciones/todos.jsonl"]}
+{"clave":"dig:toth1899","ids":["datos/digitalizaciones/todos.jsonl"]}
 {"clave":"ent:1743:evangelistas","ids":["datos/asientos/todos.jsonl"]}
 {"clave":"ent:1743:pia-exercitia","ids":["datos/asientos/todos.jsonl"]}
 {"clave":"ent:1743:sid41","ids":["datos/asientos/todos.jsonl"]}
