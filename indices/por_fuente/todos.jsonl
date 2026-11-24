@@ -32,7 +32,7 @@
 {"clave":"src:evkonyv1840-4","ids":["af:1840:anuario:alba","af:1840:anuario:catalogos","af:1840:anuario:donaciones","af:1840:anuario:inventario","af:1840:anuario:prestamo","cov:1840:anuario4:inventario","cov:1840:anuario4:visual"]}
 {"clave":"src:evkonyv1842v","ids":["af:1838:oferta-autorizacion-nagy","af:1838:oferta-comunicada-noviembre","af:1838:oferta-ubicacion-tamano","af:1839:anuario-atribucion-fundacion","af:1839:anuario-manuscritos-ambos-fondos","af:1839:anuario-recepcion-dos-bibliotecas","af:1839:anuario-retraso-disposicion","af:1840:evkonyv-adquisiciones","af:1840:evkonyv-donacion","af:1840:evkonyv-informe","af:1840:evkonyv-reglas","af:1840:evkonyv-sesiones","af:1840:evkonyv-turoc","af:1840:evkonyv-v-sesiones","cov:evkonyv:inventario","cov:evkonyv:visual","evt:1838:comunicacion-oferta-noviembre","evt:1840:informe-leido","rel:1838:oferta-delegado-nagy"]}
 {"clave":"src:figyelmezo1840","ids":["af:1840:figyelmezo-bibliotecas","cov:figyelmezo1840:visual"]}
-{"clave":"src:fischer1889","ids":["af:1889:fischer-223","af:1889:fischer-cita-toldy1852","af:1889:fischer-fotografia","af:1889:fischer-julg","af:1889:fischer-literati","cov:fischer:visual","evt:1885:julg","rel:1885-julg-k114","rel:1889-fischer-k114","rel:fischer-toldy1852","src:toldy1852-irodalom"]}
+{"clave":"src:fischer1889","ids":["af:1889:fischer-223","af:1889:fischer-cita-toldy1852","af:1889:fischer-fotografia","af:1889:fischer-julg","af:1889:fischer-literati","cov:fischer1889:texto-20261123","cov:fischer:visual","dig:fischer1889","evt:1885:julg","rel:1885-julg-k114","rel:1889-fischer-k114","rel:fischer-toldy1852","src:toldy1852-irodalom"]}
 {"clave":"src:frater1987","ids":["af:1838:k1393-ral97-concordancia","af:1841:k1394-8nov","rel:ral97-k1393-tema"]}
 {"clave":"src:gussing1742","ids":["cat:1742:gussing","cov:gussing1742"]}
 {"clave":"src:gussing1779","ids":["af:1779:gussing-visual","cat:gussing1779","cov:gussing1779:visual"]}
@@ -172,7 +172,7 @@
 {"clave":"src:toldy1846","ids":["af:1839:visita","evt:1839:visita-rohonc","evt:1844:apertura","rel:14"]}
 {"clave":"src:tort215a","ids":["cov:tort215a:sin-copia"]}
 {"clave":"src:tort223","ids":["cov:tort223:sin-copia"]}
-{"clave":"src:toth1899","ids":["af:1899:toth-filigrana","af:1899:toth-julg","af:1899:toth-nemeti-abc","af:1899:toth-nemeti-plan","af:1899:toth-szabo-fejerpataky","cov:toth1899:transcripcion","rel:nemeti-abc-k114","rel:nemeti-plan-k114","src:nemeti-olvasasterve","src:nemeti1889-abc"]}
+{"clave":"src:toth1899","ids":["af:1899:toth-filigrana","af:1899:toth-julg","af:1899:toth-nemeti-abc","af:1899:toth-nemeti-plan","af:1899:toth-szabo-fejerpataky","cov:toth1899:texto-20261123","cov:toth1899:transcripcion","dig:toth1899","rel:nemeti-abc-k114","rel:nemeti-plan-k114","src:nemeti-olvasasterve","src:nemeti1889-abc"]}
 {"clave":"src:tudgyujtemeny1840","ids":["af:1840:tudgyujtemeny:agricola","cov:1840:tudgyujtemeny:visual"]}
 {"clave":"src:tudomanytar1840-e8","ids":["af:1840:tudertekezes:13","af:1840:tudertekezes:23","af:1840:tudertekezes:lamina","cov:1840:tudertekezes:visual"]}
 {"clave":"src:tudomanytar1840-l4","ids":["af:1840:kisber-2060","af:1840:tudliteratura:carbo","af:1840:tudliteratura:coleccion","af:1840:tudliteratura:informe","af:1840:tudliteratura:koos","af:1840:tudliteratura:literati","af:1840:tudliteratura:szalay","cov:1840:tudliteratura:visual"]}
