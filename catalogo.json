@@ -2,13 +2,13 @@
   "archivo": "Datos archivísticos del Códice Rohonc",
   "codificacion": "UTF-8",
   "conjuntos": {
-    "afirmaciones": 347,
+    "afirmaciones": 348,
     "asientos": 7,
     "autoridades": 60,
     "catalogos": 12,
-    "cobertura": 172,
+    "cobertura": 181,
     "cotejos_no_identidad": 17,
-    "digitalizaciones": 9,
+    "digitalizaciones": 16,
     "discrepancias": 23,
     "eventos": 31,
     "fuentes": 191,
@@ -29,8 +29,8 @@
       "datos": {
         "afirmaciones": [
           {
-            "bytes": 131676,
-            "cantidad": 347,
+            "bytes": 132208,
+            "cantidad": 348,
             "prefijo": "",
             "ruta": "datos/afirmaciones/todos.jsonl"
           }
@@ -61,8 +61,8 @@
         ],
         "cobertura": [
           {
-            "bytes": 73346,
-            "cantidad": 172,
+            "bytes": 83080,
+            "cantidad": 181,
             "prefijo": "",
             "ruta": "datos/cobertura/todos.jsonl"
           }
@@ -77,8 +77,8 @@
         ],
         "digitalizaciones": [
           {
-            "bytes": 2703,
-            "cantidad": 9,
+            "bytes": 4926,
+            "cantidad": 16,
             "prefijo": "",
             "ruta": "datos/digitalizaciones/todos.jsonl"
           }
@@ -101,7 +101,7 @@
         ],
         "fuentes": [
           {
-            "bytes": 65201,
+            "bytes": 65534,
             "cantidad": 191,
             "prefijo": "",
             "ruta": "datos/fuentes/todos.jsonl"
@@ -127,23 +127,23 @@
       "indices": {
         "alias": [
           {
-            "bytes": 6799,
-            "cantidad": 124,
+            "bytes": 7266,
+            "cantidad": 131,
             "prefijo": "",
             "ruta": "indices/alias/todos.jsonl"
           }
         ],
         "ids": [
           {
-            "bytes": 67610,
-            "cantidad": 938,
+            "bytes": 69009,
+            "cantidad": 955,
             "prefijo": "",
             "ruta": "indices/ids/todos.jsonl"
           }
         ],
         "por_clasificacion": [
           {
-            "bytes": 36939,
+            "bytes": 36977,
             "cantidad": 458,
             "prefijo": "",
             "ruta": "indices/por_clasificacion/todos.jsonl"
@@ -151,32 +151,32 @@
         ],
         "por_cobertura": [
           {
-            "bytes": 9334,
-            "cantidad": 145,
+            "bytes": 9761,
+            "cantidad": 147,
             "prefijo": "",
             "ruta": "indices/por_cobertura/todos.jsonl"
           }
         ],
         "por_entidad": [
           {
-            "bytes": 26073,
-            "cantidad": 241,
+            "bytes": 26515,
+            "cantidad": 248,
             "prefijo": "",
             "ruta": "indices/por_entidad/todos.jsonl"
           }
         ],
         "por_estado": [
           {
-            "bytes": 24076,
-            "cantidad": 166,
+            "bytes": 27269,
+            "cantidad": 175,
             "prefijo": "",
             "ruta": "indices/por_estado/todos.jsonl"
           }
         ],
         "por_fuente": [
           {
-            "bytes": 24459,
-            "cantidad": 181,
+            "bytes": 25063,
+            "cantidad": 183,
             "prefijo": "",
             "ruta": "indices/por_fuente/todos.jsonl"
           }
@@ -191,8 +191,8 @@
         ],
         "por_sha256": [
           {
-            "bytes": 924,
-            "cantidad": 9,
+            "bytes": 1658,
+            "cantidad": 16,
             "prefijo": "",
             "ruta": "indices/por_sha256/todos.jsonl"
           }
@@ -223,7 +223,7 @@
         ],
         "tipos": [
           {
-            "bytes": 21852,
+            "bytes": 22383,
             "cantidad": 12,
             "prefijo": "",
             "ruta": "indices/tipos/todos.jsonl"
@@ -248,7 +248,7 @@
     "relaciones_inversas",
     "tipos"
   ],
-  "registros": 938,
+  "registros": 955,
   "repositorio_previsto": "MarioDiazRamos/rohonc-archival-data",
   "sin_programas": true,
   "sin_reproducciones_binarias": true,

@@ -1,5 +1,9 @@
 {"clave":"705101athenaeumschedel18401pdf","ids":["dig:athenaeum1840-1"]}
 {"clave":"705201athenaeumschedel18402pdf","ids":["dig:athenaeum1840-2"]}
+{"clave":"739201mtahasznosmulatsagok18401pdf","ids":["dig:hasznos1840-1"]}
+{"clave":"739401mtahasznosmulatsagok18402pdf","ids":["dig:hasznos1840-2"]}
+{"clave":"947001mtaderspiegel18401pdf","ids":["dig:spiegel1840-1"]}
+{"clave":"947101mtaderspiegel18402pdf","ids":["dig:spiegel1840-2"]}
 {"clave":"a1746iiipdf","ids":["dig:a1746-iii"]}
 {"clave":"adambatthyany","ids":["per:batthyany-adam"]}
 {"clave":"andraskoltai","ids":["per:andras-koltai"]}
@@ -47,6 +51,8 @@
 {"clave":"ivanyibela","ids":["per:ivanyi-bela"]}
 {"clave":"jankovichmiklos","ids":["per:jankovich-miklos"]}
 {"clave":"jeanaubry","ids":["per:jean-aubry"]}
+{"clave":"jelenkor1840parte1pdf","ids":["dig:jelenkor1840-1"]}
+{"clave":"jelenkor1840parte2pdf","ids":["dig:jelenkor1840-2"]}
 {"clave":"jerneyjanos","ids":["per:jerney-janos"]}
 {"clave":"julgbernat","ids":["per:julg-bernat"]}
 {"clave":"k114","ids":["obj:k114"]}
@@ -58,6 +64,7 @@
 {"clave":"kezaisimon","ids":["per:kezai-simon"]}
 {"clave":"kisber","ids":["lugar:kisber"]}
 {"clave":"kisberibatthyanykonyvtar","ids":["colec:kisber"]}
+{"clave":"kmtahirnok1840pdf","ids":["dig:hirnok1840"]}
 {"clave":"kolinovicsgabor","ids":["per:kolinovits-gabor"]}
 {"clave":"kolinovits","ids":["per:kolinovits-gabor"]}
 {"clave":"koltaiandras","ids":["per:andras-koltai"]}
