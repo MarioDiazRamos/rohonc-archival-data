@@ -4,12 +4,12 @@
     {
       "bytes": 6050,
       "ruta": "catalogo.json",
-      "sha256": "269fe6fd5c3f1c0b4d052e7253c71b8f649da1998343d5f91dc7b9c4468f2f1c"
+      "sha256": "1b4f000b914588ee4235f1fb5f51727eefbc262308526e43e46c66e6a1abe21f"
     },
     {
-      "bytes": 128941,
+      "bytes": 131429,
       "ruta": "datos/afirmaciones/todos.jsonl",
-      "sha256": "c3c8621d80ce1699723a8d836384196e6f059a5e88eb216c083de910dc066fd7"
+      "sha256": "cee20bd68756f6e4273e619fa93761528ebf07c589396b6aa354af6f83a7b5d2"
     },
     {
       "bytes": 1970,
@@ -27,9 +27,9 @@
       "sha256": "08e2435b8aa6dd81978f5041bce601fb92a5512f36bd54442de74f93a32adf87"
     },
     {
-      "bytes": 51718,
+      "bytes": 60282,
       "ruta": "datos/cobertura/todos.jsonl",
-      "sha256": "ae4793094072b1f8eb818dc48d2899d10d971f83dd0d1682de36cd798ccf80e0"
+      "sha256": "a0e1aa855ec0bae200e90e709f36d3b5cee7ae923e73efd3d11adbb39ab8e0f9"
     },
     {
       "bytes": 3507,
@@ -37,9 +37,9 @@
       "sha256": "cee8079b424981e79d4baba301fa6483e704d01c8b1a66c4e64525618cfb258a"
     },
     {
-      "bytes": 1831,
+      "bytes": 2050,
       "ruta": "datos/digitalizaciones/todos.jsonl",
-      "sha256": "9dbc3b8f08e1d15a4b165b22fecb8efb5e23cbb4b205a21ac12b9b48be8ee5e1"
+      "sha256": "3a95bd547ddc5e8f0029ddd329ea4950a1c0d2ec2b7fad4b4d25bb399740520c"
     },
     {
       "bytes": 5711,
@@ -52,9 +52,9 @@
       "sha256": "a3d966f9694efc5e319c15cdd45e7de0e3649d7b204131033f7fdf3ad6ea566c"
     },
     {
-      "bytes": 63201,
+      "bytes": 64758,
       "ruta": "datos/fuentes/todos.jsonl",
-      "sha256": "9d191e3989a24e26dc72b001ef2ec8c993c311b3e70e2171448d2f717dd246c8"
+      "sha256": "e11fd109bc5cdb14aa20386ce1086280921cad10bbb1114edec30d5a4761c352"
     },
     {
       "bytes": 583,
@@ -67,9 +67,9 @@
       "sha256": "6785d764b5e4d5f7ff8cf09e5a39cdf59d6c05d2e47e38b214701feb72591975"
     },
     {
-      "bytes": 1189,
+      "bytes": 1540,
       "ruta": "esquemas/cobertura.schema.json",
-      "sha256": "ea25fa8cd8b50072b442239a1548813e05fefc43ff9c66cc35a5c0c689e3291e"
+      "sha256": "22acd6090303e7acd9668fe42231c5f47b850f9394d69abeb642fcbbe572edbf"
     },
     {
       "bytes": 1003,
@@ -157,9 +157,9 @@
       "sha256": "583c5efc268595e634ec900a116462faeea853de8d2a151d08c07fabf32089ec"
     },
     {
-      "bytes": 497,
+      "bytes": 799,
       "ruta": "vocabularios/tipos.json",
-      "sha256": "f628bdcee65e3eb3275c58b8e05a8fdaf44c32e0cc460ed87950f73c6bc56d04"
+      "sha256": "f9d77b7153d8289d5b6434d6972c3839a9fae8900fc0e12b7ab8b60e1cde0073"
     }
   ]
 }

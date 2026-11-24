@@ -2,16 +2,16 @@
   "archivo": "Datos archivísticos del Códice Rohonc",
   "codificacion": "UTF-8",
   "conjuntos": {
-    "afirmaciones": 343,
+    "afirmaciones": 347,
     "asientos": 7,
     "autoridades": 60,
     "catalogos": 12,
-    "cobertura": 161,
+    "cobertura": 165,
     "cotejos_no_identidad": 17,
-    "digitalizaciones": 6,
+    "digitalizaciones": 7,
     "discrepancias": 23,
     "eventos": 31,
-    "fuentes": 187,
+    "fuentes": 191,
     "objetos": 2,
     "relaciones": 67
   },
@@ -29,8 +29,8 @@
       "datos": {
         "afirmaciones": [
           {
-            "bytes": 128941,
-            "cantidad": 343,
+            "bytes": 131429,
+            "cantidad": 347,
             "prefijo": "",
             "ruta": "datos/afirmaciones/todos.jsonl"
           }
@@ -61,8 +61,8 @@
         ],
         "cobertura": [
           {
-            "bytes": 51718,
-            "cantidad": 161,
+            "bytes": 60282,
+            "cantidad": 165,
             "prefijo": "",
             "ruta": "datos/cobertura/todos.jsonl"
           }
@@ -77,8 +77,8 @@
         ],
         "digitalizaciones": [
           {
-            "bytes": 1831,
-            "cantidad": 6,
+            "bytes": 2050,
+            "cantidad": 7,
             "prefijo": "",
             "ruta": "datos/digitalizaciones/todos.jsonl"
           }
@@ -101,8 +101,8 @@
         ],
         "fuentes": [
           {
-            "bytes": 63201,
-            "cantidad": 187,
+            "bytes": 64758,
+            "cantidad": 191,
             "prefijo": "",
             "ruta": "datos/fuentes/todos.jsonl"
           }
@@ -248,7 +248,7 @@
     "relaciones_inversas",
     "tipos"
   ],
-  "registros": 916,
+  "registros": 929,
   "repositorio_previsto": "MarioDiazRamos/rohonc-archival-data",
   "sin_programas": true,
   "sin_reproducciones_binarias": true,

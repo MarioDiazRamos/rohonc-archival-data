@@ -14,6 +14,13 @@
     "parcial",
     "sin_copia"
   ],
+  "niveles_evidencia_cobertura": {
+    "0": "Documento sin copia examinable",
+    "1": "Inventario, metadatos o extracción no visual de contenido",
+    "2": "Revisión visual parcial",
+    "3": "Revisión visual íntegra de segmento delimitado",
+    "4": "Revisión visual íntegra de la fuente"
+  },
   "tipos": [
     "afirmaciones",
     "asientos",
