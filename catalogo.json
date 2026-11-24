@@ -2,7 +2,7 @@
   "archivo": "Datos archivísticos del Códice Rohonc",
   "codificacion": "UTF-8",
   "conjuntos": {
-    "afirmaciones": 339,
+    "afirmaciones": 343,
     "asientos": 7,
     "autoridades": 60,
     "catalogos": 12,
@@ -11,7 +11,7 @@
     "digitalizaciones": 6,
     "discrepancias": 23,
     "eventos": 31,
-    "fuentes": 186,
+    "fuentes": 187,
     "objetos": 2,
     "relaciones": 67
   },
@@ -29,8 +29,8 @@
       "datos": {
         "afirmaciones": [
           {
-            "bytes": 125909,
-            "cantidad": 339,
+            "bytes": 128941,
+            "cantidad": 343,
             "prefijo": "",
             "ruta": "datos/afirmaciones/todos.jsonl"
           }
@@ -101,8 +101,8 @@
         ],
         "fuentes": [
           {
-            "bytes": 62747,
-            "cantidad": 186,
+            "bytes": 63201,
+            "cantidad": 187,
             "prefijo": "",
             "ruta": "datos/fuentes/todos.jsonl"
           }
@@ -135,16 +135,16 @@
         ],
         "ids": [
           {
-            "bytes": 65471,
-            "cantidad": 911,
+            "bytes": 65894,
+            "cantidad": 916,
             "prefijo": "",
             "ruta": "indices/ids/todos.jsonl"
           }
         ],
         "por_clasificacion": [
           {
-            "bytes": 35804,
-            "cantidad": 445,
+            "bytes": 36286,
+            "cantidad": 450,
             "prefijo": "",
             "ruta": "indices/por_clasificacion/todos.jsonl"
           }
@@ -159,15 +159,15 @@
         ],
         "por_entidad": [
           {
-            "bytes": 25315,
-            "cantidad": 234,
+            "bytes": 25536,
+            "cantidad": 235,
             "prefijo": "",
             "ruta": "indices/por_entidad/todos.jsonl"
           }
         ],
         "por_estado": [
           {
-            "bytes": 22361,
+            "bytes": 22391,
             "cantidad": 156,
             "prefijo": "",
             "ruta": "indices/por_estado/todos.jsonl"
@@ -175,8 +175,8 @@
         ],
         "por_fuente": [
           {
-            "bytes": 23479,
-            "cantidad": 176,
+            "bytes": 23670,
+            "cantidad": 177,
             "prefijo": "",
             "ruta": "indices/por_fuente/todos.jsonl"
           }
@@ -223,7 +223,7 @@
         ],
         "tipos": [
           {
-            "bytes": 21044,
+            "bytes": 21217,
             "cantidad": 12,
             "prefijo": "",
             "ruta": "indices/tipos/todos.jsonl"
@@ -248,7 +248,7 @@
     "relaciones_inversas",
     "tipos"
   ],
-  "registros": 911,
+  "registros": 916,
   "repositorio_previsto": "MarioDiazRamos/rohonc-archival-data",
   "sin_programas": true,
   "sin_reproducciones_binarias": true,

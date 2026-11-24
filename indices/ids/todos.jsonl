@@ -171,6 +171,8 @@
 {"clave":"af:1840:evkonyv-vi-regimen","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1840:figyelmezo-bibliotecas","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1840:hasznos:jerney","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:1840:informe1841-22-sesiones","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:1840:informe1841-505-59-gastos","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1840:jelenkor-objetos-separados","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1840:jelenkor-salterio","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1840:jelenkor:biblioteca","ids":["datos/afirmaciones/todos.jsonl"]}
@@ -246,6 +248,7 @@
 {"clave":"af:1841:viajes-fond16-31","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1842:k1394-mar07","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1843:k1394-156","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:1843:palatino-devuelve-actas","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1844:223","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1844:jerney-donacion-1839","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1846:szabo-jozsef-prestamo-k114","ids":["datos/afirmaciones/todos.jsonl"]}
@@ -275,6 +278,7 @@
 {"clave":"af:2008:lang-muller1885","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:2024:czinege-intervalo-k1393-k1394","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:2026:cedkat-periodo","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:2026:toldy-levtarcaja-59-unidades","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:9082:marcas-subrayado","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:catalogo:224","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:catalogo:ivanyi-transcripcion-2001","ids":["datos/afirmaciones/todos.jsonl"]}
@@ -895,6 +899,7 @@
 {"clave":"src:szazadunk1840","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:tarsalkodo1840","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:terbe2010","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:toldy-levtarcaja-realms","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:toldy1839-mayo12","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:toldy1839-mayo20","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:toldy1840-nov12","ids":["datos/fuentes/todos.jsonl"]}
