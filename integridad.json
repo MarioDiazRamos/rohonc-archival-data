@@ -4,7 +4,7 @@
     {
       "bytes": 6050,
       "ruta": "catalogo.json",
-      "sha256": "fb812483100ae6c09b307aaac82c64bad5000454d1d804f798f4e909b284f4e3"
+      "sha256": "cac280bff25c1593cb6482cc8f2e9d8d31f32831d25eb4bb42ed68cf25589767"
     },
     {
       "bytes": 131429,
@@ -27,9 +27,9 @@
       "sha256": "08e2435b8aa6dd81978f5041bce601fb92a5512f36bd54442de74f93a32adf87"
     },
     {
-      "bytes": 63665,
+      "bytes": 63740,
       "ruta": "datos/cobertura/todos.jsonl",
-      "sha256": "7ffbc9eafea6a8b3368c7f42c5af6208525cc9782f484f6ab1b16783e4c4b26f"
+      "sha256": "049fb8261cccb9e02fddaf68440a26ce6ee3e90c5c3350f5223c4426d4779de5"
     },
     {
       "bytes": 3507,
