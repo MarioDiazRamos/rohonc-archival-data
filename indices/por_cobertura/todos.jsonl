@@ -1,8 +1,10 @@
 {"clave":"src:a1746-iii","ids":["cov:a1746:visual1839-1840"]}
 {"clave":"src:a695","ids":["cov:a695:inventario","cov:a695:ocr","cov:a695:visual"]}
+{"clave":"src:actas-k1303","ids":["cov:k1303:sin-original"]}
 {"clave":"src:actas-k1393","ids":["cov:k1393:acceso"]}
 {"clave":"src:actas-k1394","ids":["cov:k1394:sin-facsimil"]}
 {"clave":"src:arcanum-cedkat-mtak","ids":["cov:cedkat:sin-ficha"]}
+{"clave":"src:archive-rohonc-217","ids":["cov:archive-rohonc:laminas216217"]}
 {"clave":"src:athenaeum1840-1","ids":["cov:athenaeum1840-1:inventario","cov:athenaeum1840-1:visual"]}
 {"clave":"src:athenaeum1840-2","ids":["cov:athenaeum1840-2:inventario","cov:athenaeum1840-2:visual"]}
 {"clave":"src:bibl1","ids":["cov:bibl1:atlas","cov:bibl1:list1","cov:bibl1:list2","cov:bibl1:metadatos","cov:bibl1:v"]}
@@ -124,6 +126,8 @@
 {"clave":"src:strattmann263","ids":["cov:strattmann263"]}
 {"clave":"src:szabo1866","ids":["cov:1866:szabo:texto"]}
 {"clave":"src:szazadunk1840","ids":["cov:szazadunk1840:visual"]}
+{"clave":"src:szechenyi1840-ago13-k21037","ids":["cov:k21037:sin-original"]}
+{"clave":"src:teleki1840-jul08-k166173","ids":["cov:k166173:sin-original"]}
 {"clave":"src:terbe2010","ids":["cov:terbe2010:257"]}
 {"clave":"src:toldy1839-mayo12","ids":["cov:k801:toldy"]}
 {"clave":"src:toldy1839-mayo20","ids":["cov:ral61"]}

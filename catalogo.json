@@ -135,32 +135,32 @@
         ],
         "ids": [
           {
-            "bytes": 65894,
-            "cantidad": 916,
+            "bytes": 66904,
+            "cantidad": 929,
             "prefijo": "",
             "ruta": "indices/ids/todos.jsonl"
           }
         ],
         "por_clasificacion": [
           {
-            "bytes": 36286,
-            "cantidad": 450,
+            "bytes": 36939,
+            "cantidad": 458,
             "prefijo": "",
             "ruta": "indices/por_clasificacion/todos.jsonl"
           }
         ],
         "por_cobertura": [
           {
-            "bytes": 8627,
-            "cantidad": 136,
+            "bytes": 8919,
+            "cantidad": 140,
             "prefijo": "",
             "ruta": "indices/por_cobertura/todos.jsonl"
           }
         ],
         "por_entidad": [
           {
-            "bytes": 25536,
-            "cantidad": 235,
+            "bytes": 25952,
+            "cantidad": 239,
             "prefijo": "",
             "ruta": "indices/por_entidad/todos.jsonl"
           }
@@ -223,7 +223,7 @@
         ],
         "tipos": [
           {
-            "bytes": 21217,
+            "bytes": 21592,
             "cantidad": 12,
             "prefijo": "",
             "ruta": "indices/tipos/todos.jsonl"

@@ -1,4 +1,5 @@
 {"clave":"actas_comision_referidas","ids":["src:ral-k1568"]}
+{"clave":"actas_de_consejo_directivo","ids":["src:actas-k1303"]}
 {"clave":"actas_manuscritas","ids":["src:actas-k1393","src:actas-k1394","src:actas-k1398","src:k1357"]}
 {"clave":"acuerdo_academico","ids":["af:1840:a695-numismatica","evt:1840:carbo"]}
 {"clave":"acuerdo_citado","ids":["af:1843:k1394-156"]}
@@ -47,6 +48,7 @@
 {"clave":"cantidad_volumenes_fuente_publicada","ids":["af:1839:kisber-2660"]}
 {"clave":"cantidad_y_fecha_traslado","ids":["af:1839:cajas-rohonc"]}
 {"clave":"capitulo_academico","ids":["src:hursan2019teleki"]}
+{"clave":"carta_academica_referida","ids":["src:teleki1840-jul08-k166173"]}
 {"clave":"carta_administrativa_referida","ids":["src:p1313-lad21-30"]}
 {"clave":"carta_archivistica","ids":["src:p1314-1509","src:p1314-1510","src:p1314-1511","src:p1314-3839","src:p1314-4014","src:p1314-4022","src:p1314-4026","src:p1314-4066","src:p1314-8099","src:p1314-9082"]}
 {"clave":"carta_archivistica_digitalizada","ids":["src:ral270-1840"]}
@@ -107,6 +109,7 @@
 {"clave":"contenido_salterio_descrito","ids":["af:1841:jankovich-psalterio-litania"]}
 {"clave":"conteo_de_lista_segun_estudio","ids":["af:1570:19367-factura"]}
 {"clave":"control_cronologico","ids":["af:n24:volumen708-es1809"]}
+{"clave":"copia_contemporanea_de_carta","ids":["src:szechenyi1840-ago13-k21037"]}
 {"clave":"copia_de_carta","ids":["af:1568:4015-copia"]}
 {"clave":"copia_de_catalogo","ids":["rel:gussing1780-copia"]}
 {"clave":"copia_de_catalogo_referida","ids":["src:gussing1780-copia"]}
@@ -244,6 +247,7 @@
 {"clave":"inventario_historico_citado","ids":["src:p1322-1644"]}
 {"clave":"laguna_en_descarga","ids":["af:1840:nemzeti-hueco"]}
 {"clave":"lamina_grabada","ids":["af:1840:tudertekezes:lamina"]}
+{"clave":"laminas_de_filigramas_de_ancla_en_pdf_derivado","ids":["af:archive-rohonc-ancre-216217"]}
 {"clave":"lectura_anunciada_en_sesion","ids":["af:1838:oferta-comunicada-noviembre"]}
 {"clave":"lectura_comunicacion","ids":["evt:1842:jerney"]}
 {"clave":"lectura_informe","ids":["af:1840:evkonyv-informe"]}
@@ -266,6 +270,7 @@
 {"clave":"llegada_coleccion_rohonc_a_pest","ids":["evt:1839:37-cajas-pest"]}
 {"clave":"localizacion_de_comunicaciones","ids":["af:1840:ral218219-catalogo"]}
 {"clave":"localizador_carta_donacion","ids":["af:1838:ral31-localizacion"]}
+{"clave":"localizador_de_carta_original","ids":["af:1840:k166173-teleki-julio8"]}
 {"clave":"lugar","ids":["lugar:kisber","lugar:pest","lugar:rohonc","lugar:torony","lugar:viena"]}
 {"clave":"manuscrito","ids":["src:codex-k114"]}
 {"clave":"manuscrito_de_estudio_referido","ids":["src:nemeti-olvasasterve","src:nemeti1889-abc"]}
@@ -387,9 +392,11 @@
 {"clave":"repertorio_bibliografico","ids":["src:ktf-xii-1644"]}
 {"clave":"repeticion_documental","ids":["af:1574:1080-duplicados"]}
 {"clave":"representacion_archivistica_digital","ids":["af:1840:ral270-ficha"]}
+{"clave":"reproduccion_digital_derivada","ids":["src:archive-rohonc-217"]}
 {"clave":"reproduccion_fotografica_publicada","ids":["af:1889:fischer-fotografia"]}
 {"clave":"reproducido_en","ids":["rel:ral307-a695"]}
 {"clave":"reseña_cartas","ids":["af:1840:tudliteratura:szalay"]}
+{"clave":"respuesta_a_dos_comunicaciones_de_julio","ids":["af:1840:k21037-dos-oficios-julio"]}
 {"clave":"respuesta_sobre_organizacion_biblioteca","ids":["evt:1839:toldy-nagy-marzo"]}
 {"clave":"restauracion_editorial","ids":["af:1571:108143-restauracion"]}
 {"clave":"resultado_de_consulta","ids":["af:1840:primo-extractos15"]}
@@ -404,6 +411,7 @@
 {"clave":"serie_de_registros_de_entrada","ids":["src:n24-protocollum"]}
 {"clave":"sesion_citada","ids":["af:1841:k1394-8nov"]}
 {"clave":"sesion_de_comision_referida","ids":["evt:1898:comision-rohonc"]}
+{"clave":"sesiones_directivas_citadas","ids":["af:1840:k1303-sesiones-sept"]}
 {"clave":"signatura","ids":["af:1795:catalogo","af:1805:catalogo"]}
 {"clave":"signatura_anterior","ids":["af:signatura:antigua"]}
 {"clave":"signatura_catalogada_en","ids":["rel:2"]}
