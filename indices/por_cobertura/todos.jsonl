@@ -18,6 +18,7 @@
 {"clave":"src:catpozsony1795","ids":["cov:pozsony1795:sin"]}
 {"clave":"src:catvienna1805","ids":["cov:viena1805:sin"]}
 {"clave":"src:codice-k114-catalogo","ids":["cov:csapodi1973:ficha-20261123"]}
+{"clave":"src:corvinus1577-09-27","ids":["cov:corvinus1577-09-27"]}
 {"clave":"src:csanak1992","ids":["cov:1992:csanak-prestamo"]}
 {"clave":"src:czinege2024","ids":["cov:2024:czinege-carta49"]}
 {"clave":"src:eleveltar-archivum-palatinale","ids":["cov:eleveltar:bloqueo"]}
@@ -43,15 +44,18 @@
 {"clave":"src:hirnok1840","ids":["cov:autotexto-20261123:hirnok1840"]}
 {"clave":"src:hursan2024axis","ids":["cov:hursan2024axis:ficha-20261123"]}
 {"clave":"src:hursan2025","ids":["cov:hursan2025:texto"]}
+{"clave":"src:ivanyi1947-korrektura","ids":["cov:ivanyi1947-p109"]}
 {"clave":"src:jelenkor1840-1","ids":["cov:1840:jelenkor1:inventario","cov:1840:jelenkor1:visual","cov:autotexto-20261123:jelenkor1840-1"]}
 {"clave":"src:jelenkor1840-2","ids":["cov:1840:jelenkor2:inventario","cov:1840:jelenkor2:visual","cov:autotexto-20261123:jelenkor1840-2"]}
 {"clave":"src:k1357","ids":["cov:k1357:sin-facsimil"]}
 {"clave":"src:k801-1840-2","ids":["cov:k801-1840-2:sin-copia"]}
 {"clave":"src:k801-1859-2","ids":["cov:k801-1859-2:sin-copia"]}
+{"clave":"src:kiraly2023-teologia","ids":["cov:kiraly2023-p365"]}
 {"clave":"src:kurzweil1839","ids":["cov:k801:kurzweil"]}
 {"clave":"src:lang2008-rohonc","ids":["cov:lang2008:referencias"]}
 {"clave":"src:mnl-ol-n24","ids":["cov:n24:rollo-microfilme"]}
 {"clave":"src:mta-diszmuvek274","ids":["cov:mta-diszmuvek274"]}
+{"clave":"src:munich582a","ids":["cov:munich582a"]}
 {"clave":"src:n24-protocollum","ids":["cov:n24:protocollum1840"]}
 {"clave":"src:nemeti-olvasasterve","ids":["cov:nemeti-olvasasterve"]}
 {"clave":"src:nemeti1889-abc","ids":["cov:ms884:sin-copia","cov:nemeti1889-abc"]}
@@ -130,6 +134,7 @@
 {"clave":"src:regelo1840-1","ids":["cov:autotexto-20261123:regelo1840-1"]}
 {"clave":"src:regelo1840-2","ids":["cov:autotexto-20261123:regelo1840-2"]}
 {"clave":"src:repertorio-ai9","ids":["cov:n24:repertorioai9"]}
+{"clave":"src:sarbak2005-munich","ids":["cov:sarbak2005-ave"]}
 {"clave":"src:spiegel1840-1","ids":["cov:1840:spiegel1:inventario","cov:1840:spiegel1:visual","cov:autotexto-20261123:spiegel1840-1","cov:spiegel-1840-1:sin-texto"]}
 {"clave":"src:spiegel1840-2","ids":["cov:1840:spiegel2:inventario","cov:1840:spiegel2:visual","cov:autotexto-20261123:spiegel1840-2","cov:spiegel-1840-2:sin-texto"]}
 {"clave":"src:strattmann263","ids":["cov:strattmann263"]}

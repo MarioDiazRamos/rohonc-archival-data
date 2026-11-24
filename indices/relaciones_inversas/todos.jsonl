@@ -7,7 +7,7 @@
 {"clave":"per:andreas-mayken","ids":["rel:gussing-mayken"]}
 {"clave":"per:balas-deak","ids":["rel:balas-108137","rel:balas-108143","rel:balas-3960","rel:balas-3992","rel:balas-3993","rel:balas-4035","rel:balas-4058"]}
 {"clave":"per:batthyany-adam","ids":["rel:batthyany1644-adam"]}
-{"clave":"per:batthyany-boldizsar","ids":["rel:gussing2-170-batthyany","rel:gussing5-63-batthyany"]}
+{"clave":"per:batthyany-boldizsar","ids":["rel:gussing2-170-batthyany","rel:gussing4-263-batthyany","rel:gussing5-63-batthyany"]}
 {"clave":"per:batthyany-gusztav","ids":["rel:ral31-gusztav"]}
 {"clave":"per:elias-corvinus","ids":["rel:8099-elias"]}
 {"clave":"per:erhardt-hiller","ids":["rel:hiller-19370","rel:hiller-19376"]}
@@ -26,8 +26,10 @@
 {"clave":"src:cat1743","ids":["rel:3"]}
 {"clave":"src:codice-k114-catalogo","ids":["rel:2"]}
 {"clave":"src:gussing1780","ids":["rel:gussing1780-copia"]}
+{"clave":"src:gussing4-263","ids":["rel:pinder-emory-gussing"]}
 {"clave":"src:k801-1840-2","ids":["rel:1840:ral218219-k801"]}
 {"clave":"src:mnl-ol-n24","ids":["rel:ral307-n24-ruta"]}
+{"clave":"src:p1314-8099","ids":["rel:corvinus1577-continuidad"]}
 {"clave":"src:pesther-tageblatt1840","ids":["rel:tageblatt-athenaeum"]}
 {"clave":"src:porhocs1571","ids":["rel:1571:anexos-carta"]}
 {"clave":"src:ral218219-1840","ids":["rel:a1746-218219"]}
