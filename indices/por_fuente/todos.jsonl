@@ -10,12 +10,16 @@
 {"clave":"src:athenaeum1840-1","ids":["cov:athenaeum1840-1:inventario","cov:athenaeum1840-1:visual","cov:autotexto-20261123:athenaeum1840-1","dig:athenaeum1840-1"]}
 {"clave":"src:athenaeum1840-2","ids":["af:1840:athenaeum-nemes","af:1840:athenaeum-tageblatt","af:1840:tageblatt-fuente","cov:athenaeum1840-2:inventario","cov:athenaeum1840-2:visual","cov:autotexto-20261123:athenaeum1840-2","dig:athenaeum1840-2","rel:athenaeum-nemes","rel:tageblatt-athenaeum","src:pesther-tageblatt1840"]}
 {"clave":"src:barath2022","ids":["af:ivanyi:marcas-barath2022"]}
+{"clave":"src:barbaric2021-ortus","ids":["af:ortus-raj-duse-relacion","evt:1567:ortus-anime","rel:ortus-raj-duse","src:ortus-anime1567"]}
 {"clave":"src:bibl1","ids":["cat:1814:rohonc-v","cat:1817:traslados-lista1","cat:1817:traslados-lista2","cov:bibl1:atlas","cov:bibl1:list1","cov:bibl1:list2","cov:bibl1:metadatos","cov:bibl1:v","dig:bibl1"]}
 {"clave":"src:bibl2","ids":["af:1813:1063","cat:1813:kisber","cov:bibl2:latin","cov:bibl2:metadatos","dig:bibl2","ent:1813:forgach","ent:1813:kezai","ent:1813:kolinovits","ent:1813:latinos-1063","evt:1813:inventario"]}
 {"clave":"src:biblio1840","ids":["af:1840:biblio:agricola","af:1840:biblio:bucsu","af:1840:biblio:egan","af:1840:biblio:errata","af:1840:biblio:jerney","af:1840:biblio:rohonci","af:1840:biblio:ut","cov:1840:biblio:inventario","cov:1840:biblio:visual"]}
+{"clave":"src:birkfellner1965-gussing","ids":["cov:birkfellner1965-gussing"]}
 {"clave":"src:blackburn1999-ave","ids":["af:blackburn1999-scotto1539"]}
 {"clave":"src:bobory2007-tesis","ids":["af:1571:4759-torony","src:p1314-4759"]}
+{"clave":"src:bobory2009-sword","ids":["af:1566-zrinyi-batthyany-matrimonio","evt:1566:matrimonio-dorica","rel:dorica-boldizsar-matrimonio","rel:dorica-miklos-padre"]}
 {"clave":"src:bottlo-veres1968","ids":["af:n24:miscellanea","af:n24:protocollum-indice","cov:n24:bottlo1968"]}
+{"clave":"src:bsb-croacia","ids":["af:desic-corte-zrinyi","af:urach-bucic-distincion","rel:desic-zrinyi","src:raj-duse1560"]}
 {"clave":"src:bucic-eucharistia","ids":["cov:bucic-eucharistia"]}
 {"clave":"src:bucic-kerstjanski","ids":["cov:bucic-kerstjanski"]}
 {"clave":"src:bucic-novi-zakon","ids":["cov:bucic-novi-zakon"]}
@@ -44,6 +48,7 @@
 {"clave":"src:figyelmezo1840","ids":["af:1840:figyelmezo-bibliotecas","cov:autotexto-20261123:figyelmezo1840","cov:figyelmezo1840:visual","dig:figyelmezo1840"]}
 {"clave":"src:fischer1889","ids":["af:1889:fischer-223","af:1889:fischer-cita-toldy1852","af:1889:fischer-fotografia","af:1889:fischer-julg","af:1889:fischer-literati","cov:fischer1889:texto-20261123","cov:fischer:visual","dig:fischer1889","evt:1885:julg","rel:1885-julg-k114","rel:1889-fischer-k114","rel:fischer-toldy1852","src:toldy1852-irodalom"]}
 {"clave":"src:frater1987","ids":["af:1838:k1393-ral97-concordancia","af:1841:k1394-8nov","rel:ral97-k1393-tema"]}
+{"clave":"src:gussing-fragm-glag","ids":["cov:gussing-fragm-glag"]}
 {"clave":"src:gussing1742","ids":["cat:1742:gussing","cov:gussing1742"]}
 {"clave":"src:gussing1779","ids":["af:1779:gussing-visual","cat:gussing1779","cov:gussing1779:visual"]}
 {"clave":"src:gussing1780","ids":["af:1780:gussing-limite","cat:gussing1780","cov:gussing1780:sin"]}
@@ -52,6 +57,7 @@
 {"clave":"src:gussing2-170","ids":["cov:gussing2-170"]}
 {"clave":"src:gussing2-50","ids":["af:gussing:2-50","cov:gussing2-50:visual"]}
 {"clave":"src:gussing20-13b","ids":["cov:gussing20-13b"]}
+{"clave":"src:gussing2021-catalogo","ids":["af:gussing-fragm-glag-descripcion","src:gussing-fragm-glag"]}
 {"clave":"src:gussing3-154","ids":["cov:gussing3-154"]}
 {"clave":"src:gussing3-188","ids":["cov:gussing3-188"]}
 {"clave":"src:gussing4-229","ids":["af:gussing:4-229","cov:gussing4-229:visual"]}
@@ -82,6 +88,8 @@
 {"clave":"src:jelenkor1840-1","ids":["af:1840:jelenkor:biblioteca","cov:1840:jelenkor1:inventario","cov:1840:jelenkor1:visual","cov:autotexto-20261123:jelenkor1840-1","dig:jelenkor1840-1"]}
 {"clave":"src:jelenkor1840-2","ids":["af:1840:jelenkor-objetos-separados","af:1840:jelenkor-salterio","af:1840:jelenkor:carbo","af:1840:jelenkor:tarsalkodo","af:1840:jelenkor:turocz","cov:1840:jelenkor2:inventario","cov:1840:jelenkor2:visual","cov:autotexto-20261123:jelenkor1840-2","dig:jelenkor1840-2"]}
 {"clave":"src:jembrih-bratulic1989-bucic","ids":["af:bucic-atribuciones-discutidas","af:bucic-eucharistia-testimonio","evt:1574:bucic-sinodo","src:bucic-eucharistia","src:bucic-kerstjanski","src:bucic-novi-zakon"]}
+{"clave":"src:jembrih2011-klimpuh","ids":["af:1564-klimpuh-finis","af:1564-klimpuh-tres-escrituras","cov:jembrih2011-klimpuh-p50","evt:1564:klimpuh-anotacion","src:misal-klimpuh"]}
+{"clave":"src:jembrih2019-urach","ids":["af:1563-froehlich-entrega","rel:uat8-4-101-zrinyi","src:uat8-4-101"]}
 {"clave":"src:jembrih2025-decretum","ids":["af:jembrih2025-bucic-cotejo"]}
 {"clave":"src:jerney1844","ids":["af:1840:jerney-litografia","af:1840:jerney-vienes","af:1840:referencia","af:1840:reunion-no-identificada","af:1840:vieneses-sin-traslado","af:1844:223","af:1844:jerney-donacion-1839","evt:1840:presentacion-k114","evt:1842:jerney","ni:sid41-k114","obj:k114","rel:12","rel:13"]}
 {"clave":"src:k1357","ids":["cov:k1357:sin-facsimil"]}
@@ -92,11 +100,13 @@
 {"clave":"src:koltai2002","ids":["af:1644:12-ilustrados","af:1644:entradas","af:1644:secciones","af:1742:gussing-incompleto","af:1742:gussing-volumenes","af:1780:gussing-catolicos","af:1780:gussing-otros","af:1780:gussing-total","cat:1644:nemetujvar","cat:1742:gussing","rel:batthyany1644-adam","src:gussing1742","src:p1322-1644"]}
 {"clave":"src:koltai2012-adam","ids":["af:1505-torony-donacion","af:1644-torniscsa-venta","af:koltai-torony-podturen","evt:1505:torony-donacion","evt:1506:torony-confirmacion","evt:1644:torniscsa-venta","src:dl-101381","src:dl-101382","src:dl-102307"]}
 {"clave":"src:koppany2015-kastely","ids":["af:1574:2058-administrador","cov:koppany2015-p317-324","evt:1574:baranyai-torony","rel:baranyai-podturen"]}
+{"clave":"src:krtis-fragmento","ids":["af:krtis-comestor-contexto"]}
 {"clave":"src:ktf-xii-1644","ids":["af:1780:gussing-copia","rel:gussing1780-copia","src:gussing1780-copia"]}
 {"clave":"src:kurzweil1839","ids":["cov:k801:kurzweil"]}
 {"clave":"src:lang2008-rohonc","ids":["af:2008:lang-comision1898","af:2008:lang-mf5913","af:2008:lang-muller1885","cov:lang2008:referencias","evt:1898:comision-rohonc","src:muller1885-rohonc","src:ral-k1568"]}
 {"clave":"src:lang2026","ids":["af:1571-torony-lang-identificacion","af:1571:anexo-emaus-nombres","af:1571:anexo-p3","af:1571:anexo-p4","af:1571:anexo-p5","af:1571:anexo-p6","af:ivanyi:libros-porhocs1571","ni:anexos1571-k114","obj:anexos1571","rel:1571:anexos-carta","rel:1571:escritura-k114"]}
 {"clave":"src:ludolphus-vita-texto-ia","ids":["af:ludolphus-emaus"]}
+{"clave":"src:misal-klimpuh","ids":["cov:misal-klimpuh"]}
 {"clave":"src:mnl-ol-n24","ids":["cov:n24:rollo-microfilme"]}
 {"clave":"src:mnl-p1314-informacion","ids":["af:ivanyi:p1314-organizacion","af:p1314:digitalizado-2016-2024","af:p1314:indice-limitado"]}
 {"clave":"src:monok2004-batthyany","ids":["af:1490:gussing2-102-reutilizado","af:1544:gussing-matthaeus","af:1559:gussing3-154-mayken","af:1563:gussing-mayken","af:gussing20-13b-propiedad","af:gussing3-188-propiedad","af:gussing4-263-marcas","af:gussing4-263-pelbartus","af:gussing:2-170-libro","af:gussing:2-170-propiedad","af:gussing:3-154-notas","af:gussing:5-63-libro","af:gussing:5-63-propiedad","ni:gussing2-170-k114","ni:gussing5-63-k114","rel:comestor-paderborn-gussing","rel:gussing-mayken","rel:gussing2-170-batthyany","rel:gussing20-13b-batthyany","rel:gussing3-188-batthyany","rel:gussing4-263-batthyany","rel:gussing5-63-batthyany","rel:ludolphus-fides-gussing","rel:pinder-emory-gussing","src:gussing2-102","src:gussing2-170","src:gussing20-13b","src:gussing3-154","src:gussing3-188","src:gussing4-263","src:gussing5-63"]}
@@ -111,6 +121,7 @@
 {"clave":"src:nemzeti1840-2","ids":["af:1840:nemzeti-hueco","af:1840:nemzeti:academia","cov:1840:nemzeti2:inventario","cov:autotexto-20261123:nemzeti1840-2","dig:nemzeti1840-2"]}
 {"clave":"src:nevkonyv1840","ids":["af:1840:nevkonyv:oferta","af:1840:nevkonyv:toth","cov:1840:nevkonyv:visual"]}
 {"clave":"src:orban2018","ids":["af:1571:1073-doce","af:1572:1078-partidas","af:1573:1074-partidas","af:1574:1080-partidas","af:1577:1076-partidas","af:1577:1076-segmentos","af:1577:8099-libro","af:1586:1079-orban-hiller","af:1588:1077-agente","af:1588:1077-partidas","af:hiller:19368-fecha-nota60","af:hiller:19376-partidas","src:p1314-1073","src:p1314-1076","src:p1314-1077"]}
+{"clave":"src:ortus-anime1567","ids":["cov:ortus-anime1567"]}
 {"clave":"src:oszk-folhung3006","ids":["cov:oszk-folhung3006"]}
 {"clave":"src:oszk-fond16-25","ids":["cov:oszk-fond16-25"]}
 {"clave":"src:oszk-fond16-31","ids":["cov:oszk-fond16-31"]}
@@ -245,7 +256,10 @@
 {"clave":"src:tudomanytar1840-e8","ids":["af:1840:tudertekezes:13","af:1840:tudertekezes:23","af:1840:tudertekezes:lamina","cov:1840:tudertekezes:visual"]}
 {"clave":"src:tudomanytar1840-l4","ids":["af:1840:kisber-2060","af:1840:tudliteratura:carbo","af:1840:tudliteratura:coleccion","af:1840:tudliteratura:informe","af:1840:tudliteratura:koos","af:1840:tudliteratura:literati","af:1840:tudliteratura:szalay","cov:1840:tudliteratura:visual"]}
 {"clave":"src:turnische1606-microfilm","ids":["cov:turnische1606-microfilm"]}
+{"clave":"src:uat8-4-101","ids":["cov:uat8-4-101","evt:1563:froehlich-zrinyi"]}
 {"clave":"src:vadas2022","ids":["af:ivanyi:subrayados-vadas2022"]}
 {"clave":"src:virag2024-catalogacion","ids":["af:catalogo:ivanyi-transcripcion-2001","af:catalogo:observaciones-columna10"]}
 {"clave":"src:vodnik-urbarjih4","ids":["af:1606-podturen-identificacion","src:turnische1606-microfilm"]}
 {"clave":"src:vorosmarty1977-t16","ids":["af:1840:ral142-asamblea","af:1840:ral142-normas","cov:ral142:edicion","ni:ral142-k114","rel:ral142-edicion1977","src:ral142-1840"]}
+{"clave":"src:zagar2021-urach","ids":["af:k114-hipotesis-alfabetos-20261124","af:k114-zagar-observacion-20261124","af:zagar2021-fundicion","af:zagar2021-minusculas","af:zagar2021-modelos","af:zagar2021-ortografia","cov:zagar2021-tablas"]}
+{"clave":"src:zrinyi-religiosidad","ids":["af:1563-zrinyi-libros-urach"]}

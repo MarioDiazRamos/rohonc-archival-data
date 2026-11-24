@@ -15,9 +15,11 @@
 {"clave":"obj:k114","ids":["rel:1","rel:1846:k114-k1398","rel:2","rel:k114-rohonc-modern"]}
 {"clave":"per:baranyai-janos-1574","ids":["rel:baranyai-podturen"]}
 {"clave":"per:batthyany-kristof","ids":["rel:1562-kristof-emericus"]}
+{"clave":"per:nikola-desic","ids":["rel:desic-zrinyi"]}
 {"clave":"per:paulus-presbyter-toron","ids":["rel:1562-paulus-emericus"]}
 {"clave":"per:porhocs-mark","ids":["rel:mark-porhocs-kristof"]}
 {"clave":"per:stephanus-leporinus","ids":["rel:1562-leporinus-emericus"]}
+{"clave":"per:zrinyi-dorica","ids":["rel:dorica-boldizsar-matrimonio","rel:dorica-miklos-padre"]}
 {"clave":"src:a1746-iii","ids":["rel:a1746-218219"]}
 {"clave":"src:a695","ids":["rel:a695-kisber","rel:a695-rohonc"]}
 {"clave":"src:actas-k1393","ids":["rel:17"]}
@@ -40,6 +42,7 @@
 {"clave":"src:ludolphus1495-fides","ids":["rel:ludolphus-fides-gussing"]}
 {"clave":"src:nemeti-olvasasterve","ids":["rel:nemeti-plan-k114"]}
 {"clave":"src:nemeti1889-abc","ids":["rel:nemeti-abc-k114","rel:nemeti-ms884-estudio"]}
+{"clave":"src:ortus-anime1567","ids":["rel:ortus-raj-duse"]}
 {"clave":"src:p1314-108137","ids":["rel:balas-108137"]}
 {"clave":"src:p1314-108143","ids":["rel:balas-108143"]}
 {"clave":"src:p1314-19370","ids":["rel:hiller-19370"]}
@@ -66,3 +69,4 @@
 {"clave":"src:soproni-vegyes4r63","ids":["rel:soproni-literati"]}
 {"clave":"src:toldy1839-mayo20","ids":["rel:ral61-biblioteca"]}
 {"clave":"src:tort223","ids":["rel:tort223-nagy"]}
+{"clave":"src:uat8-4-101","ids":["rel:uat8-4-101-zrinyi"]}

@@ -8,7 +8,7 @@
 {"clave":"per:andreas-mayken","ids":["rel:gussing-mayken"]}
 {"clave":"per:balas-deak","ids":["rel:balas-108137","rel:balas-108143","rel:balas-3960","rel:balas-3992","rel:balas-3993","rel:balas-4035","rel:balas-4058"]}
 {"clave":"per:batthyany-adam","ids":["rel:batthyany1644-adam"]}
-{"clave":"per:batthyany-boldizsar","ids":["rel:gussing2-170-batthyany","rel:gussing20-13b-batthyany","rel:gussing3-188-batthyany","rel:gussing4-263-batthyany","rel:gussing5-63-batthyany"]}
+{"clave":"per:batthyany-boldizsar","ids":["rel:dorica-boldizsar-matrimonio","rel:gussing2-170-batthyany","rel:gussing20-13b-batthyany","rel:gussing3-188-batthyany","rel:gussing4-263-batthyany","rel:gussing5-63-batthyany"]}
 {"clave":"per:batthyany-gusztav","ids":["rel:ral31-gusztav"]}
 {"clave":"per:batthyany-kristof","ids":["rel:mark-porhocs-kristof"]}
 {"clave":"per:elias-corvinus","ids":["rel:8099-elias"]}
@@ -24,6 +24,7 @@
 {"clave":"per:sibrik-matyas","ids":["rel:31226-sibrik"]}
 {"clave":"per:svetkovics-katalin","ids":["rel:3839-svetkovics"]}
 {"clave":"per:zrinyi-gyorgy","ids":["rel:53580-zrinyi"]}
+{"clave":"per:zrinyi-miklos-1508","ids":["rel:desic-zrinyi","rel:dorica-miklos-padre","rel:uat8-4-101-zrinyi"]}
 {"clave":"src:a695","ids":["rel:ral307-a695"]}
 {"clave":"src:actas-k1393","ids":["rel:1840:carbo-actas","rel:ral97-k1393-tema"]}
 {"clave":"src:actas-k1398","ids":["rel:1846:k114-k1398"]}
@@ -39,6 +40,7 @@
 {"clave":"src:p1314-8099","ids":["rel:corvinus1577-continuidad"]}
 {"clave":"src:pesther-tageblatt1840","ids":["rel:tageblatt-athenaeum"]}
 {"clave":"src:porhocs1571","ids":["rel:1571:anexos-carta"]}
+{"clave":"src:raj-duse1560","ids":["rel:ortus-raj-duse"]}
 {"clave":"src:ral218219-1840","ids":["rel:a1746-218219"]}
 {"clave":"src:toldy1852-irodalom","ids":["rel:fischer-toldy1852"]}
 {"clave":"src:vorosmarty1977-t16","ids":["rel:ral142-edicion1977"]}
