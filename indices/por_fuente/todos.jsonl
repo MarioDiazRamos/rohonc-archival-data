@@ -1,10 +1,12 @@
 {"clave":"src:a1746-iii","ids":["af:1839:a1746-rohonc137","af:1840:a1746-218","af:1840:a1746-219","af:1840:ral307-indice-salida","cov:a1746:visual1839-1840","dig:a1746-iii","evt:1840:registro-a1746-218219","ni:a1746-k1393","rel:a1746-218219"]}
 {"clave":"src:a695","ids":["af:1839:a695-literati","af:1840:a695-clasificacion-fondo","af:1840:a695-gusztav","af:1840:a695-heidelberg","af:1840:a695-kazmer","af:1840:a695-koos","af:1840:a695-numismatica","af:1840:a695-recepcion","af:1840:a695-turoc","cov:a695:inventario","cov:a695:ocr","cov:a695:visual","evt:1840:a695-koos","evt:1840:a695-rohonc","rel:a695-kisber","rel:a695-rohonc"]}
 {"clave":"src:acs1979","ids":["af:1840:k1357-plenario","ni:k1357-k1393","src:k1357"]}
+{"clave":"src:actas-k1303","ids":["cov:k1303:sin-original"]}
 {"clave":"src:actas-k1393","ids":["cov:k1393:acceso"]}
 {"clave":"src:actas-k1394","ids":["cov:k1394:sin-facsimil"]}
 {"clave":"src:adattar2010-magankonyvtarak","ids":["af:1750:devocionarios","src:p1313-1750-270"]}
 {"clave":"src:arcanum-cedkat-mtak","ids":["af:2026:cedkat-periodo","cov:cedkat:sin-ficha"]}
+{"clave":"src:archive-rohonc-217","ids":["af:archive-rohonc-ancre-216217","cov:archive-rohonc:laminas216217","dig:archive-rohonc-217"]}
 {"clave":"src:athenaeum1840-1","ids":["cov:athenaeum1840-1:inventario","cov:athenaeum1840-1:visual","dig:athenaeum1840-1"]}
 {"clave":"src:athenaeum1840-2","ids":["af:1840:athenaeum-nemes","af:1840:athenaeum-tageblatt","af:1840:tageblatt-fuente","cov:athenaeum1840-2:inventario","cov:athenaeum1840-2:visual","dig:athenaeum1840-2","rel:athenaeum-nemes","rel:tageblatt-athenaeum","src:pesther-tageblatt1840"]}
 {"clave":"src:barath2022","ids":["af:ivanyi:marcas-barath2022"]}
@@ -23,7 +25,7 @@
 {"clave":"src:catvienna1805","ids":["cat:viena1805","cov:viena1805:sin"]}
 {"clave":"src:codice-k114-catalogo","ids":["af:1973:csapodi-filigranas","af:1973:csapodi-mf1173","af:1973:csapodi-ms884","af:1973:csapodi-reclasificacion","af:catalogo:224","af:signatura:antigua","ni:ms884-k114","obj:k114","rel:1","rel:2","rel:nemeti-ms884-estudio"]}
 {"clave":"src:csanak1992","ids":["af:1846:szabo-jozsef-prestamo-k114","af:1992:k1393-nota15","af:1992:k801-nota29","cov:1992:csanak-prestamo","rel:1846:k114-k1398","src:actas-k1398"]}
-{"clave":"src:czinege2024","ids":["af:1840:czinege-receso-reuniones","af:1840:toldy-nov12-reanudacion","af:1843:palatino-devuelve-actas","af:2024:czinege-intervalo-k1393-k1394","cov:2024:czinege-carta49","src:actas-k1394","src:toldy1840-nov12"]}
+{"clave":"src:czinege2024","ids":["af:1840:czinege-receso-reuniones","af:1840:k1303-sesiones-sept","af:1840:k166173-teleki-julio8","af:1840:k21037-dos-oficios-julio","af:1840:toldy-nov12-reanudacion","af:1843:palatino-devuelve-actas","af:2024:czinege-intervalo-k1393-k1394","cov:2024:czinege-carta49","src:actas-k1303","src:actas-k1394","src:szechenyi1840-ago13-k21037","src:teleki1840-jul08-k166173","src:toldy1840-nov12"]}
 {"clave":"src:eleveltar-archivum-palatinale","ids":["cov:eleveltar:bloqueo"]}
 {"clave":"src:ertesito1840","ids":["af:1840:ertesito:kadan","cov:1840:ertesito:visual"]}
 {"clave":"src:evkonyv-vi","ids":["af:1840:evkonyv-vi-regimen","cov:evkonyv6:texto"]}
@@ -159,7 +161,9 @@
 {"clave":"src:strattmann263","ids":["cat:strattmann263","cov:strattmann263"]}
 {"clave":"src:szabo1866","ids":["af:1866:szabo-atribucion-literati","af:1866:szabo-cita-jozsef1844","af:1866:szabo-custodia-academia","af:1866:szabo-examen-personal","cov:1866:szabo:texto"]}
 {"clave":"src:szazadunk1840","ids":["af:1840:szazadunk-nemes","cov:szazadunk1840:visual"]}
+{"clave":"src:szechenyi1840-ago13-k21037","ids":["cov:k21037:sin-original"]}
 {"clave":"src:tarsalkodo1840","ids":["af:1840:tarsalkodo-informe","af:1840:tarsalkodo-otras-piezas"]}
+{"clave":"src:teleki1840-jul08-k166173","ids":["cov:k166173:sin-original"]}
 {"clave":"src:terbe2010","ids":["af:1549:3839-idioma","af:1549:3839-perhocz","af:1568:3959-fila-vacia","af:1568:4015-copia","af:1569:3985-lengua","af:1569:4014-libros","af:1570:4026-cedula","af:1571:108143-restauracion","af:1572:4089-arca","af:deak:108137","af:deak:108143","af:deak:3960","af:deak:3992","af:deak:3993","af:deak:4035","af:deak:4058","af:fecha-v29:edicion:3777","af:fecha-v29:edicion:3901","af:fecha-v29:edicion:3903","af:fecha-v29:edicion:3933","af:fecha-v29:edicion:3983-a","af:fecha-v29:edicion:4015","af:fecha-v29:edicion:4067","af:fecha-v29:edicion:4068","af:fecha-v29:edicion:4109","cov:terbe2010:257","ni:balas-balazs","rel:balas-108137","rel:balas-108143","rel:balas-3960","rel:balas-3992","rel:balas-3993","rel:balas-4035","rel:balas-4058","src:p1314-108137","src:p1314-108143","src:p1314-3777","src:p1314-3901","src:p1314-3903","src:p1314-3933","src:p1314-3959","src:p1314-3960","src:p1314-3983-a","src:p1314-3985","src:p1314-3992","src:p1314-3993","src:p1314-4015","src:p1314-4035","src:p1314-4058","src:p1314-4067","src:p1314-4068","src:p1314-4089","src:p1314-4109"]}
 {"clave":"src:toldy-levtarcaja-realms","ids":["af:2026:toldy-levtarcaja-59-unidades"]}
 {"clave":"src:toldy1839-mayo12","ids":["cov:k801:toldy"]}
