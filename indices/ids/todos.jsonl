@@ -419,6 +419,9 @@
 {"clave":"cov:autotexto-20261123:jelenkor1840-1","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:autotexto-20261123:jelenkor1840-2","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:autotexto-20261123:nemzeti1840-1","ids":["datos/cobertura/todos.jsonl"]}
+{"clave":"cov:autotexto-20261123:nemzeti1840-2","ids":["datos/cobertura/todos.jsonl"]}
+{"clave":"cov:autotexto-20261123:regelo1840-1","ids":["datos/cobertura/todos.jsonl"]}
+{"clave":"cov:autotexto-20261123:regelo1840-2","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:autotexto-20261123:spiegel1840-1","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:autotexto-20261123:spiegel1840-2","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:bibl1:atlas","ids":["datos/cobertura/todos.jsonl"]}
@@ -584,6 +587,9 @@
 {"clave":"dig:jelenkor1840-1","ids":["datos/digitalizaciones/todos.jsonl"]}
 {"clave":"dig:jelenkor1840-2","ids":["datos/digitalizaciones/todos.jsonl"]}
 {"clave":"dig:nemzeti1840-1","ids":["datos/digitalizaciones/todos.jsonl"]}
+{"clave":"dig:nemzeti1840-2","ids":["datos/digitalizaciones/todos.jsonl"]}
+{"clave":"dig:regelo1840-1","ids":["datos/digitalizaciones/todos.jsonl"]}
+{"clave":"dig:regelo1840-2","ids":["datos/digitalizaciones/todos.jsonl"]}
 {"clave":"dig:spiegel1840-1","ids":["datos/digitalizaciones/todos.jsonl"]}
 {"clave":"dig:spiegel1840-2","ids":["datos/digitalizaciones/todos.jsonl"]}
 {"clave":"dig:toth1899","ids":["datos/digitalizaciones/todos.jsonl"]}
