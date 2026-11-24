@@ -135,56 +135,56 @@
         ],
         "ids": [
           {
-            "bytes": 64404,
-            "cantidad": 897,
+            "bytes": 65471,
+            "cantidad": 911,
             "prefijo": "",
             "ruta": "indices/ids/todos.jsonl"
           }
         ],
         "por_clasificacion": [
           {
-            "bytes": 34956,
-            "cantidad": 435,
+            "bytes": 35804,
+            "cantidad": 445,
             "prefijo": "",
             "ruta": "indices/por_clasificacion/todos.jsonl"
           }
         ],
         "por_cobertura": [
           {
-            "bytes": 8565,
-            "cantidad": 135,
+            "bytes": 8627,
+            "cantidad": 136,
             "prefijo": "",
             "ruta": "indices/por_cobertura/todos.jsonl"
           }
         ],
         "por_entidad": [
           {
-            "bytes": 24812,
-            "cantidad": 231,
+            "bytes": 25315,
+            "cantidad": 234,
             "prefijo": "",
             "ruta": "indices/por_entidad/todos.jsonl"
           }
         ],
         "por_estado": [
           {
-            "bytes": 21959,
-            "cantidad": 153,
+            "bytes": 22361,
+            "cantidad": 156,
             "prefijo": "",
             "ruta": "indices/por_estado/todos.jsonl"
           }
         ],
         "por_fuente": [
           {
-            "bytes": 23033,
-            "cantidad": 173,
+            "bytes": 23479,
+            "cantidad": 176,
             "prefijo": "",
             "ruta": "indices/por_fuente/todos.jsonl"
           }
         ],
         "por_periodo": [
           {
-            "bytes": 15229,
-            "cantidad": 251,
+            "bytes": 15368,
+            "cantidad": 252,
             "prefijo": "",
             "ruta": "indices/por_periodo/todos.jsonl"
           }
@@ -199,8 +199,8 @@
         ],
         "por_signatura": [
           {
-            "bytes": 5655,
-            "cantidad": 111,
+            "bytes": 5702,
+            "cantidad": 112,
             "prefijo": "",
             "ruta": "indices/por_signatura/todos.jsonl"
           }
@@ -223,7 +223,7 @@
         ],
         "tipos": [
           {
-            "bytes": 20677,
+            "bytes": 21044,
             "cantidad": 12,
             "prefijo": "",
             "ruta": "indices/tipos/todos.jsonl"
