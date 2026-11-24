@@ -19,9 +19,13 @@
 {"clave":"balasdeak","ids":["per:balas-deak","per:balazs-deak"]}
 {"clave":"balazsdeak","ids":["per:balazs-deak"]}
 {"clave":"balazsjnemes","ids":["per:nemes-balazs"]}
+{"clave":"baranyaijanos","ids":["per:baranyai-janos-1574"]}
 {"clave":"batthyanyadam","ids":["per:batthyany-adam"]}
 {"clave":"batthyanyantaljozsef","ids":["per:batthyany-antal-jozsef"]}
 {"clave":"batthyanyboldizsar","ids":["per:batthyany-boldizsar"]}
+{"clave":"batthyanyboldizsargeneracionde1505","ids":["per:batthyany-boldizsar-1505"]}
+{"clave":"batthyanyboldizsarnezrinyidorica","ids":["per:zrinyi-dorica"]}
+{"clave":"batthyanyborbala","ids":["per:batthyany-borbala"]}
 {"clave":"batthyanygusztav","ids":["per:batthyany-gusztav"]}
 {"clave":"batthyanykazmer","ids":["per:batthyany-kazmer"]}
 {"clave":"batthyanykristof","ids":["per:batthyany-kristof"]}
@@ -35,7 +39,9 @@
 {"clave":"bibliotecadelaacademiahungara","ids":["inst:mta-kik"]}
 {"clave":"bibliotecavienesadebatthyanylajoserno","ids":["colec:viena-1743"]}
 {"clave":"bibliothecastrattmanniana","ids":["colec:strattmann"]}
-{"clave":"boldizsarbatthyany","ids":["per:batthyany-boldizsar"]}
+{"clave":"boldizsarbatthyany","ids":["per:batthyany-boldizsar","per:batthyany-boldizsar-1505"]}
+{"clave":"buchich","ids":["per:bucic-mihael"]}
+{"clave":"bwchych","ids":["per:bucic-mihael"]}
 {"clave":"chyenthytamas","ids":["per:csenthy-tamas"]}
 {"clave":"codicerohonc","ids":["obj:k114"]}
 {"clave":"csenthytamas","ids":["per:csenthy-tamas"]}
@@ -44,6 +50,7 @@
 {"clave":"emericusliteratus","ids":["per:emericus-toron"]}
 {"clave":"erhardhiller","ids":["per:erhardt-hiller"]}
 {"clave":"erhardthiller","ids":["per:erhardt-hiller"]}
+{"clave":"ernusztjanos","ids":["per:ernuszt-janos"]}
 {"clave":"farkasporhocs","ids":["per:porhocs-farkas"]}
 {"clave":"fejerpatakylaszlo","ids":["per:fejerpataky-laszlo"]}
 {"clave":"ferencschedel","ids":["per:sche-del-ferenc"]}
@@ -57,6 +64,7 @@
 {"clave":"imredeak","ids":["per:emericus-toron"]}
 {"clave":"ivanyibela","ids":["per:ivanyi-bela"]}
 {"clave":"jankovichmiklos","ids":["per:jankovich-miklos"]}
+{"clave":"janosbaranyai","ids":["per:baranyai-janos-1574"]}
 {"clave":"jeanaubry","ids":["per:jean-aubry"]}
 {"clave":"jelenkor1840parte1pdf","ids":["dig:jelenkor1840-1"]}
 {"clave":"jelenkor1840parte2pdf","ids":["dig:jelenkor1840-2"]}
@@ -92,9 +100,16 @@
 {"clave":"magyarimadsagok","ids":["ent:1743:sid41"]}
 {"clave":"magyarnemzetileveltarorszagosleveltara","ids":["inst:mnl-ol"]}
 {"clave":"magyartudomanyosakademiakonyvtaresinformacioskozpont","ids":["inst:mta-kik"]}
+{"clave":"marcusporhoch","ids":["per:porhocs-mark"]}
+{"clave":"marcusporoch","ids":["per:porhocs-mark"]}
 {"clave":"martinusliteratus","ids":["per:martinus-toroniensis"]}
 {"clave":"martinustoroniensis","ids":["per:martinus-toroniensis"]}
+{"clave":"michaelpomagaych","ids":["per:pomagaics-mihaly"]}
+{"clave":"michaelpomogaych","ids":["per:pomagaics-mihaly"]}
 {"clave":"michaelpresbyter","ids":["per:michael-presbyter-thoron"]}
+{"clave":"mihaelbucic","ids":["per:bucic-mihael"]}
+{"clave":"mihajlobucic","ids":["per:bucic-mihael"]}
+{"clave":"mihaljbucic","ids":["per:bucic-mihael"]}
 {"clave":"miklosdeak","ids":["per:miklos-deak-1571"]}
 {"clave":"miklosjankovich","ids":["per:jankovich-miklos"]}
 {"clave":"mkurzweil","ids":["per:kurzweil-m"]}
@@ -103,6 +118,7 @@
 {"clave":"mtakik","ids":["inst:mta-kik"]}
 {"clave":"mwrakezthoron","ids":["lugar:podturen-murakoz"]}
 {"clave":"nagykaroly","ids":["per:nagy-karoly"]}
+{"clave":"nedelisce","ids":["lugar:nedelisce"]}
 {"clave":"nematikalman","ids":["per:nemeti-kalman"]}
 {"clave":"nemesliteratisamuel","ids":["per:literati-nemes"]}
 {"clave":"nemessamuel","ids":["per:literati-nemes"]}
@@ -117,11 +133,14 @@
 {"clave":"perhoczfarkas","ids":["per:porhocs-farkas"]}
 {"clave":"perneszyandras","ids":["per:perneszy-andras"]}
 {"clave":"pest","ids":["lugar:pest"]}
+{"clave":"petarzrinski","ids":["per:zrinyi-peter"]}
 {"clave":"petruscomestor","ids":["per:petrus-comestor"]}
 {"clave":"podturenmurakozcroacia","ids":["lugar:podturen-murakoz"]}
+{"clave":"pomagaicsmihaly","ids":["per:pomagaics-mihaly"]}
 {"clave":"porhochifarkas","ids":["per:porhocs-farkas"]}
 {"clave":"porhochyfarkas","ids":["per:porhocs-farkas"]}
 {"clave":"porhocsfarkas","ids":["per:porhocs-farkas"]}
+{"clave":"porhocsmark","ids":["per:porhocs-mark"]}
 {"clave":"porhotthyfarkas","ids":["per:porhocs-farkas"]}
 {"clave":"ral611839","ids":["src:toldy1839-mayo20"]}
 {"clave":"rechnitz","ids":["lugar:rohonc"]}
@@ -153,4 +172,6 @@
 {"clave":"viena","ids":["lugar:viena"]}
 {"clave":"wien","ids":["lugar:viena"]}
 {"clave":"wolfgangusporhoch","ids":["per:porhocs-farkas"]}
+{"clave":"zrinyidorica","ids":["per:zrinyi-dorica"]}
 {"clave":"zrinyigyorgy","ids":["per:zrinyi-gyorgy"]}
+{"clave":"zrinyipeter","ids":["per:zrinyi-peter"]}
