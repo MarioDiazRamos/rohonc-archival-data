@@ -19,10 +19,11 @@
 {"clave":"src:athenaeum1840-2","ids":["rel:athenaeum-nemes","rel:tageblatt-athenaeum"]}
 {"clave":"src:bibl1","ids":["rel:15"]}
 {"clave":"src:bibl2","ids":["rel:16"]}
+{"clave":"src:corvinus1577-09-27","ids":["rel:corvinus1577-continuidad"]}
 {"clave":"src:fischer1889","ids":["rel:1889-fischer-k114","rel:fischer-toldy1852"]}
 {"clave":"src:gussing1780-copia","ids":["rel:gussing1780-copia"]}
 {"clave":"src:gussing2-170","ids":["rel:gussing2-170-batthyany"]}
-{"clave":"src:gussing4-263","ids":["rel:gussing-mayken"]}
+{"clave":"src:gussing4-263","ids":["rel:gussing-mayken","rel:gussing4-263-batthyany"]}
 {"clave":"src:gussing5-63","ids":["rel:gussing5-63-batthyany"]}
 {"clave":"src:nemeti-olvasasterve","ids":["rel:nemeti-plan-k114"]}
 {"clave":"src:nemeti1889-abc","ids":["rel:nemeti-abc-k114","rel:nemeti-ms884-estudio"]}
@@ -40,6 +41,7 @@
 {"clave":"src:p1314-53580","ids":["rel:53580-zrinyi"]}
 {"clave":"src:p1314-8099","ids":["rel:8099-elias"]}
 {"clave":"src:p1322-1644","ids":["rel:batthyany1644-adam"]}
+{"clave":"src:pinder1507-emory","ids":["rel:pinder-emory-gussing"]}
 {"clave":"src:ral115-1841","ids":["rel:literati-ral115"]}
 {"clave":"src:ral142-1840","ids":["rel:ral142-edicion1977"]}
 {"clave":"src:ral218219-1840","ids":["rel:1840:ral218219-k801"]}
