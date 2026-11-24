@@ -4,12 +4,12 @@
     {
       "bytes": 6050,
       "ruta": "catalogo.json",
-      "sha256": "cac280bff25c1593cb6482cc8f2e9d8d31f32831d25eb4bb42ed68cf25589767"
+      "sha256": "c9f6f768cdb06ac3642060dc29f284e89b643b6ee68f98a7f8908e7a2c223c6a"
     },
     {
-      "bytes": 131429,
+      "bytes": 131676,
       "ruta": "datos/afirmaciones/todos.jsonl",
-      "sha256": "cee20bd68756f6e4273e619fa93761528ebf07c589396b6aa354af6f83a7b5d2"
+      "sha256": "d536705db37395fdd7dd69d6156618ec25f33743330f83751deb83e9db8aa38e"
     },
     {
       "bytes": 1970,
