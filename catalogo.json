@@ -6,7 +6,7 @@
     "asientos": 7,
     "autoridades": 60,
     "catalogos": 12,
-    "cobertura": 165,
+    "cobertura": 170,
     "cotejos_no_identidad": 17,
     "digitalizaciones": 7,
     "discrepancias": 23,
@@ -61,8 +61,8 @@
         ],
         "cobertura": [
           {
-            "bytes": 60282,
-            "cantidad": 165,
+            "bytes": 63665,
+            "cantidad": 170,
             "prefijo": "",
             "ruta": "datos/cobertura/todos.jsonl"
           }
@@ -101,7 +101,7 @@
         ],
         "fuentes": [
           {
-            "bytes": 64758,
+            "bytes": 65030,
             "cantidad": 191,
             "prefijo": "",
             "ruta": "datos/fuentes/todos.jsonl"
@@ -135,8 +135,8 @@
         ],
         "ids": [
           {
-            "bytes": 66904,
-            "cantidad": 929,
+            "bytes": 67308,
+            "cantidad": 934,
             "prefijo": "",
             "ruta": "indices/ids/todos.jsonl"
           }
@@ -151,8 +151,8 @@
         ],
         "por_cobertura": [
           {
-            "bytes": 8919,
-            "cantidad": 140,
+            "bytes": 9271,
+            "cantidad": 145,
             "prefijo": "",
             "ruta": "indices/por_cobertura/todos.jsonl"
           }
@@ -167,15 +167,15 @@
         ],
         "por_estado": [
           {
-            "bytes": 22954,
-            "cantidad": 160,
+            "bytes": 23665,
+            "cantidad": 164,
             "prefijo": "",
             "ruta": "indices/por_estado/todos.jsonl"
           }
         ],
         "por_fuente": [
           {
-            "bytes": 24199,
+            "bytes": 24363,
             "cantidad": 181,
             "prefijo": "",
             "ruta": "indices/por_fuente/todos.jsonl"
@@ -223,7 +223,7 @@
         ],
         "tipos": [
           {
-            "bytes": 21592,
+            "bytes": 21756,
             "cantidad": 12,
             "prefijo": "",
             "ruta": "indices/tipos/todos.jsonl"
@@ -248,7 +248,7 @@
     "relaciones_inversas",
     "tipos"
   ],
-  "registros": 929,
+  "registros": 934,
   "repositorio_previsto": "MarioDiazRamos/rohonc-archival-data",
   "sin_programas": true,
   "sin_reproducciones_binarias": true,
