@@ -35,7 +35,9 @@
 {"clave":"src:gussing2-102","ids":["cov:gussing2-102"]}
 {"clave":"src:gussing2-170","ids":["cov:gussing2-170"]}
 {"clave":"src:gussing2-50","ids":["cov:gussing2-50:visual"]}
+{"clave":"src:gussing20-13b","ids":["cov:gussing20-13b"]}
 {"clave":"src:gussing3-154","ids":["cov:gussing3-154"]}
+{"clave":"src:gussing3-188","ids":["cov:gussing3-188"]}
 {"clave":"src:gussing4-229","ids":["cov:gussing4-229:visual"]}
 {"clave":"src:gussing4-263","ids":["cov:gussing4-263"]}
 {"clave":"src:gussing5-63","ids":["cov:gussing5-63"]}
@@ -45,6 +47,10 @@
 {"clave":"src:hursan2024axis","ids":["cov:hursan2024axis:ficha-20261123"]}
 {"clave":"src:hursan2025","ids":["cov:hursan2025:texto"]}
 {"clave":"src:ivanyi1947-korrektura","ids":["cov:ivanyi1947-p109"]}
+{"clave":"src:ivanyi1990-1551-02-24","ids":["cov:ivanyi1990-1551-02-24"]}
+{"clave":"src:ivanyi1990-1551-09-17","ids":["cov:ivanyi1990-1551-09-17"]}
+{"clave":"src:ivanyi1990-1562-10-20","ids":["cov:ivanyi1990-1562-10-20"]}
+{"clave":"src:ivanyi1990-1563-06-25","ids":["cov:ivanyi1990-1563-06-25"]}
 {"clave":"src:jelenkor1840-1","ids":["cov:1840:jelenkor1:inventario","cov:1840:jelenkor1:visual","cov:autotexto-20261123:jelenkor1840-1"]}
 {"clave":"src:jelenkor1840-2","ids":["cov:1840:jelenkor2:inventario","cov:1840:jelenkor2:visual","cov:autotexto-20261123:jelenkor1840-2"]}
 {"clave":"src:k1357","ids":["cov:k1357:sin-facsimil"]}
@@ -151,4 +157,5 @@
 {"clave":"src:tudgyujtemeny1840","ids":["cov:1840:tudgyujtemeny:visual"]}
 {"clave":"src:tudomanytar1840-e8","ids":["cov:1840:tudertekezes:visual"]}
 {"clave":"src:tudomanytar1840-l4","ids":["cov:1840:tudliteratura:visual"]}
+{"clave":"src:turnische1606-microfilm","ids":["cov:turnische1606-microfilm"]}
 {"clave":"src:vorosmarty1977-t16","ids":["cov:ral142:edicion"]}
