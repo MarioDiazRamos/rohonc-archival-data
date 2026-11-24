@@ -412,11 +412,13 @@
 {"clave":"cov:athenaeum1840-2:visual","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:autotexto-20261123:athenaeum1840-1","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:autotexto-20261123:athenaeum1840-2","ids":["datos/cobertura/todos.jsonl"]}
+{"clave":"cov:autotexto-20261123:figyelmezo1840","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:autotexto-20261123:hasznos1840-1","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:autotexto-20261123:hasznos1840-2","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:autotexto-20261123:hirnok1840","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:autotexto-20261123:jelenkor1840-1","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:autotexto-20261123:jelenkor1840-2","ids":["datos/cobertura/todos.jsonl"]}
+{"clave":"cov:autotexto-20261123:nemzeti1840-1","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:autotexto-20261123:spiegel1840-1","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:autotexto-20261123:spiegel1840-2","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:bibl1:atlas","ids":["datos/cobertura/todos.jsonl"]}
@@ -573,6 +575,7 @@
 {"clave":"dig:athenaeum1840-2","ids":["datos/digitalizaciones/todos.jsonl"]}
 {"clave":"dig:bibl1","ids":["datos/digitalizaciones/todos.jsonl"]}
 {"clave":"dig:bibl2","ids":["datos/digitalizaciones/todos.jsonl"]}
+{"clave":"dig:figyelmezo1840","ids":["datos/digitalizaciones/todos.jsonl"]}
 {"clave":"dig:fischer1889","ids":["datos/digitalizaciones/todos.jsonl"]}
 {"clave":"dig:hasznos1840-1","ids":["datos/digitalizaciones/todos.jsonl"]}
 {"clave":"dig:hasznos1840-2","ids":["datos/digitalizaciones/todos.jsonl"]}
@@ -580,6 +583,7 @@
 {"clave":"dig:hursan2025","ids":["datos/digitalizaciones/todos.jsonl"]}
 {"clave":"dig:jelenkor1840-1","ids":["datos/digitalizaciones/todos.jsonl"]}
 {"clave":"dig:jelenkor1840-2","ids":["datos/digitalizaciones/todos.jsonl"]}
+{"clave":"dig:nemzeti1840-1","ids":["datos/digitalizaciones/todos.jsonl"]}
 {"clave":"dig:spiegel1840-1","ids":["datos/digitalizaciones/todos.jsonl"]}
 {"clave":"dig:spiegel1840-2","ids":["datos/digitalizaciones/todos.jsonl"]}
 {"clave":"dig:toth1899","ids":["datos/digitalizaciones/todos.jsonl"]}
