@@ -15,10 +15,10 @@
 {"clave":"src:bottlo-veres1968","ids":["af:n24:miscellanea","af:n24:protocollum-indice","cov:n24:bottlo1968"]}
 {"clave":"src:budapesti1840-1","ids":["af:1840:budapesti:schedel","cov:1840:budapesti1:inventario"]}
 {"clave":"src:budapesti1840-2","ids":["cov:1840:budapesti2:inventario"]}
-{"clave":"src:carbo-study","ids":["af:1840:carbo","af:1840:k1393-carbo-localizador","evt:1840:carbo","ni:carbo-k114","rel:1840:carbo-actas"]}
+{"clave":"src:carbo-study","ids":["af:1840:carbo","af:1840:k1393-carbo-localizador","af:1840:k1393-k1394-corte-acotado","evt:1840:carbo","ni:carbo-k114","rel:1840:carbo-actas"]}
 {"clave":"src:cat1743","ids":["cat:1743:viena","ent:1743:evangelistas","ent:1743:pia-exercitia","ent:1743:sid41"]}
 {"clave":"src:catalogo-p1314","ids":["af:1566:547","af:1570:9082-glosa-catalogo","af:1570:9082-glosa-en-pdf-2007","af:1571:1510-indice","af:1571:4066-archivos","af:1577:1076-febrero","af:1577:8099-indice","af:1586:1079-catalogo-aubry","af:fecha-v29:indice:3777","af:fecha-v29:indice:3901","af:fecha-v29:indice:3903","af:fecha-v29:indice:3933","af:fecha-v29:indice:3983-a","af:fecha-v29:indice:4015","af:fecha-v29:indice:4067","af:fecha-v29:indice:4068","af:fecha-v29:indice:4109","cov:catalogo-p1314:parcial","src:p1314-547","src:p1314-9082"]}
-{"clave":"src:catalogo1984","ids":["af:1839:kurzweil","af:1839:toldy-mayo12","af:1840:k801-agradecimiento","af:1840:koos-ral50","af:1840:koos-ral50-sin-equivalencia","af:1840:ral218219-catalogo","af:1841:literati-ral115","af:1841:nemesy-ral232","af:1859:k801-faltantes","evt:1840:koos-ral50","rel:15","rel:16","rel:17","rel:1840:ral218219-k801","rel:koos-ral50","rel:literati-ral115","rel:nemesy-ral232","src:k801-1840-2","src:k801-1859-2","src:kurzweil1839","src:ral115-1841","src:ral232-1841","src:ral50-1840","src:toldy1839-mayo12"]}
+{"clave":"src:catalogo1984","ids":["af:1839:kurzweil","af:1839:toldy-mayo12","af:1840:catalogo1984-sin-ficha-rohonc","af:1840:k801-agradecimiento","af:1840:koos-ral50","af:1840:koos-ral50-sin-equivalencia","af:1840:ral218219-catalogo","af:1840:ral72-rumy","af:1841:literati-ral115","af:1841:nemesy-ral232","af:1859:k801-faltantes","evt:1840:koos-ral50","ni:ral72-1840-k114","rel:15","rel:16","rel:17","rel:1840:ral218219-k801","rel:koos-ral50","rel:literati-ral115","rel:nemesy-ral232","src:k801-1840-2","src:k801-1859-2","src:kurzweil1839","src:ral115-1841","src:ral232-1841","src:ral50-1840","src:ral72-1840","src:toldy1839-mayo12"]}
 {"clave":"src:catpozsony1795","ids":["cat:pozsony1795","cov:pozsony1795:sin"]}
 {"clave":"src:catvienna1805","ids":["cat:viena1805","cov:viena1805:sin"]}
 {"clave":"src:codice-k114-catalogo","ids":["af:1973:csapodi-filigranas","af:1973:csapodi-mf1173","af:1973:csapodi-ms884","af:1973:csapodi-reclasificacion","af:catalogo:224","af:signatura:antigua","ni:ms884-k114","obj:k114","rel:1","rel:2","rel:nemeti-ms884-estudio"]}
@@ -44,6 +44,7 @@
 {"clave":"src:gussing4-263","ids":["cov:gussing4-263"]}
 {"clave":"src:gussing5-63","ids":["cov:gussing5-63"]}
 {"clave":"src:hasznos1840-2","ids":["af:1840:hasznos:jerney","cov:1840:hasznos:visual"]}
+{"clave":"src:honismeret2007-02","ids":["af:1840:k1393-k1394-corte-acotado","af:1841:k1394-jun14","af:1842:k1394-mar07","evt:1841:k1394-jun14"]}
 {"clave":"src:hursan2019catalogo","ids":["af:1752:envio-ocho-obras","src:p1317-1752-8obras"]}
 {"clave":"src:hursan2019teleki","ids":["af:1838:nagy-aviso-viena","af:1838:nagy-carta-diciembre","af:1838:ral31-localizacion","af:1839:kisber-2660","af:1839:marcas-batthyany","af:1839:nagy-carta-enero","af:1839:nagy-carta-febrero","af:1839:no-separacion-fondos","af:1839:papeles-colores","af:1839:proveniencia-multiple","af:1839:recepcion-sin-lista","af:1839:recepcion-trattner","af:1839:rohonc-25000-26000","evt:1838:nagy-aviso-viena","evt:1838:nagy-toldy-diciembre","evt:1839:nagy-toldy-enero","evt:1839:nagy-toldy-febrero","rel:ral31-gusztav","rel:tort223-nagy","src:ral31-1838","src:tort215a","src:tort223"]}
 {"clave":"src:hursan2020","ids":["af:1838:oferta","af:1839:cajas-kisber","af:1839:cajas-rohonc","af:1839:catalogo-no-conservado","af:1839:kurzweil-trabajo","af:1839:toldy-carta-marzo","evt:1838:ofrecimiento","evt:1839:37-cajas-pest","evt:1839:toldy-nagy-marzo","rel:11"]}
@@ -55,10 +56,11 @@
 {"clave":"src:ivanyi1983-hiller","ids":["af:1571:19368-extracto","af:1571:19369-reclamacion","af:1571:19370-tratado","af:hiller:19369-no-identidad","af:hiller:19372-saldo","af:hiller:19376-recalculo","af:hiller:19376-total","af:hiller:19376-tractetlein","rel:hiller-19370","rel:hiller-19376"]}
 {"clave":"src:jelenkor1840-1","ids":["af:1840:jelenkor:biblioteca","cov:1840:jelenkor1:inventario","cov:1840:jelenkor1:visual"]}
 {"clave":"src:jelenkor1840-2","ids":["af:1840:jelenkor-objetos-separados","af:1840:jelenkor-salterio","af:1840:jelenkor:carbo","af:1840:jelenkor:tarsalkodo","af:1840:jelenkor:turocz","cov:1840:jelenkor2:inventario","cov:1840:jelenkor2:visual"]}
-{"clave":"src:jerney1844","ids":["af:1840:jerney-litografia","af:1840:jerney-vienes","af:1840:referencia","af:1840:reunion-no-identificada","af:1840:vieneses-sin-traslado","af:1844:223","evt:1840:presentacion-k114","evt:1842:jerney","ni:sid41-k114","obj:k114","rel:12","rel:13"]}
+{"clave":"src:jerney1844","ids":["af:1840:jerney-litografia","af:1840:jerney-vienes","af:1840:referencia","af:1840:reunion-no-identificada","af:1840:vieneses-sin-traslado","af:1844:223","af:1844:jerney-donacion-1839","evt:1840:presentacion-k114","evt:1842:jerney","ni:sid41-k114","obj:k114","rel:12","rel:13"]}
 {"clave":"src:k1357","ids":["cov:k1357:sin-facsimil"]}
 {"clave":"src:k801-1840-2","ids":["cov:k801-1840-2:sin-copia"]}
 {"clave":"src:k801-1859-2","ids":["cov:k801-1859-2:sin-copia"]}
+{"clave":"src:kezirattar1892","ids":["af:1839:kezirattar1892-rohonczy"]}
 {"clave":"src:koltai2002","ids":["af:1644:12-ilustrados","af:1644:entradas","af:1644:secciones","af:1742:gussing-incompleto","af:1742:gussing-volumenes","af:1780:gussing-catolicos","af:1780:gussing-otros","af:1780:gussing-total","cat:1644:nemetujvar","cat:1742:gussing","rel:batthyany1644-adam","src:gussing1742","src:p1322-1644"]}
 {"clave":"src:ktf-xii-1644","ids":["af:1780:gussing-copia","rel:gussing1780-copia","src:gussing1780-copia"]}
 {"clave":"src:kurzweil1839","ids":["cov:k801:kurzweil"]}
@@ -144,6 +146,7 @@
 {"clave":"src:ral31-1838","ids":["cov:ral31-1838:sin-copia"]}
 {"clave":"src:ral36-1841","ids":["af:1841:ral36-ficha"]}
 {"clave":"src:ral50-1840","ids":["cov:ral50-1840"]}
+{"clave":"src:ral72-1840","ids":["cov:ral72-1840:sin-copia"]}
 {"clave":"src:ral97-1839","ids":["af:1838:ral97-extracto","cov:ral97:solo-ficha"]}
 {"clave":"src:reali2216","ids":["af:reali2216:papel"]}
 {"clave":"src:realms80","ids":["af:realms80:1838","af:realms80:224","af:realms80:dimensiones","rel:k114-rohonc-modern"]}

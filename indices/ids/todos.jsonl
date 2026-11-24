@@ -110,6 +110,7 @@
 {"clave":"af:1839:cajas-kisber","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1839:cajas-rohonc","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1839:catalogo-no-conservado","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:1839:kezirattar1892-rohonczy","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1839:kisber-2660","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1839:kurzweil","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1839:kurzweil-trabajo","ids":["datos/afirmaciones/todos.jsonl"]}
@@ -157,6 +158,7 @@
 {"clave":"af:1840:biblio:ut","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1840:budapesti:schedel","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1840:carbo","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:1840:catalogo1984-sin-ficha-rohonc","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1840:czinege-receso-reuniones","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1840:ertesito:kadan","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1840:evkonyv-adquisiciones","ids":["datos/afirmaciones/todos.jsonl"]}
@@ -179,6 +181,7 @@
 {"clave":"af:1840:jerney-vienes","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1840:k1357-plenario","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1840:k1393-carbo-localizador","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:1840:k1393-k1394-corte-acotado","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1840:k166-ficha","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1840:k801-agradecimiento","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1840:kisber-2060","ids":["datos/afirmaciones/todos.jsonl"]}
@@ -203,6 +206,7 @@
 {"clave":"af:1840:ral307-indice-salida","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1840:ral307-no-prueba-semestre","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1840:ral307-remision","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:1840:ral72-rumy","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1840:referencia","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1840:regelo:necrologica","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1840:reunion-no-identificada","ids":["datos/afirmaciones/todos.jsonl"]}
@@ -231,6 +235,7 @@
 {"clave":"af:1841:jankovich-psalterio-litania","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1841:jankovich-psalterio-precio","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1841:k1394-8nov","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:1841:k1394-jun14","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1841:literati-45-impresos","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1841:literati-ral115","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1841:nemesy-ral232","ids":["datos/afirmaciones/todos.jsonl"]}
@@ -239,8 +244,10 @@
 {"clave":"af:1841:soproni-posesion","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1841:viajes-folhung3006","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1841:viajes-fond16-31","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:1842:k1394-mar07","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1843:k1394-156","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1844:223","ids":["datos/afirmaciones/todos.jsonl"]}
+{"clave":"af:1844:jerney-donacion-1839","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1846:szabo-jozsef-prestamo-k114","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1859:k801-faltantes","ids":["datos/afirmaciones/todos.jsonl"]}
 {"clave":"af:1866:szabo-atribucion-literati","ids":["datos/afirmaciones/todos.jsonl"]}
@@ -486,6 +493,7 @@
 {"clave":"cov:ral31-1838:sin-copia","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:ral50-1840","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:ral61","ids":["datos/cobertura/todos.jsonl"]}
+{"clave":"cov:ral72-1840:sin-copia","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:ral97:solo-ficha","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:spiegel-1840-1:sin-texto","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:spiegel-1840-2:sin-texto","ids":["datos/cobertura/todos.jsonl"]}
@@ -526,6 +534,7 @@
 {"clave":"dif:fecha-v29:4067","ids":["datos/discrepancias/todos.jsonl"]}
 {"clave":"dif:fecha-v29:4068","ids":["datos/discrepancias/todos.jsonl"]}
 {"clave":"dif:fecha-v29:4109","ids":["datos/discrepancias/todos.jsonl"]}
+{"clave":"dif:jerney1839-ral31-1838","ids":["datos/discrepancias/todos.jsonl"]}
 {"clave":"dif:kisber-cifras-2060-2660","ids":["datos/discrepancias/todos.jsonl"]}
 {"clave":"dif:ral218219-mayo-noviembre","ids":["datos/discrepancias/todos.jsonl"]}
 {"clave":"dif:ral307-salida-recepcion","ids":["datos/discrepancias/todos.jsonl"]}
@@ -567,6 +576,7 @@
 {"clave":"evt:1840:presentacion-k114","ids":["datos/eventos/todos.jsonl"]}
 {"clave":"evt:1840:ral307-remision","ids":["datos/eventos/todos.jsonl"]}
 {"clave":"evt:1840:registro-a1746-218219","ids":["datos/eventos/todos.jsonl"]}
+{"clave":"evt:1841:k1394-jun14","ids":["datos/eventos/todos.jsonl"]}
 {"clave":"evt:1841:literati-lista","ids":["datos/eventos/todos.jsonl"]}
 {"clave":"evt:1842:jerney","ids":["datos/eventos/todos.jsonl"]}
 {"clave":"evt:1844:apertura","ids":["datos/eventos/todos.jsonl"]}
@@ -594,6 +604,7 @@
 {"clave":"ni:ral171-k114","ids":["datos/cotejos_no_identidad/todos.jsonl"]}
 {"clave":"ni:ral307-k1393","ids":["datos/cotejos_no_identidad/todos.jsonl"]}
 {"clave":"ni:ral61-k114","ids":["datos/cotejos_no_identidad/todos.jsonl"]}
+{"clave":"ni:ral72-1840-k114","ids":["datos/cotejos_no_identidad/todos.jsonl"]}
 {"clave":"ni:sid41-k114","ids":["datos/cotejos_no_identidad/todos.jsonl"]}
 {"clave":"obj:anexos1571","ids":["datos/objetos/todos.jsonl"]}
 {"clave":"obj:k114","ids":["datos/objetos/todos.jsonl"]}
@@ -763,6 +774,7 @@
 {"clave":"src:hasznos1840-1","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:hasznos1840-2","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:hirnok1840","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:honismeret2007-02","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:hursan2019catalogo","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:hursan2019teleki","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:hursan2020","ids":["datos/fuentes/todos.jsonl"]}
@@ -778,6 +790,7 @@
 {"clave":"src:k1357","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:k801-1840-2","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:k801-1859-2","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:kezirattar1892","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:koltai2002","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:ktf-xii-1644","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:kurzweil1839","ids":["datos/fuentes/todos.jsonl"]}
@@ -865,6 +878,7 @@
 {"clave":"src:ral31-1838","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:ral36-1841","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:ral50-1840","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:ral72-1840","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:ral97-1839","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:reali2216","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:realms80","ids":["datos/fuentes/todos.jsonl"]}

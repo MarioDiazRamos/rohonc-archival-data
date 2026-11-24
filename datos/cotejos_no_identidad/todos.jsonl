@@ -13,4 +13,5 @@
 {"derecha_id":"obj:k114","estado":"manuscrito_istvan_szabo_no_rohonc","fuente_id":"src:ral171-1839","id":"ni:ral171-k114","izquierda_id":"src:ral171-1839","tipo":"cotejos_no_identidad"}
 {"derecha_id":"src:actas-k1393","estado":"borrador_sin_anexos_no_equivale_a_actas","fuente_id":"src:ral307-1840","id":"ni:ral307-k1393","izquierda_id":"src:ral307-1840","tipo":"cotejos_no_identidad"}
 {"derecha_id":"obj:k114","estado":"informe_de_biblioteca_no_individualiza_k114","fuente_id":"src:toldy1839-mayo20","id":"ni:ral61-k114","izquierda_id":"src:toldy1839-mayo20","tipo":"cotejos_no_identidad"}
+{"derecha_id":"obj:k114","estado":"expediente_sobre_libros_de_rumy_no_sobre_rohonc_en_catalogo_1984","fuente_id":"src:catalogo1984","id":"ni:ral72-1840-k114","izquierda_id":"src:ral72-1840","tipo":"cotejos_no_identidad"}
 {"derecha_id":"obj:k114","estado":"identidad_no_demostrada","fuente_id":"src:jerney1844","id":"ni:sid41-k114","izquierda_id":"ent:1743:sid41","localizador":{"pagina_impresa":33},"tipo":"cotejos_no_identidad"}

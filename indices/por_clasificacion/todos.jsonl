@@ -16,6 +16,7 @@
 {"clave":"anuario_academico","ids":["src:evkonyv-vi"]}
 {"clave":"anuncio_de_reanudacion_de_sesiones_ordinarias","ids":["af:1840:toldy-nov12-reanudacion"]}
 {"clave":"articulo_academico","ids":["src:acs1979","src:carbo-study","src:csanak1959","src:hursan2019catalogo","src:hursan2022","src:hursan2024axis","src:hursan2025","src:lang2008-rohonc","src:lang2026","src:nagy2025-protocollum","src:nemes2003-jankovich","src:orban2018","src:rozsondai2024","src:szabo1866","src:vadas2022","src:virag2024-catalogacion"]}
+{"clave":"articulo_historico_publicado","ids":["src:honismeret2007-02"]}
 {"clave":"articulo_propriedad_literaria","ids":["af:1840:budapesti:schedel"]}
 {"clave":"asamblea_general","ids":["af:1840:ral142-asamblea"]}
 {"clave":"asiento_de","ids":["rel:3"]}
@@ -178,6 +179,8 @@
 {"clave":"estudio_bibliotecario","ids":["src:frater1987"]}
 {"clave":"estudio_historia_archivistica","ids":["src:csanak1992"]}
 {"clave":"estudio_historico_sobre","ids":["rel:nemeti-abc-k114","rel:nemeti-ms884-estudio","rel:nemeti-plan-k114"]}
+{"clave":"estudio_institucional_publicado","ids":["src:kezirattar1892"]}
+{"clave":"expediente_bibliotecario_catalogado","ids":["src:ral72-1840"]}
 {"clave":"expediente_donacion_de","ids":["rel:koos-ral50"]}
 {"clave":"expediente_editorial_catalogado","ids":["src:ral171-1839"]}
 {"clave":"expediente_normativo_referido","ids":["src:ral142-1840"]}
@@ -189,6 +192,7 @@
 {"clave":"fecha","ids":["af:1839:toldy-mayo12"]}
 {"clave":"fecha_aproximada_de_lista","ids":["af:1746:fecha-aproximada"]}
 {"clave":"fecha_corregida","ids":["af:1840:ral218219-fecha-corregida"]}
+{"clave":"fecha_de_donacion_declarada_por_jerney","ids":["af:1844:jerney-donacion-1839"]}
 {"clave":"fecha_de_sesion_desconocida","ids":["af:1840:reunion-no-identificada"]}
 {"clave":"fecha_del_original","ids":["af:hiller:19368-fecha-original"]}
 {"clave":"fecha_edicion_critica","ids":["af:fecha-v29:edicion:3777","af:fecha-v29:edicion:3901","af:fecha-v29:edicion:3903","af:fecha-v29:edicion:3933","af:fecha-v29:edicion:3983-a","af:fecha-v29:edicion:4015","af:fecha-v29:edicion:4067","af:fecha-v29:edicion:4068","af:fecha-v29:edicion:4109"]}
@@ -229,6 +233,7 @@
 {"clave":"inscripcion_de_posesion_atribuida","ids":["rel:soproni-literati"]}
 {"clave":"inscripcion_posesion_atribuida","ids":["rel:gussing2-170-batthyany","rel:gussing5-63-batthyany"]}
 {"clave":"institucion","ids":["inst:mnl-ol","inst:mta-kik"]}
+{"clave":"intervalo_documental_del_cambio_de_volumen","ids":["af:1840:k1393-k1394-corte-acotado"]}
 {"clave":"intervalo_lista_donaciones","ids":["af:1840:anuario:donaciones"]}
 {"clave":"inventario","ids":["evt:1813:inventario"]}
 {"clave":"inventario_archivistico_referido","ids":["src:p1313-1750-270","src:p1313-lad21-29","src:p1317-1752-8obras"]}
@@ -269,10 +274,12 @@
 {"clave":"marcas_de_posesion","ids":["af:gussing:5-63-propiedad"]}
 {"clave":"marcas_de_trabajo_archivistico_segun_tesis","ids":["af:ivanyi:marcas-barath2022"]}
 {"clave":"marcas_materiales_en_volumenes","ids":["af:1839:marcas-batthyany"]}
+{"clave":"materia_de_expediente_catalogado","ids":["af:1840:ral72-rumy"]}
 {"clave":"material_y_datacion_del_papel_segun_catalogo","ids":["af:reali2216:papel"]}
 {"clave":"mencion_archivistica","ids":["af:1571:31226","af:1571:53580"]}
 {"clave":"mencion_escritura","ids":["af:1839:a695-literati"]}
 {"clave":"mencion_examinadores_vieneses","ids":["af:1840:jerney-vienes"]}
+{"clave":"mencion_explicita_en_relato_de_recepcion","ids":["af:1839:kezirattar1892-rohonczy"]}
 {"clave":"mencion_jerney","ids":["af:1840:hasznos:jerney"]}
 {"clave":"mencion_toponimo","ids":["af:1840:tudgyujtemeny:agricola"]}
 {"clave":"menciona_nombre_en_transcripcion","ids":["rel:balas-108137","rel:balas-108143","rel:balas-3960","rel:balas-3992","rel:balas-3993","rel:balas-4035","rel:balas-4058"]}
@@ -282,7 +289,7 @@
 {"clave":"microfilme_institucional","ids":["src:a695"]}
 {"clave":"monografia_bibliotecaria","ids":["src:koltai2002"]}
 {"clave":"necrologica_no_relacionada","ids":["af:1840:regelo:necrologica"]}
-{"clave":"negativo_catalografico_acotado","ids":["af:1840:primo-k1393-no-copia"]}
+{"clave":"negativo_catalografico_acotado","ids":["af:1840:catalogo1984-sin-ficha-rohonc","af:1840:primo-k1393-no-copia"]}
 {"clave":"normativa_general","ids":["af:1840:ral142-normas"]}
 {"clave":"nota_tematica_del_catalogador_literal","ids":["af:1570:9082-glosa-catalogo"]}
 {"clave":"noticia_anticuario","ids":["af:1840:athenaeum-nemes","af:1840:szazadunk-nemes"]}
@@ -383,8 +390,11 @@
 {"clave":"restauracion_editorial","ids":["af:1571:108143-restauracion"]}
 {"clave":"resultado_de_consulta","ids":["af:1840:primo-extractos15"]}
 {"clave":"resumen_reuniones","ids":["af:1840:evkonyv-sesiones"]}
+{"clave":"reunion_ordinaria_citada_en_k1394","ids":["evt:1841:k1394-jun14"]}
+{"clave":"reunion_ordinaria_citada_en_volumen","ids":["af:1841:k1394-jun14"]}
 {"clave":"ruta_de_busqueda_no_recepcion","ids":["rel:ral307-n24-ruta"]}
 {"clave":"seccion_ilustrada","ids":["af:1644:12-ilustrados"]}
+{"clave":"segunda_reunion_citada_en_volumen","ids":["af:1842:k1394-mar07"]}
 {"clave":"separacion_archivos","ids":["af:1571:4066-archivos"]}
 {"clave":"serie_de_anexos","ids":["af:n24:miscellanea"]}
 {"clave":"serie_de_registros_de_entrada","ids":["src:n24-protocollum"]}
