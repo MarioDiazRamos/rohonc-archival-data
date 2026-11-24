@@ -27,6 +27,16 @@
       "minItems": 2,
       "type": "array"
     },
+    "nivel_evidencia": {
+      "enum": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ],
+      "type": "integer"
+    },
     "paginas_efectivamente_inspeccionadas": {
       "minimum": 0,
       "type": "integer"
@@ -43,18 +53,30 @@
     "resultado": {
       "type": "string"
     },
+    "terminos_buscados": {
+      "items": {
+        "type": "string"
+      },
+      "type": [
+        "array",
+        "null"
+      ],
+      "uniqueItems": true
+    },
     "tipo": {
       "const": "cobertura"
     }
   },
   "required": [
-    "id",
-    "tipo",
-    "fuente_id",
-    "procedimiento",
     "alcance",
+    "fuente_id",
+    "id",
+    "nivel_evidencia",
+    "paginas_efectivamente_inspeccionadas",
+    "procedimiento",
     "resultado",
-    "paginas_efectivamente_inspeccionadas"
+    "terminos_buscados",
+    "tipo"
   ],
   "title": "Cobertura de una fuente",
   "type": "object"
