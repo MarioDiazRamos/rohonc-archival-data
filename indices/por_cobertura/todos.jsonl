@@ -25,7 +25,7 @@
 {"clave":"src:evkonyv-vi","ids":["cov:evkonyv6:texto"]}
 {"clave":"src:evkonyv1840-4","ids":["cov:1840:anuario4:inventario","cov:1840:anuario4:visual"]}
 {"clave":"src:evkonyv1842v","ids":["cov:evkonyv:inventario","cov:evkonyv:visual"]}
-{"clave":"src:figyelmezo1840","ids":["cov:figyelmezo1840:visual"]}
+{"clave":"src:figyelmezo1840","ids":["cov:autotexto-20261123:figyelmezo1840","cov:figyelmezo1840:visual"]}
 {"clave":"src:fischer1889","ids":["cov:fischer1889:texto-20261123","cov:fischer:visual"]}
 {"clave":"src:gussing1742","ids":["cov:gussing1742"]}
 {"clave":"src:gussing1779","ids":["cov:gussing1779:visual"]}
@@ -55,7 +55,7 @@
 {"clave":"src:n24-protocollum","ids":["cov:n24:protocollum1840"]}
 {"clave":"src:nemeti-olvasasterve","ids":["cov:nemeti-olvasasterve"]}
 {"clave":"src:nemeti1889-abc","ids":["cov:ms884:sin-copia","cov:nemeti1889-abc"]}
-{"clave":"src:nemzeti1840-1","ids":["cov:1840:nemzeti1:inventario"]}
+{"clave":"src:nemzeti1840-1","ids":["cov:1840:nemzeti1:inventario","cov:autotexto-20261123:nemzeti1840-1"]}
 {"clave":"src:nemzeti1840-2","ids":["cov:1840:nemzeti2:inventario"]}
 {"clave":"src:nevkonyv1840","ids":["cov:1840:nevkonyv:visual"]}
 {"clave":"src:oszk-folhung3006","ids":["cov:oszk-folhung3006"]}
