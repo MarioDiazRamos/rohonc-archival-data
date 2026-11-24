@@ -80,7 +80,7 @@
 {"clave":"src:nemeti-olvasasterve","ids":["cov:nemeti-olvasasterve"]}
 {"clave":"src:nemeti1889-abc","ids":["cov:ms884:sin-copia","cov:nemeti1889-abc"]}
 {"clave":"src:nemzeti1840-1","ids":["cov:1840:nemzeti1:inventario","cov:autotexto-20261123:nemzeti1840-1","dig:nemzeti1840-1"]}
-{"clave":"src:nemzeti1840-2","ids":["af:1840:nemzeti-hueco","af:1840:nemzeti:academia","cov:1840:nemzeti2:inventario"]}
+{"clave":"src:nemzeti1840-2","ids":["af:1840:nemzeti-hueco","af:1840:nemzeti:academia","cov:1840:nemzeti2:inventario","cov:autotexto-20261123:nemzeti1840-2","dig:nemzeti1840-2"]}
 {"clave":"src:nevkonyv1840","ids":["af:1840:nevkonyv:oferta","af:1840:nevkonyv:toth","cov:1840:nevkonyv:visual"]}
 {"clave":"src:orban2018","ids":["af:1571:1073-doce","af:1572:1078-partidas","af:1573:1074-partidas","af:1574:1080-partidas","af:1577:1076-partidas","af:1577:1076-segmentos","af:1577:8099-libro","af:1586:1079-orban-hiller","af:1588:1077-agente","af:1588:1077-partidas","af:hiller:19368-fecha-nota60","af:hiller:19376-partidas","src:p1314-1073","src:p1314-1076","src:p1314-1077"]}
 {"clave":"src:oszk-folhung3006","ids":["cov:oszk-folhung3006"]}
@@ -154,7 +154,8 @@
 {"clave":"src:ral97-1839","ids":["af:1838:ral97-extracto","cov:ral97:solo-ficha"]}
 {"clave":"src:reali2216","ids":["af:reali2216:papel","cov:reali2216:ficha-20261123"]}
 {"clave":"src:realms80","ids":["af:realms80:1838","af:realms80:224","af:realms80:dimensiones","cov:realms80:ficha-20261123","rel:k114-rohonc-modern"]}
-{"clave":"src:regelo1840-2","ids":["af:1840:regelo:necrologica"]}
+{"clave":"src:regelo1840-1","ids":["cov:autotexto-20261123:regelo1840-1","dig:regelo1840-1"]}
+{"clave":"src:regelo1840-2","ids":["af:1840:regelo:necrologica","cov:autotexto-20261123:regelo1840-2","dig:regelo1840-2"]}
 {"clave":"src:registro-sintaxis1843","ids":["af:1843:k1394-156"]}
 {"clave":"src:repertorio-ai9","ids":["af:n24:academia-no-regestada","cov:n24:repertorioai9","rel:ral307-n24-ruta"]}
 {"clave":"src:rozsondai2024","ids":["af:1841:literati-45-impresos","af:1841:soproni-material","af:1841:soproni-posesion","af:1841:viajes-folhung3006","evt:1841:literati-lista","rel:soproni-literati","src:soproni-vegyes4r63"]}
