@@ -417,7 +417,9 @@
 {"clave":"cov:bibl2:latin","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:bibl2:metadatos","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:catalogo-p1314:parcial","ids":["datos/cobertura/todos.jsonl"]}
+{"clave":"cov:catalogo1984:ficha-20261123","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:cedkat:sin-ficha","ids":["datos/cobertura/todos.jsonl"]}
+{"clave":"cov:csapodi1973:ficha-20261123","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:eleveltar:bloqueo","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:evkonyv6:texto","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:evkonyv:inventario","ids":["datos/cobertura/todos.jsonl"]}
@@ -444,6 +446,7 @@
 {"clave":"cov:gussing4-229:visual","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:gussing4-263","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:gussing5-63","ids":["datos/cobertura/todos.jsonl"]}
+{"clave":"cov:hursan2024axis:ficha-20261123","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:hursan2025:texto","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:k1303:sin-original","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:k1357:sin-facsimil","ids":["datos/cobertura/todos.jsonl"]}
@@ -507,6 +510,8 @@
 {"clave":"cov:ral61","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:ral72-1840:sin-copia","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:ral97:solo-ficha","ids":["datos/cobertura/todos.jsonl"]}
+{"clave":"cov:reali2216:ficha-20261123","ids":["datos/cobertura/todos.jsonl"]}
+{"clave":"cov:realms80:ficha-20261123","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:spiegel-1840-1:sin-texto","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:spiegel-1840-2:sin-texto","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:strattmann263","ids":["datos/cobertura/todos.jsonl"]}
