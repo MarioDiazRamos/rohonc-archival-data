@@ -1,6 +1,8 @@
+{"clave":"1445","ids":["src:zrcalo1445"]}
 {"clave":"1475","ids":["src:gussing2-170"]}
 {"clave":"1490","ids":["src:gussing2-102"]}
 {"clave":"1495","ids":["src:gussing20-13b","src:ludolphus1495-fides"]}
+{"clave":"1501","ids":["src:misal-klimpuh"]}
 {"clave":"1503","ids":["src:comestor1503-paderborn","src:gussing3-188"]}
 {"clave":"1505","ids":["evt:1505:torony-donacion"]}
 {"clave":"1506","ids":["evt:1506:torony-confirmacion","src:dl-101381","src:dl-101382"]}
@@ -14,12 +16,18 @@
 {"clave":"1551-02-05","ids":["evt:1551:mark-poroch-portador","src:ivanyi1990-1551-02-05"]}
 {"clave":"1551-02-24","ids":["src:ivanyi1990-1551-02-24"]}
 {"clave":"1551-09-17","ids":["src:ivanyi1990-1551-09-17"]}
-{"clave":"1562","ids":["src:ivanyi1990-1562-10-20"]}
+{"clave":"1556","ids":["src:muka-spasitelja1556"]}
+{"clave":"1560","ids":["src:raj-duse1560"]}
+{"clave":"1561","ids":["src:tabla-za-dicu1561"]}
+{"clave":"1562","ids":["src:ivanyi1990-1562-10-20","src:urach-nt-glagolitico1562"]}
 {"clave":"1562-10-20","ids":["src:ivanyi1990-1562-10-20"]}
-{"clave":"1563","ids":["src:ivanyi1990-1563-06-25"]}
+{"clave":"1563","ids":["evt:1563:froehlich-zrinyi","src:ivanyi1990-1563-06-25","src:uat8-4-101","src:urach-nt-cirilico1563","src:urach-nt-glagolitico1563"]}
+{"clave":"1563-06-14","ids":["evt:1563:froehlich-zrinyi","src:uat8-4-101"]}
 {"clave":"1563-06-25","ids":["src:ivanyi1990-1563-06-25"]}
-{"clave":"1566","ids":["src:p1314-547"]}
+{"clave":"1564","ids":["evt:1564:klimpuh-anotacion"]}
+{"clave":"1566","ids":["evt:1566:matrimonio-dorica","src:p1314-547"]}
 {"clave":"1566-10-06","ids":["src:p1314-547"]}
+{"clave":"1567","ids":["evt:1567:ortus-anime","src:ortus-anime1567"]}
 {"clave":"1568","ids":["src:p1314-3959","src:p1314-3960","src:p1314-4015"]}
 {"clave":"1568-11-01","ids":["src:p1314-4015"]}
 {"clave":"1568-11-05","ids":["src:p1314-3959"]}
@@ -275,6 +283,7 @@
 {"clave":"1953","ids":["src:arcanum-cedkat-mtak"]}
 {"clave":"1954","ids":["src:arcanum-cedkat-mtak"]}
 {"clave":"1959","ids":["src:csanak1959"]}
+{"clave":"1965","ids":["src:birkfellner1965-gussing"]}
 {"clave":"1968","ids":["src:bottlo-veres1968"]}
 {"clave":"1973","ids":["src:codice-k114-catalogo"]}
 {"clave":"1977","ids":["src:vorosmarty1977-t16"]}
@@ -293,22 +302,27 @@
 {"clave":"2005","ids":["src:sarbak2005-munich"]}
 {"clave":"2007","ids":["src:bobory2007-tesis","src:honismeret2007-02"]}
 {"clave":"2008","ids":["src:lang2008-rohonc"]}
+{"clave":"2009","ids":["src:bobory2009-sword"]}
 {"clave":"2010","ids":["src:adattar2010-magankonyvtarak","src:carbo-study","src:terbe2010"]}
+{"clave":"2011","ids":["src:jembrih2011-klimpuh"]}
 {"clave":"2012","ids":["src:koltai2012-adam"]}
 {"clave":"2015","ids":["src:koppany2015-kastely"]}
 {"clave":"2016","ids":["src:reali2216"]}
 {"clave":"2018","ids":["src:orban2018"]}
-{"clave":"2019","ids":["src:hursan2019catalogo","src:hursan2019teleki"]}
+{"clave":"2019","ids":["src:hursan2019catalogo","src:hursan2019teleki","src:jembrih2019-urach"]}
 {"clave":"2020","ids":["src:hursan2020"]}
+{"clave":"2021","ids":["src:barbaric2021-ortus","src:gussing2021-catalogo","src:zagar2021-urach"]}
 {"clave":"2022","ids":["src:barath2022","src:hursan2022","src:vadas2022"]}
 {"clave":"2023","ids":["src:hursan2023","src:kiraly2023-teologia"]}
 {"clave":"2024","ids":["src:czinege2024","src:hursan2024axis","src:rozsondai2024","src:virag2024-catalogacion"]}
 {"clave":"2025","ids":["src:hursan2025","src:jembrih2025-decretum","src:nagy2025-protocollum"]}
-{"clave":"2026","ids":["src:lang2026"]}
+{"clave":"2026","ids":["af:k114-hipotesis-alfabetos-20261124","src:lang2026"]}
 {"clave":"2026-10-14","ids":["src:lang2026"]}
+{"clave":"2026-11-24","ids":["af:k114-hipotesis-alfabetos-20261124"]}
 {"clave":"Finales del siglo XV – principios del XVI","ids":["src:munich582a"]}
 {"clave":"c. 1475","ids":["src:gussing2-170"]}
 {"clave":"c. 1746","ids":["src:p1313-lad21-29"]}
 {"clave":"c. 1841","ids":["src:oszk-fond16-25"]}
 {"clave":"circa 1814","ids":["cat:1814:rohonc-v"]}
+{"clave":"siglos XIV–XV","ids":["src:krtis-fragmento"]}
 {"clave":"é. n.","ids":["src:p1314-2091"]}
