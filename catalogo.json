@@ -29,7 +29,7 @@
       "datos": {
         "afirmaciones": [
           {
-            "bytes": 131429,
+            "bytes": 131676,
             "cantidad": 347,
             "prefijo": "",
             "ruta": "datos/afirmaciones/todos.jsonl"
