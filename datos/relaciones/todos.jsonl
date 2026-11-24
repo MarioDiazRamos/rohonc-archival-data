@@ -5,6 +5,10 @@
 {"fuente_id":"src:jerney1844","id":"rel:13","objeto_id":"obj:k114","predicado":"menciona_objeto","sujeto_id":"evt:1842:jerney","tipo":"relaciones"}
 {"fuente_id":"src:toldy1846","id":"rel:14","objeto_id":"lugar:rohonc","predicado":"ocurrio_en","sujeto_id":"evt:1839:visita-rohonc","tipo":"relaciones"}
 {"fuente_id":"src:catalogo1984","id":"rel:15","objeto_id":"inst:mta-kik","predicado":"custodiado_por","sujeto_id":"src:bibl1","tipo":"relaciones"}
+{"fuente_id":"src:ivanyi1990-reforma","id":"rel:1551-thoron-michael","objeto_id":"per:michael-presbyter-thoron","predicado":"menciona_a","sujeto_id":"src:ivanyi1990-1551-02-24","tipo":"relaciones"}
+{"fuente_id":"src:ivanyi1990-reforma","id":"rel:1562-kristof-emericus","objeto_id":"per:emericus-toron","predicado":"orden_de_envio_al_rectorado_segun_carta","sujeto_id":"per:batthyany-kristof","tipo":"relaciones"}
+{"fuente_id":"src:ivanyi1990-reforma","id":"rel:1562-leporinus-emericus","objeto_id":"per:emericus-toron","predicado":"gestion_del_envio_al_rectorado_segun_carta","sujeto_id":"per:stephanus-leporinus","tipo":"relaciones"}
+{"fuente_id":"src:ivanyi1990-reforma","id":"rel:1562-paulus-emericus","objeto_id":"per:emericus-toron","predicado":"solicitud_de_nombramiento_segun_carta","sujeto_id":"per:paulus-presbyter-toron","tipo":"relaciones"}
 {"fuente_id":"src:lang2026","id":"rel:1571:anexos-carta","objeto_id":"src:porhocs1571","predicado":"anexos_de_carta","sujeto_id":"obj:anexos1571","tipo":"relaciones"}
 {"fuente_id":"src:lang2026","id":"rel:1571:escritura-k114","objeto_id":"obj:k114","predicado":"escritura_del_mismo_sistema_segun_articulo","sujeto_id":"obj:anexos1571","tipo":"relaciones"}
 {"fuente_id":"src:catalogo1984","id":"rel:16","objeto_id":"inst:mta-kik","predicado":"custodiado_por","sujeto_id":"src:bibl2","tipo":"relaciones"}
@@ -42,11 +46,14 @@
 {"fuente_id":"src:terbe2010","id":"rel:balas-4035","objeto_id":"per:balas-deak","predicado":"menciona_nombre_en_transcripcion","sujeto_id":"src:p1314-4035","tipo":"relaciones"}
 {"fuente_id":"src:terbe2010","id":"rel:balas-4058","objeto_id":"per:balas-deak","predicado":"menciona_nombre_en_transcripcion","sujeto_id":"src:p1314-4058","tipo":"relaciones"}
 {"fuente_id":"src:koltai2002","id":"rel:batthyany1644-adam","objeto_id":"per:batthyany-adam","predicado":"inventario_de_libros_de","sujeto_id":"src:p1322-1644","tipo":"relaciones"}
+{"fuente_id":"src:monok2004-batthyany","id":"rel:comestor-paderborn-gussing","objeto_id":"src:gussing3-188","predicado":"ejemplar_distinto_de_la_misma_edicion_catalogada","sujeto_id":"src:comestor1503-paderborn","tipo":"relaciones"}
 {"fuente_id":"src:ivanyi1947-korrektura","id":"rel:corvinus1577-continuidad","objeto_id":"src:p1314-8099","predicado":"continuidad_del_encargo_segun_ivanyi","sujeto_id":"src:corvinus1577-09-27","tipo":"relaciones"}
 {"fuente_id":"src:fischer1889","id":"rel:fischer-toldy1852","objeto_id":"src:toldy1852-irodalom","predicado":"cita_bibliografica","sujeto_id":"src:fischer1889","tipo":"relaciones"}
 {"fuente_id":"src:monok2004-batthyany","id":"rel:gussing-mayken","objeto_id":"per:andreas-mayken","predicado":"posesion_de_ejemplar_segun_inscripcion","sujeto_id":"src:gussing4-263","tipo":"relaciones"}
 {"fuente_id":"src:ktf-xii-1644","id":"rel:gussing1780-copia","objeto_id":"src:gussing1780","predicado":"copia_de_catalogo","sujeto_id":"src:gussing1780-copia","tipo":"relaciones"}
 {"fuente_id":"src:monok2004-batthyany","id":"rel:gussing2-170-batthyany","objeto_id":"per:batthyany-boldizsar","predicado":"inscripcion_posesion_atribuida","sujeto_id":"src:gussing2-170","tipo":"relaciones"}
+{"fuente_id":"src:monok2004-batthyany","id":"rel:gussing20-13b-batthyany","objeto_id":"per:batthyany-boldizsar","predicado":"inscripcion_posesion_atribuida","sujeto_id":"src:gussing20-13b","tipo":"relaciones"}
+{"fuente_id":"src:monok2004-batthyany","id":"rel:gussing3-188-batthyany","objeto_id":"per:batthyany-boldizsar","predicado":"inscripcion_posesion_atribuida","sujeto_id":"src:gussing3-188","tipo":"relaciones"}
 {"fuente_id":"src:monok2004-batthyany","id":"rel:gussing4-263-batthyany","objeto_id":"per:batthyany-boldizsar","predicado":"inscripcion_posesion_atribuida","sujeto_id":"src:gussing4-263","tipo":"relaciones"}
 {"fuente_id":"src:monok2004-batthyany","id":"rel:gussing5-63-batthyany","objeto_id":"per:batthyany-boldizsar","predicado":"inscripcion_posesion_atribuida","sujeto_id":"src:gussing5-63","tipo":"relaciones"}
 {"fuente_id":"src:ivanyi1983-hiller","id":"rel:hiller-19370","objeto_id":"per:erhardt-hiller","predicado":"carta_de","sujeto_id":"src:p1314-19370","tipo":"relaciones"}
@@ -54,6 +61,7 @@
 {"fuente_id":"src:realms80","id":"rel:k114-rohonc-modern","objeto_id":"colec:rohonc","predicado":"procedencia_atribuida_en_catalogo_institucional_moderno","sujeto_id":"obj:k114","tipo":"relaciones"}
 {"fuente_id":"src:catalogo1984","id":"rel:koos-ral50","objeto_id":"per:koos-karoly","predicado":"expediente_donacion_de","sujeto_id":"src:ral50-1840","tipo":"relaciones"}
 {"fuente_id":"src:catalogo1984","id":"rel:literati-ral115","objeto_id":"per:literati-nemes","predicado":"lista_de_libros_ofrecidos_por","sujeto_id":"src:ral115-1841","tipo":"relaciones"}
+{"fuente_id":"src:monok2004-batthyany","id":"rel:ludolphus-fides-gussing","objeto_id":"src:gussing20-13b","predicado":"ejemplar_distinto_de_la_misma_edicion_catalogada","sujeto_id":"src:ludolphus1495-fides","tipo":"relaciones"}
 {"fuente_id":"src:catalogo1984","id":"rel:nemesy-ral232","objeto_id":"per:nemesy-janos","predicado":"noticia_de_envio_de","sujeto_id":"src:ral232-1841","tipo":"relaciones"}
 {"fuente_id":"src:toth1899","id":"rel:nemeti-abc-k114","objeto_id":"obj:k114","predicado":"estudio_historico_sobre","sujeto_id":"src:nemeti1889-abc","tipo":"relaciones"}
 {"fuente_id":"src:codice-k114-catalogo","id":"rel:nemeti-ms884-estudio","objeto_id":"obj:k114","predicado":"estudio_historico_sobre","sujeto_id":"src:nemeti1889-abc","tipo":"relaciones"}

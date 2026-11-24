@@ -25,6 +25,7 @@
 {"clave":"src:catpozsony1795","ids":["cat:pozsony1795","cov:pozsony1795:sin"]}
 {"clave":"src:catvienna1805","ids":["cat:viena1805","cov:viena1805:sin"]}
 {"clave":"src:codice-k114-catalogo","ids":["af:1973:csapodi-filigranas","af:1973:csapodi-mf1173","af:1973:csapodi-ms884","af:1973:csapodi-reclasificacion","af:catalogo:224","af:signatura:antigua","cov:csapodi1973:ficha-20261123","ni:ms884-k114","obj:k114","rel:1","rel:2","rel:nemeti-ms884-estudio"]}
+{"clave":"src:comestor-historia-monumenta","ids":["af:comestor-emaus","af:emaus-paralelo-no-exclusivo"]}
 {"clave":"src:corvinus1577-09-27","ids":["cov:corvinus1577-09-27"]}
 {"clave":"src:csanak1992","ids":["af:1846:szabo-jozsef-prestamo-k114","af:1992:k1393-nota15","af:1992:k801-nota29","cov:1992:csanak-prestamo","rel:1846:k114-k1398","src:actas-k1398"]}
 {"clave":"src:czinege2024","ids":["af:1840:czinege-receso-reuniones","af:1840:k1303-sesiones-sept","af:1840:k166173-teleki-julio8","af:1840:k21037-dos-oficios-julio","af:1840:toldy-nov12-reanudacion","af:1843:palatino-devuelve-actas","af:2024:czinege-intervalo-k1393-k1394","cov:2024:czinege-carta49","src:actas-k1303","src:actas-k1394","src:szechenyi1840-ago13-k21037","src:teleki1840-jul08-k166173","src:toldy1840-nov12"]}
@@ -43,7 +44,9 @@
 {"clave":"src:gussing2-102","ids":["cov:gussing2-102"]}
 {"clave":"src:gussing2-170","ids":["cov:gussing2-170"]}
 {"clave":"src:gussing2-50","ids":["af:gussing:2-50","cov:gussing2-50:visual"]}
+{"clave":"src:gussing20-13b","ids":["cov:gussing20-13b"]}
 {"clave":"src:gussing3-154","ids":["cov:gussing3-154"]}
+{"clave":"src:gussing3-188","ids":["cov:gussing3-188"]}
 {"clave":"src:gussing4-229","ids":["af:gussing:4-229","cov:gussing4-229:visual"]}
 {"clave":"src:gussing4-263","ids":["cov:gussing4-263"]}
 {"clave":"src:gussing5-63","ids":["cov:gussing5-63"]}
@@ -61,6 +64,11 @@
 {"clave":"src:informe1841","ids":["af:1840:informe1841-22-sesiones","af:1840:informe1841-505-59-gastos","af:1841:informe-fecha"]}
 {"clave":"src:ivanyi1947-korrektura","ids":["af:1577:8099-penas","af:1577:corvinus27-envio","af:1577:corvinus27-imagenes","cov:ivanyi1947-p109","rel:corvinus1577-continuidad","src:corvinus1577-09-27"]}
 {"clave":"src:ivanyi1983-hiller","ids":["af:1571:19368-extracto","af:1571:19369-reclamacion","af:1571:19370-tratado","af:hiller:19369-no-identidad","af:hiller:19372-saldo","af:hiller:19376-recalculo","af:hiller:19376-total","af:hiller:19376-tractetlein","rel:hiller-19370","rel:hiller-19376"]}
+{"clave":"src:ivanyi1990-1551-02-24","ids":["cov:ivanyi1990-1551-02-24"]}
+{"clave":"src:ivanyi1990-1551-09-17","ids":["cov:ivanyi1990-1551-09-17"]}
+{"clave":"src:ivanyi1990-1562-10-20","ids":["cov:ivanyi1990-1562-10-20"]}
+{"clave":"src:ivanyi1990-1563-06-25","ids":["cov:ivanyi1990-1563-06-25"]}
+{"clave":"src:ivanyi1990-reforma","ids":["af:1551-martinus-escuela","af:1551-thoron-murakoz","af:1562-emericus-rector","af:1563-paulus-literatus","af:1563-toron-castillo","af:thoron-toponimos-no-equivalencia","rel:1551-thoron-michael","rel:1562-kristof-emericus","rel:1562-leporinus-emericus","rel:1562-paulus-emericus","src:ivanyi1990-1551-02-24","src:ivanyi1990-1551-09-17","src:ivanyi1990-1562-10-20","src:ivanyi1990-1563-06-25"]}
 {"clave":"src:jelenkor1840-1","ids":["af:1840:jelenkor:biblioteca","cov:1840:jelenkor1:inventario","cov:1840:jelenkor1:visual","cov:autotexto-20261123:jelenkor1840-1","dig:jelenkor1840-1"]}
 {"clave":"src:jelenkor1840-2","ids":["af:1840:jelenkor-objetos-separados","af:1840:jelenkor-salterio","af:1840:jelenkor:carbo","af:1840:jelenkor:tarsalkodo","af:1840:jelenkor:turocz","cov:1840:jelenkor2:inventario","cov:1840:jelenkor2:visual","cov:autotexto-20261123:jelenkor1840-2","dig:jelenkor1840-2"]}
 {"clave":"src:jerney1844","ids":["af:1840:jerney-litografia","af:1840:jerney-vienes","af:1840:referencia","af:1840:reunion-no-identificada","af:1840:vieneses-sin-traslado","af:1844:223","af:1844:jerney-donacion-1839","evt:1840:presentacion-k114","evt:1842:jerney","ni:sid41-k114","obj:k114","rel:12","rel:13"]}
@@ -73,10 +81,11 @@
 {"clave":"src:ktf-xii-1644","ids":["af:1780:gussing-copia","rel:gussing1780-copia","src:gussing1780-copia"]}
 {"clave":"src:kurzweil1839","ids":["cov:k801:kurzweil"]}
 {"clave":"src:lang2008-rohonc","ids":["af:2008:lang-comision1898","af:2008:lang-mf5913","af:2008:lang-muller1885","cov:lang2008:referencias","evt:1898:comision-rohonc","src:muller1885-rohonc","src:ral-k1568"]}
-{"clave":"src:lang2026","ids":["af:1571:anexo-p3","af:1571:anexo-p4","af:1571:anexo-p5","af:1571:anexo-p6","af:ivanyi:libros-porhocs1571","ni:anexos1571-k114","obj:anexos1571","rel:1571:anexos-carta","rel:1571:escritura-k114"]}
+{"clave":"src:lang2026","ids":["af:1571-torony-lang-identificacion","af:1571:anexo-emaus-nombres","af:1571:anexo-p3","af:1571:anexo-p4","af:1571:anexo-p5","af:1571:anexo-p6","af:ivanyi:libros-porhocs1571","ni:anexos1571-k114","obj:anexos1571","rel:1571:anexos-carta","rel:1571:escritura-k114"]}
+{"clave":"src:ludolphus-vita-texto-ia","ids":["af:ludolphus-emaus"]}
 {"clave":"src:mnl-ol-n24","ids":["cov:n24:rollo-microfilme"]}
 {"clave":"src:mnl-p1314-informacion","ids":["af:ivanyi:p1314-organizacion","af:p1314:digitalizado-2016-2024","af:p1314:indice-limitado"]}
-{"clave":"src:monok2004-batthyany","ids":["af:1490:gussing2-102-reutilizado","af:1544:gussing-matthaeus","af:1559:gussing3-154-mayken","af:1563:gussing-mayken","af:gussing4-263-marcas","af:gussing4-263-pelbartus","af:gussing:2-170-libro","af:gussing:2-170-propiedad","af:gussing:3-154-notas","af:gussing:5-63-libro","af:gussing:5-63-propiedad","ni:gussing2-170-k114","ni:gussing5-63-k114","rel:gussing-mayken","rel:gussing2-170-batthyany","rel:gussing4-263-batthyany","rel:gussing5-63-batthyany","rel:pinder-emory-gussing","src:gussing2-102","src:gussing2-170","src:gussing3-154","src:gussing4-263","src:gussing5-63"]}
+{"clave":"src:monok2004-batthyany","ids":["af:1490:gussing2-102-reutilizado","af:1544:gussing-matthaeus","af:1559:gussing3-154-mayken","af:1563:gussing-mayken","af:gussing20-13b-propiedad","af:gussing3-188-propiedad","af:gussing4-263-marcas","af:gussing4-263-pelbartus","af:gussing:2-170-libro","af:gussing:2-170-propiedad","af:gussing:3-154-notas","af:gussing:5-63-libro","af:gussing:5-63-propiedad","ni:gussing2-170-k114","ni:gussing5-63-k114","rel:comestor-paderborn-gussing","rel:gussing-mayken","rel:gussing2-170-batthyany","rel:gussing20-13b-batthyany","rel:gussing3-188-batthyany","rel:gussing4-263-batthyany","rel:gussing5-63-batthyany","rel:ludolphus-fides-gussing","rel:pinder-emory-gussing","src:gussing2-102","src:gussing2-170","src:gussing20-13b","src:gussing3-154","src:gussing3-188","src:gussing4-263","src:gussing5-63"]}
 {"clave":"src:mta-diszmuvek274","ids":["cov:mta-diszmuvek274"]}
 {"clave":"src:munich582a","ids":["cov:munich582a"]}
 {"clave":"src:n24-protocollum","ids":["cov:n24:protocollum1840"]}
@@ -186,6 +195,8 @@
 {"clave":"src:tudgyujtemeny1840","ids":["af:1840:tudgyujtemeny:agricola","cov:1840:tudgyujtemeny:visual"]}
 {"clave":"src:tudomanytar1840-e8","ids":["af:1840:tudertekezes:13","af:1840:tudertekezes:23","af:1840:tudertekezes:lamina","cov:1840:tudertekezes:visual"]}
 {"clave":"src:tudomanytar1840-l4","ids":["af:1840:kisber-2060","af:1840:tudliteratura:carbo","af:1840:tudliteratura:coleccion","af:1840:tudliteratura:informe","af:1840:tudliteratura:koos","af:1840:tudliteratura:literati","af:1840:tudliteratura:szalay","cov:1840:tudliteratura:visual"]}
+{"clave":"src:turnische1606-microfilm","ids":["cov:turnische1606-microfilm"]}
 {"clave":"src:vadas2022","ids":["af:ivanyi:subrayados-vadas2022"]}
 {"clave":"src:virag2024-catalogacion","ids":["af:catalogo:ivanyi-transcripcion-2001","af:catalogo:observaciones-columna10"]}
+{"clave":"src:vodnik-urbarjih4","ids":["af:1606-podturen-identificacion","src:turnische1606-microfilm"]}
 {"clave":"src:vorosmarty1977-t16","ids":["af:1840:ral142-asamblea","af:1840:ral142-normas","cov:ral142:edicion","ni:ral142-k114","rel:ral142-edicion1977","src:ral142-1840"]}

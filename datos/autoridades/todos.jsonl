@@ -7,6 +7,7 @@
 {"clase":"institucion","id":"inst:mta-kik","nombre":"Magyar Tudományos Akadémia Könyvtár és Információs Központ","tipo":"autoridades","variantes":["MTAK","MTA KIK","Biblioteca de la Academia Húngara"]}
 {"clase":"lugar","id":"lugar:kisber","nombre":"Kisbér","tipo":"autoridades","variantes":[]}
 {"clase":"lugar","id":"lugar:pest","nombre":"Pest","tipo":"autoridades","variantes":[]}
+{"clase":"lugar","id":"lugar:podturen-murakoz","nombre":"Podturen (Muraköz, Croacia)","tipo":"autoridades","variantes":["Mwrakez Thoron","Turnišče","Turnišće","Tornische"]}
 {"clase":"lugar","id":"lugar:rohonc","nombre":"Rohonc","tipo":"autoridades","variantes":["Rohoncz","Rechnitz"]}
 {"clase":"lugar","id":"lugar:torony","nombre":"Torony","tipo":"autoridades","variantes":[]}
 {"clase":"lugar","id":"lugar:viena","nombre":"Viena","tipo":"autoridades","variantes":["Wien"]}
@@ -24,6 +25,7 @@
 {"clase":"persona","id":"per:batthyany-lajos-erno","nombre":"Batthyány Lajos Ernő","tipo":"autoridades","variantes":["Ludwig Batthyány"]}
 {"clase":"persona","id":"per:csenthy-tamas","nombre":"Csenthy Tamás","tipo":"autoridades","variantes":["Chyenthy Tamás"]}
 {"clase":"persona","id":"per:elias-corvinus","nombre":"Elias Corvinus","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:emericus-toron","nombre":"Emericus literatus","tipo":"autoridades","variantes":["Imre deák"]}
 {"clase":"persona","id":"per:erhardt-hiller","nombre":"Erhardt Hiller","tipo":"autoridades","variantes":["Erhard Hiller"]}
 {"clase":"persona","id":"per:fejerpataky-laszlo","nombre":"Fejérpataky László","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:fischer-karoly","nombre":"Fischer Károly Antal","tipo":"autoridades","variantes":[]}
@@ -40,17 +42,25 @@
 {"clase":"persona","id":"per:koos-karoly","nombre":"Koós Károly","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:kurzweil-m","nombre":"M. Kurzweil","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:literati-nemes","nombre":"Literáti Nemes Sámuel","tipo":"autoridades","variantes":["Nemes-Literati Sámuel","Nemes Sámuel"]}
+{"clase":"persona","id":"per:ludolphus-saxonia","nombre":"Ludolphus de Saxonia","tipo":"autoridades","variantes":["Lentolphus de Saxonia","Ludolfo de Sajonia"]}
+{"clase":"persona","id":"per:martinus-toroniensis","nombre":"Martinus literatus","tipo":"autoridades","variantes":["Martinus Toroniensis"]}
+{"clase":"persona","id":"per:michael-presbyter-thoron","nombre":"Michael presbyter","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:miklos-deak-1571","nombre":"Miklós deák","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:nagy-karoly","nombre":"Nagy Károly","tipo":"autoridades","variantes":["Károly Nagy"]}
 {"clase":"persona","id":"per:nemes-balazs","nombre":"Balázs J. Nemes","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:nemesy-janos","nombre":"Nemesy János","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:nemeti-kalman","nombre":"Németi Kálmán","tipo":"autoridades","variantes":["Némäti Kálmán"]}
+{"clase":"persona","id":"per:paulus-literatus-toron","nombre":"Paulus literatus","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:paulus-mayken","nombre":"Paulus Mayken","tipo":"autoridades","variantes":["Paulus Maiken"]}
+{"clase":"persona","id":"per:paulus-presbyter-toron","nombre":"Paulus presbyter","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:paulus-rosoniensis","nombre":"Paulus Rosoniensis","tipo":"autoridades","variantes":["Rosoni Szondi Pál"]}
 {"clase":"persona","id":"per:perneszy-andras","nombre":"Perneszy András","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:petrus-comestor","nombre":"Petrus Comestor","tipo":"autoridades","variantes":["Pedro Coméstor"]}
 {"clase":"persona","id":"per:porhocs-farkas","nombre":"Farkas Porhócs","tipo":"autoridades","variantes":["Porhócs Farkas","Perhocz Farkas","Wolfgangus Porhoch","Porhochÿ Farkas","Porhochi Farkas","Porhotthÿ Farkas"]}
 {"clase":"persona","id":"per:rozsondai-bela","nombre":"Rozsondai Béla","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:sche-del-ferenc","nombre":"Schedel Ferenc","tipo":"autoridades","variantes":["Toldy Ferenc","Ferenc Toldy","Ferenc Schedel"]}
 {"clase":"persona","id":"per:sibrik-matyas","nombre":"Sibrik Mátyás","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:stephanus-leporinus","nombre":"Stephanus Leporinus","tipo":"autoridades","variantes":["Leporinus István"]}
 {"clase":"persona","id":"per:svetkovics-katalin","nombre":"Svetkovics Katalin","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:szabo-karoly","nombre":"Szabó Károly","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:szalay-laszlo","nombre":"Szalay László","tipo":"autoridades","variantes":[]}
