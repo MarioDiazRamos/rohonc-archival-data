@@ -218,12 +218,14 @@
 {"clave":"fotografias_originales_verificadas","ids":["af:1573:1074-fotografias"]}
 {"clave":"fragmento_en_encuadernacion","ids":["af:1490:gussing2-102-reutilizado"]}
 {"clave":"frecuencia_reuniones","ids":["af:1840:evkonyv-vi-regimen"]}
+{"clave":"gastos_editoriales_y_litograficos_agrupados","ids":["af:1840:informe1841-505-59-gastos"]}
 {"clave":"glosa_presente_en_pdf_con_fecha_tecnica_2007","ids":["af:1570:9082-glosa-en-pdf-2007"]}
 {"clave":"hojas_descritas_por_jerney","ids":["af:1844:223"]}
 {"clave":"huella_de_etiqueta_de_procedencia","ids":["af:1813:etiqueta-kisber"]}
 {"clave":"idioma_catalogado","ids":["af:1549:3839-ficha"]}
 {"clave":"idioma_edicion","ids":["af:1549:3839-idioma"]}
 {"clave":"incluye_coleccion","ids":["rel:11"]}
+{"clave":"indice_de_coleccion_archivistica","ids":["src:toldy-levtarcaja-realms"]}
 {"clave":"informe_academico_publicado","ids":["af:1840:tarsalkodo-informe"]}
 {"clave":"informe_archivistico","ids":["src:kurzweil1839","src:toldy1839-mayo12","src:toldy1839-mayo20"]}
 {"clave":"informe_institucional","ids":["src:informe1841"]}
@@ -238,6 +240,7 @@
 {"clave":"inventario","ids":["evt:1813:inventario"]}
 {"clave":"inventario_archivistico_referido","ids":["src:p1313-1750-270","src:p1313-lad21-29","src:p1317-1752-8obras"]}
 {"clave":"inventario_de_libros_de","ids":["rel:batthyany1644-adam"]}
+{"clave":"inventario_de_unidades_de_coleccion","ids":["af:2026:toldy-levtarcaja-59-unidades"]}
 {"clave":"inventario_historico_citado","ids":["src:p1322-1644"]}
 {"clave":"laguna_en_descarga","ids":["af:1840:nemzeti-hueco"]}
 {"clave":"lamina_grabada","ids":["af:1840:tudertekezes:lamina"]}
@@ -303,6 +306,7 @@
 {"clave":"noticias_academicas","ids":["af:1840:nemzeti:academia"]}
 {"clave":"numero_acuerdo","ids":["af:1840:carbo"]}
 {"clave":"numero_de_entradas","ids":["af:1644:entradas"]}
+{"clave":"numero_de_reuniones_ordinarias_de_enero_a_agosto","ids":["af:1840:informe1841-22-sesiones"]}
 {"clave":"numero_entradas","ids":["af:strattmann:entradas"]}
 {"clave":"numero_volumenes","ids":["af:strattmann:volumenes"]}
 {"clave":"numero_volumenes_segun_estudio","ids":["af:1742:gussing-volumenes"]}
@@ -427,6 +431,7 @@
 {"clave":"total_factura_transcrito","ids":["af:hiller:19376-total"]}
 {"clave":"total_titulos_origen","ids":["af:1817:1871"]}
 {"clave":"total_titulos_trasladados","ids":["af:1817:1575"]}
+{"clave":"transcripcion_publicada_de_devolucion_de_actas","ids":["af:1843:palatino-devuelve-actas"]}
 {"clave":"transporte_documentado","ids":["af:1839:ral61-cajas"]}
 {"clave":"trasladado_a","ids":["rel:7","rel:8"]}
 {"clave":"traslado_a_rohonc","ids":["af:1817:forgach","af:1817:kezai","af:1817:kolinovits"]}

@@ -77,7 +77,7 @@
 {"clave":"evt:1842:jerney","ids":["rel:13"]}
 {"clave":"evt:1885:julg","ids":["rel:1885-julg-k114"]}
 {"clave":"inst:mnl-ol","ids":["obj:anexos1571","src:catalogo-p1314","src:gussing1780-copia","src:mnl-ol-n24","src:mnl-p1314-informacion","src:n24-protocollum","src:p1313-1750-270","src:p1313-lad21-29","src:p1313-lad21-30","src:p1314-1073","src:p1314-1074","src:p1314-1076","src:p1314-1077","src:p1314-1078","src:p1314-1079","src:p1314-1080","src:p1314-108137","src:p1314-108143","src:p1314-1509","src:p1314-1510","src:p1314-1511","src:p1314-19367","src:p1314-19368","src:p1314-19369","src:p1314-19370","src:p1314-19372","src:p1314-19376","src:p1314-31226","src:p1314-3777","src:p1314-3839","src:p1314-3901","src:p1314-3903","src:p1314-3933","src:p1314-3959","src:p1314-3960","src:p1314-3983-a","src:p1314-3985","src:p1314-3992","src:p1314-3993","src:p1314-4014","src:p1314-4015","src:p1314-4022","src:p1314-4026","src:p1314-4035","src:p1314-4058","src:p1314-4066","src:p1314-4067","src:p1314-4068","src:p1314-4089","src:p1314-4109","src:p1314-4759","src:p1314-53580","src:p1314-547","src:p1314-8099","src:p1314-9082","src:p1317-1752-8obras","src:p1322-1644","src:porhocs1571","src:strattmann263"]}
-{"clave":"inst:mta-kik","ids":["obj:k114","rel:1","rel:15","rel:16","rel:17","src:a1746-iii","src:a695","src:actas-k1393","src:actas-k1394","src:actas-k1398","src:arcanum-cedkat-mtak","src:bibl1","src:bibl2","src:cat1743","src:catpozsony1795","src:catvienna1805","src:codex-k114","src:codice-k114-catalogo","src:k1357","src:k801-1840-2","src:k801-1859-2","src:kurzweil1839","src:mta-diszmuvek274","src:muller1885-rohonc","src:nemeti-olvasasterve","src:nemeti1889-abc","src:ral-k1568","src:ral115-1841","src:ral142-1840","src:ral171-1839","src:ral218219-1840","src:ral232-1841","src:ral270-1840","src:ral307-1840","src:ral31-1838","src:ral36-1841","src:ral50-1840","src:ral72-1840","src:ral97-1839","src:reali2216","src:realms80","src:soproni-vegyes4r63","src:toldy1839-mayo12","src:toldy1839-mayo20","src:toldy1840-nov12","src:tort215a","src:tort223"]}
+{"clave":"inst:mta-kik","ids":["obj:k114","rel:1","rel:15","rel:16","rel:17","src:a1746-iii","src:a695","src:actas-k1393","src:actas-k1394","src:actas-k1398","src:arcanum-cedkat-mtak","src:bibl1","src:bibl2","src:cat1743","src:catpozsony1795","src:catvienna1805","src:codex-k114","src:codice-k114-catalogo","src:k1357","src:k801-1840-2","src:k801-1859-2","src:kurzweil1839","src:mta-diszmuvek274","src:muller1885-rohonc","src:nemeti-olvasasterve","src:nemeti1889-abc","src:ral-k1568","src:ral115-1841","src:ral142-1840","src:ral171-1839","src:ral218219-1840","src:ral232-1841","src:ral270-1840","src:ral307-1840","src:ral31-1838","src:ral36-1841","src:ral50-1840","src:ral72-1840","src:ral97-1839","src:reali2216","src:realms80","src:soproni-vegyes4r63","src:toldy-levtarcaja-realms","src:toldy1839-mayo12","src:toldy1839-mayo20","src:toldy1840-nov12","src:tort215a","src:tort223"]}
 {"clave":"lugar:rohonc","ids":["rel:14"]}
 {"clave":"lugar:torony","ids":["evt:1571:carta-porhocs"]}
 {"clave":"lugar:viena","ids":["evt:1743:catalogo","evt:1838:nagy-aviso-viena"]}
@@ -127,7 +127,7 @@
 {"clave":"src:catpozsony1795","ids":["af:1795:catalogo"]}
 {"clave":"src:catvienna1805","ids":["af:1805:catalogo"]}
 {"clave":"src:codice-k114-catalogo","ids":["rel:2"]}
-{"clave":"src:czinege2024","ids":["af:1840:czinege-receso-reuniones"]}
+{"clave":"src:czinege2024","ids":["af:1840:czinege-receso-reuniones","af:1843:palatino-devuelve-actas"]}
 {"clave":"src:evkonyv-vi","ids":["af:1840:evkonyv-vi-regimen"]}
 {"clave":"src:evkonyv1842v","ids":["af:1840:evkonyv-adquisiciones","af:1840:evkonyv-informe","af:1840:evkonyv-reglas","af:1840:evkonyv-sesiones"]}
 {"clave":"src:fischer1889","ids":["rel:1889-fischer-k114","rel:fischer-toldy1852"]}
@@ -142,7 +142,7 @@
 {"clave":"src:gussing4-229","ids":["af:gussing:4-229"]}
 {"clave":"src:gussing4-263","ids":["af:1544:gussing-matthaeus","af:1563:gussing-mayken","rel:gussing-mayken"]}
 {"clave":"src:gussing5-63","ids":["af:gussing:5-63-libro","af:gussing:5-63-propiedad","ni:gussing5-63-k114","rel:gussing5-63-batthyany"]}
-{"clave":"src:informe1841","ids":["af:1841:informe-fecha"]}
+{"clave":"src:informe1841","ids":["af:1840:informe1841-22-sesiones","af:1840:informe1841-505-59-gastos","af:1841:informe-fecha"]}
 {"clave":"src:k1357","ids":["af:1840:k1357-plenario","ni:k1357-k1393"]}
 {"clave":"src:k801-1840-2","ids":["af:1840:k801-agradecimiento","rel:1840:ral218219-k801"]}
 {"clave":"src:k801-1859-2","ids":["af:1859:k801-faltantes"]}
@@ -225,6 +225,7 @@
 {"clave":"src:soproni-vegyes4r63","ids":["af:1841:soproni-material","af:1841:soproni-posesion","rel:soproni-literati"]}
 {"clave":"src:strattmann263","ids":["af:strattmann:entradas","af:strattmann:fechas","af:strattmann:volumenes"]}
 {"clave":"src:tarsalkodo1840","ids":["af:1840:tarsalkodo-informe","af:1840:tarsalkodo-otras-piezas"]}
+{"clave":"src:toldy-levtarcaja-realms","ids":["af:2026:toldy-levtarcaja-59-unidades"]}
 {"clave":"src:toldy1839-mayo12","ids":["af:1839:toldy-mayo12","af:1992:k801-nota29"]}
 {"clave":"src:toldy1839-mayo20","ids":["af:1839:ral61-fecha-firma","ni:ral61-k114","rel:ral61-biblioteca"]}
 {"clave":"src:toldy1840-nov12","ids":["af:1840:k166-ficha","af:1840:toldy-nov12-reanudacion"]}

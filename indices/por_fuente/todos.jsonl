@@ -23,7 +23,7 @@
 {"clave":"src:catvienna1805","ids":["cat:viena1805","cov:viena1805:sin"]}
 {"clave":"src:codice-k114-catalogo","ids":["af:1973:csapodi-filigranas","af:1973:csapodi-mf1173","af:1973:csapodi-ms884","af:1973:csapodi-reclasificacion","af:catalogo:224","af:signatura:antigua","ni:ms884-k114","obj:k114","rel:1","rel:2","rel:nemeti-ms884-estudio"]}
 {"clave":"src:csanak1992","ids":["af:1846:szabo-jozsef-prestamo-k114","af:1992:k1393-nota15","af:1992:k801-nota29","cov:1992:csanak-prestamo","rel:1846:k114-k1398","src:actas-k1398"]}
-{"clave":"src:czinege2024","ids":["af:1840:czinege-receso-reuniones","af:1840:toldy-nov12-reanudacion","af:2024:czinege-intervalo-k1393-k1394","cov:2024:czinege-carta49","src:actas-k1394","src:toldy1840-nov12"]}
+{"clave":"src:czinege2024","ids":["af:1840:czinege-receso-reuniones","af:1840:toldy-nov12-reanudacion","af:1843:palatino-devuelve-actas","af:2024:czinege-intervalo-k1393-k1394","cov:2024:czinege-carta49","src:actas-k1394","src:toldy1840-nov12"]}
 {"clave":"src:eleveltar-archivum-palatinale","ids":["cov:eleveltar:bloqueo"]}
 {"clave":"src:ertesito1840","ids":["af:1840:ertesito:kadan","cov:1840:ertesito:visual"]}
 {"clave":"src:evkonyv-vi","ids":["af:1840:evkonyv-vi-regimen","cov:evkonyv6:texto"]}
@@ -52,7 +52,7 @@
 {"clave":"src:hursan2023","ids":["af:1743:evangelistas","af:1743:imadsag-variante","af:1743:pia-exercitia","ent:1743:evangelistas","ent:1743:pia-exercitia","ni:1743-evangelistas-k114","ni:1743-exercitia-k114","rel:1743-evangelistas","rel:1743-exercitia"]}
 {"clave":"src:hursan2024axis","ids":["af:1795:catalogo","af:1805:catalogo","src:catpozsony1795","src:catvienna1805"]}
 {"clave":"src:hursan2025","ids":["af:1743:89mss","af:1743:imadsag","af:1743:sid","af:1746:cajas","af:1746:comparabilidad-contignatio","af:1746:fecha-aproximada","af:1752:cinco-y-tres","af:1752:moreri-concordancia","af:1752:teologia-carta","af:1752:teologia-catalogo","af:1756:orden-kormend","af:1813:etiqueta-kisber","af:1817:forgach","af:1817:kezai","af:1817:kolinovits","af:strattmann:entradas","af:strattmann:fechas","af:strattmann:volumenes","cat:1743:viena","cat:strattmann263","cov:hursan2025:texto","dig:hursan2025","ent:1743:sid41","ent:1813:forgach","ent:1813:kezai","ent:1813:kolinovits","evt:1743:catalogo","evt:1817:traslado-kisber-rohonc","rel:10","rel:3","rel:4","rel:5","rel:6","rel:7","rel:8","rel:9","src:mta-diszmuvek274","src:p1313-lad21-29","src:p1313-lad21-30","src:strattmann263","src:toldy1839-mayo20"]}
-{"clave":"src:informe1841","ids":["af:1841:informe-fecha"]}
+{"clave":"src:informe1841","ids":["af:1840:informe1841-22-sesiones","af:1840:informe1841-505-59-gastos","af:1841:informe-fecha"]}
 {"clave":"src:ivanyi1983-hiller","ids":["af:1571:19368-extracto","af:1571:19369-reclamacion","af:1571:19370-tratado","af:hiller:19369-no-identidad","af:hiller:19372-saldo","af:hiller:19376-recalculo","af:hiller:19376-total","af:hiller:19376-tractetlein","rel:hiller-19370","rel:hiller-19376"]}
 {"clave":"src:jelenkor1840-1","ids":["af:1840:jelenkor:biblioteca","cov:1840:jelenkor1:inventario","cov:1840:jelenkor1:visual"]}
 {"clave":"src:jelenkor1840-2","ids":["af:1840:jelenkor-objetos-separados","af:1840:jelenkor-salterio","af:1840:jelenkor:carbo","af:1840:jelenkor:tarsalkodo","af:1840:jelenkor:turocz","cov:1840:jelenkor2:inventario","cov:1840:jelenkor2:visual"]}
@@ -161,6 +161,7 @@
 {"clave":"src:szazadunk1840","ids":["af:1840:szazadunk-nemes","cov:szazadunk1840:visual"]}
 {"clave":"src:tarsalkodo1840","ids":["af:1840:tarsalkodo-informe","af:1840:tarsalkodo-otras-piezas"]}
 {"clave":"src:terbe2010","ids":["af:1549:3839-idioma","af:1549:3839-perhocz","af:1568:3959-fila-vacia","af:1568:4015-copia","af:1569:3985-lengua","af:1569:4014-libros","af:1570:4026-cedula","af:1571:108143-restauracion","af:1572:4089-arca","af:deak:108137","af:deak:108143","af:deak:3960","af:deak:3992","af:deak:3993","af:deak:4035","af:deak:4058","af:fecha-v29:edicion:3777","af:fecha-v29:edicion:3901","af:fecha-v29:edicion:3903","af:fecha-v29:edicion:3933","af:fecha-v29:edicion:3983-a","af:fecha-v29:edicion:4015","af:fecha-v29:edicion:4067","af:fecha-v29:edicion:4068","af:fecha-v29:edicion:4109","cov:terbe2010:257","ni:balas-balazs","rel:balas-108137","rel:balas-108143","rel:balas-3960","rel:balas-3992","rel:balas-3993","rel:balas-4035","rel:balas-4058","src:p1314-108137","src:p1314-108143","src:p1314-3777","src:p1314-3901","src:p1314-3903","src:p1314-3933","src:p1314-3959","src:p1314-3960","src:p1314-3983-a","src:p1314-3985","src:p1314-3992","src:p1314-3993","src:p1314-4015","src:p1314-4035","src:p1314-4058","src:p1314-4067","src:p1314-4068","src:p1314-4089","src:p1314-4109"]}
+{"clave":"src:toldy-levtarcaja-realms","ids":["af:2026:toldy-levtarcaja-59-unidades"]}
 {"clave":"src:toldy1839-mayo12","ids":["cov:k801:toldy"]}
 {"clave":"src:toldy1839-mayo20","ids":["af:1839:ral61-cajas","af:1839:ral61-fecha-firma","af:1839:ral61-kisber","af:1839:ral61-no-individualiza-k114","af:1839:ral61-rohonc","cov:ral61","ni:ral61-k114","rel:ral61-biblioteca"]}
 {"clave":"src:toldy1840-nov12","ids":["af:1840:k166-ficha"]}
