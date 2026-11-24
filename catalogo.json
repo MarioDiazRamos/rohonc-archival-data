@@ -101,7 +101,7 @@
         ],
         "fuentes": [
           {
-            "bytes": 65030,
+            "bytes": 65110,
             "cantidad": 191,
             "prefijo": "",
             "ruta": "datos/fuentes/todos.jsonl"
@@ -159,7 +159,7 @@
         ],
         "por_entidad": [
           {
-            "bytes": 25952,
+            "bytes": 25971,
             "cantidad": 239,
             "prefijo": "",
             "ruta": "indices/por_entidad/todos.jsonl"
@@ -183,7 +183,7 @@
         ],
         "por_periodo": [
           {
-            "bytes": 15768,
+            "bytes": 15786,
             "cantidad": 255,
             "prefijo": "",
             "ruta": "indices/por_periodo/todos.jsonl"
