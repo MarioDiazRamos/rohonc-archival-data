@@ -13,8 +13,10 @@
 {"clave":"evt:1885:julg","ids":["rel:1885-julg-k114"]}
 {"clave":"obj:anexos1571","ids":["rel:1571:anexos-carta","rel:1571:escritura-k114"]}
 {"clave":"obj:k114","ids":["rel:1","rel:1846:k114-k1398","rel:2","rel:k114-rohonc-modern"]}
+{"clave":"per:baranyai-janos-1574","ids":["rel:baranyai-podturen"]}
 {"clave":"per:batthyany-kristof","ids":["rel:1562-kristof-emericus"]}
 {"clave":"per:paulus-presbyter-toron","ids":["rel:1562-paulus-emericus"]}
+{"clave":"per:porhocs-mark","ids":["rel:mark-porhocs-kristof"]}
 {"clave":"per:stephanus-leporinus","ids":["rel:1562-leporinus-emericus"]}
 {"clave":"src:a1746-iii","ids":["rel:a1746-218219"]}
 {"clave":"src:a695","ids":["rel:a695-kisber","rel:a695-rohonc"]}
@@ -31,6 +33,9 @@
 {"clave":"src:gussing3-188","ids":["rel:gussing3-188-batthyany"]}
 {"clave":"src:gussing4-263","ids":["rel:gussing-mayken","rel:gussing4-263-batthyany"]}
 {"clave":"src:gussing5-63","ids":["rel:gussing5-63-batthyany"]}
+{"clave":"src:ivanyi1990-1550-12-13","ids":["rel:pomagaics-25-mark"]}
+{"clave":"src:ivanyi1990-1551-01-09","ids":["rel:pomagaics-27-mark"]}
+{"clave":"src:ivanyi1990-1551-02-05","ids":["rel:pomagaics-28-mark"]}
 {"clave":"src:ivanyi1990-1551-02-24","ids":["rel:1551-thoron-michael"]}
 {"clave":"src:ludolphus1495-fides","ids":["rel:ludolphus-fides-gussing"]}
 {"clave":"src:nemeti-olvasasterve","ids":["rel:nemeti-plan-k114"]}

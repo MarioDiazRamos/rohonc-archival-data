@@ -2,6 +2,7 @@
 {"clave":"colec:kisber","ids":["rel:9","rel:a695-kisber"]}
 {"clave":"colec:rohonc","ids":["rel:10","rel:11","rel:7","rel:8","rel:a695-rohonc","rel:k114-rohonc-modern","rel:ral61-biblioteca"]}
 {"clave":"inst:mta-kik","ids":["rel:1","rel:15","rel:16","rel:17"]}
+{"clave":"lugar:podturen-murakoz","ids":["rel:baranyai-podturen"]}
 {"clave":"lugar:rohonc","ids":["rel:14"]}
 {"clave":"obj:k114","ids":["rel:12","rel:13","rel:1571:escritura-k114","rel:1885-julg-k114","rel:1889-fischer-k114","rel:nemeti-abc-k114","rel:nemeti-ms884-estudio","rel:nemeti-plan-k114"]}
 {"clave":"per:andreas-mayken","ids":["rel:gussing-mayken"]}
@@ -9,6 +10,7 @@
 {"clave":"per:batthyany-adam","ids":["rel:batthyany1644-adam"]}
 {"clave":"per:batthyany-boldizsar","ids":["rel:gussing2-170-batthyany","rel:gussing20-13b-batthyany","rel:gussing3-188-batthyany","rel:gussing4-263-batthyany","rel:gussing5-63-batthyany"]}
 {"clave":"per:batthyany-gusztav","ids":["rel:ral31-gusztav"]}
+{"clave":"per:batthyany-kristof","ids":["rel:mark-porhocs-kristof"]}
 {"clave":"per:elias-corvinus","ids":["rel:8099-elias"]}
 {"clave":"per:emericus-toron","ids":["rel:1562-kristof-emericus","rel:1562-leporinus-emericus","rel:1562-paulus-emericus"]}
 {"clave":"per:erhardt-hiller","ids":["rel:hiller-19370","rel:hiller-19376"]}
@@ -18,6 +20,7 @@
 {"clave":"per:miklos-deak-1571","ids":["rel:31226-miklos"]}
 {"clave":"per:nagy-karoly","ids":["rel:1838:oferta-delegado-nagy","rel:tort223-nagy"]}
 {"clave":"per:nemesy-janos","ids":["rel:nemesy-ral232"]}
+{"clave":"per:porhocs-mark","ids":["rel:pomagaics-25-mark","rel:pomagaics-27-mark","rel:pomagaics-28-mark"]}
 {"clave":"per:sibrik-matyas","ids":["rel:31226-sibrik"]}
 {"clave":"per:svetkovics-katalin","ids":["rel:3839-svetkovics"]}
 {"clave":"per:zrinyi-gyorgy","ids":["rel:53580-zrinyi"]}

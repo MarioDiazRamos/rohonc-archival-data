@@ -45,6 +45,7 @@
 {"fuente_id":"src:terbe2010","id":"rel:balas-3993","objeto_id":"per:balas-deak","predicado":"menciona_nombre_en_transcripcion","sujeto_id":"src:p1314-3993","tipo":"relaciones"}
 {"fuente_id":"src:terbe2010","id":"rel:balas-4035","objeto_id":"per:balas-deak","predicado":"menciona_nombre_en_transcripcion","sujeto_id":"src:p1314-4035","tipo":"relaciones"}
 {"fuente_id":"src:terbe2010","id":"rel:balas-4058","objeto_id":"per:balas-deak","predicado":"menciona_nombre_en_transcripcion","sujeto_id":"src:p1314-4058","tipo":"relaciones"}
+{"fuente_id":"src:koppany2015-kastely","id":"rel:baranyai-podturen","objeto_id":"lugar:podturen-murakoz","predicado":"administracion_de_castillo_segun_estudio","sujeto_id":"per:baranyai-janos-1574","tipo":"relaciones"}
 {"fuente_id":"src:koltai2002","id":"rel:batthyany1644-adam","objeto_id":"per:batthyany-adam","predicado":"inventario_de_libros_de","sujeto_id":"src:p1322-1644","tipo":"relaciones"}
 {"fuente_id":"src:monok2004-batthyany","id":"rel:comestor-paderborn-gussing","objeto_id":"src:gussing3-188","predicado":"ejemplar_distinto_de_la_misma_edicion_catalogada","sujeto_id":"src:comestor1503-paderborn","tipo":"relaciones"}
 {"fuente_id":"src:ivanyi1947-korrektura","id":"rel:corvinus1577-continuidad","objeto_id":"src:p1314-8099","predicado":"continuidad_del_encargo_segun_ivanyi","sujeto_id":"src:corvinus1577-09-27","tipo":"relaciones"}
@@ -62,11 +63,15 @@
 {"fuente_id":"src:catalogo1984","id":"rel:koos-ral50","objeto_id":"per:koos-karoly","predicado":"expediente_donacion_de","sujeto_id":"src:ral50-1840","tipo":"relaciones"}
 {"fuente_id":"src:catalogo1984","id":"rel:literati-ral115","objeto_id":"per:literati-nemes","predicado":"lista_de_libros_ofrecidos_por","sujeto_id":"src:ral115-1841","tipo":"relaciones"}
 {"fuente_id":"src:monok2004-batthyany","id":"rel:ludolphus-fides-gussing","objeto_id":"src:gussing20-13b","predicado":"ejemplar_distinto_de_la_misma_edicion_catalogada","sujeto_id":"src:ludolphus1495-fides","tipo":"relaciones"}
+{"fuente_id":"src:ivanyi1990-reforma","id":"rel:mark-porhocs-kristof","objeto_id":"per:batthyany-kristof","predicado":"servidor_segun_carta","sujeto_id":"per:porhocs-mark","tipo":"relaciones"}
 {"fuente_id":"src:catalogo1984","id":"rel:nemesy-ral232","objeto_id":"per:nemesy-janos","predicado":"noticia_de_envio_de","sujeto_id":"src:ral232-1841","tipo":"relaciones"}
 {"fuente_id":"src:toth1899","id":"rel:nemeti-abc-k114","objeto_id":"obj:k114","predicado":"estudio_historico_sobre","sujeto_id":"src:nemeti1889-abc","tipo":"relaciones"}
 {"fuente_id":"src:codice-k114-catalogo","id":"rel:nemeti-ms884-estudio","objeto_id":"obj:k114","predicado":"estudio_historico_sobre","sujeto_id":"src:nemeti1889-abc","tipo":"relaciones"}
 {"fuente_id":"src:toth1899","id":"rel:nemeti-plan-k114","objeto_id":"obj:k114","predicado":"estudio_historico_sobre","sujeto_id":"src:nemeti-olvasasterve","tipo":"relaciones"}
 {"fuente_id":"src:monok2004-batthyany","id":"rel:pinder-emory-gussing","objeto_id":"src:gussing4-263","predicado":"ejemplar_distinto_de_la_misma_edicion_de_1507","sujeto_id":"src:pinder1507-emory","tipo":"relaciones"}
+{"fuente_id":"src:ivanyi1990-reforma","id":"rel:pomagaics-25-mark","objeto_id":"per:porhocs-mark","predicado":"menciona_a","sujeto_id":"src:ivanyi1990-1550-12-13","tipo":"relaciones"}
+{"fuente_id":"src:ivanyi1990-reforma","id":"rel:pomagaics-27-mark","objeto_id":"per:porhocs-mark","predicado":"menciona_a","sujeto_id":"src:ivanyi1990-1551-01-09","tipo":"relaciones"}
+{"fuente_id":"src:ivanyi1990-reforma","id":"rel:pomagaics-28-mark","objeto_id":"per:porhocs-mark","predicado":"menciona_a","sujeto_id":"src:ivanyi1990-1551-02-05","tipo":"relaciones"}
 {"fuente_id":"src:vorosmarty1977-t16","id":"rel:ral142-edicion1977","objeto_id":"src:vorosmarty1977-t16","predicado":"texto_publicado_en","sujeto_id":"src:ral142-1840","tipo":"relaciones"}
 {"fuente_id":"src:ral307-1840","id":"rel:ral307-a695","objeto_id":"src:a695","predicado":"reproducido_en","sujeto_id":"src:ral307-1840","tipo":"relaciones"}
 {"fuente_id":"src:repertorio-ai9","id":"rel:ral307-n24-ruta","objeto_id":"src:mnl-ol-n24","predicado":"ruta_de_busqueda_no_recepcion","sujeto_id":"src:ral307-1840","tipo":"relaciones"}
