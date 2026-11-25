@@ -62,6 +62,7 @@
 {"clase":"persona","id":"per:christoph-purgkhshtall","nombre":"Christoph von Purgkhshtall","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:christoph-reuter","nombre":"Christoph Reuter","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:csenthy-tamas","nombre":"Csenthy Tamás","tipo":"autoridades","variantes":["Chyenthy Tamás"]}
+{"clase":"persona","id":"per:drenoczy-istvan","nombre":"Drenóczy István (deák)","nota":"Remitente según fichas MNL; identificación con el jurista Stjepan Drenovački pendiente de cotejo independiente.","tipo":"autoridades","variantes":["István Drenóczy"]}
 {"clase":"persona","id":"per:elias-corvinus","nombre":"Elias Corvinus","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:emericus-toron","nombre":"Emericus literatus","tipo":"autoridades","variantes":["Imre deák"]}
 {"clase":"persona","id":"per:erhardt-hiller","nombre":"Erhardt Hiller","tipo":"autoridades","variantes":["Erhard Hiller"]}
