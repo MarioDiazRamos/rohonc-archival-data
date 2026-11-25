@@ -3,12 +3,15 @@
 {"clave":"colec:kisber","ids":["rel:9","rel:a695-kisber"]}
 {"clave":"colec:rohonc","ids":["rel:10","rel:11","rel:7","rel:8","rel:a695-rohonc","rel:k114-rohonc-modern","rel:ral61-biblioteca"]}
 {"clave":"inst:mta-kik","ids":["rel:1","rel:15","rel:16","rel:17"]}
+{"clave":"lugar:csatar","ids":["rel:ferenc-csatar"]}
 {"clave":"lugar:eisenstadt","ids":["rel:konzul-eisenstadt"]}
 {"clave":"lugar:gussing","ids":["rel:barazowich-gussing"]}
+{"clave":"lugar:jak","ids":["rel:jak-ferenc","rel:jak-gombos"]}
+{"clave":"lugar:monyorokerek","ids":["rel:jakab-monyorokerek"]}
 {"clave":"lugar:podturen-murakoz","ids":["rel:baranyai-podturen"]}
 {"clave":"lugar:regensburg","ids":["rel:konzul-regensburg"]}
 {"clave":"lugar:rohonc","ids":["rel:14"]}
-{"clave":"lugar:urach","ids":["rel:urach-hans-hartwach","rel:urach-jakob-salb","rel:urach-jovan-malesevac","rel:urach-matija-popovic","rel:urach-oswald-gruppenbach","rel:urach-paulus-feringer","rel:urach-simon-auer"]}
+{"clave":"lugar:urach","ids":["rel:juricic-urach","rel:urach-hans-hartwach","rel:urach-jakob-salb","rel:urach-jovan-malesevac","rel:urach-matija-popovic","rel:urach-oswald-gruppenbach","rel:urach-paulus-feringer","rel:urach-simon-auer"]}
 {"clave":"obj:k114","ids":["rel:12","rel:13","rel:1571:escritura-k114","rel:1885-julg-k114","rel:1889-fischer-k114","rel:nemeti-abc-k114","rel:nemeti-ms884-estudio","rel:nemeti-plan-k114"]}
 {"clave":"per:adam-baltazar-krcelic","ids":["rel:krcelic-catecismo"]}
 {"clave":"per:andreas-mayken","ids":["rel:gussing-mayken"]}
@@ -25,8 +28,11 @@
 {"clave":"per:elias-corvinus","ids":["rel:8099-elias"]}
 {"clave":"per:emericus-toron","ids":["rel:1562-kristof-emericus","rel:1562-leporinus-emericus","rel:1562-paulus-emericus"]}
 {"clave":"per:erhardt-hiller","ids":["rel:hiller-19370","rel:hiller-19376"]}
+{"clave":"per:fabian-kirchperger","ids":["rel:trubar1562-fabian-kirchperger"]}
 {"clave":"per:ferenc-ispan-gussing","ids":["rel:4022-ferenc-ispan-gussing","rel:4056-ferenc-ispan-gussing","rel:ferenc-ispan-hijo"]}
+{"clave":"per:ferenc-nadasdy-1588","ids":["rel:3141-nadasdy"]}
 {"clave":"per:ferenc-torok-referido-1570","ids":["rel:4044-ferenc-torok-referido-1570"]}
+{"clave":"per:filip-gugger","ids":["rel:trubar1562-filip-gugger"]}
 {"clave":"per:georg-gruppenbach","ids":["rel:urach-cuenta-15"]}
 {"clave":"per:grgur-stjepanic","ids":["rel:kotromanic1329-grgur"]}
 {"clave":"per:grgur-vlahovic","ids":["rel:urach-certificacion-grgur-vlahovic"]}
@@ -34,8 +40,10 @@
 {"clave":"per:hijo-ferenc-ispan-1570","ids":["rel:4022-hijo-ferenc-ispan-1570"]}
 {"clave":"per:istvan-akacs","ids":["rel:4102-istvan-akacs"]}
 {"clave":"per:ivan-drenovacki","ids":["rel:drenovacki-ivan"]}
+{"clave":"per:jakab-tiszttarto-monyorokerek","ids":["rel:4046-jakab"]}
 {"clave":"per:janos-zalai-referido-1570","ids":["rel:4044-janos-zalai-referido-1570"]}
 {"clave":"per:joven-croata-9082","ids":["rel:9082-joven-lectura"]}
+{"clave":"per:juraj-cvecic","ids":["rel:juricic-cvecic","rel:trubar1562-juraj-cvecic"]}
 {"clave":"per:juraj-dornovitsch","ids":["rel:dornovitsch-recomendacion"]}
 {"clave":"per:juraj-drenovacki","ids":["rel:drenovacki-erdody"]}
 {"clave":"per:juraj-miksic","ids":["rel:urach-certificacion-juraj-miksic"]}
@@ -52,7 +60,7 @@
 {"clave":"per:nikola-frankopan-trzacki","ids":["rel:vlahovic-frankopan"]}
 {"clave":"per:oswald-gruppenbach","ids":["rel:urach-cuenta-57"]}
 {"clave":"per:paulus-feringer","ids":["rel:urach-cuenta-16"]}
-{"clave":"per:petar-erdody-ii","ids":["rel:ivan-drenovacki-erdody"]}
+{"clave":"per:petar-erdody-ii","ids":["rel:ivan-drenovacki-erdody","rel:trubar1562-petar-erdody-ii"]}
 {"clave":"per:philipp-melanchthon","ids":["rel:drugnic-melanchthon"]}
 {"clave":"per:porhocs-mark","ids":["rel:pomagaics-25-mark","rel:pomagaics-27-mark","rel:pomagaics-28-mark"]}
 {"clave":"per:pribisav-dijak","ids":["rel:kotromanic1329-pribisav"]}
@@ -66,7 +74,7 @@
 {"clave":"per:svetkovics-katalin","ids":["rel:3839-svetkovics"]}
 {"clave":"per:tamas-nadasdy-1498","ids":["rel:drugnic-nadasdy"]}
 {"clave":"per:zrinyi-gyorgy","ids":["rel:53580-zrinyi"]}
-{"clave":"per:zrinyi-miklos-1508","ids":["rel:desic-zrinyi","rel:dorica-miklos-padre","rel:jak-zrinyi-dominio","rel:uat8-4-101-zrinyi"]}
+{"clave":"per:zrinyi-miklos-1508","ids":["rel:desic-zrinyi","rel:dorica-miklos-padre","rel:jak-zrinyi-dominio","rel:trubar1562-zrinyi-miklos-1508","rel:uat8-4-101-zrinyi"]}
 {"clave":"src:a695","ids":["rel:ral307-a695"]}
 {"clave":"src:actas-k1393","ids":["rel:1840:carbo-actas","rel:ral97-k1393-tema"]}
 {"clave":"src:actas-k1398","ids":["rel:1846:k114-k1398"]}
@@ -86,6 +94,7 @@
 {"clave":"src:ral218219-1840","ids":["rel:a1746-218219"]}
 {"clave":"src:remete-sentencia1574","ids":["rel:glavina-remete"]}
 {"clave":"src:toldy1852-irodalom","ids":["rel:fischer-toldy1852"]}
+{"clave":"src:uat8-3-54","ids":["rel:nuk-ms1061-17-trubar","rel:nuk-ms1062-a121-trubar","rel:si-as2-92-54-7-1-trubar","rel:stuttgart-trubar1562-copia-trubar"]}
 {"clave":"src:urach-sopron-entrada-1","ids":["rel:urach-sopron-1"]}
 {"clave":"src:urach-sopron-entrada-2","ids":["rel:urach-sopron-2"]}
 {"clave":"src:urach-sopron-entrada-33","ids":["rel:urach-sopron-33"]}

@@ -77,10 +77,12 @@
 {"clave":"src:gussing5-63","ids":["cov:gussing5-63"]}
 {"clave":"src:hasznos1840-1","ids":["cov:autotexto-20261123:hasznos1840-1","dig:hasznos1840-1"]}
 {"clave":"src:hasznos1840-2","ids":["af:1840:hasznos:jerney","cov:1840:hasznos:visual","cov:autotexto-20261123:hasznos1840-2","dig:hasznos1840-2"]}
+{"clave":"src:hbl-cvecic","ids":["af:cvecic-competencias"]}
 {"clave":"src:hbl-drenovacki1993","ids":["af:drenovacki-dornovitsch-identidad","af:drenovacki1563-alfabetos","af:drenovacki1563-urach","evt:1563:drenovacki-recomendacion","rel:drenovacki-erdody","rel:drenovacki-ivan","rel:drenovacki-konzul","src:drenovacki-1563-01-20","src:drenovacki-1563-11-14","src:drenovacki-1563-12-10"]}
 {"clave":"src:hbl-drugnic1993","ids":["af:drugnic-zelin-atribucion","af:drugnic1557-recomendacion","evt:1557:drugnic-recomendacion","rel:drugnic-collinus","rel:drugnic-melanchthon","rel:drugnic-nadasdy","src:melanchthon1557-drugnic"]}
 {"clave":"src:hbl-erdody-petar-ii","ids":["af:erdody1563-distribucion","rel:ivan-drenovacki-erdody"]}
 {"clave":"src:hbl-glavina1998","ids":["af:glavina-reediciones"]}
+{"clave":"src:hbl-juricic","ids":["af:juricic1562-urach","rel:juricic-cvecic","rel:juricic-urach"]}
 {"clave":"src:hirnok1840","ids":["af:1840:hirnok-biblioteca-batthyany","cov:autotexto-20261123:hirnok1840","dig:hirnok1840"]}
 {"clave":"src:honismeret2007-02","ids":["af:1840:k1393-k1394-corte-acotado","af:1841:k1394-jun14","af:1842:k1394-mar07","evt:1841:k1394-jun14"]}
 {"clave":"src:hursan2019catalogo","ids":["af:1752:envio-ocho-obras","src:p1317-1752-8obras"]}
@@ -135,6 +137,7 @@
 {"clave":"src:kotromanic1329-povelja","ids":["cov:kotromanic1329-povelja"]}
 {"clave":"src:kramaric2021-checo","ids":["af:urach-checo-resultado-negativo","af:urach-lenguas-traduccion","cov:kramaric2021-resumen"]}
 {"clave":"src:krcelic-catecismo-incompleto","ids":["cov:krcelic-catecismo-incompleto"]}
+{"clave":"src:kristo-makk-szegfu1974-toponimos","ids":["af:jak1221-jaak","cov:kristo1974-jak"]}
 {"clave":"src:krtis-fragmento","ids":["af:krtis-comestor-contexto"]}
 {"clave":"src:ktf-xii-1644","ids":["af:1780:gussing-copia","rel:gussing1780-copia","src:gussing1780-copia"]}
 {"clave":"src:kurzweil1839","ids":["cov:k801:kurzweil"]}
@@ -220,6 +223,7 @@
 {"clave":"src:p1314-2090","ids":["cov:p1314-2090"]}
 {"clave":"src:p1314-2091","ids":["cov:p1314-2091"]}
 {"clave":"src:p1314-31226","ids":["af:1571:31226","cov:p1314-31226","rel:31226-miklos","rel:31226-sibrik"]}
+{"clave":"src:p1314-3141","ids":["af:3141-jak-batthyany","cov:p1314-3141","rel:3141-nadasdy"]}
 {"clave":"src:p1314-3777","ids":["cov:fecha-v29:3777"]}
 {"clave":"src:p1314-3839","ids":["af:1549:3839-ficha","cov:3839:visual","evt:1549:svetkovics","rel:3839-svetkovics"]}
 {"clave":"src:p1314-3901","ids":["cov:fecha-v29:3901"]}
@@ -280,6 +284,7 @@
 {"clave":"src:sarbak2005-munich","ids":["af:munich582a-114r-ave","af:munich582a-114v-ave","cov:sarbak2005-ave","ni:munich582a-k114","src:munich582a"]}
 {"clave":"src:sisic1905-kormend","ids":["cov:sisic1905-kormend"]}
 {"clave":"src:sopron-lad12-m7-297","ids":["cov:sopron-lad12-m7-297"]}
+{"clave":"src:soros1912-apatsagok","ids":["cov:soros1912-jak"]}
 {"clave":"src:spiegel1840-1","ids":["af:1840:spiegel:erwiderung","af:1840:spiegel:handschriften","cov:1840:spiegel1:inventario","cov:1840:spiegel1:visual","cov:autotexto-20261123:spiegel1840-1","cov:spiegel-1840-1:sin-texto","dig:spiegel1840-1"]}
 {"clave":"src:spiegel1840-2","ids":["af:1840:spiegel:republicacion","cov:1840:spiegel2:inventario","cov:1840:spiegel2:visual","cov:autotexto-20261123:spiegel1840-2","cov:spiegel-1840-2:sin-texto","dig:spiegel1840-2"]}
 {"clave":"src:strattmann263","ids":["cat:strattmann263","cov:strattmann263"]}
@@ -287,9 +292,10 @@
 {"clave":"src:szabo1866","ids":["af:1866:szabo-atribucion-literati","af:1866:szabo-cita-jozsef1844","af:1866:szabo-custodia-academia","af:1866:szabo-examen-personal","cov:1866:szabo:texto"]}
 {"clave":"src:szazadunk1840","ids":["af:1840:szazadunk-nemes","cov:szazadunk1840:visual"]}
 {"clave":"src:szechenyi1840-ago13-k21037","ids":["cov:k21037:sin-original"]}
+{"clave":"src:szelestey-jak-cronica","ids":["af:jak1562-sucesion-abades","rel:ferenc-csatar","rel:jak-ferenc","rel:jak-gombos"]}
 {"clave":"src:tarsalkodo1840","ids":["af:1840:tarsalkodo-informe","af:1840:tarsalkodo-otras-piezas"]}
 {"clave":"src:teleki1840-jul08-k166173","ids":["cov:k166173:sin-original"]}
-{"clave":"src:terbe2010","ids":["af:1549:3839-idioma","af:1549:3839-perhocz","af:1568:3959-fila-vacia","af:1568:4015-copia","af:1569:3985-lengua","af:1569:4014-libros","af:1570:4026-cedula","af:1571:108143-restauracion","af:1572:4089-arca","af:4022-recomendacion-hijo","af:4044-torok-zalai","af:4045-envio-servidor","af:4046-servicios-viena","af:4047-cotejo-envio","af:4056-csenthy-ferenc","af:4102-chenchi-akacs","af:4102-composicion","af:9082-cotejo-cartas-junio","af:9082-hijo-ferenc-cotejo","af:9082-svetkovics-ujvar","af:csenthy-serie-nombres","af:deak:108137","af:deak:108143","af:deak:3960","af:deak:3992","af:deak:3993","af:deak:4035","af:deak:4058","af:fecha-v29:edicion:3777","af:fecha-v29:edicion:3901","af:fecha-v29:edicion:3903","af:fecha-v29:edicion:3933","af:fecha-v29:edicion:3983-a","af:fecha-v29:edicion:4015","af:fecha-v29:edicion:4067","af:fecha-v29:edicion:4068","af:fecha-v29:edicion:4109","cov:terbe2010-csenthy-20261124","cov:terbe2010:257","ni:balas-balazs","rel:4022-chenczi-tamas-referido","rel:4022-ferenc-ispan-gussing","rel:4022-hijo-ferenc-ispan-1570","rel:4044-ferenc-torok-referido-1570","rel:4044-janos-zalai-referido-1570","rel:4056-chenczi-tamas-referido","rel:4056-ferenc-ispan-gussing","rel:4102-chenczi-tamas-referido","rel:4102-istvan-akacs","rel:balas-108137","rel:balas-108143","rel:balas-3960","rel:balas-3992","rel:balas-3993","rel:balas-4035","rel:balas-4058","rel:chen-batthyany-servicio","rel:ferenc-ispan-hijo","src:abaffy1956-akacs","src:p1314-108137","src:p1314-108143","src:p1314-3777","src:p1314-3901","src:p1314-3903","src:p1314-3933","src:p1314-3959","src:p1314-3960","src:p1314-3983-a","src:p1314-3985","src:p1314-3992","src:p1314-3993","src:p1314-4015","src:p1314-4035","src:p1314-4044","src:p1314-4045","src:p1314-4046","src:p1314-4047","src:p1314-4056","src:p1314-4058","src:p1314-4067","src:p1314-4068","src:p1314-4089","src:p1314-4102","src:p1314-4109"]}
+{"clave":"src:terbe2010","ids":["af:1549:3839-idioma","af:1549:3839-perhocz","af:1568:3959-fila-vacia","af:1568:4015-copia","af:1569:3985-lengua","af:1569:4014-libros","af:1570:4026-cedula","af:1571:108143-restauracion","af:1572:4089-arca","af:4022-recomendacion-hijo","af:4044-torok-zalai","af:4045-envio-servidor","af:4046-jakab-monyorokerek","af:4046-servicios-viena","af:4047-cotejo-envio","af:4056-csenthy-ferenc","af:4102-chenchi-akacs","af:4102-composicion","af:9082-cotejo-cartas-junio","af:9082-hijo-ferenc-cotejo","af:9082-svetkovics-ujvar","af:csenthy-serie-nombres","af:deak:108137","af:deak:108143","af:deak:3960","af:deak:3992","af:deak:3993","af:deak:4035","af:deak:4058","af:fecha-v29:edicion:3777","af:fecha-v29:edicion:3901","af:fecha-v29:edicion:3903","af:fecha-v29:edicion:3933","af:fecha-v29:edicion:3983-a","af:fecha-v29:edicion:4015","af:fecha-v29:edicion:4067","af:fecha-v29:edicion:4068","af:fecha-v29:edicion:4109","cov:terbe2010-csenthy-20261124","cov:terbe2010:257","ni:balas-balazs","rel:4022-chenczi-tamas-referido","rel:4022-ferenc-ispan-gussing","rel:4022-hijo-ferenc-ispan-1570","rel:4044-ferenc-torok-referido-1570","rel:4044-janos-zalai-referido-1570","rel:4046-jakab","rel:4056-chenczi-tamas-referido","rel:4056-ferenc-ispan-gussing","rel:4102-chenczi-tamas-referido","rel:4102-istvan-akacs","rel:balas-108137","rel:balas-108143","rel:balas-3960","rel:balas-3992","rel:balas-3993","rel:balas-4035","rel:balas-4058","rel:chen-batthyany-servicio","rel:ferenc-ispan-hijo","rel:jakab-monyorokerek","src:abaffy1956-akacs","src:p1314-108137","src:p1314-108143","src:p1314-3777","src:p1314-3901","src:p1314-3903","src:p1314-3933","src:p1314-3959","src:p1314-3960","src:p1314-3983-a","src:p1314-3985","src:p1314-3992","src:p1314-3993","src:p1314-4015","src:p1314-4035","src:p1314-4044","src:p1314-4045","src:p1314-4046","src:p1314-4047","src:p1314-4056","src:p1314-4058","src:p1314-4067","src:p1314-4068","src:p1314-4089","src:p1314-4102","src:p1314-4109"]}
 {"clave":"src:thalloczy1906-banovina","ids":["cov:thalloczy1906-banovina"]}
 {"clave":"src:thalloczy1914-studien","ids":["cov:thalloczy1914-studien"]}
 {"clave":"src:toldy-levtarcaja-realms","ids":["af:2026:toldy-levtarcaja-59-unidades"]}
@@ -305,6 +311,7 @@
 {"clave":"src:tudomanytar1840-l4","ids":["af:1840:kisber-2060","af:1840:tudliteratura:carbo","af:1840:tudliteratura:coleccion","af:1840:tudliteratura:informe","af:1840:tudliteratura:koos","af:1840:tudliteratura:literati","af:1840:tudliteratura:szalay","cov:1840:tudliteratura:visual"]}
 {"clave":"src:turnische1606-microfilm","ids":["cov:turnische1606-microfilm"]}
 {"clave":"src:uat-inventario-digital","ids":["src:uat8-3","src:uat8-5-5","src:uat8-6-1","src:uat8-6a-1","src:uat8-6a-2"]}
+{"clave":"src:uat8-3-54","ids":["cov:uat8-3-54"]}
 {"clave":"src:uat8-4-101","ids":["cov:uat8-4-101","evt:1563:froehlich-zrinyi"]}
 {"clave":"src:uat8-4-77","ids":["cov:uat8-4-77"]}
 {"clave":"src:uat8-6-cuenta-14","ids":["cov:uat8-6-cuenta-14"]}
@@ -325,8 +332,10 @@
 {"clave":"src:urach-testimonio-kolaric","ids":["cov:urach-testimonio-kolaric"]}
 {"clave":"src:urach-testimonio-krajacic","ids":["cov:urach-testimonio-krajacic"]}
 {"clave":"src:vadas2022","ids":["af:ivanyi:subrayados-vadas2022"]}
+{"clave":"src:viabenedictina-jak","ids":["af:jak1562-fin-comunidad"]}
 {"clave":"src:virag2024-catalogacion","ids":["af:catalogo:ivanyi-transcripcion-2001","af:catalogo:observaciones-columna10"]}
 {"clave":"src:vodnik-urbarjih4","ids":["af:1606-podturen-identificacion","src:turnische1606-microfilm"]}
 {"clave":"src:vorosmarty1977-t16","ids":["af:1840:ral142-asamblea","af:1840:ral142-normas","cov:ral142:edicion","ni:ral142-k114","rel:ral142-edicion1977","src:ral142-1840"]}
+{"clave":"src:vrecko2015-pisma","ids":["af:trubar1562-distribucion","af:trubar1562-erdody-sacerdotes","af:trubar1562-gugger-cvecic","af:trubar1562-lengua-alfabeto","af:trubar1562-reclutamiento","af:trubar1562-traductores","cov:vrecko2015-carta27","rel:nuk-ms1061-17-trubar","rel:nuk-ms1062-a121-trubar","rel:si-as2-92-54-7-1-trubar","rel:stuttgart-trubar1562-copia-trubar","rel:trubar1562-fabian-kirchperger","rel:trubar1562-filip-gugger","rel:trubar1562-juraj-cvecic","rel:trubar1562-petar-erdody-ii","rel:trubar1562-zrinyi-miklos-1508","src:nuk-ms1061-17","src:nuk-ms1062-a121","src:si-as2-92-54-7-1","src:stuttgart-trubar1562-copia","src:uat8-3-54"]}
 {"clave":"src:zagar2021-urach","ids":["af:k114-hipotesis-alfabetos-20261124","af:k114-zagar-d-z-e-c-20261124","af:k114-zagar-observacion-20261124","af:urach-hartwach-auer","af:urach-salb-disenos","af:urach1561-correctores","af:zagar-criterios-ortograficos","af:zagar-d-triangular","af:zagar-e-c-cruciformes","af:zagar-kormend-a","af:zagar-variacion-de-registro","af:zagar-z-dz","af:zagar2021-fundicion","af:zagar2021-minusculas","af:zagar2021-modelos","af:zagar2021-ortografia","cov:zagar2021-ampliacion-d-z-20261124","cov:zagar2021-tablas","rel:urach-correctores","rel:urach-hans-hartwach","rel:urach-hartwach-auer","rel:urach-jakob-salb","rel:urach-jovan-malesevac","rel:urach-matija-popovic","rel:urach-simon-auer","src:poviest1942-bosna"]}
 {"clave":"src:zrinyi-religiosidad","ids":["af:1563-zrinyi-libros-urach"]}
