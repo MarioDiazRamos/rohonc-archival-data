@@ -96,6 +96,7 @@
 {"clave":"src:kotromanic1329-povelja","ids":["cov:kotromanic1329-povelja"]}
 {"clave":"src:kramaric2021-checo","ids":["cov:kramaric2021-resumen"]}
 {"clave":"src:krcelic-catecismo-incompleto","ids":["cov:krcelic-catecismo-incompleto"]}
+{"clave":"src:kristo-makk-szegfu1974-toponimos","ids":["cov:kristo1974-jak"]}
 {"clave":"src:kurzweil1839","ids":["cov:k801:kurzweil"]}
 {"clave":"src:lang2008-rohonc","ids":["cov:lang2008:referencias"]}
 {"clave":"src:loibersbeck-gussing","ids":["cov:loibersbeck-gussing-p33"]}
@@ -171,6 +172,7 @@
 {"clave":"src:p1314-2090","ids":["cov:p1314-2090"]}
 {"clave":"src:p1314-2091","ids":["cov:p1314-2091"]}
 {"clave":"src:p1314-31226","ids":["cov:p1314-31226"]}
+{"clave":"src:p1314-3141","ids":["cov:p1314-3141"]}
 {"clave":"src:p1314-3777","ids":["cov:fecha-v29:3777"]}
 {"clave":"src:p1314-3839","ids":["cov:3839:visual"]}
 {"clave":"src:p1314-3901","ids":["cov:fecha-v29:3901"]}
@@ -223,6 +225,7 @@
 {"clave":"src:sarbak2005-munich","ids":["cov:sarbak2005-ave"]}
 {"clave":"src:sisic1905-kormend","ids":["cov:sisic1905-kormend"]}
 {"clave":"src:sopron-lad12-m7-297","ids":["cov:sopron-lad12-m7-297"]}
+{"clave":"src:soros1912-apatsagok","ids":["cov:soros1912-jak"]}
 {"clave":"src:spiegel1840-1","ids":["cov:1840:spiegel1:inventario","cov:1840:spiegel1:visual","cov:autotexto-20261123:spiegel1840-1","cov:spiegel-1840-1:sin-texto"]}
 {"clave":"src:spiegel1840-2","ids":["cov:1840:spiegel2:inventario","cov:1840:spiegel2:visual","cov:autotexto-20261123:spiegel1840-2","cov:spiegel-1840-2:sin-texto"]}
 {"clave":"src:strattmann263","ids":["cov:strattmann263"]}
@@ -243,6 +246,7 @@
 {"clave":"src:tudomanytar1840-e8","ids":["cov:1840:tudertekezes:visual"]}
 {"clave":"src:tudomanytar1840-l4","ids":["cov:1840:tudliteratura:visual"]}
 {"clave":"src:turnische1606-microfilm","ids":["cov:turnische1606-microfilm"]}
+{"clave":"src:uat8-3-54","ids":["cov:uat8-3-54"]}
 {"clave":"src:uat8-4-101","ids":["cov:uat8-4-101"]}
 {"clave":"src:uat8-4-77","ids":["cov:uat8-4-77"]}
 {"clave":"src:uat8-6-cuenta-14","ids":["cov:uat8-6-cuenta-14"]}
@@ -263,4 +267,5 @@
 {"clave":"src:urach-testimonio-kolaric","ids":["cov:urach-testimonio-kolaric"]}
 {"clave":"src:urach-testimonio-krajacic","ids":["cov:urach-testimonio-krajacic"]}
 {"clave":"src:vorosmarty1977-t16","ids":["cov:ral142:edicion"]}
+{"clave":"src:vrecko2015-pisma","ids":["cov:vrecko2015-carta27"]}
 {"clave":"src:zagar2021-urach","ids":["cov:zagar2021-ampliacion-d-z-20261124","cov:zagar2021-tablas"]}

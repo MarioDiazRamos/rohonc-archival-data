@@ -57,6 +57,8 @@
 {"clave":"mnlvmlkflactamiscellanea15680221","ids":["src:koszeg-konzul-1568-02-21"]}
 {"clave":"mnlvmlkflactamiscellanea15680608","ids":["src:koszeg-konzul-1568-06-08"]}
 {"clave":"mnyelvt16r21","ids":["src:nemeti-olvasasterve"]}
+{"clave":"ms1061no17","ids":["src:nuk-ms1061-17"]}
+{"clave":"ms1062ano121","ids":["src:nuk-ms1062-a121"]}
 {"clave":"ms884","ids":["src:nemeti1889-abc"]}
 {"clave":"mtakikdiszmuvek274microfilmea19v","ids":["src:mta-diszmuvek274"]}
 {"clave":"mtakikvegyes4r63","ids":["src:soproni-vegyes4r63"]}
@@ -119,6 +121,7 @@
 {"clave":"p13142090","ids":["src:p1314-2090"]}
 {"clave":"p13142091","ids":["src:p1314-2091"]}
 {"clave":"p131431226","ids":["src:p1314-31226"]}
+{"clave":"p13143141","ids":["src:p1314-3141"]}
 {"clave":"p13143777","ids":["src:p1314-3777"]}
 {"clave":"p131438149","ids":["src:porhocs1571"]}
 {"clave":"p131438149anexos","ids":["obj:anexos1571"]}
@@ -172,9 +175,11 @@
 {"clave":"ralk80111885","ids":["src:muller1885-rohonc"]}
 {"clave":"registrobatthyanydelsigloxviparteipp43aby44a","ids":["src:ivanyi1990-1559-09-04"]}
 {"clave":"sias1087microfilm1021","ids":["src:turnische1606-microfilm"]}
+{"clave":"sias2iregistraturacaja92fasc5471","ids":["src:si-as2-92-54-7-1"]}
 {"clave":"sib16","ids":["ent:1743:evangelistas"]}
 {"clave":"sid40","ids":["ent:1743:pia-exercitia"]}
 {"clave":"sid41","ids":["ent:1743:sid41"]}
+{"clave":"sinsignaturaprecisadaenedicion","ids":["src:stuttgart-trubar1562-copia"]}
 {"clave":"tort223","ids":["src:tort223"]}
 {"clave":"tort2ret15a","ids":["src:tort215a"]}
 {"clave":"uat83","ids":["src:uat8-3"]}
@@ -192,3 +197,4 @@
 {"clave":"uat86no57","ids":["src:uat8-6-cuenta-57"]}
 {"clave":"uat86no80a","ids":["src:uat8-6-cuenta-80a"]}
 {"clave":"uat86no99","ids":["src:uat8-6-cuenta-99"]}
+{"clave":"uatviii3slavischerbucherdruckino54","ids":["src:uat8-3-54"]}
