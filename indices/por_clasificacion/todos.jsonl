@@ -14,6 +14,7 @@
 {"clave":"actividad_tipografica_atribuida","ids":["af:nedelisce-imprenta-segun-eleksikon"]}
 {"clave":"actividad_tipografica_referida","ids":["af:urach-hartwach-auer","af:urach-salb-disenos"]}
 {"clave":"actividad_y_trayectoria_referidas","ids":["af:juricic1562-urach"]}
+{"clave":"actuacion_juridica","ids":["af:varazdin-87-drenoczy","af:varazdin-88-drenoczy"]}
 {"clave":"acuerdo_academico","ids":["af:1840:a695-numismatica","evt:1840:carbo"]}
 {"clave":"acuerdo_citado","ids":["af:1843:k1394-156"]}
 {"clave":"administracion_de_castillo_segun_estudio","ids":["rel:baranyai-podturen"]}
@@ -84,7 +85,7 @@
 {"clave":"cargo_segun_lectura_comunicada","ids":["rel:jakab-monyorokerek"]}
 {"clave":"carta_academica_referida","ids":["src:teleki1840-jul08-k166173"]}
 {"clave":"carta_administrativa_referida","ids":["src:p1313-lad21-30"]}
-{"clave":"carta_archivistica","ids":["src:p1314-1509","src:p1314-1510","src:p1314-1511","src:p1314-3839","src:p1314-4014","src:p1314-4022","src:p1314-4026","src:p1314-4066","src:p1314-8099","src:p1314-9082"]}
+{"clave":"carta_archivistica","ids":["src:p1314-10883","src:p1314-10884","src:p1314-10890","src:p1314-10892","src:p1314-10901","src:p1314-1509","src:p1314-1510","src:p1314-1511","src:p1314-3839","src:p1314-4014","src:p1314-4022","src:p1314-4026","src:p1314-4066","src:p1314-8099","src:p1314-9082"]}
 {"clave":"carta_archivistica_digitalizada","ids":["src:ral270-1840"]}
 {"clave":"carta_archivistica_referida","ids":["src:corvinus1577-09-27","src:drenovacki-1563-01-20","src:drenovacki-1563-11-14","src:drenovacki-1563-12-10","src:ivanyi1990-1550-12-13","src:ivanyi1990-1551-01-09","src:ivanyi1990-1551-02-05","src:ivanyi1990-1551-02-24","src:ivanyi1990-1551-09-17","src:ivanyi1990-1558-10-10","src:ivanyi1990-1562-10-20","src:ivanyi1990-1563-06-25","src:koszeg-konzul-1567-10-09","src:koszeg-konzul-1567-11-07","src:koszeg-konzul-1567-11-20","src:koszeg-konzul-1567-11-30","src:koszeg-konzul-1567-12-06","src:koszeg-konzul-1568-01-28","src:koszeg-konzul-1568-02-21","src:koszeg-konzul-1568-06-08","src:melanchthon1557-drugnic","src:muller1885-rohonc","src:p1314-2057","src:p1314-2058","src:p1314-2059","src:p1314-2060","src:p1314-2061","src:p1314-2062","src:p1314-2063","src:p1314-2064","src:p1314-2065","src:p1314-2066","src:p1314-2067","src:p1314-2068","src:p1314-2069","src:p1314-2070","src:p1314-2071","src:p1314-2072","src:p1314-2073","src:p1314-2074","src:p1314-2075","src:p1314-2076","src:p1314-2077","src:p1314-2078","src:p1314-2079","src:p1314-2080","src:p1314-2081","src:p1314-2082","src:p1314-2083","src:p1314-2084","src:p1314-2085","src:p1314-2086","src:p1314-2087","src:p1314-2088","src:p1314-2089","src:p1314-2090","src:p1314-2091","src:p1314-31226","src:p1314-3141","src:p1314-4759","src:p1314-53580","src:toldy1840-nov12","src:uat8-3-54","src:uat8-4-101","src:uat8-4-77"]}
 {"clave":"carta_catalogada","ids":["src:p1314-547"]}
@@ -92,7 +93,7 @@
 {"clave":"carta_de","ids":["rel:31226-miklos","rel:53580-zrinyi","rel:hiller-19370"]}
 {"clave":"carta_de_segun_estudio","ids":["rel:ral31-gusztav"]}
 {"clave":"carta_de_torony","ids":["af:1571:4759-torony"]}
-{"clave":"carta_editada","ids":["src:p1314-3958","src:p1314-3959","src:p1314-3968","src:p1314-3969","src:p1314-3970","src:p1314-3985","src:p1314-4015","src:p1314-4044","src:p1314-4045","src:p1314-4046","src:p1314-4047","src:p1314-4056","src:p1314-4089","src:p1314-4102"]}
+{"clave":"carta_editada","ids":["src:p1314-3892","src:p1314-3917","src:p1314-3944","src:p1314-3958","src:p1314-3959","src:p1314-3968","src:p1314-3969","src:p1314-3970","src:p1314-3982","src:p1314-3985","src:p1314-4015","src:p1314-4018","src:p1314-4034","src:p1314-4044","src:p1314-4045","src:p1314-4046","src:p1314-4047","src:p1314-4048","src:p1314-4056","src:p1314-4089","src:p1314-4102"]}
 {"clave":"carta_editada_referida","ids":["src:verancsics1567-lxxxix"]}
 {"clave":"carta_editada_y_catalogada","ids":["src:p1314-3777","src:p1314-3901","src:p1314-3903","src:p1314-3933","src:p1314-3983-a","src:p1314-4067","src:p1314-4068","src:p1314-4109"]}
 {"clave":"carta_fechada_con_anexos","ids":["evt:1571:carta-porhocs"]}
@@ -177,6 +178,7 @@
 {"clave":"correspondencia_batthyany","ids":["evt:1549:svetkovics"]}
 {"clave":"correspondencia_citada","ids":["af:1838:nagy-carta-diciembre"]}
 {"clave":"correspondencia_con_portador_documentado","ids":["evt:1551:mark-poroch-portador"]}
+{"clave":"correspondencia_contemporanea","ids":["af:drenoczy-10883-10884-par"]}
 {"clave":"correspondencia_copia_catalografica","ids":["af:1780:gussing-copia"]}
 {"clave":"correspondencia_de_segun_estudio","ids":["rel:tort223-nagy"]}
 {"clave":"correspondencia_lingüistica","ids":["af:1569:3985-lengua"]}
@@ -242,6 +244,7 @@
 {"clave":"documento_archivistico_referido","ids":["src:barabas1561-cxxiii","src:barabas1562-cxxix","src:barabas1562-cxxvi","src:hoffinanz-rn17-f63","src:hoffinanz-rn22-f167-170","src:hoffinanz-rn52-f76","src:ivanyi1990-1559-09-04","src:oszk-folhung3006","src:oszk-fond16-31","src:ral115-1841","src:ral232-1841","src:ral50-1840","src:urach-testimonio-bocic","src:urach-testimonio-cuatro-parrocos","src:urach-testimonio-frankopan","src:urach-testimonio-kolaric","src:urach-testimonio-krajacic"]}
 {"clave":"documento_contiene","ids":["af:1839:kurzweil"]}
 {"clave":"documento_diplomatico_referido","ids":["src:dl-101381","src:dl-101382","src:dl-102307","src:kotromanic1329-povelja"]}
+{"clave":"documento_juridico_editado","ids":["src:varazdin-levanic-87","src:varazdin-levanic-88"]}
 {"clave":"dominio_documentado_en_estudio","ids":["af:csatar1562-dominio"]}
 {"clave":"dominio_segun_estudio","ids":["rel:csatar-zrinyi1562"]}
 {"clave":"dominio_zrinyi_referido_desde_1557","ids":["rel:jak-zrinyi-dominio"]}
@@ -255,7 +258,7 @@
 {"clave":"edicion_de_documentos","ids":["src:barabas1898-zrinyi1","src:barabas1899-zrinyi2","src:bencic-tobler1996-konzul","src:ivanyi1990-reforma","src:kostrencic1874-gh2472","src:verancsics1860-embajada","src:verancsics1870-cartas","src:vrecko2015-pisma"]}
 {"clave":"edicion_de_inventarios","ids":["src:adattar2010-magankonyvtarak"]}
 {"clave":"edicion_de_manuscrito_referido","ids":["rel:glavina-remete"]}
-{"clave":"edicion_documental","ids":["src:ivanyi1983-hiller"]}
+{"clave":"edicion_documental","ids":["src:ivanyi1983-hiller","src:levanic2019-varazdin"]}
 {"clave":"edicion_historica_referida","ids":["src:glavina1771-doctrina"]}
 {"clave":"ejemplar_antiguo_catalogado","ids":["src:gussing2-102","src:gussing2-170","src:gussing20-13b","src:gussing3-154","src:gussing3-188","src:gussing4-263","src:gussing5-63"]}
 {"clave":"ejemplar_antiguo_digitalizado","ids":["src:comestor1503-paderborn","src:ludolphus1495-fides","src:pinder1507-emory"]}
@@ -264,7 +267,7 @@
 {"clave":"encuadernacion","ids":["af:gussing:2-50","af:gussing:4-229"]}
 {"clave":"entrada_bibliografica_referida","ids":["rel:urach-sopron-1","rel:urach-sopron-2","rel:urach-sopron-33","rel:urach-sopron-34","rel:urach-sopron-35"]}
 {"clave":"entrada_enciclopedica","ids":["src:eleksikon-zrinski"]}
-{"clave":"entrada_lexicografica","ids":["src:hbl-drenovacki1993","src:hbl-drugnic1993","src:hbl-erdody-petar-ii","src:hbl-glavina1998","src:jembrih-bratulic1989-bucic"]}
+{"clave":"entrada_lexicografica","ids":["src:hbl-drenovacki-familia","src:hbl-drenovacki1993","src:hbl-drugnic1993","src:hbl-erdody-petar-ii","src:hbl-glavina1998","src:jembrih-bratulic1989-bucic"]}
 {"clave":"entradas_bibliograficas_y_tiradas","ids":["af:urach-sopron-37-entradas"]}
 {"clave":"entrega_de_libros_referida","ids":["evt:1563:froehlich-zrinyi","rel:uat8-4-101-zrinyi","rel:vlahovic-frankopan"]}
 {"clave":"entrega_de_libros_segun_regesto","ids":["af:1563-froehlich-entrega"]}
@@ -277,6 +280,7 @@
 {"clave":"equivalencia_geografica_no_demostrada","ids":["af:thoron-toponimos-no-equivalencia"]}
 {"clave":"es_asiento_de","ids":["rel:1743-evangelistas","rel:1743-exercitia"]}
 {"clave":"escribano_segun_edicion","ids":["rel:kotromanic1329-pribisav"]}
+{"clave":"escribano_y_obispo","ids":["af:p1314-4034-contenido"]}
 {"clave":"escritura_del_mismo_sistema_segun_articulo","ids":["rel:1571:escritura-k114"]}
 {"clave":"escrituras_documentadas","ids":["af:1564-klimpuh-tres-escrituras"]}
 {"clave":"estadistica_de_colecciones","ids":["af:1840:tudliteratura:coleccion"]}
@@ -344,6 +348,7 @@
 {"clave":"fondo_archivistico","ids":["src:mnl-ol-n24"]}
 {"clave":"fondo_archivistico_referido","ids":["src:erdody-x9139"]}
 {"clave":"forma_grafica_comparativa","ids":["af:1564-klimpuh-finis"]}
+{"clave":"formacion_linguistica","ids":["af:p1314-3982-contenido"]}
 {"clave":"fotografia_archivistica_referida","ids":["src:nuk-ms1061-17","src:nuk-ms1062-a121"]}
 {"clave":"fotografias_originales_verificadas","ids":["af:1573:1074-fotografias"]}
 {"clave":"fragmento_en_encuadernacion","ids":["af:1490:gussing2-102-reutilizado"]}
@@ -364,6 +369,7 @@
 {"clave":"huella_de_etiqueta_de_procedencia","ids":["af:1813:etiqueta-kisber"]}
 {"clave":"identificacion_contextual_no_demostrada","ids":["af:9082-svetkovics-ujvar"]}
 {"clave":"identificacion_personal_no_demostrada","ids":["af:9082-hijo-ferenc-cotejo","af:csenthy-serie-nombres","af:drenovacki-dornovitsch-identidad","af:drugnic-zelin-atribucion"]}
+{"clave":"identificacion_propuesta","ids":["af:drenoczy-jurista-contexto"]}
 {"clave":"identificacion_toponimica_publicada","ids":["af:1571-torony-lang-identificacion","af:1606-podturen-identificacion","af:koltai-torony-podturen"]}
 {"clave":"idioma_catalogado","ids":["af:1549:3839-ficha"]}
 {"clave":"idioma_edicion","ids":["af:1549:3839-idioma"]}
@@ -435,6 +441,7 @@
 {"clave":"localizador_carta_donacion","ids":["af:1838:ral31-localizacion"]}
 {"clave":"localizador_de_carta_original","ids":["af:1840:k166173-teleki-julio8"]}
 {"clave":"lugar","ids":["lugar:csatar","lugar:eisenstadt","lugar:gussing","lugar:jak","lugar:kisber","lugar:klimpuh","lugar:koszeg","lugar:ljubljana","lugar:metlika","lugar:monyorokerek","lugar:nedelisce","lugar:pest","lugar:podturen-murakoz","lugar:porno","lugar:regensburg","lugar:remete","lugar:rohonc","lugar:sopron","lugar:torony","lugar:tubingen","lugar:urach","lugar:viena","lugar:zelin"]}
+{"clave":"lugar_de_emision_en_catalogo","ids":["af:drenoczy-10890-discrepancia"]}
 {"clave":"manuscrito","ids":["src:codex-k114","src:munich582a"]}
 {"clave":"manuscrito_archivistico_referido","ids":["src:konzul1560-autografo"]}
 {"clave":"manuscrito_de_estudio_referido","ids":["src:nemeti-olvasasterve","src:nemeti1889-abc"]}
@@ -512,6 +519,7 @@
 {"clave":"otro_documento","ids":["af:1840:a695-turoc"]}
 {"clave":"otro_manuscrito","ids":["af:1840:evkonyv-turoc"]}
 {"clave":"pagina_institucional","ids":["src:bsb-croacia"]}
+{"clave":"palabra_croata","ids":["af:p1314-4018-contenido"]}
 {"clave":"paralelo_grafico_publicado","ids":["af:zagar-kormend-a"]}
 {"clave":"paralelo_textual_no_exclusivo","ids":["af:emaus-paralelo-no-exclusivo"]}
 {"clave":"parentesco_documentado_segun_estudio","ids":["af:csemetei1571-parentesco"]}
@@ -528,13 +536,14 @@
 {"clave":"periodo_de_digitalizacion","ids":["af:p1314:digitalizado-2016-2024"]}
 {"clave":"periodo_de_dominio_referido","ids":["af:jak-zrinyi1557-1613"]}
 {"clave":"permuta_de_dominios_segun_estudio","ids":["af:1557-erdody-zrinyi-permuta"]}
-{"clave":"persona","ids":["per:adam-baltazar-krcelic","per:ambrosius-froehlich","per:andras-koltai","per:andras-pornozi","per:andreas-froehlich-baumgarten","per:andreas-mayken","per:antal-verancsics","per:anton-lesce","per:antun-bocic","per:antun-dalmatin","per:bagody-andras","per:balas-deak","per:balazs-deak","per:balazs-gombos-abad","per:baranyai-janos-1574","per:bartolomeo-pica","per:batthyany-adam","per:batthyany-antal-jozsef","per:batthyany-boldizsar","per:batthyany-boldizsar-1505","per:batthyany-borbala","per:batthyany-ferenc-1497","per:batthyany-gusztav","per:batthyany-kazmer","per:batthyany-kristof","per:batthyany-lajos-erno","per:bucic-mihael","per:chenczi-tamas-referido","per:christoph-purgkhshtall","per:christoph-reuter","per:csenthy-tamas","per:elias-corvinus","per:emericus-toron","per:erhardt-hiller","per:ernuszt-janos","per:fabian-kirchperger","per:fejerpataky-laszlo","per:feliks-tobler","per:ferdo-sisic","per:ferenc-abad-csatar","per:ferenc-ispan-gussing","per:ferenc-nadasdy-1588","per:ferenc-torok-referido-1570","per:filip-gugger","per:fischer-karoly","per:forgach-ferenc","per:francysk-skaryna","per:georg-gruppenbach","per:grgur-stjepanic","per:grgur-vlahovic","per:hans-durrenbach","per:hans-hartwach","per:hans-ungnad","per:hans-weispriach","per:hijo-ferenc-ispan-1570","per:hunfalvy-pal","per:hursan-szabolcs","per:ilona-radeczy","per:istvan-akacs","per:istvan-csemetei-ii","per:istvan-monok","per:istvan-radeczy","per:ivan-drenovacki","per:ivan-drugnic","per:ivan-kostrencic","per:ivan-lamella","per:ivanyi-bela","per:jakab-tiszttarto-monyorokerek","per:jakob-salb","per:jankovich-miklos","per:janos-ellerbach","per:janos-zalai-referido-1570","per:jean-aubry","per:jelena-mrgic","per:jerney-janos","per:joannes-barazowich","per:johannes-miholch","per:jost-gallenberg","per:jovan-malesevac","per:joven-croata-9082","per:jozsef-csermelyi","per:julg-bernat","per:juraj-cvecic","per:juraj-dornovitsch","per:juraj-draskovic","per:juraj-drenovacki","per:juraj-juricic","per:juraj-miksic","per:juraj-vukovic","per:kezai-simon","per:klaus-gellner","per:kolinovits-gabor","per:koos-karoly","per:kurzweil-m","per:lajos-thalloczy","per:literati-nemes","per:ludolphus-saxonia","per:marin-nikolic","per:martina-kramaric","per:martinus-toroniensis","per:matija-pomazanic","per:matija-popovic","per:matija-zivcic","per:matous-collinus","per:michael-presbyter-thoron","per:mihaly-verancsics","per:miklos-deak-1571","per:mikula-kolaric","per:nagy-karoly","per:nemes-balazs","per:nemesy-janos","per:nemeti-kalman","per:nikola-bencic","per:nikola-desic","per:nikola-drenovacki","per:nikola-frankopan-trzacki","per:nikolaus-gallus","per:oswald-gruppenbach","per:paulus-feringer","per:paulus-literatus-toron","per:paulus-mayken","per:paulus-presbyter-toron","per:paulus-rosoniensis","per:perneszy-andras","per:petar-erdody-ii","per:petar-krajacic","per:petrus-comestor","per:philipp-melanchthon","per:pomagaics-mihaly","per:porhocs-farkas","per:porhocs-mark","per:pribisav-dijak","per:primoz-trubar","per:raphael-vianucius","per:rozsondai-bela","per:sacerdote-9082","per:samuel-straler","per:sche-del-ferenc","per:sebastian-kempgen","per:sibrik-matyas","per:simon-auer","per:stephanus-leporinus","per:stipan-konzul","per:stipan-kovacic","per:stjepan-ii-kotromanic","per:svetkovics-katalin","per:szabo-karoly","per:szalay-laszlo","per:tamas-nadasdy-1498","per:tanja-kustovic","per:teleki-jozsef","per:tibor-grull","per:toth-bela","per:ulrich-pinder","per:veit-subdilic","per:venancij-glavina","per:vera-blazevic-krezic","per:zagar-mateo","per:zrinyi-dorica","per:zrinyi-gyorgy","per:zrinyi-miklos-1508","per:zrinyi-peter"]}
+{"clave":"persona","ids":["per:adam-baltazar-krcelic","per:ambrosius-froehlich","per:andras-koltai","per:andras-pornozi","per:andreas-froehlich-baumgarten","per:andreas-mayken","per:antal-verancsics","per:anton-lesce","per:antun-bocic","per:antun-dalmatin","per:bagody-andras","per:balas-deak","per:balazs-deak","per:balazs-gombos-abad","per:baranyai-janos-1574","per:bartolomeo-pica","per:batthyany-adam","per:batthyany-antal-jozsef","per:batthyany-boldizsar","per:batthyany-boldizsar-1505","per:batthyany-borbala","per:batthyany-ferenc-1497","per:batthyany-gusztav","per:batthyany-kazmer","per:batthyany-kristof","per:batthyany-lajos-erno","per:bucic-mihael","per:chenczi-tamas-referido","per:christoph-purgkhshtall","per:christoph-reuter","per:csenthy-tamas","per:drenoczy-istvan","per:elias-corvinus","per:emericus-toron","per:erhardt-hiller","per:ernuszt-janos","per:fabian-kirchperger","per:fejerpataky-laszlo","per:feliks-tobler","per:ferdo-sisic","per:ferenc-abad-csatar","per:ferenc-ispan-gussing","per:ferenc-nadasdy-1588","per:ferenc-torok-referido-1570","per:filip-gugger","per:fischer-karoly","per:forgach-ferenc","per:francysk-skaryna","per:georg-gruppenbach","per:grgur-stjepanic","per:grgur-vlahovic","per:hans-durrenbach","per:hans-hartwach","per:hans-ungnad","per:hans-weispriach","per:hijo-ferenc-ispan-1570","per:hunfalvy-pal","per:hursan-szabolcs","per:ilona-radeczy","per:istvan-akacs","per:istvan-csemetei-ii","per:istvan-monok","per:istvan-radeczy","per:ivan-drenovacki","per:ivan-drugnic","per:ivan-kostrencic","per:ivan-lamella","per:ivanyi-bela","per:jakab-tiszttarto-monyorokerek","per:jakob-salb","per:jankovich-miklos","per:janos-ellerbach","per:janos-zalai-referido-1570","per:jean-aubry","per:jelena-mrgic","per:jerney-janos","per:joannes-barazowich","per:johannes-miholch","per:jost-gallenberg","per:jovan-malesevac","per:joven-croata-9082","per:jozsef-csermelyi","per:julg-bernat","per:juraj-cvecic","per:juraj-dornovitsch","per:juraj-draskovic","per:juraj-drenovacki","per:juraj-juricic","per:juraj-miksic","per:juraj-vukovic","per:kezai-simon","per:klaus-gellner","per:kolinovits-gabor","per:koos-karoly","per:kurzweil-m","per:lajos-thalloczy","per:literati-nemes","per:ludolphus-saxonia","per:marin-nikolic","per:martina-kramaric","per:martinus-toroniensis","per:matija-pomazanic","per:matija-popovic","per:matija-zivcic","per:matous-collinus","per:michael-presbyter-thoron","per:mihaly-verancsics","per:miklos-deak-1571","per:mikula-kolaric","per:nagy-karoly","per:nemes-balazs","per:nemesy-janos","per:nemeti-kalman","per:nikola-bencic","per:nikola-desic","per:nikola-drenovacki","per:nikola-frankopan-trzacki","per:nikolaus-gallus","per:oswald-gruppenbach","per:paulus-feringer","per:paulus-literatus-toron","per:paulus-mayken","per:paulus-presbyter-toron","per:paulus-rosoniensis","per:perneszy-andras","per:petar-erdody-ii","per:petar-krajacic","per:petrus-comestor","per:philipp-melanchthon","per:pomagaics-mihaly","per:porhocs-farkas","per:porhocs-mark","per:pribisav-dijak","per:primoz-trubar","per:raphael-vianucius","per:rozsondai-bela","per:sacerdote-9082","per:samuel-straler","per:sche-del-ferenc","per:sebastian-kempgen","per:sibrik-matyas","per:simon-auer","per:stephanus-leporinus","per:stipan-konzul","per:stipan-kovacic","per:stjepan-ii-kotromanic","per:svetkovics-katalin","per:szabo-karoly","per:szalay-laszlo","per:tamas-nadasdy-1498","per:tanja-kustovic","per:teleki-jozsef","per:tibor-grull","per:toth-bela","per:ulrich-pinder","per:veit-subdilic","per:venancij-glavina","per:vera-blazevic-krezic","per:zagar-mateo","per:zrinyi-dorica","per:zrinyi-gyorgy","per:zrinyi-miklos-1508","per:zrinyi-peter"]}
 {"clave":"persona_mencionada","ids":["af:1549:3839-perhocz","af:1550-porhoch-mark-recomendacion","af:1551-porhoch-mark-servicio","af:1551-poroch-mark-portador","af:1570:4022-chenczj","af:deak:108137","af:deak:108143","af:deak:3960","af:deak:3992","af:deak:3993","af:deak:4035","af:deak:4058","rel:drenovacki-erdody","rel:urach-cuenta-14","rel:urach-cuenta-15","rel:urach-cuenta-16","rel:urach-cuenta-49","rel:urach-cuenta-57","rel:urach-cuenta-80a"]}
 {"clave":"persona_mencionada_en_edicion","ids":["rel:4022-ferenc-ispan-gussing","rel:4044-ferenc-torok-referido-1570","rel:4056-chenczi-tamas-referido","rel:4056-ferenc-ispan-gussing","rel:4102-istvan-akacs"]}
 {"clave":"persona_recomendada","ids":["rel:dornovitsch-recomendacion"]}
 {"clave":"persona_recomendada_en_edicion","ids":["rel:4022-hijo-ferenc-ispan-1570"]}
 {"clave":"persona_segun_lectura_comunicada","ids":["rel:4046-jakab"]}
 {"clave":"persona_segun_lectura_provisional_no_cotejada","ids":["rel:9082-joven-lectura","rel:9082-sacerdote-lectura"]}
+{"clave":"personal_instruido","ids":["af:p1314-3917-contenido"]}
 {"clave":"posesion_de_ejemplar_segun_inscripcion","ids":["rel:gussing-mayken"]}
 {"clave":"posesion_referida","ids":["rel:krcelic-catecismo"]}
 {"clave":"presencia_documentada","ids":["af:1563-paulus-literatus"]}
@@ -578,6 +587,7 @@
 {"clave":"recomendacion_de_contratacion_referida","ids":["evt:1567:konzul-recomendacion"]}
 {"clave":"recomendacion_de_ingreso_al_servicio","ids":["af:4022-recomendacion-hijo"]}
 {"clave":"recomendacion_de_servicio_segun_edicion","ids":["evt:1570:4022-recomendacion"]}
+{"clave":"recomendacion_de_servidor","ids":["af:p1314-4048-contenido"]}
 {"clave":"recomendacion_documentada","ids":["af:drugnic1557-recomendacion","rel:konzul-reuter"]}
 {"clave":"recomendacion_documentada_segun_estudio","ids":["evt:1557:drugnic-recomendacion","evt:1563:drenovacki-recomendacion"]}
 {"clave":"recomendado_por","ids":["rel:drugnic-melanchthon"]}
@@ -613,6 +623,7 @@
 {"clave":"relato_institucional_de_recepcion","ids":["af:1839:anuario-recepcion-dos-bibliotecas"]}
 {"clave":"remision_anunciada","ids":["af:1840:ral307-remision"]}
 {"clave":"remision_periodistica","ids":["af:1840:jelenkor:tarsalkodo"]}
+{"clave":"remitente_literal","ids":["af:drenoczy-10901-variante"]}
 {"clave":"remitida_por","ids":["rel:3839-svetkovics","rel:8099-elias"]}
 {"clave":"reordenacion_de_signaturas","ids":["af:1973:csapodi-reclasificacion"]}
 {"clave":"repertorio_archivistico","ids":["src:bottlo-veres1968","src:repertorio-ai9","src:repertorio-erdody-a-i-26"]}
@@ -625,6 +636,7 @@
 {"clave":"reproduccion_fotografica_publicada","ids":["af:1889:fischer-fotografia"]}
 {"clave":"reproducido_en","ids":["rel:ral307-a695"]}
 {"clave":"reseña_cartas","ids":["af:1840:tudliteratura:szalay"]}
+{"clave":"residencia_y_escribano","ids":["af:p1314-3944-contenido"]}
 {"clave":"respuesta_a_dos_comunicaciones_de_julio","ids":["af:1840:k21037-dos-oficios-julio"]}
 {"clave":"respuesta_sobre_organizacion_biblioteca","ids":["evt:1839:toldy-nagy-marzo"]}
 {"clave":"restauracion_editorial","ids":["af:1571:108143-restauracion"]}
@@ -634,6 +646,7 @@
 {"clave":"reunion_ordinaria_citada_en_volumen","ids":["af:1841:k1394-jun14"]}
 {"clave":"revision_linguistica_segun_estudio","ids":["af:urach1561-correctores"]}
 {"clave":"ruta_de_busqueda_no_recepcion","ids":["rel:ral307-n24-ruta"]}
+{"clave":"ruta_de_correspondencia","ids":["af:p1314-3892-contenido"]}
 {"clave":"seccion_ilustrada","ids":["af:1644:12-ilustrados"]}
 {"clave":"secretario_mencionado","ids":["rel:trubar1562-filip-gugger"]}
 {"clave":"segunda_reunion_citada_en_volumen","ids":["af:1842:k1394-mar07"]}
