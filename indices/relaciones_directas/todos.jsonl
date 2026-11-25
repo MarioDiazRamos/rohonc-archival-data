@@ -12,7 +12,7 @@
 {"clave":"evt:1842:jerney","ids":["rel:13"]}
 {"clave":"evt:1885:julg","ids":["rel:1885-julg-k114"]}
 {"clave":"lugar:csatar","ids":["rel:csatar-zrinyi1562"]}
-{"clave":"lugar:jak","ids":["rel:jak-zrinyi-dominio"]}
+{"clave":"lugar:jak","ids":["rel:jak-porno-legado1499","rel:jak-zrinyi-dominio"]}
 {"clave":"obj:anexos1571","ids":["rel:1571:anexos-carta","rel:1571:escritura-k114"]}
 {"clave":"obj:k114","ids":["rel:1","rel:1846:k114-k1398","rel:2","rel:k114-rohonc-modern"]}
 {"clave":"per:balazs-gombos-abad","ids":["rel:jak-gombos"]}
@@ -23,6 +23,9 @@
 {"clave":"per:grgur-vlahovic","ids":["rel:vlahovic-frankopan"]}
 {"clave":"per:hans-hartwach","ids":["rel:urach-hans-hartwach","rel:urach-hartwach-auer"]}
 {"clave":"per:hijo-ferenc-ispan-1570","ids":["rel:ferenc-ispan-hijo"]}
+{"clave":"per:ilona-radeczy","ids":["rel:ilona-radeczy"]}
+{"clave":"per:istvan-csemetei-ii","ids":["rel:csemetei-ilona","rel:csemetei-porno1587"]}
+{"clave":"per:istvan-radeczy","ids":["rel:porno-radeczy1568"]}
 {"clave":"per:ivan-drenovacki","ids":["rel:ivan-drenovacki-erdody"]}
 {"clave":"per:ivan-drugnic","ids":["rel:drugnic-melanchthon"]}
 {"clave":"per:ivan-lamella","ids":["rel:lamella-zivcic"]}
@@ -39,9 +42,11 @@
 {"clave":"per:paulus-feringer","ids":["rel:urach-paulus-feringer"]}
 {"clave":"per:paulus-presbyter-toron","ids":["rel:1562-paulus-emericus"]}
 {"clave":"per:porhocs-mark","ids":["rel:mark-porhocs-kristof"]}
+{"clave":"per:raphael-vianucius","ids":["rel:vianucius-forgach1567","rel:vianucius-porno1567"]}
 {"clave":"per:simon-auer","ids":["rel:urach-simon-auer"]}
 {"clave":"per:stephanus-leporinus","ids":["rel:1562-leporinus-emericus"]}
 {"clave":"per:stipan-konzul","ids":["rel:konzul-eisenstadt","rel:konzul-regensburg","rel:konzul-reuter","rel:konzul-weispriach"]}
+{"clave":"per:svetkovics-katalin","ids":["rel:svetkovics-porno1568"]}
 {"clave":"per:zrinyi-dorica","ids":["rel:dorica-boldizsar-matrimonio","rel:dorica-miklos-padre"]}
 {"clave":"src:a1746-iii","ids":["rel:a1746-218219"]}
 {"clave":"src:a695","ids":["rel:a695-kisber","rel:a695-rohonc"]}
@@ -52,6 +57,8 @@
 {"clave":"src:comestor1503-paderborn","ids":["rel:comestor-paderborn-gussing"]}
 {"clave":"src:corvinus1577-09-27","ids":["rel:corvinus1577-continuidad"]}
 {"clave":"src:drenovacki-1563-12-10","ids":["rel:drenovacki-erdody"]}
+{"clave":"src:ellerbach1499-dl19510","ids":["rel:ellerbach-testamento"]}
+{"clave":"src:erdody-eberau-fasc22","ids":["rel:erdody-fasc22-x9139"]}
 {"clave":"src:fischer1889","ids":["rel:1889-fischer-k114","rel:fischer-toldy1852"]}
 {"clave":"src:glavina1771-doctrina","ids":["rel:glavina-remete"]}
 {"clave":"src:gussing1780-copia","ids":["rel:gussing1780-copia"]}
@@ -81,6 +88,7 @@
 {"clave":"src:p1314-31226","ids":["rel:31226-miklos","rel:31226-sibrik"]}
 {"clave":"src:p1314-3141","ids":["rel:3141-nadasdy"]}
 {"clave":"src:p1314-3839","ids":["rel:3839-svetkovics"]}
+{"clave":"src:p1314-3958","ids":["rel:3958-pornozi"]}
 {"clave":"src:p1314-3960","ids":["rel:balas-3960"]}
 {"clave":"src:p1314-3992","ids":["rel:balas-3992"]}
 {"clave":"src:p1314-3993","ids":["rel:balas-3993"]}
@@ -107,6 +115,7 @@
 {"clave":"src:si-as2-92-54-7-1","ids":["rel:si-as2-92-54-7-1-trubar"]}
 {"clave":"src:sopron-lad12-m7-297","ids":["rel:urach-sopron-1","rel:urach-sopron-2","rel:urach-sopron-33","rel:urach-sopron-34","rel:urach-sopron-35"]}
 {"clave":"src:soproni-vegyes4r63","ids":["rel:soproni-literati"]}
+{"clave":"src:soros1912-apatsagok","ids":["rel:soros-hathitrust"]}
 {"clave":"src:stuttgart-trubar1562-copia","ids":["rel:stuttgart-trubar1562-copia-trubar"]}
 {"clave":"src:toldy1839-mayo20","ids":["rel:ral61-biblioteca"]}
 {"clave":"src:tort223","ids":["rel:tort223-nagy"]}

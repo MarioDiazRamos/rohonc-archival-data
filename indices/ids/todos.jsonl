@@ -309,6 +309,7 @@
 {"clave":"af:2026:cedkat-periodo","ids":["datos/afirmaciones/e.jsonl"]}
 {"clave":"af:2026:toldy-levtarcaja-59-unidades","ids":["datos/afirmaciones/3.jsonl"]}
 {"clave":"af:3141-jak-batthyany","ids":["datos/afirmaciones/8.jsonl"]}
+{"clave":"af:3958-pornozi","ids":["datos/afirmaciones/d.jsonl"]}
 {"clave":"af:4022-recomendacion-hijo","ids":["datos/afirmaciones/a.jsonl"]}
 {"clave":"af:4044-torok-zalai","ids":["datos/afirmaciones/8.jsonl"]}
 {"clave":"af:4045-envio-servidor","ids":["datos/afirmaciones/0.jsonl"]}
@@ -323,11 +324,14 @@
 {"clave":"af:9082-envio-aplazado","ids":["datos/afirmaciones/c.jsonl"]}
 {"clave":"af:9082-hijo-ferenc-cotejo","ids":["datos/afirmaciones/d.jsonl"]}
 {"clave":"af:9082-joven-dos-escrituras","ids":["datos/afirmaciones/c.jsonl"]}
+{"clave":"af:9082-porno-lectura","ids":["datos/afirmaciones/5.jsonl"]}
 {"clave":"af:9082-sacerdote-jagh","ids":["datos/afirmaciones/8.jsonl"]}
 {"clave":"af:9082-svetkovics-ujvar","ids":["datos/afirmaciones/3.jsonl"]}
 {"clave":"af:9082-torok-mencion","ids":["datos/afirmaciones/6.jsonl"]}
 {"clave":"af:9082:marcas-subrayado","ids":["datos/afirmaciones/9.jsonl"]}
 {"clave":"af:archive-rohonc-ancre-216217","ids":["datos/afirmaciones/c.jsonl"]}
+{"clave":"af:barabas-orden-zagreb","ids":["datos/afirmaciones/f.jsonl"]}
+{"clave":"af:barabas-permuta-forgach","ids":["datos/afirmaciones/e.jsonl"]}
 {"clave":"af:barabas1561-refugiados-croatas","ids":["datos/afirmaciones/a.jsonl"]}
 {"clave":"af:baranyai-serie-2057-2091","ids":["datos/afirmaciones/9.jsonl"]}
 {"clave":"af:blackburn1999-scotto1539","ids":["datos/afirmaciones/0.jsonl"]}
@@ -339,6 +343,7 @@
 {"clave":"af:catalogo:observaciones-columna10","ids":["datos/afirmaciones/b.jsonl"]}
 {"clave":"af:comestor-emaus","ids":["datos/afirmaciones/c.jsonl"]}
 {"clave":"af:csatar1562-dominio","ids":["datos/afirmaciones/3.jsonl"]}
+{"clave":"af:csemetei1571-parentesco","ids":["datos/afirmaciones/3.jsonl"]}
 {"clave":"af:csenthy-serie-nombres","ids":["datos/afirmaciones/b.jsonl"]}
 {"clave":"af:cvecic-competencias","ids":["datos/afirmaciones/0.jsonl"]}
 {"clave":"af:dalmatin1568-no-traslado","ids":["datos/afirmaciones/6.jsonl"]}
@@ -356,7 +361,9 @@
 {"clave":"af:drenovacki1563-urach","ids":["datos/afirmaciones/d.jsonl"]}
 {"clave":"af:drugnic-zelin-atribucion","ids":["datos/afirmaciones/6.jsonl"]}
 {"clave":"af:drugnic1557-recomendacion","ids":["datos/afirmaciones/c.jsonl"]}
+{"clave":"af:ellerbach1499-legado","ids":["datos/afirmaciones/8.jsonl"]}
 {"clave":"af:emaus-paralelo-no-exclusivo","ids":["datos/afirmaciones/f.jsonl"]}
+{"clave":"af:erdody-eberau-fasc22","ids":["datos/afirmaciones/9.jsonl"]}
 {"clave":"af:erdody1563-distribucion","ids":["datos/afirmaciones/3.jsonl"]}
 {"clave":"af:fecha-v29:edicion:3777","ids":["datos/afirmaciones/b.jsonl"]}
 {"clave":"af:fecha-v29:edicion:3901","ids":["datos/afirmaciones/8.jsonl"]}
@@ -404,6 +411,7 @@
 {"clave":"af:ivanyi:p1314-organizacion","ids":["datos/afirmaciones/d.jsonl"]}
 {"clave":"af:ivanyi:subrayados-vadas2022","ids":["datos/afirmaciones/9.jsonl"]}
 {"clave":"af:jak-parroquia-limite","ids":["datos/afirmaciones/6.jsonl"]}
+{"clave":"af:jak-porno-1551-keresztes","ids":["datos/afirmaciones/2.jsonl"]}
 {"clave":"af:jak-zrinyi1557-1613","ids":["datos/afirmaciones/0.jsonl"]}
 {"clave":"af:jak1221-jaak","ids":["datos/afirmaciones/2.jsonl"]}
 {"clave":"af:jak1562-fin-comunidad","ids":["datos/afirmaciones/5.jsonl"]}
@@ -448,6 +456,8 @@
 {"clave":"af:p1314:digitalizado-2016-2024","ids":["datos/afirmaciones/c.jsonl"]}
 {"clave":"af:p1314:indice-limitado","ids":["datos/afirmaciones/7.jsonl"]}
 {"clave":"af:pinder1507-emory-grabados","ids":["datos/afirmaciones/8.jsonl"]}
+{"clave":"af:porno1568-radeczy","ids":["datos/afirmaciones/e.jsonl"]}
+{"clave":"af:porno1587-csemetei","ids":["datos/afirmaciones/b.jsonl"]}
 {"clave":"af:reali2216:papel","ids":["datos/afirmaciones/5.jsonl"]}
 {"clave":"af:realms80:1838","ids":["datos/afirmaciones/9.jsonl"]}
 {"clave":"af:realms80:224","ids":["datos/afirmaciones/d.jsonl"]}
@@ -456,6 +466,7 @@
 {"clave":"af:strattmann:entradas","ids":["datos/afirmaciones/5.jsonl"]}
 {"clave":"af:strattmann:fechas","ids":["datos/afirmaciones/1.jsonl"]}
 {"clave":"af:strattmann:volumenes","ids":["datos/afirmaciones/0.jsonl"]}
+{"clave":"af:svetkovics1568-porno-residencia","ids":["datos/afirmaciones/3.jsonl"]}
 {"clave":"af:thoron-toponimos-no-equivalencia","ids":["datos/afirmaciones/c.jsonl"]}
 {"clave":"af:trubar1562-distribucion","ids":["datos/afirmaciones/0.jsonl"]}
 {"clave":"af:trubar1562-erdody-sacerdotes","ids":["datos/afirmaciones/3.jsonl"]}
@@ -486,6 +497,10 @@
 {"clave":"af:urach1563-cuatro-parrocos","ids":["datos/afirmaciones/0.jsonl"]}
 {"clave":"af:urach1563-frankopan","ids":["datos/afirmaciones/8.jsonl"]}
 {"clave":"af:urach1563-kolaric","ids":["datos/afirmaciones/9.jsonl"]}
+{"clave":"af:verancsics1567-antal","ids":["datos/afirmaciones/7.jsonl"]}
+{"clave":"af:verancsics1567-encabezamiento","ids":["datos/afirmaciones/f.jsonl"]}
+{"clave":"af:vianucius1567-apoyo","ids":["datos/afirmaciones/9.jsonl"]}
+{"clave":"af:vianucius1567-parentesco","ids":["datos/afirmaciones/f.jsonl"]}
 {"clave":"af:zagar-criterios-ortograficos","ids":["datos/afirmaciones/b.jsonl"]}
 {"clave":"af:zagar-d-triangular","ids":["datos/afirmaciones/1.jsonl"]}
 {"clave":"af:zagar-e-c-cruciformes","ids":["datos/afirmaciones/1.jsonl"]}
@@ -634,6 +649,9 @@
 {"clave":"cov:gussing4-229:visual","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:gussing4-263","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:gussing5-63","ids":["datos/cobertura/todos.jsonl"]}
+{"clave":"cov:hoffinanz-rn17-f63","ids":["datos/cobertura/todos.jsonl"]}
+{"clave":"cov:hoffinanz-rn22-f167-170","ids":["datos/cobertura/todos.jsonl"]}
+{"clave":"cov:hoffinanz-rn52-f76","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:hursan2024axis:ficha-20261123","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:hursan2025:texto","ids":["datos/cobertura/todos.jsonl"]}
 {"clave":"cov:ivanyi1947-p109","ids":["datos/cobertura/todos.jsonl"]}
@@ -848,6 +866,7 @@
 {"clave":"dif:kisber-cifras-2060-2660","ids":["datos/discrepancias/todos.jsonl"]}
 {"clave":"dif:ral218219-mayo-noviembre","ids":["datos/discrepancias/todos.jsonl"]}
 {"clave":"dif:ral307-salida-recepcion","ids":["datos/discrepancias/todos.jsonl"]}
+{"clave":"dif:verancsics1567-autor","ids":["datos/discrepancias/todos.jsonl"]}
 {"clave":"dig:a1746-iii","ids":["datos/digitalizaciones/todos.jsonl"]}
 {"clave":"dig:archive-rohonc-217","ids":["datos/digitalizaciones/todos.jsonl"]}
 {"clave":"dig:athenaeum1840-1","ids":["datos/digitalizaciones/todos.jsonl"]}
@@ -946,6 +965,7 @@
 {"clave":"lugar:nedelisce","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"lugar:pest","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"lugar:podturen-murakoz","ids":["datos/autoridades/todos.jsonl"]}
+{"clave":"lugar:porno","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"lugar:regensburg","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"lugar:remete","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"lugar:rohonc","ids":["datos/autoridades/todos.jsonl"]}
@@ -979,8 +999,10 @@
 {"clave":"per:adam-baltazar-krcelic","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:ambrosius-froehlich","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:andras-koltai","ids":["datos/autoridades/todos.jsonl"]}
+{"clave":"per:andras-pornozi","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:andreas-froehlich-baumgarten","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:andreas-mayken","ids":["datos/autoridades/todos.jsonl"]}
+{"clave":"per:antal-verancsics","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:anton-lesce","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:antun-bocic","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:antun-dalmatin","ids":["datos/autoridades/todos.jsonl"]}
@@ -1031,8 +1053,11 @@
 {"clave":"per:hijo-ferenc-ispan-1570","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:hunfalvy-pal","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:hursan-szabolcs","ids":["datos/autoridades/todos.jsonl"]}
+{"clave":"per:ilona-radeczy","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:istvan-akacs","ids":["datos/autoridades/todos.jsonl"]}
+{"clave":"per:istvan-csemetei-ii","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:istvan-monok","ids":["datos/autoridades/todos.jsonl"]}
+{"clave":"per:istvan-radeczy","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:ivan-drenovacki","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:ivan-drugnic","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:ivan-kostrencic","ids":["datos/autoridades/todos.jsonl"]}
@@ -1041,6 +1066,7 @@
 {"clave":"per:jakab-tiszttarto-monyorokerek","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:jakob-salb","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:jankovich-miklos","ids":["datos/autoridades/todos.jsonl"]}
+{"clave":"per:janos-ellerbach","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:janos-zalai-referido-1570","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:jean-aubry","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:jelena-mrgic","ids":["datos/autoridades/todos.jsonl"]}
@@ -1075,6 +1101,7 @@
 {"clave":"per:matija-zivcic","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:matous-collinus","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:michael-presbyter-thoron","ids":["datos/autoridades/todos.jsonl"]}
+{"clave":"per:mihaly-verancsics","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:miklos-deak-1571","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:mikula-kolaric","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:nagy-karoly","ids":["datos/autoridades/todos.jsonl"]}
@@ -1102,6 +1129,7 @@
 {"clave":"per:porhocs-mark","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:pribisav-dijak","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:primoz-trubar","ids":["datos/autoridades/todos.jsonl"]}
+{"clave":"per:raphael-vianucius","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:rozsondai-bela","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:sacerdote-9082","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:samuel-straler","ids":["datos/autoridades/todos.jsonl"]}
@@ -1159,6 +1187,7 @@
 {"clave":"rel:31226-sibrik","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:3141-nadasdy","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:3839-svetkovics","ids":["datos/relaciones/todos.jsonl"]}
+{"clave":"rel:3958-pornozi","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:4","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:4022-chenczi-tamas-referido","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:4022-ferenc-ispan-gussing","ids":["datos/relaciones/todos.jsonl"]}
@@ -1198,6 +1227,8 @@
 {"clave":"rel:comestor-paderborn-gussing","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:corvinus1577-continuidad","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:csatar-zrinyi1562","ids":["datos/relaciones/todos.jsonl"]}
+{"clave":"rel:csemetei-ilona","ids":["datos/relaciones/todos.jsonl"]}
+{"clave":"rel:csemetei-porno1587","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:desic-zrinyi","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:dorica-boldizsar-matrimonio","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:dorica-miklos-padre","ids":["datos/relaciones/todos.jsonl"]}
@@ -1208,6 +1239,8 @@
 {"clave":"rel:drugnic-collinus","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:drugnic-melanchthon","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:drugnic-nadasdy","ids":["datos/relaciones/todos.jsonl"]}
+{"clave":"rel:ellerbach-testamento","ids":["datos/relaciones/todos.jsonl"]}
+{"clave":"rel:erdody-fasc22-x9139","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:ferenc-csatar","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:ferenc-ispan-hijo","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:fischer-toldy1852","ids":["datos/relaciones/todos.jsonl"]}
@@ -1221,9 +1254,11 @@
 {"clave":"rel:gussing5-63-batthyany","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:hiller-19370","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:hiller-19376","ids":["datos/relaciones/todos.jsonl"]}
+{"clave":"rel:ilona-radeczy","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:ivan-drenovacki-erdody","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:jak-ferenc","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:jak-gombos","ids":["datos/relaciones/todos.jsonl"]}
+{"clave":"rel:jak-porno-legado1499","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:jak-zrinyi-dominio","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:jakab-monyorokerek","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:juricic-cvecic","ids":["datos/relaciones/todos.jsonl"]}
@@ -1255,6 +1290,7 @@
 {"clave":"rel:pomagaics-25-mark","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:pomagaics-27-mark","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:pomagaics-28-mark","ids":["datos/relaciones/todos.jsonl"]}
+{"clave":"rel:porno-radeczy1568","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:postila1568-dalmatin","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:ral142-edicion1977","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:ral307-a695","ids":["datos/relaciones/todos.jsonl"]}
@@ -1264,7 +1300,9 @@
 {"clave":"rel:ral97-k1393-tema","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:si-as2-92-54-7-1-trubar","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:soproni-literati","ids":["datos/relaciones/todos.jsonl"]}
+{"clave":"rel:soros-hathitrust","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:stuttgart-trubar1562-copia-trubar","ids":["datos/relaciones/todos.jsonl"]}
+{"clave":"rel:svetkovics-porno1568","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:tageblatt-athenaeum","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:tort223-nagy","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:trubar1562-fabian-kirchperger","ids":["datos/relaciones/todos.jsonl"]}
@@ -1297,6 +1335,8 @@
 {"clave":"rel:urach-sopron-33","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:urach-sopron-34","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:urach-sopron-35","ids":["datos/relaciones/todos.jsonl"]}
+{"clave":"rel:vianucius-forgach1567","ids":["datos/relaciones/todos.jsonl"]}
+{"clave":"rel:vianucius-porno1567","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:vlahovic-frankopan","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"rel:zivcic-gallenberg","ids":["datos/relaciones/todos.jsonl"]}
 {"clave":"src:a1746-iii","ids":["datos/fuentes/todos.jsonl"]}
@@ -1315,6 +1355,7 @@
 {"clave":"src:barabas1561-cxxiii","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:barabas1562-cxxix","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:barabas1562-cxxvi","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:barabas1898-zrinyi1","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:barabas1899-zrinyi2","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:barath2022","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:barbaric2021-ortus","ids":["datos/fuentes/todos.jsonl"]}
@@ -1328,6 +1369,7 @@
 {"clave":"src:blazevic-kustovic-zagar2020-biblia","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:bobory2007-tesis","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:bobory2009-sword","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:bolcskei2016-toponimos","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:bottlo-veres1968","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:bsb-croacia","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:bubryak2016-erdody","ids":["datos/fuentes/todos.jsonl"]}
@@ -1361,6 +1403,9 @@
 {"clave":"src:dubrovnik-cirilico-xv","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:eleksikon-zrinski","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:eleveltar-archivum-palatinale","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:ellerbach1499-dl19510","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:erdody-eberau-fasc22","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:erdody-x9139","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:ertesito1840","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:evkonyv-vi","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:evkonyv1840-4","ids":["datos/fuentes/todos.jsonl"]}
@@ -1391,6 +1436,7 @@
 {"clave":"src:gussing5-63","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:hasznos1840-1","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:hasznos1840-2","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:hathitrust-soros1912","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:hbl-cvecic","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:hbl-drenovacki1993","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:hbl-drugnic1993","ids":["datos/fuentes/todos.jsonl"]}
@@ -1398,6 +1444,10 @@
 {"clave":"src:hbl-glavina1998","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:hbl-juricic","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:hirnok1840","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:hoffinanz-rn17-f63","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:hoffinanz-rn22-f167-170","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:hoffinanz-rn52-f76","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:hoffinanz-ungarn-akten36","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:honismeret2007-02","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:hursan2019catalogo","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:hursan2019teleki","ids":["datos/fuentes/todos.jsonl"]}
@@ -1448,6 +1498,7 @@
 {"clave":"src:koszeg-konzul-1568-01-28","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:koszeg-konzul-1568-02-21","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:koszeg-konzul-1568-06-08","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:kota2019-apati","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:kotromanic1329-povelja","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:kramaric2021-checo","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:krcelic-catecismo-incompleto","ids":["datos/fuentes/todos.jsonl"]}
@@ -1550,8 +1601,12 @@
 {"clave":"src:p1314-3901","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:p1314-3903","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:p1314-3933","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:p1314-3958","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:p1314-3959","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:p1314-3960","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:p1314-3968","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:p1314-3969","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:p1314-3970","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:p1314-3983-a","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:p1314-3985","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:p1314-3992","ids":["datos/fuentes/todos.jsonl"]}
@@ -1607,7 +1662,9 @@
 {"clave":"src:regelo1840-2","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:registro-sintaxis1843","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:remete-sentencia1574","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:reneszansz-humanizmus2017","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:repertorio-ai9","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:repertorio-erdody-a-i-26","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:rozsondai2024","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:sarbak2005-munich","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:si-as2-92-54-7-1","ids":["datos/fuentes/todos.jsonl"]}
@@ -1676,6 +1733,9 @@
 {"clave":"src:urach-testimonio-krajacic","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:urach-tipologia-nt","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:vadas2022","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:verancsics1567-lxxxix","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:verancsics1860-embajada","ids":["datos/fuentes/todos.jsonl"]}
+{"clave":"src:verancsics1870-cartas","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:viabenedictina-jak","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:virag2024-catalogacion","ids":["datos/fuentes/todos.jsonl"]}
 {"clave":"src:vodnik-urbarjih4","ids":["datos/fuentes/todos.jsonl"]}
