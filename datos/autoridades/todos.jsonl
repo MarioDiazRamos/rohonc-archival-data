@@ -9,23 +9,30 @@
 {"clase":"institucion","id":"inst:sopron-archivo","nombre":"Archivo Municipal de Sopron","tipo":"autoridades","variantes":["Stadtarchiv Sopron"]}
 {"clase":"institucion","id":"inst:uat","nombre":"Universitätsarchiv Tübingen","tipo":"autoridades","variantes":["UAT"]}
 {"clase":"lugar","id":"lugar:eisenstadt","nombre":"Eisenstadt","tipo":"autoridades","variantes":["Kismarton","Željezno"]}
+{"clase":"lugar","id":"lugar:gussing","nombre":"Güssing","tipo":"autoridades","variantes":["Németújvár","Nemethwywar"]}
 {"clase":"lugar","id":"lugar:kisber","nombre":"Kisbér","tipo":"autoridades","variantes":[]}
 {"clase":"lugar","id":"lugar:klimpuh","nombre":"Klimpuh (Klingenbach)","tipo":"autoridades","variantes":["Kelénpatak"]}
 {"clase":"lugar","id":"lugar:koszeg","nombre":"Kőszeg","tipo":"autoridades","variantes":["Güns","Kiseg"]}
+{"clase":"lugar","id":"lugar:metlika","nombre":"Metlika","tipo":"autoridades","variantes":["Möttling"]}
 {"clase":"lugar","id":"lugar:nedelisce","nombre":"Nedelišće","tipo":"autoridades","variantes":["Nedelišče"]}
 {"clase":"lugar","id":"lugar:pest","nombre":"Pest","tipo":"autoridades","variantes":[]}
 {"clase":"lugar","id":"lugar:podturen-murakoz","nombre":"Podturen (Muraköz, Croacia)","tipo":"autoridades","variantes":["Mwrakez Thoron","Turnišče","Turnišće","Tornische"]}
 {"clase":"lugar","id":"lugar:regensburg","nombre":"Regensburg","tipo":"autoridades","variantes":["Ratisbona"]}
+{"clase":"lugar","id":"lugar:remete","nombre":"Remete (Zagreb)","tipo":"autoridades","variantes":[]}
 {"clase":"lugar","id":"lugar:rohonc","nombre":"Rohonc","tipo":"autoridades","variantes":["Rohoncz","Rechnitz"]}
 {"clase":"lugar","id":"lugar:sopron","nombre":"Sopron","tipo":"autoridades","variantes":["Ödenburg"]}
 {"clase":"lugar","id":"lugar:torony","nombre":"Torony","tipo":"autoridades","variantes":[]}
 {"clase":"lugar","id":"lugar:tubingen","nombre":"Tübingen","tipo":"autoridades","variantes":[]}
 {"clase":"lugar","id":"lugar:urach","nombre":"Urach (Württemberg)","tipo":"autoridades","variantes":["Bad Urach"]}
 {"clase":"lugar","id":"lugar:viena","nombre":"Viena","tipo":"autoridades","variantes":["Wien"]}
+{"clase":"lugar","id":"lugar:zelin","nombre":"Želin","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:adam-baltazar-krcelic","nombre":"Adam Baltazar Krčelić","tipo":"autoridades","variantes":["Adam Balthasar Kercselich"]}
 {"clase":"persona","id":"per:ambrosius-froehlich","nombre":"Ambrosius Fröhlich","tipo":"autoridades","variantes":["Ambroz Fröhlich"]}
 {"clase":"persona","id":"per:andras-koltai","nombre":"Koltai András","tipo":"autoridades","variantes":["András Koltai"]}
 {"clase":"persona","id":"per:andreas-froehlich-baumgarten","nombre":"Andreas Fröhlich (párroco de Baumgarten)","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:andreas-mayken","nombre":"Andreas Mayken","tipo":"autoridades","variantes":["Andreas Maiken","Andreas presbiter Maiken"]}
+{"clase":"persona","id":"per:anton-lesce","nombre":"Anton de Lešće","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:antun-bocic","nombre":"Antun Bočić","tipo":"autoridades","variantes":["Anton Bodčić"]}
 {"clase":"persona","id":"per:antun-dalmatin","nombre":"Antun Dalmatin","tipo":"autoridades","variantes":["Anton Dalmata","Antun Dalmata"]}
 {"clase":"persona","id":"per:bagody-andras","nombre":"Bagody András","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:balas-deak","nombre":"Balás deák","tipo":"autoridades","variantes":["Balas deak"]}
@@ -37,6 +44,7 @@
 {"clase":"persona","id":"per:batthyany-boldizsar","nombre":"Batthyány Boldizsár","tipo":"autoridades","variantes":["Boldizsár Batthyány"]}
 {"clase":"persona","id":"per:batthyany-boldizsar-1505","nombre":"Batthyány Boldizsár (generación de 1505)","tipo":"autoridades","variantes":["Boldizsár Batthyány"]}
 {"clase":"persona","id":"per:batthyany-borbala","nombre":"Batthyány Borbála","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:batthyany-ferenc-1497","nombre":"Batthyány Ferenc (1497–1566)","tipo":"autoridades","variantes":["Franciscus de Batthyan"]}
 {"clase":"persona","id":"per:batthyany-gusztav","nombre":"Batthyány Gusztáv","tipo":"autoridades","variantes":["Gustav Batthyány"]}
 {"clase":"persona","id":"per:batthyany-kazmer","nombre":"Batthyány Kázmér","tipo":"autoridades","variantes":["Kázmér Batthyány"]}
 {"clase":"persona","id":"per:batthyany-kristof","nombre":"Batthyány Kristóf","tipo":"autoridades","variantes":[]}
@@ -57,6 +65,7 @@
 {"clase":"persona","id":"per:francysk-skaryna","nombre":"Francysk Skaryna","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:georg-gruppenbach","nombre":"Georg Gruppenbach","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:grgur-stjepanic","nombre":"Grgur Stjepanić","tipo":"autoridades","variantes":["Grgur Stipanić"]}
+{"clase":"persona","id":"per:grgur-vlahovic","nombre":"Grgur Vlahović","tipo":"autoridades","variantes":["Gregor Vlahovič"]}
 {"clase":"persona","id":"per:hans-durrenbach","nombre":"Hans Dürrenbach","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:hans-hartwach","nombre":"Hans Hartwach","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:hans-ungnad","nombre":"Hans Ungnad","tipo":"autoridades","variantes":["Ivan Ungnad"]}
@@ -64,6 +73,8 @@
 {"clase":"persona","id":"per:hunfalvy-pal","nombre":"Hunfalvy Pál","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:hursan-szabolcs","nombre":"Hursán Szabolcs","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:istvan-monok","nombre":"István Monok","tipo":"autoridades","variantes":["Monok István"]}
+{"clase":"persona","id":"per:ivan-drenovacki","nombre":"Ivan Drenovački","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:ivan-drugnic","nombre":"Ivan Drugnić","tipo":"autoridades","variantes":["Drwghnyczy","Drugnetius","Drugnicius","Trugnitius Johannes Illyricus"]}
 {"clase":"persona","id":"per:ivan-kostrencic","nombre":"Ivan Kostrenčić","tipo":"autoridades","variantes":["Ivan Kostrencic"]}
 {"clase":"persona","id":"per:ivanyi-bela","nombre":"Iványi Béla","tipo":"autoridades","variantes":["Béla Iványi"]}
 {"clase":"persona","id":"per:jakob-salb","nombre":"Jakob Salb","tipo":"autoridades","variantes":[]}
@@ -71,10 +82,15 @@
 {"clase":"persona","id":"per:jean-aubry","nombre":"Jean Aubry","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:jelena-mrgic","nombre":"Jelena Mrgić-Radojčić","tipo":"autoridades","variantes":["Jelena Mrgić"]}
 {"clase":"persona","id":"per:jerney-janos","nombre":"Jerney János","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:joannes-barazowich","nombre":"Joannes Barazowich","tipo":"autoridades","variantes":["Barazovics János","Brazovics János"]}
+{"clase":"persona","id":"per:johannes-miholch","nombre":"Johannes, párroco de Miholch","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:jovan-malesevac","nombre":"Jovan Maleševac","tipo":"autoridades","variantes":["Ivan Maleševac"]}
 {"clase":"persona","id":"per:jozsef-csermelyi","nombre":"József Csermelyi","tipo":"autoridades","variantes":["Csermelyi József"]}
 {"clase":"persona","id":"per:julg-bernat","nombre":"Jülg Bernát","tipo":"autoridades","variantes":["Bernhard Jülg"]}
 {"clase":"persona","id":"per:juraj-dornovitsch","nombre":"Juraj Dornovitsch","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:juraj-draskovic","nombre":"Juraj Drašković","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:juraj-drenovacki","nombre":"Juraj Drenovački","tipo":"autoridades","variantes":["Drenoczy","Drenotzy","Drenowitzj","Drinovački","Georg"]}
+{"clase":"persona","id":"per:juraj-miksic","nombre":"Juraj Mikšić","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:juraj-vukovic","nombre":"Juraj Vuković","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:kezai-simon","nombre":"Kézai Simon","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:klaus-gellner","nombre":"Klaus Gellner","tipo":"autoridades","variantes":[]}
@@ -87,15 +103,20 @@
 {"clase":"persona","id":"per:marin-nikolic","nombre":"Marin Nikolić","tipo":"autoridades","variantes":["Temperica"]}
 {"clase":"persona","id":"per:martina-kramaric","nombre":"Martina Kramarić","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:martinus-toroniensis","nombre":"Martinus literatus","tipo":"autoridades","variantes":["Martinus Toroniensis"]}
+{"clase":"persona","id":"per:matija-pomazanic","nombre":"Matija Pomazanić","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:matija-popovic","nombre":"Matija Popović","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:matous-collinus","nombre":"Matouš Collinus z Chotěřiny","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:michael-presbyter-thoron","nombre":"Michael presbyter","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:miklos-deak-1571","nombre":"Miklós deák","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:mikula-kolaric","nombre":"Mikula Kolarić","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:nagy-karoly","nombre":"Nagy Károly","tipo":"autoridades","variantes":["Károly Nagy"]}
 {"clase":"persona","id":"per:nemes-balazs","nombre":"Balázs J. Nemes","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:nemesy-janos","nombre":"Nemesy János","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:nemeti-kalman","nombre":"Németi Kálmán","tipo":"autoridades","variantes":["Némäti Kálmán"]}
 {"clase":"persona","id":"per:nikola-bencic","nombre":"Nikola Benčić","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:nikola-desic","nombre":"Nikola Dešić","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:nikola-drenovacki","nombre":"Nikola Drenovački","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:nikola-frankopan-trzacki","nombre":"Nikola Frankopan Tržački","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:nikolaus-gallus","nombre":"Nikolaus Gallus","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:oswald-gruppenbach","nombre":"Oswald Gruppenbach","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:paulus-feringer","nombre":"Paulus Feringer","tipo":"autoridades","variantes":[]}
@@ -104,7 +125,10 @@
 {"clase":"persona","id":"per:paulus-presbyter-toron","nombre":"Paulus presbyter","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:paulus-rosoniensis","nombre":"Paulus Rosoniensis","tipo":"autoridades","variantes":["Rosoni Szondi Pál"]}
 {"clase":"persona","id":"per:perneszy-andras","nombre":"Perneszy András","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:petar-erdody-ii","nombre":"Petar II Erdődy","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:petar-krajacic","nombre":"Petar Krajačić","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:petrus-comestor","nombre":"Petrus Comestor","tipo":"autoridades","variantes":["Pedro Coméstor"]}
+{"clase":"persona","id":"per:philipp-melanchthon","nombre":"Philipp Melanchthon","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:pomagaics-mihaly","nombre":"Pomagaics Mihály","tipo":"autoridades","variantes":["Michael Pomagaych","Michael Pomogaych"]}
 {"clase":"persona","id":"per:porhocs-farkas","nombre":"Farkas Porhócs","tipo":"autoridades","variantes":["Porhócs Farkas","Perhocz Farkas","Wolfgangus Porhoch","Porhochÿ Farkas","Porhochi Farkas","Porhotthÿ Farkas"]}
 {"clase":"persona","id":"per:porhocs-mark","nombre":"Porhócs Márk","tipo":"autoridades","variantes":["Marcus Poroch","Marcus Porhoch"]}
@@ -118,16 +142,19 @@
 {"clase":"persona","id":"per:simon-auer","nombre":"Simon Auer","tipo":"autoridades","variantes":["Šimun Auer"]}
 {"clase":"persona","id":"per:stephanus-leporinus","nombre":"Stephanus Leporinus","tipo":"autoridades","variantes":["Leporinus István"]}
 {"clase":"persona","id":"per:stipan-konzul","nombre":"Stipan Konzul","tipo":"autoridades","variantes":["Stephan Consul","Stipan Istranin"]}
+{"clase":"persona","id":"per:stipan-kovacic","nombre":"Stipan Kovačić","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:stjepan-ii-kotromanic","nombre":"Stjepan II Kotromanić","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:svetkovics-katalin","nombre":"Svetkovics Katalin","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:szabo-karoly","nombre":"Szabó Károly","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:szalay-laszlo","nombre":"Szalay László","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:tamas-nadasdy-1498","nombre":"Tamás Nádasdy","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:tanja-kustovic","nombre":"Tanja Kuštović","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:teleki-jozsef","nombre":"Teleki József","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:tibor-grull","nombre":"Tibor Grüll","tipo":"autoridades","variantes":["Grüll Tibor"]}
 {"clase":"persona","id":"per:toth-bela","nombre":"Tóth Béla","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:ulrich-pinder","nombre":"Ulrich Pinder","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:veit-subdilic","nombre":"Veit Subdilic","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:venancij-glavina","nombre":"Venancij Glavina","tipo":"autoridades","variantes":["Venantius Glavina"]}
 {"clase":"persona","id":"per:vera-blazevic-krezic","nombre":"Vera Blažević Krezić","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:zagar-mateo","nombre":"Mateo Žagar","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:zrinyi-dorica","nombre":"Zrínyi Dorica","tipo":"autoridades","variantes":["Batthyány Boldizsárné Zrínyi Dorica"]}

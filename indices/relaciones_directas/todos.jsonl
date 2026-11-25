@@ -15,9 +15,14 @@
 {"clave":"obj:k114","ids":["rel:1","rel:1846:k114-k1398","rel:2","rel:k114-rohonc-modern"]}
 {"clave":"per:baranyai-janos-1574","ids":["rel:baranyai-podturen"]}
 {"clave":"per:batthyany-kristof","ids":["rel:1562-kristof-emericus"]}
+{"clave":"per:grgur-vlahovic","ids":["rel:vlahovic-frankopan"]}
 {"clave":"per:hans-hartwach","ids":["rel:urach-hans-hartwach","rel:urach-hartwach-auer"]}
+{"clave":"per:ivan-drenovacki","ids":["rel:ivan-drenovacki-erdody"]}
+{"clave":"per:ivan-drugnic","ids":["rel:drugnic-melanchthon"]}
 {"clave":"per:jakob-salb","ids":["rel:urach-jakob-salb"]}
+{"clave":"per:joannes-barazowich","ids":["rel:barazowich-ferenc","rel:barazowich-gussing"]}
 {"clave":"per:jovan-malesevac","ids":["rel:urach-correctores","rel:urach-jovan-malesevac"]}
+{"clave":"per:juraj-drenovacki","ids":["rel:drenovacki-ivan","rel:drenovacki-konzul"]}
 {"clave":"per:matija-popovic","ids":["rel:urach-matija-popovic"]}
 {"clave":"per:nikola-desic","ids":["rel:desic-zrinyi"]}
 {"clave":"per:oswald-gruppenbach","ids":["rel:urach-oswald-gruppenbach"]}
@@ -36,7 +41,9 @@
 {"clave":"src:bibl2","ids":["rel:16"]}
 {"clave":"src:comestor1503-paderborn","ids":["rel:comestor-paderborn-gussing"]}
 {"clave":"src:corvinus1577-09-27","ids":["rel:corvinus1577-continuidad"]}
+{"clave":"src:drenovacki-1563-12-10","ids":["rel:drenovacki-erdody"]}
 {"clave":"src:fischer1889","ids":["rel:1889-fischer-k114","rel:fischer-toldy1852"]}
+{"clave":"src:glavina1771-doctrina","ids":["rel:glavina-remete"]}
 {"clave":"src:gussing1780-copia","ids":["rel:gussing1780-copia"]}
 {"clave":"src:gussing2-170","ids":["rel:gussing2-170-batthyany"]}
 {"clave":"src:gussing20-13b","ids":["rel:gussing20-13b-batthyany"]}
@@ -49,7 +56,9 @@
 {"clave":"src:ivanyi1990-1551-02-24","ids":["rel:1551-thoron-michael"]}
 {"clave":"src:konzul-dalmatin1568-postila","ids":["rel:postila1568-dalmatin"]}
 {"clave":"src:kotromanic1329-povelja","ids":["rel:kotromanic1329-grgur","rel:kotromanic1329-hrvatinici","rel:kotromanic1329-pribisav","rel:kotromanic1329-stjepan"]}
+{"clave":"src:krcelic-catecismo-incompleto","ids":["rel:krcelic-catecismo"]}
 {"clave":"src:ludolphus1495-fides","ids":["rel:ludolphus-fides-gussing"]}
+{"clave":"src:melanchthon1557-drugnic","ids":["rel:drugnic-collinus","rel:drugnic-nadasdy"]}
 {"clave":"src:nemeti-olvasasterve","ids":["rel:nemeti-plan-k114"]}
 {"clave":"src:nemeti1889-abc","ids":["rel:nemeti-abc-k114","rel:nemeti-ms884-estudio"]}
 {"clave":"src:ortus-anime1567","ids":["rel:ortus-raj-duse"]}
@@ -88,3 +97,5 @@
 {"clave":"src:uat8-6-cuenta-49","ids":["rel:urach-cuenta-49"]}
 {"clave":"src:uat8-6-cuenta-57","ids":["rel:urach-cuenta-57"]}
 {"clave":"src:uat8-6-cuenta-80a","ids":["rel:urach-cuenta-80a"]}
+{"clave":"src:urach-testimonio-cuatro-parrocos","ids":["rel:urach-certificacion-anton-lesce","rel:urach-certificacion-grgur-vlahovic","rel:urach-certificacion-juraj-miksic","rel:urach-certificacion-stipan-kovacic"]}
+{"clave":"src:urach-testimonio-kolaric","ids":["rel:kolaric-pomazanic"]}

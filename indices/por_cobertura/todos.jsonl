@@ -15,6 +15,7 @@
 {"clave":"src:birkfellner1965-gussing","ids":["cov:birkfellner1965-gussing"]}
 {"clave":"src:blazevic-kustovic-zagar2020-biblia","ids":["cov:urach-biblia2020-emaus"]}
 {"clave":"src:bottlo-veres1968","ids":["cov:n24:bottlo1968"]}
+{"clave":"src:bucar1933-hauspostille","ids":["cov:bucar1933-hauspostille"]}
 {"clave":"src:bucic-eucharistia","ids":["cov:bucic-eucharistia"]}
 {"clave":"src:bucic-kerstjanski","ids":["cov:bucic-kerstjanski"]}
 {"clave":"src:bucic-novi-zakon","ids":["cov:bucic-novi-zakon"]}
@@ -32,6 +33,9 @@
 {"clave":"src:dl-101381","ids":["cov:dl-101381"]}
 {"clave":"src:dl-101382","ids":["cov:dl-101382"]}
 {"clave":"src:dl-102307","ids":["cov:dl-102307"]}
+{"clave":"src:drenovacki-1563-01-20","ids":["cov:drenovacki-1563-01-20"]}
+{"clave":"src:drenovacki-1563-11-14","ids":["cov:drenovacki-1563-11-14"]}
+{"clave":"src:drenovacki-1563-12-10","ids":["cov:drenovacki-1563-12-10"]}
 {"clave":"src:eleveltar-archivum-palatinale","ids":["cov:eleveltar:bloqueo"]}
 {"clave":"src:ertesito1840","ids":["cov:1840:ertesito:visual"]}
 {"clave":"src:evkonyv-vi","ids":["cov:evkonyv6:texto"]}
@@ -39,6 +43,7 @@
 {"clave":"src:evkonyv1842v","ids":["cov:evkonyv:inventario","cov:evkonyv:visual"]}
 {"clave":"src:figyelmezo1840","ids":["cov:autotexto-20261123:figyelmezo1840","cov:figyelmezo1840:visual"]}
 {"clave":"src:fischer1889","ids":["cov:fischer1889:texto-20261123","cov:fischer:visual"]}
+{"clave":"src:glavina1771-doctrina","ids":["cov:glavina1771-doctrina"]}
 {"clave":"src:grull-monok1992-urach","ids":["cov:grull-monok1992-catalogo"]}
 {"clave":"src:gussing-fragm-glag","ids":["cov:gussing-fragm-glag"]}
 {"clave":"src:gussing1742","ids":["cov:gussing1742"]}
@@ -65,6 +70,8 @@
 {"clave":"src:ivanyi1990-1551-02-05","ids":["cov:ivanyi1990-1551-02-05"]}
 {"clave":"src:ivanyi1990-1551-02-24","ids":["cov:ivanyi1990-1551-02-24"]}
 {"clave":"src:ivanyi1990-1551-09-17","ids":["cov:ivanyi1990-1551-09-17"]}
+{"clave":"src:ivanyi1990-1558-10-10","ids":["cov:ivanyi1990-1558-10-10"]}
+{"clave":"src:ivanyi1990-1559-09-04","ids":["cov:ivanyi1990-1559-09-04"]}
 {"clave":"src:ivanyi1990-1562-10-20","ids":["cov:ivanyi1990-1562-10-20"]}
 {"clave":"src:ivanyi1990-1563-06-25","ids":["cov:ivanyi1990-1563-06-25"]}
 {"clave":"src:jelenkor1840-1","ids":["cov:1840:jelenkor1:inventario","cov:1840:jelenkor1:visual","cov:autotexto-20261123:jelenkor1840-1"]}
@@ -87,8 +94,11 @@
 {"clave":"src:koszeg-konzul-1568-06-08","ids":["cov:koszeg-konzul-1568-06-08"]}
 {"clave":"src:kotromanic1329-povelja","ids":["cov:kotromanic1329-povelja"]}
 {"clave":"src:kramaric2021-checo","ids":["cov:kramaric2021-resumen"]}
+{"clave":"src:krcelic-catecismo-incompleto","ids":["cov:krcelic-catecismo-incompleto"]}
 {"clave":"src:kurzweil1839","ids":["cov:k801:kurzweil"]}
 {"clave":"src:lang2008-rohonc","ids":["cov:lang2008:referencias"]}
+{"clave":"src:loibersbeck-gussing","ids":["cov:loibersbeck-gussing-p33"]}
+{"clave":"src:melanchthon1557-drugnic","ids":["cov:melanchthon1557-drugnic"]}
 {"clave":"src:misal-klimpuh","ids":["cov:misal-klimpuh"]}
 {"clave":"src:mnl-ol-n24","ids":["cov:n24:rollo-microfilme"]}
 {"clave":"src:mta-diszmuvek274","ids":["cov:mta-diszmuvek274"]}
@@ -207,6 +217,7 @@
 {"clave":"src:realms80","ids":["cov:realms80:ficha-20261123"]}
 {"clave":"src:regelo1840-1","ids":["cov:autotexto-20261123:regelo1840-1"]}
 {"clave":"src:regelo1840-2","ids":["cov:autotexto-20261123:regelo1840-2"]}
+{"clave":"src:remete-sentencia1574","ids":["cov:remete-sentencia1574"]}
 {"clave":"src:repertorio-ai9","ids":["cov:n24:repertorioai9"]}
 {"clave":"src:sarbak2005-munich","ids":["cov:sarbak2005-ave"]}
 {"clave":"src:sisic1905-kormend","ids":["cov:sisic1905-kormend"]}
@@ -214,6 +225,7 @@
 {"clave":"src:spiegel1840-1","ids":["cov:1840:spiegel1:inventario","cov:1840:spiegel1:visual","cov:autotexto-20261123:spiegel1840-1","cov:spiegel-1840-1:sin-texto"]}
 {"clave":"src:spiegel1840-2","ids":["cov:1840:spiegel2:inventario","cov:1840:spiegel2:visual","cov:autotexto-20261123:spiegel1840-2","cov:spiegel-1840-2:sin-texto"]}
 {"clave":"src:strattmann263","ids":["cov:strattmann263"]}
+{"clave":"src:stuttgart-a191-f6","ids":["cov:stuttgart-a191-f6"]}
 {"clave":"src:szabo1866","ids":["cov:1866:szabo:texto"]}
 {"clave":"src:szazadunk1840","ids":["cov:szazadunk1840:visual"]}
 {"clave":"src:szechenyi1840-ago13-k21037","ids":["cov:k21037:sin-original"]}
@@ -244,5 +256,10 @@
 {"clave":"src:urach-sopron-entrada-33","ids":["cov:urach-sopron-entrada-33"]}
 {"clave":"src:urach-sopron-entrada-34","ids":["cov:urach-sopron-entrada-34"]}
 {"clave":"src:urach-sopron-entrada-35","ids":["cov:urach-sopron-entrada-35"]}
+{"clave":"src:urach-testimonio-bocic","ids":["cov:urach-testimonio-bocic"]}
+{"clave":"src:urach-testimonio-cuatro-parrocos","ids":["cov:urach-testimonio-cuatro-parrocos"]}
+{"clave":"src:urach-testimonio-frankopan","ids":["cov:urach-testimonio-frankopan"]}
+{"clave":"src:urach-testimonio-kolaric","ids":["cov:urach-testimonio-kolaric"]}
+{"clave":"src:urach-testimonio-krajacic","ids":["cov:urach-testimonio-krajacic"]}
 {"clave":"src:vorosmarty1977-t16","ids":["cov:ral142:edicion"]}
 {"clave":"src:zagar2021-urach","ids":["cov:zagar2021-ampliacion-d-z-20261124","cov:zagar2021-tablas"]}
