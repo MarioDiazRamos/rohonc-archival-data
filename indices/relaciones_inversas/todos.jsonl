@@ -1,4 +1,5 @@
 {"clave":"cat:1743:viena","ids":["rel:1743-evangelistas","rel:1743-exercitia"]}
+{"clave":"colec:hrvatinici","ids":["rel:kotromanic1329-hrvatinici"]}
 {"clave":"colec:kisber","ids":["rel:9","rel:a695-kisber"]}
 {"clave":"colec:rohonc","ids":["rel:10","rel:11","rel:7","rel:8","rel:a695-rohonc","rel:k114-rohonc-modern","rel:ral61-biblioteca"]}
 {"clave":"inst:mta-kik","ids":["rel:1","rel:15","rel:16","rel:17"]}
@@ -14,6 +15,7 @@
 {"clave":"per:elias-corvinus","ids":["rel:8099-elias"]}
 {"clave":"per:emericus-toron","ids":["rel:1562-kristof-emericus","rel:1562-leporinus-emericus","rel:1562-paulus-emericus"]}
 {"clave":"per:erhardt-hiller","ids":["rel:hiller-19370","rel:hiller-19376"]}
+{"clave":"per:grgur-stjepanic","ids":["rel:kotromanic1329-grgur"]}
 {"clave":"per:koos-karoly","ids":["rel:koos-ral50"]}
 {"clave":"per:literati-nemes","ids":["rel:athenaeum-nemes","rel:literati-ral115","rel:soproni-literati"]}
 {"clave":"per:michael-presbyter-thoron","ids":["rel:1551-thoron-michael"]}
@@ -21,7 +23,9 @@
 {"clave":"per:nagy-karoly","ids":["rel:1838:oferta-delegado-nagy","rel:tort223-nagy"]}
 {"clave":"per:nemesy-janos","ids":["rel:nemesy-ral232"]}
 {"clave":"per:porhocs-mark","ids":["rel:pomagaics-25-mark","rel:pomagaics-27-mark","rel:pomagaics-28-mark"]}
+{"clave":"per:pribisav-dijak","ids":["rel:kotromanic1329-pribisav"]}
 {"clave":"per:sibrik-matyas","ids":["rel:31226-sibrik"]}
+{"clave":"per:stjepan-ii-kotromanic","ids":["rel:kotromanic1329-stjepan"]}
 {"clave":"per:svetkovics-katalin","ids":["rel:3839-svetkovics"]}
 {"clave":"per:zrinyi-gyorgy","ids":["rel:53580-zrinyi"]}
 {"clave":"per:zrinyi-miklos-1508","ids":["rel:desic-zrinyi","rel:dorica-miklos-padre","rel:uat8-4-101-zrinyi"]}

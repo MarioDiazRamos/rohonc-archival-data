@@ -7,10 +7,12 @@
 {"clave":"src:archive-rohonc-217","ids":["cov:archive-rohonc:laminas216217"]}
 {"clave":"src:athenaeum1840-1","ids":["cov:athenaeum1840-1:inventario","cov:athenaeum1840-1:visual","cov:autotexto-20261123:athenaeum1840-1"]}
 {"clave":"src:athenaeum1840-2","ids":["cov:athenaeum1840-2:inventario","cov:athenaeum1840-2:visual","cov:autotexto-20261123:athenaeum1840-2"]}
+{"clave":"src:berynda1631-triod","ids":["cov:berynda1631-triod"]}
 {"clave":"src:bibl1","ids":["cov:bibl1:atlas","cov:bibl1:list1","cov:bibl1:list2","cov:bibl1:metadatos","cov:bibl1:v"]}
 {"clave":"src:bibl2","ids":["cov:bibl2:latin","cov:bibl2:metadatos"]}
 {"clave":"src:biblio1840","ids":["cov:1840:biblio:inventario","cov:1840:biblio:visual"]}
 {"clave":"src:birkfellner1965-gussing","ids":["cov:birkfellner1965-gussing"]}
+{"clave":"src:blazevic-kustovic-zagar2020-biblia","ids":["cov:urach-biblia2020-emaus"]}
 {"clave":"src:bottlo-veres1968","ids":["cov:n24:bottlo1968"]}
 {"clave":"src:bucic-eucharistia","ids":["cov:bucic-eucharistia"]}
 {"clave":"src:bucic-kerstjanski","ids":["cov:bucic-kerstjanski"]}
@@ -69,7 +71,9 @@
 {"clave":"src:k801-1840-2","ids":["cov:k801-1840-2:sin-copia"]}
 {"clave":"src:k801-1859-2","ids":["cov:k801-1859-2:sin-copia"]}
 {"clave":"src:kiraly2023-teologia","ids":["cov:kiraly2023-p365"]}
+{"clave":"src:konzul1560-autografo","ids":["cov:konzul1560-autografo"]}
 {"clave":"src:koppany2015-kastely","ids":["cov:koppany2015-p317-324"]}
+{"clave":"src:kotromanic1329-povelja","ids":["cov:kotromanic1329-povelja"]}
 {"clave":"src:kurzweil1839","ids":["cov:k801:kurzweil"]}
 {"clave":"src:lang2008-rohonc","ids":["cov:lang2008:referencias"]}
 {"clave":"src:misal-klimpuh","ids":["cov:misal-klimpuh"]}
@@ -174,6 +178,7 @@
 {"clave":"src:p1322-1644","ids":["cov:p1322-1644"]}
 {"clave":"src:pesther-tageblatt1840","ids":["cov:pesther-tageblatt1840"]}
 {"clave":"src:porhocs1571","ids":["cov:1571:p1314-38149","cov:1571:p1314-38149:20261122"]}
+{"clave":"src:poviest1942-bosna","ids":["cov:poviest1942-bosna"]}
 {"clave":"src:primo-mtak","ids":["cov:primo:extractos","cov:primo:signaturas"]}
 {"clave":"src:ral-k1568","ids":["cov:ral1568:sin-copia"]}
 {"clave":"src:ral115-1841","ids":["cov:ral115-1841"]}
@@ -191,6 +196,7 @@
 {"clave":"src:regelo1840-2","ids":["cov:autotexto-20261123:regelo1840-2"]}
 {"clave":"src:repertorio-ai9","ids":["cov:n24:repertorioai9"]}
 {"clave":"src:sarbak2005-munich","ids":["cov:sarbak2005-ave"]}
+{"clave":"src:sisic1905-kormend","ids":["cov:sisic1905-kormend"]}
 {"clave":"src:spiegel1840-1","ids":["cov:1840:spiegel1:inventario","cov:1840:spiegel1:visual","cov:autotexto-20261123:spiegel1840-1","cov:spiegel-1840-1:sin-texto"]}
 {"clave":"src:spiegel1840-2","ids":["cov:1840:spiegel2:inventario","cov:1840:spiegel2:visual","cov:autotexto-20261123:spiegel1840-2","cov:spiegel-1840-2:sin-texto"]}
 {"clave":"src:strattmann263","ids":["cov:strattmann263"]}
@@ -199,6 +205,8 @@
 {"clave":"src:szechenyi1840-ago13-k21037","ids":["cov:k21037:sin-original"]}
 {"clave":"src:teleki1840-jul08-k166173","ids":["cov:k166173:sin-original"]}
 {"clave":"src:terbe2010","ids":["cov:terbe2010:257"]}
+{"clave":"src:thalloczy1906-banovina","ids":["cov:thalloczy1906-banovina"]}
+{"clave":"src:thalloczy1914-studien","ids":["cov:thalloczy1914-studien"]}
 {"clave":"src:toldy1839-mayo12","ids":["cov:k801:toldy"]}
 {"clave":"src:toldy1839-mayo20","ids":["cov:ral61"]}
 {"clave":"src:tort215a","ids":["cov:tort215a:sin-copia"]}
@@ -210,4 +218,4 @@
 {"clave":"src:turnische1606-microfilm","ids":["cov:turnische1606-microfilm"]}
 {"clave":"src:uat8-4-101","ids":["cov:uat8-4-101"]}
 {"clave":"src:vorosmarty1977-t16","ids":["cov:ral142:edicion"]}
-{"clave":"src:zagar2021-urach","ids":["cov:zagar2021-tablas"]}
+{"clave":"src:zagar2021-urach","ids":["cov:zagar2021-ampliacion-d-z-20261124","cov:zagar2021-tablas"]}
