@@ -1,5 +1,6 @@
 {"clave":"src:a1746-iii","ids":["cov:a1746:visual1839-1840"]}
 {"clave":"src:a695","ids":["cov:a695:inventario","cov:a695:ocr","cov:a695:visual"]}
+{"clave":"src:abaffy1956-akacs","ids":["cov:abaffy1956-akacs"]}
 {"clave":"src:actas-k1303","ids":["cov:k1303:sin-original"]}
 {"clave":"src:actas-k1393","ids":["cov:k1393:acceso"]}
 {"clave":"src:actas-k1394","ids":["cov:k1394:sin-facsimil"]}
@@ -230,7 +231,7 @@
 {"clave":"src:szazadunk1840","ids":["cov:szazadunk1840:visual"]}
 {"clave":"src:szechenyi1840-ago13-k21037","ids":["cov:k21037:sin-original"]}
 {"clave":"src:teleki1840-jul08-k166173","ids":["cov:k166173:sin-original"]}
-{"clave":"src:terbe2010","ids":["cov:terbe2010:257"]}
+{"clave":"src:terbe2010","ids":["cov:terbe2010-csenthy-20261124","cov:terbe2010:257"]}
 {"clave":"src:thalloczy1906-banovina","ids":["cov:thalloczy1906-banovina"]}
 {"clave":"src:thalloczy1914-studien","ids":["cov:thalloczy1914-studien"]}
 {"clave":"src:toldy1839-mayo12","ids":["cov:k801:toldy"]}

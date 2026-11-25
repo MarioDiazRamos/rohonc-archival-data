@@ -10,6 +10,7 @@
 {"clase":"institucion","id":"inst:uat","nombre":"Universitätsarchiv Tübingen","tipo":"autoridades","variantes":["UAT"]}
 {"clase":"lugar","id":"lugar:eisenstadt","nombre":"Eisenstadt","tipo":"autoridades","variantes":["Kismarton","Željezno"]}
 {"clase":"lugar","id":"lugar:gussing","nombre":"Güssing","tipo":"autoridades","variantes":["Németújvár","Nemethwywar"]}
+{"clase":"lugar","id":"lugar:jak","nombre":"Ják (condado de Vas)","tipo":"autoridades","variantes":[]}
 {"clase":"lugar","id":"lugar:kisber","nombre":"Kisbér","tipo":"autoridades","variantes":[]}
 {"clase":"lugar","id":"lugar:klimpuh","nombre":"Klimpuh (Klingenbach)","tipo":"autoridades","variantes":["Kelénpatak"]}
 {"clase":"lugar","id":"lugar:koszeg","nombre":"Kőszeg","tipo":"autoridades","variantes":["Güns","Kiseg"]}
@@ -50,6 +51,7 @@
 {"clase":"persona","id":"per:batthyany-kristof","nombre":"Batthyány Kristóf","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:batthyany-lajos-erno","nombre":"Batthyány Lajos Ernő","tipo":"autoridades","variantes":["Ludwig Batthyány"]}
 {"clase":"persona","id":"per:bucic-mihael","nombre":"Mihael Bučić","tipo":"autoridades","variantes":["Mihajlo Bučić","Mihalj Bučić","Buchich","Bwchych"]}
+{"clase":"persona","id":"per:chenczi-tamas-referido","nombre":"Tamás Chenczi (menciones 1570–1573)","tipo":"autoridades","variantes":["chenczj thamas","Chenczi Tamas","Chenci Tamas","Chenchi Tamas"]}
 {"clase":"persona","id":"per:christoph-purgkhshtall","nombre":"Christoph von Purgkhshtall","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:christoph-reuter","nombre":"Christoph Reuter","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:csenthy-tamas","nombre":"Csenthy Tamás","tipo":"autoridades","variantes":["Chyenthy Tamás"]}
@@ -60,6 +62,8 @@
 {"clase":"persona","id":"per:fejerpataky-laszlo","nombre":"Fejérpataky László","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:feliks-tobler","nombre":"Feliks Tobler","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:ferdo-sisic","nombre":"Ferdo Šišić","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:ferenc-ispan-gussing","nombre":"Ferenc ispán (servidor de Németújvár)","tipo":"autoridades","variantes":["ferencz Jspan"]}
+{"clase":"persona","id":"per:ferenc-torok-referido-1570","nombre":"Ferenc Török (mención de mayo de 1570)","tipo":"autoridades","variantes":["therek ferencz","Thörök Ferencz"]}
 {"clase":"persona","id":"per:fischer-karoly","nombre":"Fischer Károly Antal","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:forgach-ferenc","nombre":"Forgách Ferenc","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:francysk-skaryna","nombre":"Francysk Skaryna","tipo":"autoridades","variantes":[]}
@@ -70,8 +74,10 @@
 {"clase":"persona","id":"per:hans-hartwach","nombre":"Hans Hartwach","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:hans-ungnad","nombre":"Hans Ungnad","tipo":"autoridades","variantes":["Ivan Ungnad"]}
 {"clase":"persona","id":"per:hans-weispriach","nombre":"Hans von Weispriach","tipo":"autoridades","variantes":["Hans von Weißpriach"]}
+{"clase":"persona","id":"per:hijo-ferenc-ispan-1570","nombre":"Hijo no identificado de Ferenc ispán (enero de 1570)","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:hunfalvy-pal","nombre":"Hunfalvy Pál","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:hursan-szabolcs","nombre":"Hursán Szabolcs","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:istvan-akacs","nombre":"István Akács","tipo":"autoridades","variantes":["Akách István","Akach Jstuan"]}
 {"clase":"persona","id":"per:istvan-monok","nombre":"István Monok","tipo":"autoridades","variantes":["Monok István"]}
 {"clase":"persona","id":"per:ivan-drenovacki","nombre":"Ivan Drenovački","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:ivan-drugnic","nombre":"Ivan Drugnić","tipo":"autoridades","variantes":["Drwghnyczy","Drugnetius","Drugnicius","Trugnitius Johannes Illyricus"]}
@@ -79,12 +85,14 @@
 {"clase":"persona","id":"per:ivanyi-bela","nombre":"Iványi Béla","tipo":"autoridades","variantes":["Béla Iványi"]}
 {"clase":"persona","id":"per:jakob-salb","nombre":"Jakob Salb","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:jankovich-miklos","nombre":"Jankovich Miklós","tipo":"autoridades","variantes":["Miklós Jankovich"]}
+{"clase":"persona","id":"per:janos-zalai-referido-1570","nombre":"János Zalai (mención de mayo de 1570)","tipo":"autoridades","variantes":["Zalaÿ Janus"]}
 {"clase":"persona","id":"per:jean-aubry","nombre":"Jean Aubry","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:jelena-mrgic","nombre":"Jelena Mrgić-Radojčić","tipo":"autoridades","variantes":["Jelena Mrgić"]}
 {"clase":"persona","id":"per:jerney-janos","nombre":"Jerney János","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:joannes-barazowich","nombre":"Joannes Barazowich","tipo":"autoridades","variantes":["Barazovics János","Brazovics János"]}
 {"clase":"persona","id":"per:johannes-miholch","nombre":"Johannes, párroco de Miholch","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:jovan-malesevac","nombre":"Jovan Maleševac","tipo":"autoridades","variantes":["Ivan Maleševac"]}
+{"clase":"persona","id":"per:joven-croata-9082","nombre":"Joven croata no identificado (lectura provisional de P 1314/9082)","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:jozsef-csermelyi","nombre":"József Csermelyi","tipo":"autoridades","variantes":["Csermelyi József"]}
 {"clase":"persona","id":"per:julg-bernat","nombre":"Jülg Bernát","tipo":"autoridades","variantes":["Bernhard Jülg"]}
 {"clase":"persona","id":"per:juraj-dornovitsch","nombre":"Juraj Dornovitsch","tipo":"autoridades","variantes":[]}
@@ -135,6 +143,7 @@
 {"clase":"persona","id":"per:pribisav-dijak","nombre":"Pribisav","tipo":"autoridades","variantes":["Pribisav dijak"]}
 {"clase":"persona","id":"per:primoz-trubar","nombre":"Primož Trubar","tipo":"autoridades","variantes":["Primus Truber"]}
 {"clase":"persona","id":"per:rozsondai-bela","nombre":"Rozsondai Béla","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:sacerdote-9082","nombre":"Sacerdote no identificado (P 1314/9082)","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:samuel-straler","nombre":"Samuel Sträler","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:sche-del-ferenc","nombre":"Schedel Ferenc","tipo":"autoridades","variantes":["Toldy Ferenc","Ferenc Toldy","Ferenc Schedel"]}
 {"clase":"persona","id":"per:sebastian-kempgen","nombre":"Sebastian Kempgen","tipo":"autoridades","variantes":[]}
