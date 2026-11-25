@@ -21,6 +21,7 @@
 {"clase":"lugar","id":"lugar:nedelisce","nombre":"Nedelišće","tipo":"autoridades","variantes":["Nedelišče"]}
 {"clase":"lugar","id":"lugar:pest","nombre":"Pest","tipo":"autoridades","variantes":[]}
 {"clase":"lugar","id":"lugar:podturen-murakoz","nombre":"Podturen (Muraköz, Croacia)","tipo":"autoridades","variantes":["Mwrakez Thoron","Turnišče","Turnišće","Tornische"]}
+{"clase":"lugar","id":"lugar:porno","nombre":"Pornó (Pornóapáti)","tipo":"autoridades","variantes":["Pornóapáti","Porno","Pornovium"]}
 {"clase":"lugar","id":"lugar:regensburg","nombre":"Regensburg","tipo":"autoridades","variantes":["Ratisbona"]}
 {"clase":"lugar","id":"lugar:remete","nombre":"Remete (Zagreb)","tipo":"autoridades","variantes":[]}
 {"clase":"lugar","id":"lugar:rohonc","nombre":"Rohonc","tipo":"autoridades","variantes":["Rohoncz","Rechnitz"]}
@@ -33,8 +34,10 @@
 {"clase":"persona","id":"per:adam-baltazar-krcelic","nombre":"Adam Baltazar Krčelić","tipo":"autoridades","variantes":["Adam Balthasar Kercselich"]}
 {"clase":"persona","id":"per:ambrosius-froehlich","nombre":"Ambrosius Fröhlich","tipo":"autoridades","variantes":["Ambroz Fröhlich"]}
 {"clase":"persona","id":"per:andras-koltai","nombre":"Koltai András","tipo":"autoridades","variantes":["András Koltai"]}
+{"clase":"persona","id":"per:andras-pornozi","nombre":"András Pornózi","tipo":"autoridades","variantes":["Pornózi András"]}
 {"clase":"persona","id":"per:andreas-froehlich-baumgarten","nombre":"Andreas Fröhlich (párroco de Baumgarten)","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:andreas-mayken","nombre":"Andreas Mayken","tipo":"autoridades","variantes":["Andreas Maiken","Andreas presbiter Maiken"]}
+{"clase":"persona","id":"per:antal-verancsics","nombre":"Antal Verancsics","tipo":"autoridades","variantes":["Antun Vrančić"]}
 {"clase":"persona","id":"per:anton-lesce","nombre":"Anton de Lešće","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:antun-bocic","nombre":"Antun Bočić","tipo":"autoridades","variantes":["Anton Bodčić"]}
 {"clase":"persona","id":"per:antun-dalmatin","nombre":"Antun Dalmatin","tipo":"autoridades","variantes":["Anton Dalmata","Antun Dalmata"]}
@@ -85,8 +88,11 @@
 {"clase":"persona","id":"per:hijo-ferenc-ispan-1570","nombre":"Hijo no identificado de Ferenc ispán (enero de 1570)","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:hunfalvy-pal","nombre":"Hunfalvy Pál","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:hursan-szabolcs","nombre":"Hursán Szabolcs","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:ilona-radeczy","nombre":"Ilona Radéczy","tipo":"autoridades","variantes":["Radéczy Ilona"]}
 {"clase":"persona","id":"per:istvan-akacs","nombre":"István Akács","tipo":"autoridades","variantes":["Akách István","Akach Jstuan"]}
+{"clase":"persona","id":"per:istvan-csemetei-ii","nombre":"István Csemetei II","tipo":"autoridades","variantes":["Chemetey István","Csemetei István"]}
 {"clase":"persona","id":"per:istvan-monok","nombre":"István Monok","tipo":"autoridades","variantes":["Monok István"]}
+{"clase":"persona","id":"per:istvan-radeczy","nombre":"István Radéczy","tipo":"autoridades","variantes":["Radéczy István","Stephanus Radecius"]}
 {"clase":"persona","id":"per:ivan-drenovacki","nombre":"Ivan Drenovački","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:ivan-drugnic","nombre":"Ivan Drugnić","tipo":"autoridades","variantes":["Drwghnyczy","Drugnetius","Drugnicius","Trugnitius Johannes Illyricus"]}
 {"clase":"persona","id":"per:ivan-kostrencic","nombre":"Ivan Kostrenčić","tipo":"autoridades","variantes":["Ivan Kostrencic"]}
@@ -95,6 +101,7 @@
 {"clase":"persona","id":"per:jakab-tiszttarto-monyorokerek","nombre":"Jakab, administrador de Monyorókerék (1570)","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:jakob-salb","nombre":"Jakob Salb","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:jankovich-miklos","nombre":"Jankovich Miklós","tipo":"autoridades","variantes":["Miklós Jankovich"]}
+{"clase":"persona","id":"per:janos-ellerbach","nombre":"János Ellerbach","tipo":"autoridades","variantes":["Ellerbach János"]}
 {"clase":"persona","id":"per:janos-zalai-referido-1570","nombre":"János Zalai (mención de mayo de 1570)","tipo":"autoridades","variantes":["Zalaÿ Janus"]}
 {"clase":"persona","id":"per:jean-aubry","nombre":"Jean Aubry","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:jelena-mrgic","nombre":"Jelena Mrgić-Radojčić","tipo":"autoridades","variantes":["Jelena Mrgić"]}
@@ -129,6 +136,7 @@
 {"clase":"persona","id":"per:matija-zivcic","nombre":"Matija Živčič","tipo":"autoridades","variantes":["Mathes Schwischitz"]}
 {"clase":"persona","id":"per:matous-collinus","nombre":"Matouš Collinus z Chotěřiny","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:michael-presbyter-thoron","nombre":"Michael presbyter","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:mihaly-verancsics","nombre":"Mihály Verancsics","tipo":"autoridades","variantes":["Mihovil Vrančić"]}
 {"clase":"persona","id":"per:miklos-deak-1571","nombre":"Miklós deák","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:mikula-kolaric","nombre":"Mikula Kolarić","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:nagy-karoly","nombre":"Nagy Károly","tipo":"autoridades","variantes":["Károly Nagy"]}
@@ -156,6 +164,7 @@
 {"clase":"persona","id":"per:porhocs-mark","nombre":"Porhócs Márk","tipo":"autoridades","variantes":["Marcus Poroch","Marcus Porhoch"]}
 {"clase":"persona","id":"per:pribisav-dijak","nombre":"Pribisav","tipo":"autoridades","variantes":["Pribisav dijak"]}
 {"clase":"persona","id":"per:primoz-trubar","nombre":"Primož Trubar","tipo":"autoridades","variantes":["Primus Truber"]}
+{"clase":"persona","id":"per:raphael-vianucius","nombre":"Raphael Vianucius","tipo":"autoridades","variantes":["Raphaelem Vianucium"]}
 {"clase":"persona","id":"per:rozsondai-bela","nombre":"Rozsondai Béla","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:sacerdote-9082","nombre":"Sacerdote no identificado (P 1314/9082)","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:samuel-straler","nombre":"Samuel Sträler","tipo":"autoridades","variantes":[]}

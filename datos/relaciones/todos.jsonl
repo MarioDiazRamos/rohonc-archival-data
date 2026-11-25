@@ -27,6 +27,7 @@
 {"fuente_id":"src:p1314-31226","id":"rel:31226-sibrik","objeto_id":"per:sibrik-matyas","predicado":"dirigida_a","sujeto_id":"src:p1314-31226","tipo":"relaciones"}
 {"fuente_id":"src:p1314-3141","id":"rel:3141-nadasdy","objeto_id":"per:ferenc-nadasdy-1588","predicado":"corremitente_segun_catalogo","sujeto_id":"src:p1314-3141","tipo":"relaciones"}
 {"fuente_id":"src:p1314-3839","id":"rel:3839-svetkovics","objeto_id":"per:svetkovics-katalin","predicado":"remitida_por","sujeto_id":"src:p1314-3839","tipo":"relaciones"}
+{"fuente_id":"src:terbe2010","id":"rel:3958-pornozi","objeto_id":"per:andras-pornozi","predicado":"autor_de_cartas_remitidas_segun_edicion","sujeto_id":"src:p1314-3958","tipo":"relaciones"}
 {"fuente_id":"src:hursan2025","id":"rel:4","objeto_id":"src:bibl2","predicado":"catalogado_en","sujeto_id":"ent:1813:kezai","tipo":"relaciones"}
 {"fuente_id":"src:terbe2010","id":"rel:4022-chenczi-tamas-referido","objeto_id":"per:chenczi-tamas-referido","predicado":"servidor_mencionado_en_edicion","sujeto_id":"src:p1314-4022","tipo":"relaciones"}
 {"fuente_id":"src:terbe2010","id":"rel:4022-ferenc-ispan-gussing","objeto_id":"per:ferenc-ispan-gussing","predicado":"persona_mencionada_en_edicion","sujeto_id":"src:p1314-4022","tipo":"relaciones"}
@@ -66,6 +67,8 @@
 {"fuente_id":"src:monok2004-batthyany","id":"rel:comestor-paderborn-gussing","objeto_id":"src:gussing3-188","predicado":"ejemplar_distinto_de_la_misma_edicion_catalogada","sujeto_id":"src:comestor1503-paderborn","tipo":"relaciones"}
 {"fuente_id":"src:ivanyi1947-korrektura","id":"rel:corvinus1577-continuidad","objeto_id":"src:p1314-8099","predicado":"continuidad_del_encargo_segun_ivanyi","sujeto_id":"src:corvinus1577-09-27","tipo":"relaciones"}
 {"fuente_id":"src:galambosi2021-csatar","id":"rel:csatar-zrinyi1562","objeto_id":"per:zrinyi-miklos-1508","predicado":"dominio_segun_estudio","sujeto_id":"lugar:csatar","tipo":"relaciones"}
+{"fuente_id":"src:kota2019-apati","id":"rel:csemetei-ilona","objeto_id":"per:ilona-radeczy","predicado":"matrimonio_segun_estudio","sujeto_id":"per:istvan-csemetei-ii","tipo":"relaciones"}
+{"fuente_id":"src:kota2019-apati","id":"rel:csemetei-porno1587","objeto_id":"lugar:porno","predicado":"administrador_referido_en_1587","sujeto_id":"per:istvan-csemetei-ii","tipo":"relaciones"}
 {"fuente_id":"src:bsb-croacia","id":"rel:desic-zrinyi","objeto_id":"per:zrinyi-miklos-1508","predicado":"vinculo_cortesano_segun_ficha","sujeto_id":"per:nikola-desic","tipo":"relaciones"}
 {"fuente_id":"src:bobory2009-sword","id":"rel:dorica-boldizsar-matrimonio","objeto_id":"per:batthyany-boldizsar","predicado":"matrimonio_documentado","sujeto_id":"per:zrinyi-dorica","tipo":"relaciones"}
 {"fuente_id":"src:bobory2009-sword","id":"rel:dorica-miklos-padre","objeto_id":"per:zrinyi-miklos-1508","predicado":"hija_de","sujeto_id":"per:zrinyi-dorica","tipo":"relaciones"}
@@ -76,6 +79,8 @@
 {"fuente_id":"src:hbl-drugnic1993","id":"rel:drugnic-collinus","objeto_id":"per:matous-collinus","predicado":"destinatario_referido","sujeto_id":"src:melanchthon1557-drugnic","tipo":"relaciones"}
 {"fuente_id":"src:hbl-drugnic1993","id":"rel:drugnic-melanchthon","objeto_id":"per:philipp-melanchthon","predicado":"recomendado_por","sujeto_id":"per:ivan-drugnic","tipo":"relaciones"}
 {"fuente_id":"src:hbl-drugnic1993","id":"rel:drugnic-nadasdy","objeto_id":"per:tamas-nadasdy-1498","predicado":"destinatario_referido","sujeto_id":"src:melanchthon1557-drugnic","tipo":"relaciones"}
+{"fuente_id":"src:racz-jak-kegyurak","id":"rel:ellerbach-testamento","objeto_id":"per:janos-ellerbach","predicado":"testador_segun_estudio","sujeto_id":"src:ellerbach1499-dl19510","tipo":"relaciones"}
+{"fuente_id":"src:repertorio-erdody-a-i-26","id":"rel:erdody-fasc22-x9139","objeto_id":"src:erdody-x9139","predicado":"procedencia_archivistica_referida","sujeto_id":"src:erdody-eberau-fasc22","tipo":"relaciones"}
 {"fuente_id":"src:szelestey-jak-cronica","id":"rel:ferenc-csatar","objeto_id":"lugar:csatar","predicado":"abad_atribuido_en_cronica","sujeto_id":"per:ferenc-abad-csatar","tipo":"relaciones"}
 {"fuente_id":"src:terbe2010","id":"rel:ferenc-ispan-hijo","objeto_id":"per:ferenc-ispan-gussing","predicado":"hijo_segun_edicion","sujeto_id":"per:hijo-ferenc-ispan-1570","tipo":"relaciones"}
 {"fuente_id":"src:fischer1889","id":"rel:fischer-toldy1852","objeto_id":"src:toldy1852-irodalom","predicado":"cita_bibliografica","sujeto_id":"src:fischer1889","tipo":"relaciones"}
@@ -89,9 +94,11 @@
 {"fuente_id":"src:monok2004-batthyany","id":"rel:gussing5-63-batthyany","objeto_id":"per:batthyany-boldizsar","predicado":"inscripcion_posesion_atribuida","sujeto_id":"src:gussing5-63","tipo":"relaciones"}
 {"fuente_id":"src:ivanyi1983-hiller","id":"rel:hiller-19370","objeto_id":"per:erhardt-hiller","predicado":"carta_de","sujeto_id":"src:p1314-19370","tipo":"relaciones"}
 {"fuente_id":"src:ivanyi1983-hiller","id":"rel:hiller-19376","objeto_id":"per:erhardt-hiller","predicado":"factura_de","sujeto_id":"src:p1314-19376","tipo":"relaciones"}
+{"fuente_id":"src:kota2019-apati","id":"rel:ilona-radeczy","objeto_id":"per:istvan-radeczy","predicado":"sobrina_segun_estudio","sujeto_id":"per:ilona-radeczy","tipo":"relaciones"}
 {"fuente_id":"src:hbl-erdody-petar-ii","id":"rel:ivan-drenovacki-erdody","objeto_id":"per:petar-erdody-ii","predicado":"servicio_documentado_segun_estudio","sujeto_id":"per:ivan-drenovacki","tipo":"relaciones"}
 {"fuente_id":"src:szelestey-jak-cronica","id":"rel:jak-ferenc","objeto_id":"lugar:jak","predicado":"sucesor_abacial_atribuido_en_cronica","sujeto_id":"per:ferenc-abad-csatar","tipo":"relaciones"}
 {"fuente_id":"src:szelestey-jak-cronica","id":"rel:jak-gombos","objeto_id":"lugar:jak","predicado":"abad_atribuido_en_cronica","sujeto_id":"per:balazs-gombos-abad","tipo":"relaciones"}
+{"fuente_id":"src:racz-jak-kegyurak","id":"rel:jak-porno-legado1499","objeto_id":"lugar:porno","predicado":"beneficiarios_de_legado_referido_en_1499","sujeto_id":"lugar:jak","tipo":"relaciones"}
 {"fuente_id":"src:racz-jak-kegyurak","id":"rel:jak-zrinyi-dominio","objeto_id":"per:zrinyi-miklos-1508","predicado":"dominio_zrinyi_referido_desde_1557","sujeto_id":"lugar:jak","tipo":"relaciones"}
 {"fuente_id":"src:terbe2010","id":"rel:jakab-monyorokerek","objeto_id":"lugar:monyorokerek","predicado":"cargo_segun_lectura_comunicada","sujeto_id":"per:jakab-tiszttarto-monyorokerek","tipo":"relaciones"}
 {"fuente_id":"src:hbl-juricic","id":"rel:juricic-cvecic","objeto_id":"per:juraj-cvecic","predicado":"colaboracion_editorial_referida","sujeto_id":"per:juraj-juricic","tipo":"relaciones"}
@@ -123,6 +130,7 @@
 {"fuente_id":"src:ivanyi1990-reforma","id":"rel:pomagaics-25-mark","objeto_id":"per:porhocs-mark","predicado":"menciona_a","sujeto_id":"src:ivanyi1990-1550-12-13","tipo":"relaciones"}
 {"fuente_id":"src:ivanyi1990-reforma","id":"rel:pomagaics-27-mark","objeto_id":"per:porhocs-mark","predicado":"menciona_a","sujeto_id":"src:ivanyi1990-1551-01-09","tipo":"relaciones"}
 {"fuente_id":"src:ivanyi1990-reforma","id":"rel:pomagaics-28-mark","objeto_id":"per:porhocs-mark","predicado":"menciona_a","sujeto_id":"src:ivanyi1990-1551-02-05","tipo":"relaciones"}
+{"fuente_id":"src:kota2019-apati","id":"rel:porno-radeczy1568","objeto_id":"lugar:porno","predicado":"destinatario_de_orden_de_entrega","sujeto_id":"per:istvan-radeczy","tipo":"relaciones"}
 {"fuente_id":"src:csermelyi2018-weispriach","id":"rel:postila1568-dalmatin","objeto_id":"per:antun-dalmatin","predicado":"traduccion_compartida_segun_estudio","sujeto_id":"src:konzul-dalmatin1568-postila","tipo":"relaciones"}
 {"fuente_id":"src:vorosmarty1977-t16","id":"rel:ral142-edicion1977","objeto_id":"src:vorosmarty1977-t16","predicado":"texto_publicado_en","sujeto_id":"src:ral142-1840","tipo":"relaciones"}
 {"fuente_id":"src:ral307-1840","id":"rel:ral307-a695","objeto_id":"src:a695","predicado":"reproducido_en","sujeto_id":"src:ral307-1840","tipo":"relaciones"}
@@ -132,7 +140,9 @@
 {"fuente_id":"src:frater1987","id":"rel:ral97-k1393-tema","objeto_id":"src:actas-k1393","predicado":"concordancia_fecha_y_asunto_no_identidad_material","sujeto_id":"src:ral97-1839","tipo":"relaciones"}
 {"fuente_id":"src:vrecko2015-pisma","id":"rel:si-as2-92-54-7-1-trubar","objeto_id":"src:uat8-3-54","predicado":"testimonio_referido_en_edicion","sujeto_id":"src:si-as2-92-54-7-1","tipo":"relaciones"}
 {"fuente_id":"src:rozsondai2024","id":"rel:soproni-literati","objeto_id":"per:literati-nemes","predicado":"inscripcion_de_posesion_atribuida","sujeto_id":"src:soproni-vegyes4r63","tipo":"relaciones"}
+{"fuente_id":"src:hathitrust-soros1912","id":"rel:soros-hathitrust","objeto_id":"src:hathitrust-soros1912","predicado":"ficha_de_ejemplar_digitalizado","sujeto_id":"src:soros1912-apatsagok","tipo":"relaciones"}
 {"fuente_id":"src:vrecko2015-pisma","id":"rel:stuttgart-trubar1562-copia-trubar","objeto_id":"src:uat8-3-54","predicado":"testimonio_referido_en_edicion","sujeto_id":"src:stuttgart-trubar1562-copia","tipo":"relaciones"}
+{"fuente_id":"src:terbe2010","id":"rel:svetkovics-porno1568","objeto_id":"lugar:porno","predicado":"estancia_documentada_en_cartas","sujeto_id":"per:svetkovics-katalin","tipo":"relaciones"}
 {"fuente_id":"src:athenaeum1840-2","id":"rel:tageblatt-athenaeum","objeto_id":"src:pesther-tageblatt1840","predicado":"cita_como_fuente","sujeto_id":"src:athenaeum1840-2","tipo":"relaciones"}
 {"fuente_id":"src:hursan2019teleki","id":"rel:tort223-nagy","objeto_id":"per:nagy-karoly","predicado":"correspondencia_de_segun_estudio","sujeto_id":"src:tort223","tipo":"relaciones"}
 {"fuente_id":"src:vrecko2015-pisma","id":"rel:trubar1562-fabian-kirchperger","objeto_id":"per:fabian-kirchperger","predicado":"distribuidor_mencionado","sujeto_id":"src:uat8-3-54","tipo":"relaciones"}
@@ -165,5 +175,7 @@
 {"fuente_id":"src:grull-monok1992-urach","id":"rel:urach-sopron-33","objeto_id":"src:urach-sopron-entrada-33","predicado":"entrada_bibliografica_referida","sujeto_id":"src:sopron-lad12-m7-297","tipo":"relaciones"}
 {"fuente_id":"src:grull-monok1992-urach","id":"rel:urach-sopron-34","objeto_id":"src:urach-sopron-entrada-34","predicado":"entrada_bibliografica_referida","sujeto_id":"src:sopron-lad12-m7-297","tipo":"relaciones"}
 {"fuente_id":"src:grull-monok1992-urach","id":"rel:urach-sopron-35","objeto_id":"src:urach-sopron-entrada-35","predicado":"entrada_bibliografica_referida","sujeto_id":"src:sopron-lad12-m7-297","tipo":"relaciones"}
+{"fuente_id":"src:verancsics1870-cartas","id":"rel:vianucius-forgach1567","objeto_id":"per:forgach-ferenc","predicado":"apoyo_segun_lectura_comunicada","sujeto_id":"per:raphael-vianucius","tipo":"relaciones"}
+{"fuente_id":"src:verancsics1870-cartas","id":"rel:vianucius-porno1567","objeto_id":"lugar:porno","predicado":"beneficio_segun_lectura_comunicada","sujeto_id":"per:raphael-vianucius","tipo":"relaciones"}
 {"fuente_id":"src:jembrih-konzul2007","id":"rel:vlahovic-frankopan","objeto_id":"per:nikola-frankopan-trzacki","predicado":"entrega_de_libros_referida","sujeto_id":"per:grgur-vlahovic","tipo":"relaciones"}
 {"fuente_id":"src:rajsp2015-reforma","id":"rel:zivcic-gallenberg","objeto_id":"per:jost-gallenberg","predicado":"correspondencia_referida","sujeto_id":"per:matija-zivcic","tipo":"relaciones"}
