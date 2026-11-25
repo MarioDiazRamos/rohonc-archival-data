@@ -65,6 +65,7 @@
 {"fuente_id":"src:terbe2010","id":"rel:chen-batthyany-servicio","objeto_id":"per:batthyany-boldizsar","predicado":"servidor_segun_edicion","sujeto_id":"per:chenczi-tamas-referido","tipo":"relaciones"}
 {"fuente_id":"src:monok2004-batthyany","id":"rel:comestor-paderborn-gussing","objeto_id":"src:gussing3-188","predicado":"ejemplar_distinto_de_la_misma_edicion_catalogada","sujeto_id":"src:comestor1503-paderborn","tipo":"relaciones"}
 {"fuente_id":"src:ivanyi1947-korrektura","id":"rel:corvinus1577-continuidad","objeto_id":"src:p1314-8099","predicado":"continuidad_del_encargo_segun_ivanyi","sujeto_id":"src:corvinus1577-09-27","tipo":"relaciones"}
+{"fuente_id":"src:galambosi2021-csatar","id":"rel:csatar-zrinyi1562","objeto_id":"per:zrinyi-miklos-1508","predicado":"dominio_segun_estudio","sujeto_id":"lugar:csatar","tipo":"relaciones"}
 {"fuente_id":"src:bsb-croacia","id":"rel:desic-zrinyi","objeto_id":"per:zrinyi-miklos-1508","predicado":"vinculo_cortesano_segun_ficha","sujeto_id":"per:nikola-desic","tipo":"relaciones"}
 {"fuente_id":"src:bobory2009-sword","id":"rel:dorica-boldizsar-matrimonio","objeto_id":"per:batthyany-boldizsar","predicado":"matrimonio_documentado","sujeto_id":"per:zrinyi-dorica","tipo":"relaciones"}
 {"fuente_id":"src:bobory2009-sword","id":"rel:dorica-miklos-padre","objeto_id":"per:zrinyi-miklos-1508","predicado":"hija_de","sujeto_id":"per:zrinyi-dorica","tipo":"relaciones"}
@@ -107,6 +108,7 @@
 {"fuente_id":"src:mrgic2004-povelja","id":"rel:kotromanic1329-pribisav","objeto_id":"per:pribisav-dijak","predicado":"escribano_segun_edicion","sujeto_id":"src:kotromanic1329-povelja","tipo":"relaciones"}
 {"fuente_id":"src:mrgic2004-povelja","id":"rel:kotromanic1329-stjepan","objeto_id":"per:stjepan-ii-kotromanic","predicado":"otorgante_segun_edicion","sujeto_id":"src:kotromanic1329-povelja","tipo":"relaciones"}
 {"fuente_id":"src:jembrih2025-decretum","id":"rel:krcelic-catecismo","objeto_id":"per:adam-baltazar-krcelic","predicado":"posesion_referida","sujeto_id":"src:krcelic-catecismo-incompleto","tipo":"relaciones"}
+{"fuente_id":"src:rajsp2015-reforma","id":"rel:lamella-zivcic","objeto_id":"per:matija-zivcic","predicado":"mediacion_para_colaboracion_referida","sujeto_id":"per:ivan-lamella","tipo":"relaciones"}
 {"fuente_id":"src:catalogo1984","id":"rel:literati-ral115","objeto_id":"per:literati-nemes","predicado":"lista_de_libros_ofrecidos_por","sujeto_id":"src:ral115-1841","tipo":"relaciones"}
 {"fuente_id":"src:monok2004-batthyany","id":"rel:ludolphus-fides-gussing","objeto_id":"src:gussing20-13b","predicado":"ejemplar_distinto_de_la_misma_edicion_catalogada","sujeto_id":"src:ludolphus1495-fides","tipo":"relaciones"}
 {"fuente_id":"src:ivanyi1990-reforma","id":"rel:mark-porhocs-kristof","objeto_id":"per:batthyany-kristof","predicado":"servidor_segun_carta","sujeto_id":"per:porhocs-mark","tipo":"relaciones"}
@@ -164,3 +166,4 @@
 {"fuente_id":"src:grull-monok1992-urach","id":"rel:urach-sopron-34","objeto_id":"src:urach-sopron-entrada-34","predicado":"entrada_bibliografica_referida","sujeto_id":"src:sopron-lad12-m7-297","tipo":"relaciones"}
 {"fuente_id":"src:grull-monok1992-urach","id":"rel:urach-sopron-35","objeto_id":"src:urach-sopron-entrada-35","predicado":"entrada_bibliografica_referida","sujeto_id":"src:sopron-lad12-m7-297","tipo":"relaciones"}
 {"fuente_id":"src:jembrih-konzul2007","id":"rel:vlahovic-frankopan","objeto_id":"per:nikola-frankopan-trzacki","predicado":"entrega_de_libros_referida","sujeto_id":"per:grgur-vlahovic","tipo":"relaciones"}
+{"fuente_id":"src:rajsp2015-reforma","id":"rel:zivcic-gallenberg","objeto_id":"per:jost-gallenberg","predicado":"correspondencia_referida","sujeto_id":"per:matija-zivcic","tipo":"relaciones"}

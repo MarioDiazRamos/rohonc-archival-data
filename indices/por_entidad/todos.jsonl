@@ -98,7 +98,7 @@
 {"clave":"inst:mta-kik","ids":["obj:k114","rel:1","rel:15","rel:16","rel:17","src:a1746-iii","src:a695","src:actas-k1303","src:actas-k1393","src:actas-k1394","src:actas-k1398","src:arcanum-cedkat-mtak","src:bibl1","src:bibl2","src:cat1743","src:catalogo1984","src:catpozsony1795","src:catvienna1805","src:codex-k114","src:codice-k114-catalogo","src:k1357","src:k801-1840-2","src:k801-1859-2","src:kurzweil1839","src:mta-diszmuvek274","src:muller1885-rohonc","src:nemeti-olvasasterve","src:nemeti1889-abc","src:ral-k1568","src:ral115-1841","src:ral142-1840","src:ral171-1839","src:ral218219-1840","src:ral232-1841","src:ral270-1840","src:ral307-1840","src:ral31-1838","src:ral36-1841","src:ral50-1840","src:ral72-1840","src:ral97-1839","src:reali2216","src:realms80","src:soproni-vegyes4r63","src:szechenyi1840-ago13-k21037","src:teleki1840-jul08-k166173","src:toldy-levtarcaja-realms","src:toldy1839-mayo12","src:toldy1839-mayo20","src:toldy1840-nov12","src:tort215a","src:tort223"]}
 {"clave":"inst:sopron-archivo","ids":["src:sopron-lad12-m7-297"]}
 {"clave":"inst:uat","ids":["src:uat-inventario-digital","src:uat8-3","src:uat8-3-54","src:uat8-4-77","src:uat8-5-5","src:uat8-6-1","src:uat8-6-cuenta-14","src:uat8-6-cuenta-15","src:uat8-6-cuenta-16","src:uat8-6-cuenta-49","src:uat8-6-cuenta-57","src:uat8-6-cuenta-80a","src:uat8-6-cuenta-99","src:uat8-6a-1","src:uat8-6a-2"]}
-{"clave":"lugar:csatar","ids":["rel:ferenc-csatar"]}
+{"clave":"lugar:csatar","ids":["af:csatar1562-dominio","rel:csatar-zrinyi1562","rel:ferenc-csatar"]}
 {"clave":"lugar:eisenstadt","ids":["evt:1568:konzul-eisenstadt","rel:konzul-eisenstadt"]}
 {"clave":"lugar:gussing","ids":["evt:1559:barazowich-rentas","evt:1570:4022-recomendacion","evt:1571:4056-queja","rel:barazowich-gussing"]}
 {"clave":"lugar:jak","ids":["af:1557-erdody-zrinyi-permuta","af:jak-parroquia-limite","af:jak-zrinyi1557-1613","af:jak1221-jaak","af:jak1562-fin-comunidad","af:jak1562-sucesion-abades","rel:jak-ferenc","rel:jak-gombos","rel:jak-zrinyi-dominio","src:p1314-3141"]}
@@ -159,6 +159,7 @@
 {"clave":"per:ivan-drenovacki","ids":["rel:drenovacki-ivan","rel:ivan-drenovacki-erdody","src:drenovacki-1563-01-20"]}
 {"clave":"per:ivan-drugnic","ids":["af:drugnic-zelin-atribucion","af:drugnic1557-recomendacion","evt:1557:drugnic-recomendacion","rel:drugnic-melanchthon"]}
 {"clave":"per:ivan-kostrencic","ids":["src:kostrencic1874-gh2472"]}
+{"clave":"per:ivan-lamella","ids":["af:lamella-critica1562","af:lamella-zivcic1562","rel:lamella-zivcic"]}
 {"clave":"per:ivanyi-bela","ids":["af:ivanyi:marcas-barath2022","af:ivanyi:p1314-organizacion","af:ivanyi:subrayados-vadas2022","src:ivanyi1947-korrektura","src:ivanyi1990-reforma"]}
 {"clave":"per:jakab-tiszttarto-monyorokerek","ids":["rel:4046-jakab","rel:jakab-monyorokerek"]}
 {"clave":"per:jakob-salb","ids":["af:urach-salb-disenos","rel:urach-jakob-salb"]}
@@ -168,6 +169,7 @@
 {"clave":"per:jerney-janos","ids":["af:1840:a695-numismatica","af:1840:evkonyv-turoc","src:jerney1844"]}
 {"clave":"per:joannes-barazowich","ids":["af:1559-barazowich-parroco","evt:1559:barazowich-rentas","rel:barazowich-ferenc","rel:barazowich-gussing"]}
 {"clave":"per:johannes-miholch","ids":["src:ivanyi1990-1558-10-10"]}
+{"clave":"per:jost-gallenberg","ids":["rel:zivcic-gallenberg"]}
 {"clave":"per:jovan-malesevac","ids":["af:urach1561-correctores","rel:urach-correctores","rel:urach-jovan-malesevac"]}
 {"clave":"per:joven-croata-9082","ids":["af:9082-hijo-ferenc-cotejo","rel:9082-joven-lectura"]}
 {"clave":"per:jozsef-csermelyi","ids":["src:csermelyi2018-weispriach"]}
@@ -188,6 +190,7 @@
 {"clave":"per:martinus-toroniensis","ids":["af:1551-martinus-escuela","src:ivanyi1990-1551-09-17"]}
 {"clave":"per:matija-pomazanic","ids":["rel:kolaric-pomazanic"]}
 {"clave":"per:matija-popovic","ids":["rel:urach-correctores","rel:urach-matija-popovic"]}
+{"clave":"per:matija-zivcic","ids":["rel:lamella-zivcic","rel:zivcic-gallenberg"]}
 {"clave":"per:matous-collinus","ids":["rel:drugnic-collinus"]}
 {"clave":"per:michael-presbyter-thoron","ids":["rel:1551-thoron-michael"]}
 {"clave":"per:miklos-deak-1571","ids":["rel:31226-miklos"]}
@@ -233,7 +236,7 @@
 {"clave":"per:zagar-mateo","ids":["src:zagar2019-correctores","src:zagar2021-urach"]}
 {"clave":"per:zrinyi-dorica","ids":["af:1566-zrinyi-batthyany-matrimonio","evt:1566:matrimonio-dorica","rel:dorica-boldizsar-matrimonio","rel:dorica-miklos-padre","src:p1314-2058","src:p1314-2062","src:p1314-2067","src:p1314-2082","src:p1314-2084","src:p1314-2088"]}
 {"clave":"per:zrinyi-gyorgy","ids":["rel:53580-zrinyi"]}
-{"clave":"per:zrinyi-miklos-1508","ids":["af:1563-zrinyi-libros-urach","evt:1563:froehlich-zrinyi","rel:desic-zrinyi","rel:dorica-miklos-padre","rel:jak-zrinyi-dominio","rel:trubar1562-zrinyi-miklos-1508","rel:uat8-4-101-zrinyi"]}
+{"clave":"per:zrinyi-miklos-1508","ids":["af:1563-zrinyi-libros-urach","evt:1563:froehlich-zrinyi","rel:csatar-zrinyi1562","rel:desic-zrinyi","rel:dorica-miklos-padre","rel:jak-zrinyi-dominio","rel:trubar1562-zrinyi-miklos-1508","rel:uat8-4-101-zrinyi"]}
 {"clave":"per:zrinyi-peter","ids":["evt:1644:torniscsa-venta"]}
 {"clave":"src:a1746-iii","ids":["af:1839:a1746-rohonc137","ni:a1746-k1393","rel:a1746-218219"]}
 {"clave":"src:a695","ids":["af:1840:a695-clasificacion-fondo","af:1840:a695-turoc","ni:a695-ral218219-fechas","rel:a695-kisber","rel:a695-rohonc","rel:ral307-a695","src:ral307-1840"]}
@@ -242,6 +245,7 @@
 {"clave":"src:actas-k1394","ids":["af:1840:k1393-k1394-corte-acotado","af:1841:k1394-8nov","af:1841:k1394-jun14","af:1842:k1394-mar07","af:1843:k1394-156","af:2024:czinege-intervalo-k1393-k1394","evt:1841:k1394-jun14"]}
 {"clave":"src:actas-k1398","ids":["rel:1846:k114-k1398"]}
 {"clave":"src:athenaeum1840-2","ids":["rel:athenaeum-nemes","rel:tageblatt-athenaeum"]}
+{"clave":"src:barabas1561-cxxiii","ids":["af:barabas1561-refugiados-croatas"]}
 {"clave":"src:berynda1631-triod","ids":["af:kempgen-ornamento-criptografico"]}
 {"clave":"src:bibl1","ids":["rel:15"]}
 {"clave":"src:bibl2","ids":["rel:16","rel:4","rel:5","rel:6"]}

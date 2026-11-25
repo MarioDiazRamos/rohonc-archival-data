@@ -28,7 +28,8 @@
 {"clave":"1559-09-04","ids":["evt:1559:barazowich-rentas","src:ivanyi1990-1559-09-04"]}
 {"clave":"1559–1563","ids":["src:uat8-3"]}
 {"clave":"1560","ids":["src:konzul1560-autografo","src:raj-duse1560","src:uat8-3"]}
-{"clave":"1561","ids":["evt:1561:urach-envio-viena","evt:1561:urach-inicio-inventario","src:sopron-lad12-m7-297","src:tabla-za-dicu1561","src:uat8-3","src:uat8-5-5","src:uat8-6-1","src:uat8-6-cuenta-15","src:uat8-6-cuenta-16","src:uat8-6-cuenta-57","src:uat8-6-cuenta-80a","src:uat8-6-cuenta-99","src:uat8-6a-1","src:urach-sopron-entrada-1","src:urach-sopron-entrada-2","src:urach-sopron-entrada-33","src:urach-sopron-entrada-34","src:urach-sopron-entrada-35"]}
+{"clave":"1561","ids":["evt:1561:urach-envio-viena","evt:1561:urach-inicio-inventario","src:barabas1561-cxxiii","src:sopron-lad12-m7-297","src:tabla-za-dicu1561","src:uat8-3","src:uat8-5-5","src:uat8-6-1","src:uat8-6-cuenta-15","src:uat8-6-cuenta-16","src:uat8-6-cuenta-57","src:uat8-6-cuenta-80a","src:uat8-6-cuenta-99","src:uat8-6a-1","src:urach-sopron-entrada-1","src:urach-sopron-entrada-2","src:urach-sopron-entrada-33","src:urach-sopron-entrada-34","src:urach-sopron-entrada-35"]}
+{"clave":"1561-03-28","ids":["src:barabas1561-cxxiii"]}
 {"clave":"1561-07-12","ids":["src:uat8-6-cuenta-15"]}
 {"clave":"1561-07-27","ids":["src:uat8-6-cuenta-16"]}
 {"clave":"1561-09-09","ids":["evt:1561:urach-inicio-inventario"]}
@@ -38,7 +39,9 @@
 {"clave":"1561–1562","ids":["src:uat8-6-1"]}
 {"clave":"1561–1563","ids":["src:uat8-5-5","src:uat8-6a-1"]}
 {"clave":"1561–1565","ids":["src:sopron-lad12-m7-297","src:urach-sopron-entrada-1","src:urach-sopron-entrada-2","src:urach-sopron-entrada-33","src:urach-sopron-entrada-34","src:urach-sopron-entrada-35"]}
-{"clave":"1562","ids":["src:ivanyi1990-1562-10-20","src:sopron-lad12-m7-297","src:uat8-3","src:uat8-3-54","src:uat8-5-5","src:uat8-6-1","src:uat8-6a-1","src:urach-nt-glagolitico1562","src:urach-sopron-entrada-1","src:urach-sopron-entrada-2","src:urach-sopron-entrada-33","src:urach-sopron-entrada-34","src:urach-sopron-entrada-35"]}
+{"clave":"1562","ids":["src:barabas1562-cxxix","src:barabas1562-cxxvi","src:ivanyi1990-1562-10-20","src:sopron-lad12-m7-297","src:uat8-3","src:uat8-3-54","src:uat8-5-5","src:uat8-6-1","src:uat8-6a-1","src:urach-nt-glagolitico1562","src:urach-sopron-entrada-1","src:urach-sopron-entrada-2","src:urach-sopron-entrada-33","src:urach-sopron-entrada-34","src:urach-sopron-entrada-35"]}
+{"clave":"1562-02-16","ids":["src:barabas1562-cxxvi"]}
+{"clave":"1562-03-15","ids":["src:barabas1562-cxxix"]}
 {"clave":"1562-07-19","ids":["src:uat8-3-54"]}
 {"clave":"1562-10-20","ids":["src:ivanyi1990-1562-10-20"]}
 {"clave":"1563","ids":["evt:1563:drenovacki-recomendacion","evt:1563:froehlich-zrinyi","src:drenovacki-1563-01-20","src:drenovacki-1563-11-14","src:drenovacki-1563-12-10","src:ivanyi1990-1563-06-25","src:sopron-lad12-m7-297","src:uat8-3","src:uat8-4-101","src:uat8-4-77","src:uat8-5-5","src:uat8-6a-1","src:uat8-6a-2","src:urach-nt-cirilico1563","src:urach-nt-glagolitico1563","src:urach-sopron-entrada-1","src:urach-sopron-entrada-2","src:urach-sopron-entrada-33","src:urach-sopron-entrada-34","src:urach-sopron-entrada-35","src:urach-testimonio-bocic","src:urach-testimonio-cuatro-parrocos","src:urach-testimonio-frankopan","src:urach-testimonio-kolaric","src:urach-testimonio-krajacic"]}
@@ -272,7 +275,7 @@
 {"clave":"1897","ids":["src:arcanum-cedkat-mtak"]}
 {"clave":"1898","ids":["evt:1898:comision-rohonc","src:arcanum-cedkat-mtak","src:ral-k1568"]}
 {"clave":"1898-11-12","ids":["evt:1898:comision-rohonc"]}
-{"clave":"1899","ids":["src:arcanum-cedkat-mtak","src:toth1899"]}
+{"clave":"1899","ids":["src:arcanum-cedkat-mtak","src:barabas1899-zrinyi2","src:toth1899"]}
 {"clave":"1900","ids":["src:arcanum-cedkat-mtak"]}
 {"clave":"1901","ids":["src:arcanum-cedkat-mtak"]}
 {"clave":"1902","ids":["src:arcanum-cedkat-mtak"]}
@@ -358,12 +361,12 @@
 {"clave":"2010","ids":["src:adattar2010-magankonyvtarak","src:carbo-study","src:terbe2010"]}
 {"clave":"2011","ids":["src:jembrih2011-klimpuh"]}
 {"clave":"2012","ids":["src:koltai2012-adam"]}
-{"clave":"2015","ids":["src:kempgen2015-ornamento","src:koppany2015-kastely","src:vrecko2015-pisma"]}
+{"clave":"2015","ids":["src:kempgen2015-ornamento","src:koppany2015-kastely","src:rajsp2015-reforma","src:vrecko2015-pisma"]}
 {"clave":"2016","ids":["src:reali2216"]}
 {"clave":"2018","ids":["src:csermelyi2018-weispriach","src:orban2018"]}
 {"clave":"2019","ids":["src:hursan2019catalogo","src:hursan2019teleki","src:jembrih2019-urach","src:zagar2019-correctores"]}
 {"clave":"2020","ids":["src:blazevic-kustovic-zagar2020-biblia","src:hursan2020"]}
-{"clave":"2021","ids":["src:barbaric2021-ortus","src:gussing2021-catalogo","src:kramaric2021-checo","src:zagar2021-urach"]}
+{"clave":"2021","ids":["src:barbaric2021-ortus","src:galambosi2021-csatar","src:gussing2021-catalogo","src:kramaric2021-checo","src:zagar2021-urach"]}
 {"clave":"2022","ids":["src:barath2022","src:hursan2022","src:vadas2022"]}
 {"clave":"2023","ids":["src:hursan2023","src:kiraly2023-teologia"]}
 {"clave":"2024","ids":["src:czinege2024","src:hursan2024axis","src:rozsondai2024","src:virag2024-catalogacion"]}

@@ -90,6 +90,7 @@
 {"clase":"persona","id":"per:ivan-drenovacki","nombre":"Ivan Drenovački","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:ivan-drugnic","nombre":"Ivan Drugnić","tipo":"autoridades","variantes":["Drwghnyczy","Drugnetius","Drugnicius","Trugnitius Johannes Illyricus"]}
 {"clase":"persona","id":"per:ivan-kostrencic","nombre":"Ivan Kostrenčić","tipo":"autoridades","variantes":["Ivan Kostrencic"]}
+{"clase":"persona","id":"per:ivan-lamella","nombre":"Ivan Lamella","tipo":"autoridades","variantes":["Hans Lamella","Hannsen Lamella"]}
 {"clase":"persona","id":"per:ivanyi-bela","nombre":"Iványi Béla","tipo":"autoridades","variantes":["Béla Iványi"]}
 {"clase":"persona","id":"per:jakab-tiszttarto-monyorokerek","nombre":"Jakab, administrador de Monyorókerék (1570)","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:jakob-salb","nombre":"Jakob Salb","tipo":"autoridades","variantes":[]}
@@ -100,6 +101,7 @@
 {"clase":"persona","id":"per:jerney-janos","nombre":"Jerney János","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:joannes-barazowich","nombre":"Joannes Barazowich","tipo":"autoridades","variantes":["Barazovics János","Brazovics János"]}
 {"clase":"persona","id":"per:johannes-miholch","nombre":"Johannes, párroco de Miholch","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:jost-gallenberg","nombre":"Jošt Gallenberg","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:jovan-malesevac","nombre":"Jovan Maleševac","tipo":"autoridades","variantes":["Ivan Maleševac"]}
 {"clase":"persona","id":"per:joven-croata-9082","nombre":"Joven croata no identificado (lectura provisional de P 1314/9082)","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:jozsef-csermelyi","nombre":"József Csermelyi","tipo":"autoridades","variantes":["Csermelyi József"]}
@@ -124,6 +126,7 @@
 {"clase":"persona","id":"per:martinus-toroniensis","nombre":"Martinus literatus","tipo":"autoridades","variantes":["Martinus Toroniensis"]}
 {"clase":"persona","id":"per:matija-pomazanic","nombre":"Matija Pomazanić","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:matija-popovic","nombre":"Matija Popović","tipo":"autoridades","variantes":[]}
+{"clase":"persona","id":"per:matija-zivcic","nombre":"Matija Živčič","tipo":"autoridades","variantes":["Mathes Schwischitz"]}
 {"clase":"persona","id":"per:matous-collinus","nombre":"Matouš Collinus z Chotěřiny","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:michael-presbyter-thoron","nombre":"Michael presbyter","tipo":"autoridades","variantes":[]}
 {"clase":"persona","id":"per:miklos-deak-1571","nombre":"Miklós deák","tipo":"autoridades","variantes":[]}
