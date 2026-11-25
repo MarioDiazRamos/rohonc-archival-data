@@ -64,6 +64,10 @@
 {"fuente_id":"src:ivanyi1983-hiller","id":"rel:hiller-19376","objeto_id":"per:erhardt-hiller","predicado":"factura_de","sujeto_id":"src:p1314-19376","tipo":"relaciones"}
 {"fuente_id":"src:realms80","id":"rel:k114-rohonc-modern","objeto_id":"colec:rohonc","predicado":"procedencia_atribuida_en_catalogo_institucional_moderno","sujeto_id":"obj:k114","tipo":"relaciones"}
 {"fuente_id":"src:catalogo1984","id":"rel:koos-ral50","objeto_id":"per:koos-karoly","predicado":"expediente_donacion_de","sujeto_id":"src:ral50-1840","tipo":"relaciones"}
+{"fuente_id":"src:mrgic2004-povelja","id":"rel:kotromanic1329-grgur","objeto_id":"per:grgur-stjepanic","predicado":"destinatario_segun_edicion","sujeto_id":"src:kotromanic1329-povelja","tipo":"relaciones"}
+{"fuente_id":"src:mrgic2004-povelja","id":"rel:kotromanic1329-hrvatinici","objeto_id":"colec:hrvatinici","predicado":"procedencia_archivistica_segun_edicion","sujeto_id":"src:kotromanic1329-povelja","tipo":"relaciones"}
+{"fuente_id":"src:mrgic2004-povelja","id":"rel:kotromanic1329-pribisav","objeto_id":"per:pribisav-dijak","predicado":"escribano_segun_edicion","sujeto_id":"src:kotromanic1329-povelja","tipo":"relaciones"}
+{"fuente_id":"src:mrgic2004-povelja","id":"rel:kotromanic1329-stjepan","objeto_id":"per:stjepan-ii-kotromanic","predicado":"otorgante_segun_edicion","sujeto_id":"src:kotromanic1329-povelja","tipo":"relaciones"}
 {"fuente_id":"src:catalogo1984","id":"rel:literati-ral115","objeto_id":"per:literati-nemes","predicado":"lista_de_libros_ofrecidos_por","sujeto_id":"src:ral115-1841","tipo":"relaciones"}
 {"fuente_id":"src:monok2004-batthyany","id":"rel:ludolphus-fides-gussing","objeto_id":"src:gussing20-13b","predicado":"ejemplar_distinto_de_la_misma_edicion_catalogada","sujeto_id":"src:ludolphus1495-fides","tipo":"relaciones"}
 {"fuente_id":"src:ivanyi1990-reforma","id":"rel:mark-porhocs-kristof","objeto_id":"per:batthyany-kristof","predicado":"servidor_segun_carta","sujeto_id":"per:porhocs-mark","tipo":"relaciones"}
