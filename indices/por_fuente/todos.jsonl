@@ -1,5 +1,6 @@
 {"clave":"src:a1746-iii","ids":["af:1839:a1746-rohonc137","af:1840:a1746-218","af:1840:a1746-219","af:1840:ral307-indice-salida","cov:a1746:visual1839-1840","dig:a1746-iii","evt:1840:registro-a1746-218219","ni:a1746-k1393","rel:a1746-218219"]}
 {"clave":"src:a695","ids":["af:1839:a695-literati","af:1840:a695-clasificacion-fondo","af:1840:a695-gusztav","af:1840:a695-heidelberg","af:1840:a695-kazmer","af:1840:a695-koos","af:1840:a695-numismatica","af:1840:a695-recepcion","af:1840:a695-turoc","cov:a695:inventario","cov:a695:ocr","cov:a695:visual","evt:1840:a695-koos","evt:1840:a695-rohonc","rel:a695-kisber","rel:a695-rohonc"]}
+{"clave":"src:abaffy1956-akacs","ids":["cov:abaffy1956-akacs"]}
 {"clave":"src:acs1979","ids":["af:1840:k1357-plenario","ni:k1357-k1393","src:k1357"]}
 {"clave":"src:actas-k1303","ids":["cov:k1303:sin-original"]}
 {"clave":"src:actas-k1393","ids":["cov:k1393:acceso"]}
@@ -23,6 +24,7 @@
 {"clave":"src:bobory2009-sword","ids":["af:1566-zrinyi-batthyany-matrimonio","evt:1566:matrimonio-dorica","rel:dorica-boldizsar-matrimonio","rel:dorica-miklos-padre"]}
 {"clave":"src:bottlo-veres1968","ids":["af:n24:miscellanea","af:n24:protocollum-indice","cov:n24:bottlo1968"]}
 {"clave":"src:bsb-croacia","ids":["af:desic-corte-zrinyi","af:urach-bucic-distincion","rel:desic-zrinyi","src:raj-duse1560"]}
+{"clave":"src:bubryak2016-erdody","ids":["af:1557-erdody-zrinyi-permuta"]}
 {"clave":"src:bucar1933-hauspostille","ids":["cov:bucar1933-hauspostille"]}
 {"clave":"src:bucic-eucharistia","ids":["cov:bucic-eucharistia"]}
 {"clave":"src:bucic-kerstjanski","ids":["cov:bucic-kerstjanski"]}
@@ -112,6 +114,7 @@
 {"clave":"src:k1357","ids":["cov:k1357:sin-facsimil"]}
 {"clave":"src:k801-1840-2","ids":["cov:k801-1840-2:sin-copia"]}
 {"clave":"src:k801-1859-2","ids":["cov:k801-1859-2:sin-copia"]}
+{"clave":"src:katlex-jak","ids":["af:jak-parroquia-limite"]}
 {"clave":"src:kempgen2015-ornamento","ids":["af:kempgen-confusiones-graficas","af:kempgen-ornamento-criptografico","src:berynda1631-triod"]}
 {"clave":"src:kezirattar1892","ids":["af:1839:kezirattar1892-rohonczy"]}
 {"clave":"src:kiraly2023-teologia","ids":["af:k114-137v-ave-kiraly","cov:kiraly2023-p365"]}
@@ -230,20 +233,22 @@
 {"clave":"src:p1314-3993","ids":["cov:v31:3993"]}
 {"clave":"src:p1314-4014","ids":["cov:4014:sin-copia"]}
 {"clave":"src:p1314-4015","ids":["cov:fecha-v29:4015","cov:p1314-4015"]}
-{"clave":"src:p1314-4022","ids":["af:1570:4022-chenczj","cov:4022:visual"]}
+{"clave":"src:p1314-4022","ids":["af:1570:4022-chenczj","cov:4022:visual","evt:1570:4022-recomendacion"]}
 {"clave":"src:p1314-4026","ids":["cov:4026:sin-copia"]}
 {"clave":"src:p1314-4035","ids":["af:1570:4035-ensayos","cov:v31:4035"]}
+{"clave":"src:p1314-4056","ids":["evt:1571:4056-queja"]}
 {"clave":"src:p1314-4058","ids":["cov:v31:4058"]}
 {"clave":"src:p1314-4066","ids":["cov:4066:sin-copia"]}
 {"clave":"src:p1314-4067","ids":["cov:fecha-v29:4067"]}
 {"clave":"src:p1314-4068","ids":["cov:fecha-v29:4068"]}
 {"clave":"src:p1314-4089","ids":["cov:p1314-4089"]}
+{"clave":"src:p1314-4102","ids":["evt:1573:4102-queja"]}
 {"clave":"src:p1314-4109","ids":["cov:fecha-v29:4109"]}
 {"clave":"src:p1314-4759","ids":["cov:p1314-4759"]}
 {"clave":"src:p1314-53580","ids":["af:1571:53580","cov:p1314-53580","rel:53580-zrinyi"]}
 {"clave":"src:p1314-547","ids":["cov:p1314-547"]}
 {"clave":"src:p1314-8099","ids":["af:1577:8099-fecha","cov:8099:visual","evt:1577:corvinus","rel:8099-elias"]}
-{"clave":"src:p1314-9082","ids":["af:9082-acceso-20261124","af:9082:marcas-subrayado","cov:p1314-9082:20261122","cov:p1314-9082:v30"]}
+{"clave":"src:p1314-9082","ids":["af:9082-acceso-20261124","af:9082-envio-aplazado","af:9082-joven-dos-escrituras","af:9082-sacerdote-jagh","af:9082-torok-mencion","af:9082:marcas-subrayado","cov:p1314-9082:20261122","cov:p1314-9082:v30","rel:9082-joven-lectura","rel:9082-sacerdote-lectura"]}
 {"clave":"src:p1317-1752-8obras","ids":["cov:1752-8obras"]}
 {"clave":"src:p1322-1644","ids":["cat:1644:nemetujvar","cov:p1322-1644","evt:1644:inventario"]}
 {"clave":"src:pesther-tageblatt1840","ids":["cov:pesther-tageblatt1840"]}
@@ -251,6 +256,7 @@
 {"clave":"src:porhocs1571","ids":["af:1571:subrayado-libros-fotografia","cov:1571:p1314-38149","cov:1571:p1314-38149:20261122","evt:1571:carta-porhocs","obj:anexos1571"]}
 {"clave":"src:poviest1942-bosna","ids":["cov:poviest1942-bosna"]}
 {"clave":"src:primo-mtak","ids":["af:1840:primo-extractos15","af:1840:primo-k1393-no-copia","cov:primo:extractos","cov:primo:signaturas"]}
+{"clave":"src:racz-jak-kegyurak","ids":["af:jak-zrinyi1557-1613","rel:jak-zrinyi-dominio"]}
 {"clave":"src:ral-k1568","ids":["cov:ral1568:sin-copia"]}
 {"clave":"src:ral115-1841","ids":["cov:ral115-1841"]}
 {"clave":"src:ral171-1839","ids":["af:1839:ral171-control","cov:ral171:solo-ficha","ni:ral171-k114"]}
@@ -283,7 +289,7 @@
 {"clave":"src:szechenyi1840-ago13-k21037","ids":["cov:k21037:sin-original"]}
 {"clave":"src:tarsalkodo1840","ids":["af:1840:tarsalkodo-informe","af:1840:tarsalkodo-otras-piezas"]}
 {"clave":"src:teleki1840-jul08-k166173","ids":["cov:k166173:sin-original"]}
-{"clave":"src:terbe2010","ids":["af:1549:3839-idioma","af:1549:3839-perhocz","af:1568:3959-fila-vacia","af:1568:4015-copia","af:1569:3985-lengua","af:1569:4014-libros","af:1570:4026-cedula","af:1571:108143-restauracion","af:1572:4089-arca","af:deak:108137","af:deak:108143","af:deak:3960","af:deak:3992","af:deak:3993","af:deak:4035","af:deak:4058","af:fecha-v29:edicion:3777","af:fecha-v29:edicion:3901","af:fecha-v29:edicion:3903","af:fecha-v29:edicion:3933","af:fecha-v29:edicion:3983-a","af:fecha-v29:edicion:4015","af:fecha-v29:edicion:4067","af:fecha-v29:edicion:4068","af:fecha-v29:edicion:4109","cov:terbe2010:257","ni:balas-balazs","rel:balas-108137","rel:balas-108143","rel:balas-3960","rel:balas-3992","rel:balas-3993","rel:balas-4035","rel:balas-4058","src:p1314-108137","src:p1314-108143","src:p1314-3777","src:p1314-3901","src:p1314-3903","src:p1314-3933","src:p1314-3959","src:p1314-3960","src:p1314-3983-a","src:p1314-3985","src:p1314-3992","src:p1314-3993","src:p1314-4015","src:p1314-4035","src:p1314-4058","src:p1314-4067","src:p1314-4068","src:p1314-4089","src:p1314-4109"]}
+{"clave":"src:terbe2010","ids":["af:1549:3839-idioma","af:1549:3839-perhocz","af:1568:3959-fila-vacia","af:1568:4015-copia","af:1569:3985-lengua","af:1569:4014-libros","af:1570:4026-cedula","af:1571:108143-restauracion","af:1572:4089-arca","af:4022-recomendacion-hijo","af:4044-torok-zalai","af:4045-envio-servidor","af:4046-servicios-viena","af:4047-cotejo-envio","af:4056-csenthy-ferenc","af:4102-chenchi-akacs","af:4102-composicion","af:9082-cotejo-cartas-junio","af:9082-hijo-ferenc-cotejo","af:9082-svetkovics-ujvar","af:csenthy-serie-nombres","af:deak:108137","af:deak:108143","af:deak:3960","af:deak:3992","af:deak:3993","af:deak:4035","af:deak:4058","af:fecha-v29:edicion:3777","af:fecha-v29:edicion:3901","af:fecha-v29:edicion:3903","af:fecha-v29:edicion:3933","af:fecha-v29:edicion:3983-a","af:fecha-v29:edicion:4015","af:fecha-v29:edicion:4067","af:fecha-v29:edicion:4068","af:fecha-v29:edicion:4109","cov:terbe2010-csenthy-20261124","cov:terbe2010:257","ni:balas-balazs","rel:4022-chenczi-tamas-referido","rel:4022-ferenc-ispan-gussing","rel:4022-hijo-ferenc-ispan-1570","rel:4044-ferenc-torok-referido-1570","rel:4044-janos-zalai-referido-1570","rel:4056-chenczi-tamas-referido","rel:4056-ferenc-ispan-gussing","rel:4102-chenczi-tamas-referido","rel:4102-istvan-akacs","rel:balas-108137","rel:balas-108143","rel:balas-3960","rel:balas-3992","rel:balas-3993","rel:balas-4035","rel:balas-4058","rel:chen-batthyany-servicio","rel:ferenc-ispan-hijo","src:abaffy1956-akacs","src:p1314-108137","src:p1314-108143","src:p1314-3777","src:p1314-3901","src:p1314-3903","src:p1314-3933","src:p1314-3959","src:p1314-3960","src:p1314-3983-a","src:p1314-3985","src:p1314-3992","src:p1314-3993","src:p1314-4015","src:p1314-4035","src:p1314-4044","src:p1314-4045","src:p1314-4046","src:p1314-4047","src:p1314-4056","src:p1314-4058","src:p1314-4067","src:p1314-4068","src:p1314-4089","src:p1314-4102","src:p1314-4109"]}
 {"clave":"src:thalloczy1906-banovina","ids":["cov:thalloczy1906-banovina"]}
 {"clave":"src:thalloczy1914-studien","ids":["cov:thalloczy1914-studien"]}
 {"clave":"src:toldy-levtarcaja-realms","ids":["af:2026:toldy-levtarcaja-59-unidades"]}

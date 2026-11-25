@@ -27,6 +27,15 @@
 {"fuente_id":"src:p1314-31226","id":"rel:31226-sibrik","objeto_id":"per:sibrik-matyas","predicado":"dirigida_a","sujeto_id":"src:p1314-31226","tipo":"relaciones"}
 {"fuente_id":"src:p1314-3839","id":"rel:3839-svetkovics","objeto_id":"per:svetkovics-katalin","predicado":"remitida_por","sujeto_id":"src:p1314-3839","tipo":"relaciones"}
 {"fuente_id":"src:hursan2025","id":"rel:4","objeto_id":"src:bibl2","predicado":"catalogado_en","sujeto_id":"ent:1813:kezai","tipo":"relaciones"}
+{"fuente_id":"src:terbe2010","id":"rel:4022-chenczi-tamas-referido","objeto_id":"per:chenczi-tamas-referido","predicado":"servidor_mencionado_en_edicion","sujeto_id":"src:p1314-4022","tipo":"relaciones"}
+{"fuente_id":"src:terbe2010","id":"rel:4022-ferenc-ispan-gussing","objeto_id":"per:ferenc-ispan-gussing","predicado":"persona_mencionada_en_edicion","sujeto_id":"src:p1314-4022","tipo":"relaciones"}
+{"fuente_id":"src:terbe2010","id":"rel:4022-hijo-ferenc-ispan-1570","objeto_id":"per:hijo-ferenc-ispan-1570","predicado":"persona_recomendada_en_edicion","sujeto_id":"src:p1314-4022","tipo":"relaciones"}
+{"fuente_id":"src:terbe2010","id":"rel:4044-ferenc-torok-referido-1570","objeto_id":"per:ferenc-torok-referido-1570","predicado":"persona_mencionada_en_edicion","sujeto_id":"src:p1314-4044","tipo":"relaciones"}
+{"fuente_id":"src:terbe2010","id":"rel:4044-janos-zalai-referido-1570","objeto_id":"per:janos-zalai-referido-1570","predicado":"autor_de_carta_remitida_segun_edicion","sujeto_id":"src:p1314-4044","tipo":"relaciones"}
+{"fuente_id":"src:terbe2010","id":"rel:4056-chenczi-tamas-referido","objeto_id":"per:chenczi-tamas-referido","predicado":"persona_mencionada_en_edicion","sujeto_id":"src:p1314-4056","tipo":"relaciones"}
+{"fuente_id":"src:terbe2010","id":"rel:4056-ferenc-ispan-gussing","objeto_id":"per:ferenc-ispan-gussing","predicado":"persona_mencionada_en_edicion","sujeto_id":"src:p1314-4056","tipo":"relaciones"}
+{"fuente_id":"src:terbe2010","id":"rel:4102-chenczi-tamas-referido","objeto_id":"per:chenczi-tamas-referido","predicado":"servidor_mencionado_en_edicion","sujeto_id":"src:p1314-4102","tipo":"relaciones"}
+{"fuente_id":"src:terbe2010","id":"rel:4102-istvan-akacs","objeto_id":"per:istvan-akacs","predicado":"persona_mencionada_en_edicion","sujeto_id":"src:p1314-4102","tipo":"relaciones"}
 {"fuente_id":"src:hursan2025","id":"rel:5","objeto_id":"src:bibl2","predicado":"catalogado_en","sujeto_id":"ent:1813:forgach","tipo":"relaciones"}
 {"fuente_id":"src:p1314-53580","id":"rel:53580-zrinyi","objeto_id":"per:zrinyi-gyorgy","predicado":"carta_de","sujeto_id":"src:p1314-53580","tipo":"relaciones"}
 {"fuente_id":"src:hursan2025","id":"rel:6","objeto_id":"src:bibl2","predicado":"catalogado_en","sujeto_id":"ent:1813:kolinovits","tipo":"relaciones"}
@@ -34,6 +43,8 @@
 {"fuente_id":"src:hursan2025","id":"rel:8","objeto_id":"colec:rohonc","predicado":"trasladado_a","sujeto_id":"ent:1813:forgach","tipo":"relaciones"}
 {"fuente_id":"src:p1314-8099","id":"rel:8099-elias","objeto_id":"per:elias-corvinus","predicado":"remitida_por","sujeto_id":"src:p1314-8099","tipo":"relaciones"}
 {"fuente_id":"src:hursan2025","id":"rel:9","objeto_id":"colec:kisber","predicado":"origen","sujeto_id":"evt:1817:traslado-kisber-rohonc","tipo":"relaciones"}
+{"fuente_id":"src:p1314-9082","id":"rel:9082-joven-lectura","objeto_id":"per:joven-croata-9082","predicado":"persona_segun_lectura_provisional_no_cotejada","sujeto_id":"src:p1314-9082","tipo":"relaciones"}
+{"fuente_id":"src:p1314-9082","id":"rel:9082-sacerdote-lectura","objeto_id":"per:sacerdote-9082","predicado":"persona_segun_lectura_provisional_no_cotejada","sujeto_id":"src:p1314-9082","tipo":"relaciones"}
 {"fuente_id":"src:a1746-iii","id":"rel:a1746-218219","objeto_id":"src:ral218219-1840","predicado":"asientos_de_registro_218_y_219","sujeto_id":"src:a1746-iii","tipo":"relaciones"}
 {"fuente_id":"src:a695","id":"rel:a695-kisber","objeto_id":"colec:kisber","predicado":"agradece_donacion","sujeto_id":"src:a695","tipo":"relaciones"}
 {"fuente_id":"src:a695","id":"rel:a695-rohonc","objeto_id":"colec:rohonc","predicado":"agradece_donacion","sujeto_id":"src:a695","tipo":"relaciones"}
@@ -49,6 +60,7 @@
 {"fuente_id":"src:ivanyi1990-reforma","id":"rel:barazowich-ferenc","objeto_id":"per:batthyany-ferenc-1497","predicado":"contratacion_referida","sujeto_id":"per:joannes-barazowich","tipo":"relaciones"}
 {"fuente_id":"src:ivanyi1990-reforma","id":"rel:barazowich-gussing","objeto_id":"lugar:gussing","predicado":"actividad_parroquial_referida","sujeto_id":"per:joannes-barazowich","tipo":"relaciones"}
 {"fuente_id":"src:koltai2002","id":"rel:batthyany1644-adam","objeto_id":"per:batthyany-adam","predicado":"inventario_de_libros_de","sujeto_id":"src:p1322-1644","tipo":"relaciones"}
+{"fuente_id":"src:terbe2010","id":"rel:chen-batthyany-servicio","objeto_id":"per:batthyany-boldizsar","predicado":"servidor_segun_edicion","sujeto_id":"per:chenczi-tamas-referido","tipo":"relaciones"}
 {"fuente_id":"src:monok2004-batthyany","id":"rel:comestor-paderborn-gussing","objeto_id":"src:gussing3-188","predicado":"ejemplar_distinto_de_la_misma_edicion_catalogada","sujeto_id":"src:comestor1503-paderborn","tipo":"relaciones"}
 {"fuente_id":"src:ivanyi1947-korrektura","id":"rel:corvinus1577-continuidad","objeto_id":"src:p1314-8099","predicado":"continuidad_del_encargo_segun_ivanyi","sujeto_id":"src:corvinus1577-09-27","tipo":"relaciones"}
 {"fuente_id":"src:bsb-croacia","id":"rel:desic-zrinyi","objeto_id":"per:zrinyi-miklos-1508","predicado":"vinculo_cortesano_segun_ficha","sujeto_id":"per:nikola-desic","tipo":"relaciones"}
@@ -61,6 +73,7 @@
 {"fuente_id":"src:hbl-drugnic1993","id":"rel:drugnic-collinus","objeto_id":"per:matous-collinus","predicado":"destinatario_referido","sujeto_id":"src:melanchthon1557-drugnic","tipo":"relaciones"}
 {"fuente_id":"src:hbl-drugnic1993","id":"rel:drugnic-melanchthon","objeto_id":"per:philipp-melanchthon","predicado":"recomendado_por","sujeto_id":"per:ivan-drugnic","tipo":"relaciones"}
 {"fuente_id":"src:hbl-drugnic1993","id":"rel:drugnic-nadasdy","objeto_id":"per:tamas-nadasdy-1498","predicado":"destinatario_referido","sujeto_id":"src:melanchthon1557-drugnic","tipo":"relaciones"}
+{"fuente_id":"src:terbe2010","id":"rel:ferenc-ispan-hijo","objeto_id":"per:ferenc-ispan-gussing","predicado":"hijo_segun_edicion","sujeto_id":"per:hijo-ferenc-ispan-1570","tipo":"relaciones"}
 {"fuente_id":"src:fischer1889","id":"rel:fischer-toldy1852","objeto_id":"src:toldy1852-irodalom","predicado":"cita_bibliografica","sujeto_id":"src:fischer1889","tipo":"relaciones"}
 {"fuente_id":"src:jembrih2025-decretum","id":"rel:glavina-remete","objeto_id":"src:remete-sentencia1574","predicado":"edicion_de_manuscrito_referido","sujeto_id":"src:glavina1771-doctrina","tipo":"relaciones"}
 {"fuente_id":"src:monok2004-batthyany","id":"rel:gussing-mayken","objeto_id":"per:andreas-mayken","predicado":"posesion_de_ejemplar_segun_inscripcion","sujeto_id":"src:gussing4-263","tipo":"relaciones"}
@@ -73,6 +86,7 @@
 {"fuente_id":"src:ivanyi1983-hiller","id":"rel:hiller-19370","objeto_id":"per:erhardt-hiller","predicado":"carta_de","sujeto_id":"src:p1314-19370","tipo":"relaciones"}
 {"fuente_id":"src:ivanyi1983-hiller","id":"rel:hiller-19376","objeto_id":"per:erhardt-hiller","predicado":"factura_de","sujeto_id":"src:p1314-19376","tipo":"relaciones"}
 {"fuente_id":"src:hbl-erdody-petar-ii","id":"rel:ivan-drenovacki-erdody","objeto_id":"per:petar-erdody-ii","predicado":"servicio_documentado_segun_estudio","sujeto_id":"per:ivan-drenovacki","tipo":"relaciones"}
+{"fuente_id":"src:racz-jak-kegyurak","id":"rel:jak-zrinyi-dominio","objeto_id":"per:zrinyi-miklos-1508","predicado":"dominio_zrinyi_referido_desde_1557","sujeto_id":"lugar:jak","tipo":"relaciones"}
 {"fuente_id":"src:realms80","id":"rel:k114-rohonc-modern","objeto_id":"colec:rohonc","predicado":"procedencia_atribuida_en_catalogo_institucional_moderno","sujeto_id":"obj:k114","tipo":"relaciones"}
 {"fuente_id":"src:jembrih-konzul2007","id":"rel:kolaric-pomazanic","objeto_id":"per:matija-pomazanic","predicado":"destinatario_referido","sujeto_id":"src:urach-testimonio-kolaric","tipo":"relaciones"}
 {"fuente_id":"src:bencic-tobler1996-konzul","id":"rel:konzul-eisenstadt","objeto_id":"lugar:eisenstadt","predicado":"actividad_referida","sujeto_id":"per:stipan-konzul","tipo":"relaciones"}

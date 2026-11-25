@@ -13,6 +13,8 @@
 {"clave":"adambaltazarkrcelic","ids":["per:adam-baltazar-krcelic"]}
 {"clave":"adambalthasarkercselich","ids":["per:adam-baltazar-krcelic"]}
 {"clave":"adambatthyany","ids":["per:batthyany-adam"]}
+{"clave":"akachistvan","ids":["per:istvan-akacs"]}
+{"clave":"akachjstuan","ids":["per:istvan-akacs"]}
 {"clave":"ambrosiusfrohlich","ids":["per:ambrosius-froehlich"]}
 {"clave":"ambrozfrohlich","ids":["per:ambrosius-froehlich"]}
 {"clave":"andraskoltai","ids":["per:andras-koltai"]}
@@ -60,6 +62,10 @@
 {"clave":"brazovicsjanos","ids":["per:joannes-barazowich"]}
 {"clave":"buchich","ids":["per:bucic-mihael"]}
 {"clave":"bwchych","ids":["per:bucic-mihael"]}
+{"clave":"chenchitamas","ids":["per:chenczi-tamas-referido"]}
+{"clave":"chencitamas","ids":["per:chenczi-tamas-referido"]}
+{"clave":"chenczitamas","ids":["per:chenczi-tamas-referido"]}
+{"clave":"chenczjthamas","ids":["per:chenczi-tamas-referido"]}
 {"clave":"christophreuter","ids":["per:christoph-reuter"]}
 {"clave":"christophvonpurgkhshtall","ids":["per:christoph-purgkhshtall"]}
 {"clave":"chyenthytamas","ids":["per:csenthy-tamas"]}
@@ -84,8 +90,11 @@
 {"clave":"fejerpatakylaszlo","ids":["per:fejerpataky-laszlo"]}
 {"clave":"felikstobler","ids":["per:feliks-tobler"]}
 {"clave":"ferdosisic","ids":["per:ferdo-sisic"]}
+{"clave":"ferencispanservidordenemetujvar","ids":["per:ferenc-ispan-gussing"]}
 {"clave":"ferencschedel","ids":["per:sche-del-ferenc"]}
 {"clave":"ferenctoldy","ids":["per:sche-del-ferenc"]}
+{"clave":"ferenctorokmenciondemayode1570","ids":["per:ferenc-torok-referido-1570"]}
+{"clave":"ferenczjspan","ids":["per:ferenc-ispan-gussing"]}
 {"clave":"fischerkarolyantal","ids":["per:fischer-karoly"]}
 {"clave":"fischerkarolyantalahunmagyarirasoptimizedpdf","ids":["dig:fischer1889"]}
 {"clave":"forgachferenc","ids":["per:forgach-ferenc"]}
@@ -106,9 +115,11 @@
 {"clave":"hansungnad","ids":["per:hans-ungnad"]}
 {"clave":"hansvonweispriach","ids":["per:hans-weispriach"]}
 {"clave":"hansvonweisspriach","ids":["per:hans-weispriach"]}
+{"clave":"hijonoidentificadodeferencispanenerode1570","ids":["per:hijo-ferenc-ispan-1570"]}
 {"clave":"hunfalvypal","ids":["per:hunfalvy-pal"]}
 {"clave":"hursanszabolcs","ids":["per:hursan-szabolcs"]}
 {"clave":"imredeak","ids":["per:emericus-toron"]}
+{"clave":"istvanakacs","ids":["per:istvan-akacs"]}
 {"clave":"istvanmonok","ids":["per:istvan-monok"]}
 {"clave":"ivandrenovacki","ids":["per:ivan-drenovacki"]}
 {"clave":"ivandrugnic","ids":["per:ivan-drugnic"]}
@@ -116,9 +127,11 @@
 {"clave":"ivanmalesevac","ids":["per:jovan-malesevac"]}
 {"clave":"ivanungnad","ids":["per:hans-ungnad"]}
 {"clave":"ivanyibela","ids":["per:ivanyi-bela"]}
+{"clave":"jakcondadodevas","ids":["lugar:jak"]}
 {"clave":"jakobsalb","ids":["per:jakob-salb"]}
 {"clave":"jankovichmiklos","ids":["per:jankovich-miklos"]}
 {"clave":"janosbaranyai","ids":["per:baranyai-janos-1574"]}
+{"clave":"janoszalaimenciondemayode1570","ids":["per:janos-zalai-referido-1570"]}
 {"clave":"jeanaubry","ids":["per:jean-aubry"]}
 {"clave":"jelenamrgic","ids":["per:jelena-mrgic"]}
 {"clave":"jelenamrgicradojcic","ids":["per:jelena-mrgic"]}
@@ -128,6 +141,7 @@
 {"clave":"joannesbarazowich","ids":["per:joannes-barazowich"]}
 {"clave":"johannesparrocodemiholch","ids":["per:johannes-miholch"]}
 {"clave":"jovanmalesevac","ids":["per:jovan-malesevac"]}
+{"clave":"jovencroatanoidentificadolecturaprovisionaldep13149082","ids":["per:joven-croata-9082"]}
 {"clave":"jozsefcsermelyi","ids":["per:jozsef-csermelyi"]}
 {"clave":"julgbernat","ids":["per:julg-bernat"]}
 {"clave":"jurajdornovitsch","ids":["per:juraj-dornovitsch"]}
@@ -258,6 +272,7 @@
 {"clave":"rohonczikonyvtar","ids":["colec:rohonc"]}
 {"clave":"rosoniszondipal","ids":["per:paulus-rosoniensis"]}
 {"clave":"rozsondaibela","ids":["per:rozsondai-bela"]}
+{"clave":"sacerdotenoidentificadop13149082","ids":["per:sacerdote-9082"]}
 {"clave":"samuelstraler","ids":["per:samuel-straler"]}
 {"clave":"schedelferenc","ids":["per:sche-del-ferenc"]}
 {"clave":"scriptoriumvi202597109hursanpdf","ids":["dig:hursan2025"]}
@@ -277,10 +292,13 @@
 {"clave":"svetkovicskatalin","ids":["per:svetkovics-katalin"]}
 {"clave":"szabokaroly","ids":["per:szabo-karoly"]}
 {"clave":"szalaylaszlo","ids":["per:szalay-laszlo"]}
+{"clave":"tamaschenczimenciones15701573","ids":["per:chenczi-tamas-referido"]}
 {"clave":"tamasnadasdy","ids":["per:tamas-nadasdy-1498"]}
 {"clave":"tanjakustovic","ids":["per:tanja-kustovic"]}
 {"clave":"telekijozsef","ids":["per:teleki-jozsef"]}
 {"clave":"temperica","ids":["per:marin-nikolic"]}
+{"clave":"therekferencz","ids":["per:ferenc-torok-referido-1570"]}
+{"clave":"thorokferencz","ids":["per:ferenc-torok-referido-1570"]}
 {"clave":"tiborgrull","ids":["per:tibor-grull"]}
 {"clave":"toldyferenc","ids":["per:sche-del-ferenc"]}
 {"clave":"tornische","ids":["lugar:podturen-murakoz"]}
@@ -301,6 +319,7 @@
 {"clave":"viena","ids":["lugar:viena"]}
 {"clave":"wien","ids":["lugar:viena"]}
 {"clave":"wolfgangusporhoch","ids":["per:porhocs-farkas"]}
+{"clave":"zalayjanus","ids":["per:janos-zalai-referido-1570"]}
 {"clave":"zelin","ids":["lugar:zelin"]}
 {"clave":"zeljezno","ids":["lugar:eisenstadt"]}
 {"clave":"zrinyidorica","ids":["per:zrinyi-dorica"]}
