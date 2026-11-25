@@ -10,6 +10,7 @@
 {"clave":"src:archive-rohonc-217","ids":["af:archive-rohonc-ancre-216217","cov:archive-rohonc:laminas216217","dig:archive-rohonc-217"]}
 {"clave":"src:athenaeum1840-1","ids":["cov:athenaeum1840-1:inventario","cov:athenaeum1840-1:visual","cov:autotexto-20261123:athenaeum1840-1","dig:athenaeum1840-1"]}
 {"clave":"src:athenaeum1840-2","ids":["af:1840:athenaeum-nemes","af:1840:athenaeum-tageblatt","af:1840:tageblatt-fuente","cov:athenaeum1840-2:inventario","cov:athenaeum1840-2:visual","cov:autotexto-20261123:athenaeum1840-2","dig:athenaeum1840-2","rel:athenaeum-nemes","rel:tageblatt-athenaeum","src:pesther-tageblatt1840"]}
+{"clave":"src:barabas1899-zrinyi2","ids":["af:barabas1561-refugiados-croatas","src:barabas1561-cxxiii","src:barabas1562-cxxix","src:barabas1562-cxxvi"]}
 {"clave":"src:barath2022","ids":["af:ivanyi:marcas-barath2022"]}
 {"clave":"src:barbaric2021-ortus","ids":["af:ortus-raj-duse-relacion","evt:1567:ortus-anime","rel:ortus-raj-duse","src:ortus-anime1567"]}
 {"clave":"src:bencic-tobler1996-konzul","ids":["af:konzul-serie-koszeg","af:konzul1568-eisenstadt","cov:bencic-tobler1996-indice","evt:1568:konzul-eisenstadt","rel:konzul-eisenstadt","rel:konzul-regensburg","rel:konzul-weispriach","src:koszeg-konzul-1567-10-09","src:koszeg-konzul-1567-11-07","src:koszeg-konzul-1567-11-20","src:koszeg-konzul-1567-11-30","src:koszeg-konzul-1567-12-06","src:koszeg-konzul-1568-01-28","src:koszeg-konzul-1568-02-21","src:koszeg-konzul-1568-06-08"]}
@@ -58,6 +59,7 @@
 {"clave":"src:figyelmezo1840","ids":["af:1840:figyelmezo-bibliotecas","cov:autotexto-20261123:figyelmezo1840","cov:figyelmezo1840:visual","dig:figyelmezo1840"]}
 {"clave":"src:fischer1889","ids":["af:1889:fischer-223","af:1889:fischer-cita-toldy1852","af:1889:fischer-fotografia","af:1889:fischer-julg","af:1889:fischer-literati","cov:fischer1889:texto-20261123","cov:fischer:visual","dig:fischer1889","evt:1885:julg","rel:1885-julg-k114","rel:1889-fischer-k114","rel:fischer-toldy1852","src:toldy1852-irodalom"]}
 {"clave":"src:frater1987","ids":["af:1838:k1393-ral97-concordancia","af:1841:k1394-8nov","rel:ral97-k1393-tema"]}
+{"clave":"src:galambosi2021-csatar","ids":["af:csatar1562-dominio","rel:csatar-zrinyi1562"]}
 {"clave":"src:glavina1771-doctrina","ids":["cov:glavina1771-doctrina","src:krcelic-catecismo-incompleto","src:remete-sentencia1574"]}
 {"clave":"src:grull-monok1992-urach","ids":["af:urach-sopron-37-entradas","af:urach-sopron-inventario","af:urach-sopron-perdidos","cov:grull-monok1992-catalogo","evt:1561:urach-inicio-inventario","evt:1565:urach-fin-inventario","rel:urach-sopron-1","rel:urach-sopron-2","rel:urach-sopron-33","rel:urach-sopron-34","rel:urach-sopron-35","src:sopron-lad12-m7-297","src:urach-sopron-entrada-1","src:urach-sopron-entrada-2","src:urach-sopron-entrada-33","src:urach-sopron-entrada-34","src:urach-sopron-entrada-35"]}
 {"clave":"src:gussing-fragm-glag","ids":["cov:gussing-fragm-glag"]}
@@ -261,6 +263,7 @@
 {"clave":"src:poviest1942-bosna","ids":["cov:poviest1942-bosna"]}
 {"clave":"src:primo-mtak","ids":["af:1840:primo-extractos15","af:1840:primo-k1393-no-copia","cov:primo:extractos","cov:primo:signaturas"]}
 {"clave":"src:racz-jak-kegyurak","ids":["af:jak-zrinyi1557-1613","rel:jak-zrinyi-dominio"]}
+{"clave":"src:rajsp2015-reforma","ids":["af:lamella-zivcic1562","rel:lamella-zivcic","rel:zivcic-gallenberg"]}
 {"clave":"src:ral-k1568","ids":["cov:ral1568:sin-copia"]}
 {"clave":"src:ral115-1841","ids":["cov:ral115-1841"]}
 {"clave":"src:ral171-1839","ids":["af:1839:ral171-control","cov:ral171:solo-ficha","ni:ral171-k114"]}
@@ -336,6 +339,6 @@
 {"clave":"src:virag2024-catalogacion","ids":["af:catalogo:ivanyi-transcripcion-2001","af:catalogo:observaciones-columna10"]}
 {"clave":"src:vodnik-urbarjih4","ids":["af:1606-podturen-identificacion","src:turnische1606-microfilm"]}
 {"clave":"src:vorosmarty1977-t16","ids":["af:1840:ral142-asamblea","af:1840:ral142-normas","cov:ral142:edicion","ni:ral142-k114","rel:ral142-edicion1977","src:ral142-1840"]}
-{"clave":"src:vrecko2015-pisma","ids":["af:trubar1562-distribucion","af:trubar1562-erdody-sacerdotes","af:trubar1562-gugger-cvecic","af:trubar1562-lengua-alfabeto","af:trubar1562-reclutamiento","af:trubar1562-traductores","cov:vrecko2015-carta27","rel:nuk-ms1061-17-trubar","rel:nuk-ms1062-a121-trubar","rel:si-as2-92-54-7-1-trubar","rel:stuttgart-trubar1562-copia-trubar","rel:trubar1562-fabian-kirchperger","rel:trubar1562-filip-gugger","rel:trubar1562-juraj-cvecic","rel:trubar1562-petar-erdody-ii","rel:trubar1562-zrinyi-miklos-1508","src:nuk-ms1061-17","src:nuk-ms1062-a121","src:si-as2-92-54-7-1","src:stuttgart-trubar1562-copia","src:uat8-3-54"]}
+{"clave":"src:vrecko2015-pisma","ids":["af:lamella-critica1562","af:trubar1562-distribucion","af:trubar1562-erdody-sacerdotes","af:trubar1562-gugger-cvecic","af:trubar1562-lengua-alfabeto","af:trubar1562-reclutamiento","af:trubar1562-traductores","cov:vrecko2015-carta27","rel:nuk-ms1061-17-trubar","rel:nuk-ms1062-a121-trubar","rel:si-as2-92-54-7-1-trubar","rel:stuttgart-trubar1562-copia-trubar","rel:trubar1562-fabian-kirchperger","rel:trubar1562-filip-gugger","rel:trubar1562-juraj-cvecic","rel:trubar1562-petar-erdody-ii","rel:trubar1562-zrinyi-miklos-1508","src:nuk-ms1061-17","src:nuk-ms1062-a121","src:si-as2-92-54-7-1","src:stuttgart-trubar1562-copia","src:uat8-3-54"]}
 {"clave":"src:zagar2021-urach","ids":["af:k114-hipotesis-alfabetos-20261124","af:k114-zagar-d-z-e-c-20261124","af:k114-zagar-observacion-20261124","af:urach-hartwach-auer","af:urach-salb-disenos","af:urach1561-correctores","af:zagar-criterios-ortograficos","af:zagar-d-triangular","af:zagar-e-c-cruciformes","af:zagar-kormend-a","af:zagar-variacion-de-registro","af:zagar-z-dz","af:zagar2021-fundicion","af:zagar2021-minusculas","af:zagar2021-modelos","af:zagar2021-ortografia","cov:zagar2021-ampliacion-d-z-20261124","cov:zagar2021-tablas","rel:urach-correctores","rel:urach-hans-hartwach","rel:urach-hartwach-auer","rel:urach-jakob-salb","rel:urach-jovan-malesevac","rel:urach-matija-popovic","rel:urach-simon-auer","src:poviest1942-bosna"]}
 {"clave":"src:zrinyi-religiosidad","ids":["af:1563-zrinyi-libros-urach"]}

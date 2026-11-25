@@ -42,6 +42,7 @@
 {"clave":"per:ivan-drenovacki","ids":["rel:drenovacki-ivan"]}
 {"clave":"per:jakab-tiszttarto-monyorokerek","ids":["rel:4046-jakab"]}
 {"clave":"per:janos-zalai-referido-1570","ids":["rel:4044-janos-zalai-referido-1570"]}
+{"clave":"per:jost-gallenberg","ids":["rel:zivcic-gallenberg"]}
 {"clave":"per:joven-croata-9082","ids":["rel:9082-joven-lectura"]}
 {"clave":"per:juraj-cvecic","ids":["rel:juricic-cvecic","rel:trubar1562-juraj-cvecic"]}
 {"clave":"per:juraj-dornovitsch","ids":["rel:dornovitsch-recomendacion"]}
@@ -52,6 +53,7 @@
 {"clave":"per:literati-nemes","ids":["rel:athenaeum-nemes","rel:literati-ral115","rel:soproni-literati"]}
 {"clave":"per:matija-pomazanic","ids":["rel:kolaric-pomazanic"]}
 {"clave":"per:matija-popovic","ids":["rel:urach-correctores"]}
+{"clave":"per:matija-zivcic","ids":["rel:lamella-zivcic"]}
 {"clave":"per:matous-collinus","ids":["rel:drugnic-collinus"]}
 {"clave":"per:michael-presbyter-thoron","ids":["rel:1551-thoron-michael"]}
 {"clave":"per:miklos-deak-1571","ids":["rel:31226-miklos"]}
@@ -74,7 +76,7 @@
 {"clave":"per:svetkovics-katalin","ids":["rel:3839-svetkovics"]}
 {"clave":"per:tamas-nadasdy-1498","ids":["rel:drugnic-nadasdy"]}
 {"clave":"per:zrinyi-gyorgy","ids":["rel:53580-zrinyi"]}
-{"clave":"per:zrinyi-miklos-1508","ids":["rel:desic-zrinyi","rel:dorica-miklos-padre","rel:jak-zrinyi-dominio","rel:trubar1562-zrinyi-miklos-1508","rel:uat8-4-101-zrinyi"]}
+{"clave":"per:zrinyi-miklos-1508","ids":["rel:csatar-zrinyi1562","rel:desic-zrinyi","rel:dorica-miklos-padre","rel:jak-zrinyi-dominio","rel:trubar1562-zrinyi-miklos-1508","rel:uat8-4-101-zrinyi"]}
 {"clave":"src:a695","ids":["rel:ral307-a695"]}
 {"clave":"src:actas-k1393","ids":["rel:1840:carbo-actas","rel:ral97-k1393-tema"]}
 {"clave":"src:actas-k1398","ids":["rel:1846:k114-k1398"]}

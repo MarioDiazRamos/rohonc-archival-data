@@ -11,6 +11,7 @@
 {"clave":"evt:1840:presentacion-k114","ids":["rel:12"]}
 {"clave":"evt:1842:jerney","ids":["rel:13"]}
 {"clave":"evt:1885:julg","ids":["rel:1885-julg-k114"]}
+{"clave":"lugar:csatar","ids":["rel:csatar-zrinyi1562"]}
 {"clave":"lugar:jak","ids":["rel:jak-zrinyi-dominio"]}
 {"clave":"obj:anexos1571","ids":["rel:1571:anexos-carta","rel:1571:escritura-k114"]}
 {"clave":"obj:k114","ids":["rel:1","rel:1846:k114-k1398","rel:2","rel:k114-rohonc-modern"]}
@@ -24,6 +25,7 @@
 {"clave":"per:hijo-ferenc-ispan-1570","ids":["rel:ferenc-ispan-hijo"]}
 {"clave":"per:ivan-drenovacki","ids":["rel:ivan-drenovacki-erdody"]}
 {"clave":"per:ivan-drugnic","ids":["rel:drugnic-melanchthon"]}
+{"clave":"per:ivan-lamella","ids":["rel:lamella-zivcic"]}
 {"clave":"per:jakab-tiszttarto-monyorokerek","ids":["rel:jakab-monyorokerek"]}
 {"clave":"per:jakob-salb","ids":["rel:urach-jakob-salb"]}
 {"clave":"per:joannes-barazowich","ids":["rel:barazowich-ferenc","rel:barazowich-gussing"]}
@@ -31,6 +33,7 @@
 {"clave":"per:juraj-drenovacki","ids":["rel:drenovacki-ivan","rel:drenovacki-konzul"]}
 {"clave":"per:juraj-juricic","ids":["rel:juricic-cvecic","rel:juricic-urach"]}
 {"clave":"per:matija-popovic","ids":["rel:urach-matija-popovic"]}
+{"clave":"per:matija-zivcic","ids":["rel:zivcic-gallenberg"]}
 {"clave":"per:nikola-desic","ids":["rel:desic-zrinyi"]}
 {"clave":"per:oswald-gruppenbach","ids":["rel:urach-oswald-gruppenbach"]}
 {"clave":"per:paulus-feringer","ids":["rel:urach-paulus-feringer"]}
