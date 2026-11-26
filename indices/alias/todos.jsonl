@@ -73,8 +73,10 @@
 {"clave":"chenczjthamas","ids":["per:chenczi-tamas-referido"]}
 {"clave":"christophreuter","ids":["per:christoph-reuter"]}
 {"clave":"christophvonpurgkhshtall","ids":["per:christoph-purgkhshtall"]}
+{"clave":"christophvonwurttemberg","ids":["per:christoph-wurttemberg"]}
 {"clave":"chyenthytamas","ids":["per:csenthy-tamas"]}
 {"clave":"codicerohonc","ids":["obj:k114"]}
+{"clave":"cristobaldewurttemberg","ids":["per:christoph-wurttemberg"]}
 {"clave":"csatarabadia","ids":["lugar:csatar"]}
 {"clave":"csemeteiistvan","ids":["per:istvan-csemetei-ii"]}
 {"clave":"csenthytamas","ids":["per:csenthy-tamas"]}
@@ -118,6 +120,7 @@
 {"clave":"fischerkarolyantalahunmagyarirasoptimizedpdf","ids":["dig:fischer1889"]}
 {"clave":"forgachferenc","ids":["per:forgach-ferenc"]}
 {"clave":"franciscusdebatthyan","ids":["per:batthyany-ferenc-1497"]}
+{"clave":"franciscusderewa","ids":["per:revay-ferenc-1489"]}
 {"clave":"francyskskaryna","ids":["per:francysk-skaryna"]}
 {"clave":"georg","ids":["per:juraj-drenovacki"]}
 {"clave":"georggruppenbach","ids":["per:georg-gruppenbach"]}
@@ -318,6 +321,7 @@
 {"clave":"rechnitz","ids":["lugar:rohonc"]}
 {"clave":"regensburg","ids":["lugar:regensburg"]}
 {"clave":"remetezagreb","ids":["lugar:remete"]}
+{"clave":"revayferenc","ids":["per:revay-ferenc-1489"]}
 {"clave":"rohonc","ids":["lugar:rohonc"]}
 {"clave":"rohonccodex","ids":["obj:k114"]}
 {"clave":"rohoncikodex","ids":["obj:k114"]}
@@ -361,6 +365,8 @@
 {"clave":"torony","ids":["lugar:torony"]}
 {"clave":"tothbela","ids":["per:toth-bela"]}
 {"clave":"tothbelamagyarritkasagokoptimizedpdf","ids":["dig:toth1899"]}
+{"clave":"tothlorinc","ids":["per:toth-lorinc"]}
+{"clave":"tothlorincz","ids":["per:toth-lorinc"]}
 {"clave":"trugnitiusjohannesillyricus","ids":["per:ivan-drugnic"]}
 {"clave":"tubingen","ids":["lugar:tubingen"]}
 {"clave":"turnisce","ids":["lugar:podturen-murakoz"]}

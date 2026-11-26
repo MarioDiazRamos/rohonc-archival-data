@@ -368,6 +368,8 @@
 {"clave":"af:catalogo:224","ids":["datos/afirmaciones/f.jsonl"]}
 {"clave":"af:catalogo:ivanyi-transcripcion-2001","ids":["datos/afirmaciones/c.jsonl"]}
 {"clave":"af:catalogo:observaciones-columna10","ids":["datos/afirmaciones/b.jsonl"]}
+{"clave":"af:christoph-wurttemberg-fechas","ids":["datos/afirmaciones/c.jsonl"]}
+{"clave":"af:christoph-wurttemberg-urach","ids":["datos/afirmaciones/2.jsonl"]}
 {"clave":"af:comestor-emaus","ids":["datos/afirmaciones/c.jsonl"]}
 {"clave":"af:croatica:microfilmes","ids":["datos/afirmaciones/7.jsonl"]}
 {"clave":"af:csatar1562-dominio","ids":["datos/afirmaciones/3.jsonl"]}
@@ -507,12 +509,14 @@
 {"clave":"af:realms80:1838","ids":["datos/afirmaciones/9.jsonl"]}
 {"clave":"af:realms80:224","ids":["datos/afirmaciones/d.jsonl"]}
 {"clave":"af:realms80:dimensiones","ids":["datos/afirmaciones/4.jsonl"]}
+{"clave":"af:revay-ferenc-1538-biografia","ids":["datos/afirmaciones/f.jsonl"]}
 {"clave":"af:signatura:antigua","ids":["datos/afirmaciones/e.jsonl"]}
 {"clave":"af:strattmann:entradas","ids":["datos/afirmaciones/5.jsonl"]}
 {"clave":"af:strattmann:fechas","ids":["datos/afirmaciones/1.jsonl"]}
 {"clave":"af:strattmann:volumenes","ids":["datos/afirmaciones/0.jsonl"]}
 {"clave":"af:svetkovics1568-porno-residencia","ids":["datos/afirmaciones/3.jsonl"]}
 {"clave":"af:thoron-toponimos-no-equivalencia","ids":["datos/afirmaciones/c.jsonl"]}
+{"clave":"af:toth-lorinc-fechas","ids":["datos/afirmaciones/3.jsonl"]}
 {"clave":"af:trubar1562-distribucion","ids":["datos/afirmaciones/0.jsonl"]}
 {"clave":"af:trubar1562-erdody-sacerdotes","ids":["datos/afirmaciones/3.jsonl"]}
 {"clave":"af:trubar1562-gugger-cvecic","ids":["datos/afirmaciones/a.jsonl"]}
@@ -1341,6 +1345,7 @@
 {"clave":"per:chenczi-tamas-referido","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:christoph-purgkhshtall","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:christoph-reuter","ids":["datos/autoridades/todos.jsonl"]}
+{"clave":"per:christoph-wurttemberg","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:csenthy-tamas","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:drenoczy-istvan","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:elias-corvinus","ids":["datos/autoridades/todos.jsonl"]}
@@ -1446,6 +1451,7 @@
 {"clave":"per:pribisav-dijak","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:primoz-trubar","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:raphael-vianucius","ids":["datos/autoridades/todos.jsonl"]}
+{"clave":"per:revay-ferenc-1489","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:rozsondai-bela","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:sacerdote-9082","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:samuel-straler","ids":["datos/autoridades/todos.jsonl"]}
@@ -1465,6 +1471,7 @@
 {"clave":"per:teleki-jozsef","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:tibor-grull","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:toth-bela","ids":["datos/autoridades/todos.jsonl"]}
+{"clave":"per:toth-lorinc","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:ulrich-pinder","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:veit-subdilic","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:venancij-glavina","ids":["datos/autoridades/todos.jsonl"]}
@@ -1858,11 +1865,13 @@
 {"clave":"src:monok2004-batthyany","ids":["datos/fuentes/e.jsonl"]}
 {"clave":"src:mrgic2004-povelja","ids":["datos/fuentes/9.jsonl"]}
 {"clave":"src:mta-diszmuvek274","ids":["datos/fuentes/3.jsonl"]}
+{"clave":"src:mta-toth-lorinc","ids":["datos/fuentes/1.jsonl"]}
 {"clave":"src:muka-spasitelja1556","ids":["datos/fuentes/5.jsonl"]}
 {"clave":"src:muller1885-rohonc","ids":["datos/fuentes/6.jsonl"]}
 {"clave":"src:munich582a","ids":["datos/fuentes/1.jsonl"]}
 {"clave":"src:n24-protocollum","ids":["datos/fuentes/9.jsonl"]}
 {"clave":"src:nagy2025-protocollum","ids":["datos/fuentes/9.jsonl"]}
+{"clave":"src:ndb-christoph-wurttemberg","ids":["datos/fuentes/0.jsonl"]}
 {"clave":"src:nemes2003-jankovich","ids":["datos/fuentes/b.jsonl"]}
 {"clave":"src:nemeti-olvasasterve","ids":["datos/fuentes/4.jsonl"]}
 {"clave":"src:nemeti1889-abc","ids":["datos/fuentes/b.jsonl"]}
@@ -2333,6 +2342,7 @@
 {"clave":"src:uat8-6-cuenta-99","ids":["datos/fuentes/5.jsonl"]}
 {"clave":"src:uat8-6a-1","ids":["datos/fuentes/8.jsonl"]}
 {"clave":"src:uat8-6a-2","ids":["datos/fuentes/c.jsonl"]}
+{"clave":"src:uni-tubingen-urach-druckerei","ids":["datos/fuentes/e.jsonl"]}
 {"clave":"src:urach-leccionarios-influencia","ids":["datos/fuentes/1.jsonl"]}
 {"clave":"src:urach-nt-cirilico1563","ids":["datos/fuentes/e.jsonl"]}
 {"clave":"src:urach-nt-glagolitico1562","ids":["datos/fuentes/4.jsonl"]}
