@@ -139,6 +139,7 @@
 {"clave":"per:chenczi-tamas-referido","ids":["af:csenthy-serie-nombres","evt:1570:4022-recomendacion","evt:1573:4102-queja","rel:4022-chenczi-tamas-referido","rel:4056-chenczi-tamas-referido","rel:4102-chenczi-tamas-referido","rel:chen-batthyany-servicio"]}
 {"clave":"per:christoph-purgkhshtall","ids":["src:uat8-4-77"]}
 {"clave":"per:christoph-reuter","ids":["rel:konzul-reuter","src:koszeg-konzul-1567-10-09"]}
+{"clave":"per:christoph-wurttemberg","ids":["af:christoph-wurttemberg-fechas","af:christoph-wurttemberg-urach"]}
 {"clave":"per:csenthy-tamas","ids":["src:p1314-9082"]}
 {"clave":"per:drenoczy-istvan","ids":["af:drenoczy-jurista-contexto","src:p1314-10883","src:p1314-10884","src:p1314-10890","src:p1314-10892"]}
 {"clave":"per:elias-corvinus","ids":["evt:1577:corvinus","rel:8099-elias","src:corvinus1577-09-27","src:p1314-8099"]}
@@ -226,6 +227,7 @@
 {"clave":"per:pribisav-dijak","ids":["rel:kotromanic1329-pribisav"]}
 {"clave":"per:primoz-trubar","ids":["src:uat8-3-54"]}
 {"clave":"per:raphael-vianucius","ids":["af:vianucius1567-parentesco","rel:vianucius-forgach1567","rel:vianucius-porno1567"]}
+{"clave":"per:revay-ferenc-1489","ids":["af:revay-ferenc-1538-biografia"]}
 {"clave":"per:rozsondai-bela","ids":["src:rozsondai2024"]}
 {"clave":"per:sacerdote-9082","ids":["rel:9082-sacerdote-lectura"]}
 {"clave":"per:samuel-straler","ids":["af:urach-cuenta-80a","rel:urach-cuenta-80a"]}
@@ -242,6 +244,7 @@
 {"clave":"per:szalay-laszlo","ids":["af:1840:a695-heidelberg"]}
 {"clave":"per:tamas-nadasdy-1498","ids":["rel:drugnic-nadasdy"]}
 {"clave":"per:toth-bela","ids":["src:toth1899"]}
+{"clave":"per:toth-lorinc","ids":["af:toth-lorinc-fechas"]}
 {"clave":"per:ulrich-pinder","ids":["src:pinder1507-emory"]}
 {"clave":"per:venancij-glavina","ids":["src:glavina1771-doctrina"]}
 {"clave":"per:zagar-mateo","ids":["src:zagar2019-correctores","src:zagar2021-urach"]}
