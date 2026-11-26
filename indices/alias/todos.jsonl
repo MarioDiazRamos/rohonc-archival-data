@@ -49,10 +49,14 @@
 {"clave":"batthyanyboldizsarnezrinyidorica","ids":["per:zrinyi-dorica"]}
 {"clave":"batthyanyborbala","ids":["per:batthyany-borbala"]}
 {"clave":"batthyanyferenc14971566","ids":["per:batthyany-ferenc-1497"]}
+{"clave":"batthyanyferenc15731625","ids":["per:batthyany-ferenc-1573"]}
+{"clave":"batthyanyferencii","ids":["per:batthyany-ferenc-1573"]}
 {"clave":"batthyanygusztav","ids":["per:batthyany-gusztav"]}
 {"clave":"batthyanykazmer","ids":["per:batthyany-kazmer"]}
 {"clave":"batthyanykristof","ids":["per:batthyany-kristof"]}
 {"clave":"batthyanylajoserno","ids":["per:batthyany-lajos-erno"]}
+{"clave":"batthyanytivadar","ids":["per:batthyany-todor"]}
+{"clave":"batthyanytodor","ids":["per:batthyany-todor"]}
 {"clave":"belaivanyi","ids":["per:ivanyi-bela"]}
 {"clave":"bernhardjulg","ids":["per:julg-bernat"]}
 {"clave":"bibl2r1pdf","ids":["dig:bibl1"]}
@@ -357,6 +361,7 @@
 {"clave":"tanjakustovic","ids":["per:tanja-kustovic"]}
 {"clave":"telekijozsef","ids":["per:teleki-jozsef"]}
 {"clave":"temperica","ids":["per:marin-nikolic"]}
+{"clave":"theodorbatthyany","ids":["per:batthyany-todor"]}
 {"clave":"therekferencz","ids":["per:ferenc-torok-referido-1570"]}
 {"clave":"thorokferencz","ids":["per:ferenc-torok-referido-1570"]}
 {"clave":"tiborgrull","ids":["per:tibor-grull"]}

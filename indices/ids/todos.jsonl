@@ -361,6 +361,10 @@
 {"clave":"af:barabas-permuta-forgach","ids":["datos/afirmaciones/e.jsonl"]}
 {"clave":"af:barabas1561-refugiados-croatas","ids":["datos/afirmaciones/a.jsonl"]}
 {"clave":"af:baranyai-serie-2057-2091","ids":["datos/afirmaciones/9.jsonl"]}
+{"clave":"af:batthyany-ferenc-1573-fechas","ids":["datos/afirmaciones/f.jsonl"]}
+{"clave":"af:batthyany-ferenc-1615-imprenta","ids":["datos/afirmaciones/e.jsonl"]}
+{"clave":"af:batthyany-todor-biblioteca","ids":["datos/afirmaciones/0.jsonl"]}
+{"clave":"af:batthyany-todor-fechas","ids":["datos/afirmaciones/3.jsonl"]}
 {"clave":"af:blackburn1999-scotto1539","ids":["datos/afirmaciones/0.jsonl"]}
 {"clave":"af:bucic-atribuciones-discutidas","ids":["datos/afirmaciones/6.jsonl"]}
 {"clave":"af:bucic-eucharistia-testimonio","ids":["datos/afirmaciones/6.jsonl"]}
@@ -1337,10 +1341,12 @@
 {"clave":"per:batthyany-boldizsar-1505","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:batthyany-borbala","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:batthyany-ferenc-1497","ids":["datos/autoridades/todos.jsonl"]}
+{"clave":"per:batthyany-ferenc-1573","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:batthyany-gusztav","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:batthyany-kazmer","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:batthyany-kristof","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:batthyany-lajos-erno","ids":["datos/autoridades/todos.jsonl"]}
+{"clave":"per:batthyany-todor","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:bucic-mihael","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:chenczi-tamas-referido","ids":["datos/autoridades/todos.jsonl"]}
 {"clave":"per:christoph-purgkhshtall","ids":["datos/autoridades/todos.jsonl"]}
@@ -1863,6 +1869,7 @@
 {"clave":"src:mnl-p1314-informacion","ids":["datos/fuentes/2.jsonl"]}
 {"clave":"src:monasterios-jak-romhanyi","ids":["datos/fuentes/6.jsonl"]}
 {"clave":"src:monok2004-batthyany","ids":["datos/fuentes/e.jsonl"]}
+{"clave":"src:monok2007-lecturas","ids":["datos/fuentes/1.jsonl"]}
 {"clave":"src:mrgic2004-povelja","ids":["datos/fuentes/9.jsonl"]}
 {"clave":"src:mta-diszmuvek274","ids":["datos/fuentes/3.jsonl"]}
 {"clave":"src:mta-toth-lorinc","ids":["datos/fuentes/1.jsonl"]}
